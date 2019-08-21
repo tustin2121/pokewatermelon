@@ -14,9 +14,9 @@ public:
 	
 	std::string Lookup(std::uint32_t index)
 	{
-		if (index < m_strings.size())
+		if (index-1 < m_strings.size())
 		{
-			return m_strings[index];
+			return m_strings[index-1];
 		}
 		else
 		{
