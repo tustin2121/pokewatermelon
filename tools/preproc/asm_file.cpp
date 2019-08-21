@@ -170,6 +170,8 @@ Directive AsmFile::GetDirective()
         return Directive::String;
     else if (CheckForDirective(".braille"))
         return Directive::Braille;
+    else if (CheckForDirective(".i18n"))
+        return Directive::I18n;
     else
         return Directive::Unknown;
 }
@@ -286,6 +288,36 @@ int AsmFile::ReadString(unsigned char* s)
 
     ExpectEmptyRestOfLine();
 
+    return length;
+}
+
+int AsmFile::ReadI18n(unsigned char* s)
+{
+    SkipWhitespace();
+    
+    int length;
+    uint32_t strIndex;
+    StringParser indexParser(m_buffer, m_size);
+    
+    try
+    {
+        indexParser.ParseI18nIndex(m_pos, strIndex);
+    }
+    catch (std::runtime_error& e)
+    {
+        RaiseError(e.what());
+    }   
+    
+    try
+    {
+        std::string str = g_i18ndict->Lookup(strIndex);
+        StringParser stringParser(str.c_str(), str.length());
+        stringParser.ParseUnquotedString(s, length);
+    }
+    catch (std::runtime_error& e)
+    {
+        RaiseError(e.what());
+    }
     return length;
 }
 

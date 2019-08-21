@@ -24,6 +24,7 @@
 #include <cstdio>
 #include <cstdlib>
 #include "charmap.h"
+#include "i18ndict.h"
 
 #ifdef _MSC_VER
 
@@ -50,5 +51,6 @@ const int kMaxStringLength = 1024;
 const unsigned long kMaxCharmapSequenceLength = 16;
 
 extern Charmap* g_charmap;
+extern I18nDict* g_i18ndict;
 
 #endif // PREPROC_H

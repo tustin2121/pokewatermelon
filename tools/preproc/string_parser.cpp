@@ -117,8 +117,9 @@ std::string StringParser::ReadBracketedConstants()
 
             if (sequence.length() == 0)
             {
-                m_buffer[m_pos] = 0;
-                RaiseError("unknown constant '%s'", &m_buffer[startPos]);
+                char unkConst[m_pos - startPos + 1];
+                for (int i = 0; i < m_pos - startPos; i++) unkConst[i] = m_buffer[startPos+i];
+                RaiseError("unknown constant '%s'", &unkConst[0]);
             }
 
             totalSequence += sequence;
@@ -194,6 +195,44 @@ int StringParser::ParseString(long srcPos, unsigned char* dest, int& destLength)
 
     m_pos++; // Go past the right quote.
 
+    return m_pos - start;
+}
+
+// Reads a charmap string.
+void StringParser::ParseUnquotedString(unsigned char* dest, int& destLength)
+{
+    m_pos = 0;
+    destLength = 0;
+
+    while (m_buffer[m_pos] != '"')
+    {
+        std::string sequence = (m_buffer[m_pos] == '{') ? ReadBracketedConstants() : ReadCharOrEscape();
+
+        for (const char& c : sequence)
+        {
+            if (destLength == kMaxStringLength)
+                RaiseError("mapped string longer than %d bytes", kMaxStringLength);
+
+            dest[destLength++] = c;
+        }
+    }
+}
+
+int StringParser::ParseI18nIndex(long srcPos, uint32_t &destIndex)
+{
+    m_pos = srcPos;
+    if (m_buffer[m_pos] != '"')
+        RaiseError("expected UTF-8 string literal");
+    
+    long start = m_pos;
+    if (!IsAsciiDigit(m_buffer[m_pos])) 
+    {
+        RaiseError("expected digit");
+    }
+    
+    Integer integer = ReadInteger();
+    destIndex = integer.value;
+    
     return m_pos - start;
 }
 

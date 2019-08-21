@@ -24,8 +24,10 @@
 #include "asm_file.h"
 #include "c_file.h"
 #include "charmap.h"
+#include "i18ndict.h"
 
 Charmap* g_charmap;
+I18nDict* g_i18ndict;
 
 void PrintAsmBytes(unsigned char *s, int length)
 {
@@ -83,6 +85,13 @@ void PreprocAsmFile(std::string filename)
             PrintAsmBytes(s, length);
             break;
         }
+        case Directive::I18n:
+        {
+            unsigned char s[kMaxStringLength];
+            int length = stack.top().ReadI18n(s);
+            PrintAsmBytes(s, length);
+            break;
+        }
         case Directive::Unknown:
         {
             std::string globalLabel = stack.top().GetGlobalLabel();
@@ -132,13 +141,14 @@ char* GetFileExtension(char* filename)
 
 int main(int argc, char **argv)
 {
-    if (argc != 3)
+    if (argc != 4)
     {
-        std::fprintf(stderr, "Usage: %s SRC_FILE CHARMAP_FILE", argv[0]);
+        std::fprintf(stderr, "Usage: %s SRC_FILE CHARMAP_FILE I18N_FILE", argv[0]);
         return 1;
     }
 
     g_charmap = new Charmap(argv[2]);
+    g_i18ndict = new I18nDict(argv[3]);
 
     char* extension = GetFileExtension(argv[1]);
 

@@ -28,8 +28,10 @@
 class StringParser
 {
 public:
-    StringParser(char* buffer, long size) : m_buffer(buffer), m_size(size), m_pos(0) {}
+    StringParser(const char* buffer, long size) : m_buffer(buffer), m_size(size), m_pos(0) {}
     int ParseString(long srcPos, unsigned char* dest, int &destLength);
+    void ParseUnquotedString(unsigned char* dest, int &destLength);
+    int ParseI18nIndex(long srcPos, uint32_t &destIndex);
 
 private:
     struct Integer
@@ -38,7 +40,7 @@ private:
         int size;
     };
 
-    char* m_buffer;
+    const char* m_buffer;
     long m_size;
     long m_pos;
 

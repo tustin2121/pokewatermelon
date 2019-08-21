@@ -31,6 +31,7 @@ enum class Directive
     Include,
     String,
     Braille,
+    I18n,
     Unknown
 };
 
@@ -45,6 +46,7 @@ public:
     std::string GetGlobalLabel();
     std::string ReadPath();
     int ReadString(unsigned char* s);
+    int ReadI18n(unsigned char* s);
     int ReadBraille(unsigned char* s);
     bool IsAtEnd();
     void OutputLine();
