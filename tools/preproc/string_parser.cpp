@@ -204,7 +204,7 @@ void StringParser::ParseUnquotedString(unsigned char* dest, int& destLength)
     m_pos = 0;
     destLength = 0;
 
-    while (m_buffer[m_pos] != '"')
+    while (m_buffer[m_pos] != 0)
     {
         std::string sequence = (m_buffer[m_pos] == '{') ? ReadBracketedConstants() : ReadCharOrEscape();
 
@@ -221,13 +221,11 @@ void StringParser::ParseUnquotedString(unsigned char* dest, int& destLength)
 int StringParser::ParseI18nIndex(long srcPos, uint32_t &destIndex)
 {
     m_pos = srcPos;
-    if (m_buffer[m_pos] != '"')
-        RaiseError("expected UTF-8 string literal");
     
     long start = m_pos;
     if (!IsAsciiDigit(m_buffer[m_pos])) 
     {
-        RaiseError("expected digit");
+        RaiseError("expected i18n index");
     }
     
     Integer integer = ReadInteger();

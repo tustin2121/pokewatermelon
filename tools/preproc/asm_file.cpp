@@ -301,7 +301,7 @@ int AsmFile::ReadI18n(unsigned char* s)
     
     try
     {
-        indexParser.ParseI18nIndex(m_pos, strIndex);
+        m_pos += indexParser.ParseI18nIndex(m_pos, strIndex);
     }
     catch (std::runtime_error& e)
     {
@@ -318,6 +318,9 @@ int AsmFile::ReadI18n(unsigned char* s)
     {
         RaiseError(e.what());
     }
+    
+    ExpectEmptyRestOfLine();
+    
     return length;
 }
 
