@@ -236,206 +236,97 @@ BattleFrontier_OutsideEast_EventScript_242E08:: @ 8242E08
 	end
 
 BattleFrontier_OutsideEast_Text_242E11: @ 8242E11
-	.string "This is the BATTLE TOWER!\n"
-	.string "Keep the win streak as the toughest\l"
-	.string "TRAINER!$"
+	.i18n 1945
 
 BattleFrontier_OutsideEast_Text_242E58: @ 8242E58
-	.string "This is the BATTLE PALACE!\n"
-	.string "Keep your eyes on POKéMON battles!$"
+	.i18n 1946
 
 BattleFrontier_OutsideEast_Text_242E96: @ 8242E96
-	.string "This is the BATTLE ARENA!\n"
-	.string "Let the toughest teams gather!$"
+	.i18n 1947
 
 BattleFrontier_OutsideEast_Text_242ECF: @ 8242ECF
-	.string "This is the BATTLE PYRAMID!\n"
-	.string "Advance through the Battle Quest!$"
+	.i18n 1948
 
 BattleFrontier_OutsideEast_Text_242F0D: @ 8242F0D
-	.string "BATTLE FRONTIER RANKING HALL\n"
-	.string "Set your sights on new records!$"
+	.i18n 1949
 
 BattleFrontier_OutsideEast_Text_242F4A: @ 8242F4A
-	.string "BATTLE POINT EXCHANGE SERVICE CORNER\n"
-	.string "Exchange your Battle Points!$"
+	.i18n 1950
 
 BattleFrontier_OutsideEast_Text_242F8C: @ 8242F8C
-	.string "Wow!\n"
-	.string "It's huge!\p"
-	.string "The BATTLE TOWER feels special.\n"
-	.string "It's different from the others.$"
+	.i18n 1951
 
 BattleFrontier_OutsideEast_Text_242FDC: @ 8242FDC
-	.string "My grand ambition is to conquer both\n"
-	.string "the BATTLE FRONTIER and the POKéMON\l"
-	.string "LEAGUE.\p"
-	.string "And if my dream comes true…\p"
-	.string "I… I'm going to ask MIMI next door\n"
-	.string "if she will be friends with me!$"
+	.i18n 1952
 
 BattleFrontier_OutsideEast_Text_24308C: @ 824308C
-	.string "The BATTLE PYRAMID's too harsh!\n"
-	.string "I just can't make it to the top!\p"
-	.string "Since I'm out of options, maybe I can\n"
-	.string "climb the outside…$"
+	.i18n 1953
 
 BattleFrontier_OutsideEast_Text_243106: @ 8243106
-	.string "I thrive in darkness…\n"
-	.string "Yes… What is worthy of me?\l"
-	.string "None other than the BATTLE PYRAMID…\p"
-	.string "What say you to wandering in darkness\n"
-	.string "and in utter and total desperation?$"
+	.i18n 1954
 
 BattleFrontier_OutsideEast_Text_2431A5: @ 82431A5
-	.string "I didn't sleep for a week, but then\n"
-	.string "I put together the ultimate team!\p"
-	.string "I can't see myself losing, no joke.\n"
-	.string "We're storming the BATTLE ARENA!$"
+	.i18n 1955
 
 BattleFrontier_OutsideEast_Text_243230: @ 8243230
-	.string "Did SCOTT bring you here, too?\n"
-	.string "What is it with that guy?\p"
-	.string "It sounds like he really does know\n"
-	.string "how to spot talented TRAINERS, but…\p"
-	.string "I've never seen him battling in person\n"
-	.string "ever.$"
+	.i18n 1956
 
 BattleFrontier_OutsideEast_Text_2432DD: @ 82432DD
-	.string "ZIGG!\n"
-	.string "I believe in you, little buddy!\p"
-	.string "I'll make my little ZIGG any favorite\n"
-	.string "tasty treats you like if you win!$"
+	.i18n 1957
 
 BattleFrontier_OutsideEast_Text_24334B: @ 824334B
-	.string "ZIGZAGOON looks vacant…$"
+	.i18n 1958
 
 BattleFrontier_OutsideEast_Text_243363: @ 8243363
-	.string "People call me a busybody,\n"
-	.string "but I can't help it.\p"
-	.string "Your hat's on crooked!\n"
-	.string "Oh, no, trash on the ground!\l"
-	.string "Oops, it's almost dinnertime!\p"
-	.string "I don't know if I can stand to just\n"
-	.string "watch at the BATTLE PALACE…$"
+	.i18n 1959
 
 BattleFrontier_OutsideEast_Text_243425: @ 8243425
-	.string "I may not look that impressive now,\n"
-	.string "but I once beat a GYM LEADER.\p"
-	.string "Who knows, maybe I should give it\n"
-	.string "another shot at glory.$"
+	.i18n 1960
 
 BattleFrontier_OutsideEast_Text_2434A0: @ 82434A0
-	.string "I'm fast on my BIKE, and that goes for\n"
-	.string "the way I battle, too.\p"
-	.string "I win matches in the blink of\n"
-	.string "an eye!$"
+	.i18n 1961
 
 BattleFrontier_OutsideEast_Text_243504: @ 8243504
-	.string "I'm better than my daddy\n"
-	.string "at POKéMON.$"
+	.i18n 1962
 
 BattleFrontier_OutsideEast_Text_243529: @ 8243529
-	.string "Go on, my baby sweetie!\n"
-	.string "Go rack up some wins for Daddy!\p"
-	.string "You're just like your mother,\n"
-	.string "so you'll be dominating!$"
+	.i18n 1963
 
 BattleFrontier_OutsideEast_Text_243598: @ 8243598
-	.string "It wasn't easy getting here,\n"
-	.string "but I'd heard about this knockout\l"
-	.string "pretty girl at the BATTLE ARENA.\p"
-	.string "Instead of her, do you know what\n"
-	.string "I found?\p"
-	.string "A whole teeming mob of sweaty,\n"
-	.string "stinky, and primitive martial artists!$"
+	.i18n 1964
 
 BattleFrontier_OutsideEast_Text_243668: @ 8243668
-	.string "I sometimes see this really important-\n"
-	.string "looking old man going in there.\p"
-	.string "He has these really awesome POKéMON.\n"
-	.string "He seems really nice, though.$"
+	.i18n 1965
 
 BattleFrontier_OutsideEast_Text_2436F2: @ 82436F2
-	.string "Do you know it?\n"
-	.string "The legend of the BATTLE PYRAMID?\p"
-	.string "When there comes a confident TRAINER\n"
-	.string "reaching for the golden pinnacle,\l"
-	.string "there shall appear a man among men.\p"
-	.string "Don't know that legend?\n"
-	.string "Well, of course not!\l"
-	.string "I just made it up!\p"
-	.string "What's it supposed to mean?\n"
-	.string "That, my friend, I can't say!$"
+	.i18n 1966
 
 BattleFrontier_OutsideEast_Text_243809: @ 8243809
-	.string "Man! Oh man!\n"
-	.string "I've never lost once before!\p"
-	.string "But I got wiped out with no saving\n"
-	.string "grace at all!\p"
-	.string "And then I'm told I don't have any\n"
-	.string "talent?! Man!$"
+	.i18n 1967
 
 BattleFrontier_OutsideEast_Text_243895: @ 8243895
-	.string "This guy ran into a horribly tough\n"
-	.string "TRAINER while he was on the BATTLE\l"
-	.string "TOWER challenge.\p"
-	.string "Now look at him…\p"
-	.string "You need to be cautious if you ever\n"
-	.string "decide to go to the BATTLE TOWER.$"
+	.i18n 1968
 
 BattleFrontier_OutsideEast_Text_243943: @ 8243943
-	.string "Yes!\n"
-	.string "I've finally got enough Battle Points!\p"
-	.string "I guess I'll trade for another giant\n"
-	.string "plush DOLL!$"
+	.i18n 1969
 
 BattleFrontier_OutsideEast_Text_2439A0: @ 82439A0
-	.string "Oh, yeah, okay!\n"
-	.string "So this is the RANKING HALL!\p"
-	.string "I'd like to go down in history as\n"
-	.string "a super champ and have my name\l"
-	.string "recorded here for posterity.$"
+	.i18n 1970
 
 BattleFrontier_OutsideEast_Text_243A2B: @ 8243A2B
-	.string "With you by my side, I can do anything.$"
+	.i18n 1971
 
 BattleFrontier_OutsideEast_Text_243A53: @ 8243A53
-	.string "Ooh, darling, you are so wonderful!\p"
-	.string "Ooh, I just can't wait anymore!\p"
-	.string "Let's go to a MULTI BATTLE ROOM\n"
-	.string "right this instant!\p"
-	.string "If we get together in the BATTLE SALON,\n"
-	.string "the power of our love will overcome\l"
-	.string "everyone we meet.\p"
-	.string "Why, before us, darling, everything\n"
-	.string "will topple like dominoes!$"
+	.i18n 1972
 
 BattleFrontier_OutsideEast_Text_243B68: @ 8243B68
-	.string "The BATTLE FRONTIER isn't exclusively\n"
-	.string "for tough TRAINERS.\p"
-	.string "Many people with special abilities\n"
-	.string "have been invited, it seems.\p"
-	.string "That man SCOTT…\p"
-	.string "He may have built this place to serve\n"
-	.string "a bigger objective…$"
+	.i18n 1973
 
 BattleFrontier_OutsideEast_Text_243C2C: @ 8243C2C
-	.string "Excuse me, young one.\n"
-	.string "Have you good eyesight?\p"
-	.string "There is an odd tree past here, and to\n"
-	.string "my tired eyes it seems to wiggle.$"
+	.i18n 1974
 
 BattleFrontier_OutsideEast_Text_243CA3: @ 8243CA3
-	.string "Excuse me, young one.\n"
-	.string "Have you a good memory?\p"
-	.string "I have this feeling there once was\n"
-	.string "an odd tree past here.$"
+	.i18n 1975
 
 BattleFrontier_OutsideEast_Text_243D0B: @ 8243D0B
-	.string "I…\n"
-	.string "I saw it!\p"
-	.string "There was a sticky sort of a POKéMON\n"
-	.string "with a long tail up ahead!\p"
-	.string "It was hiding under a boulder, and\n"
-	.string "it kept staring at me!$"
+	.i18n 1976

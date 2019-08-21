@@ -293,113 +293,53 @@ RustboroCity_DevonCorp_2F_EventScript_211BF1:: @ 8211BF1
 	end
 
 RustboroCity_DevonCorp_2F_Text_211BFB: @ 8211BFB
-	.string "We're developing a device for talking\n"
-	.string "with POKéMON.\p"
-	.string "But we haven't had much success…$"
+	.i18n 4140
 
 RustboroCity_DevonCorp_2F_Text_211C50: @ 8211C50
-	.string "I'm developing new kinds of\n"
-	.string "POKé BALLS…\p"
-	.string "But I haven't made much headway…$"
+	.i18n 4141
 
 RustboroCity_DevonCorp_2F_Text_211C99: @ 8211C99
-	.string "We finally made new kinds of\n"
-	.string "POKé BALLS!\p"
-	.string "The REPEAT BALL makes it easier to\n"
-	.string "catch POKéMON you've caught before.\p"
-	.string "The TIMER BALL gets better at catching\n"
-	.string "POKéMON the longer a battle runs.\p"
-	.string "Both are proudly developed by\n"
-	.string "the DEVON CORPORATION.\p"
-	.string "Please give them a try!$"
+	.i18n 4142
 
 RustboroCity_DevonCorp_2F_Text_211D9F: @ 8211D9F
-	.string "I made the POKéNAV!\p"
-	.string "As an engineer, I feel blessed to have\n"
-	.string "made something so great!$"
+	.i18n 4143
 
 RustboroCity_DevonCorp_2F_Text_211DF3: @ 8211DF3
-	.string "Oh, wow!\n"
-	.string "That's a POKéNAV!\p"
-	.string "It came about as a result of our\n"
-	.string "PRESIDENT's desire to learn about\l"
-	.string "the feelings of POKéMON.\p"
-	.string "Would you like me to describe its\n"
-	.string "features in detail?\p"
-	.string "No, no. I think you'll find out just by\n"
-	.string "trying the POKéNAV out.$"
+	.i18n 4144
 
 RustboroCity_DevonCorp_2F_Text_211EE0: @ 8211EE0
-	.string "I'm trying to develop a device that\n"
-	.string "visually reproduces the dreams of\l"
-	.string "POKéMON…\p"
-	.string "But it's not going well.$"
+	.i18n 4145
 
 RustboroCity_DevonCorp_2F_Text_211F48: @ 8211F48
-	.string "I've been trying to develop a device\n"
-	.string "that resurrects POKéMON from fossils…\p"
-	.string "And, it's working!$"
+	.i18n 4146
 
 RustboroCity_DevonCorp_2F_Text_211FA6: @ 8211FA6
-	.string "Wait! That thing you have there…\n"
-	.string "Is that a POKéMON fossil?\p"
-	.string "Would you like to bring that POKéMON\n"
-	.string "back to life?\p"
-	.string "I can with my newly developed\n"
-	.string "FOSSIL REGENERATOR.$"
+	.i18n 4147
 
 RustboroCity_DevonCorp_2F_Text_212046: @ 8212046
-	.string "Oh, is that so?\p"
-	.string "DEVON's technological expertise\n"
-	.string "is outstanding, I tell you.$"
+	.i18n 4148
 
 RustboroCity_DevonCorp_2F_Text_212092: @ 8212092
-	.string "Oh, now that's a surprise!\n"
-	.string "You have not one, but two, fossils?\p"
-	.string "Unfortunately, my machine can only\n"
-	.string "regenerate one POKéMON at a time.\p"
-	.string "Would you like to pick one of your\n"
-	.string "fossils for regeneration?$"
+	.i18n 4149
 
 RustboroCity_DevonCorp_2F_Text_212153: @ 8212153
-	.string "Excellent!\n"
-	.string "Let's do this right away.\p"
-	.string "{PLAYER} handed the {STR_VAR_1} to\n"
-	.string "the DEVON RESEARCHER.$"
+	.i18n 4150
 
 RustboroCity_DevonCorp_2F_Text_2121A2: @ 82121A2
-	.string "The FOSSIL REGENERATOR, which I made,\n"
-	.string "is incredible.\p"
-	.string "But it has one drawback--it takes\n"
-	.string "a long time to work.\p"
-	.string "So, uh… How about you go for a stroll\n"
-	.string "and look around for a while?$"
+	.i18n 4151
 
 RustboroCity_DevonCorp_2F_Text_212251: @ 8212251
-	.string "Thanks for waiting!\p"
-	.string "Your fossilized POKéMON has been\n"
-	.string "brought back to life!\p"
-	.string "The fossil was an ancient POKéMON.\n"
-	.string "{STR_VAR_2}, it was!$"
+	.i18n 4152
 
 RustboroCity_DevonCorp_2F_Text_2122CB: @ 82122CB
-	.string "{PLAYER} received {STR_VAR_2} from\n"
-	.string "the DEVON RESEARCHER.$"
+	.i18n 4153
 
 RustboroCity_DevonCorp_2F_Text_2122F5: @ 82122F5
-	.string "Uh-oh, you've got too many POKéMON.\n"
-	.string "You have no room for this one.$"
+	.i18n 4154
 
 RustboroCity_DevonCorp_2F_Text_212338: @ 8212338
-	.string "I'm trying to develop a new feature\n"
-	.string "for the POKéNAV…\p"
-	.string "But it's not going well.$"
+	.i18n 4155
 
 RustboroCity_DevonCorp_2F_Text_212386: @ 8212386
-	.string "Well, now what shall I work on\n"
-	.string "developing next?\p"
-	.string "Our company allows us to make our\n"
-	.string "inspirations into reality.\p"
-	.string "One couldn't ask for a better\n"
-	.string "environment as an engineer.$"
+	.i18n 4156
 

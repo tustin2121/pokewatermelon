@@ -214,122 +214,68 @@ Route119_WeatherInstitute_2F_EventScript_27018B:: @ 827018B
 	end
 
 Route119_WeatherInstitute_2F_Text_27019C: @ 827019C
-	.string "The INSTITUTE created a type of\n"
-	.string "POKéMON that has something to do with\l"
-	.string "the weather. We're here to take them!$"
+	.i18n 4015
 
 Route119_WeatherInstitute_2F_Text_270208: @ 8270208
-	.string "Our plan's being spoiled by a kid?$"
+	.i18n 4016
 
 Route119_WeatherInstitute_2F_Text_27022B: @ 827022B
-	.string "If the POKéMON they made here can\n"
-	.string "control the weather freely, then we of\l"
-	.string "TEAM AQUA definitely need it!$"
+	.i18n 4017
 
 Route119_WeatherInstitute_2F_Text_270292: @ 8270292
-	.string "We're TEAM AQUA!\n"
-	.string "We appear wherever anything rare is\l"
-	.string "found!$"
+	.i18n 4018
 
 Route119_WeatherInstitute_2F_Text_2702CE: @ 82702CE
-	.string "You got me!$"
+	.i18n 4019
 
 Route119_WeatherInstitute_2F_Text_2702DA: @ 82702DA
-	.string "You don't have any idea what we of\n"
-	.string "TEAM AQUA are working towards!\l"
-	.string "You stay out of our way!$"
+	.i18n 4020
 
 Route119_WeatherInstitute_2F_Text_270335: @ 8270335
-	.string "Don't tell me you're looking for that\n"
-	.string "weather POKéMON, too?\p"
-	.string "That's a no-no!\n"
-	.string "We were here to get it first!$"
+	.i18n 4021
 
 Route119_WeatherInstitute_2F_Text_27039F: @ 827039F
-	.string "Oh, will you look at my POKéMON?$"
+	.i18n 4022
 
 Route119_WeatherInstitute_2F_Text_2703C0: @ 82703C0
-	.string "Humph, so what?\n"
-	.string "What we want…\p"
-	.string "What we really want isn't here…\n"
-	.string "Ihihihihi…$"
+	.i18n 4023
 
 Route119_WeatherInstitute_2F_Text_270409: @ 8270409
-	.string "Ahahahaha!\p"
-	.string "You're going to meddle in TEAM AQUA's\n"
-	.string "affairs?\p"
-	.string "You're either absolutely fearless,\n"
-	.string "simply ignorant, or both!\p"
-	.string "You're so cute, you're disgusting!\n"
-	.string "I'll put you down, kiddy!$"
+	.i18n 4024
 
 Route119_WeatherInstitute_2F_Text_2704BD: @ 82704BD
-	.string "Ahahahaha!\n"
-	.string "You're disgustingly strong!$"
+	.i18n 4025
 
 Route119_WeatherInstitute_2F_Text_2704E4: @ 82704E4
-	.string "It's bad enough to have TEAM MAGMA\n"
-	.string "blunder about, but now there's you!\p"
-	.string "What makes you want to sniff around\n"
-	.string "in our business, anyway?$"
+	.i18n 4026
 
 Route119_WeatherInstitute_2F_Text_270568: @ 8270568
-	.string "We have a situation here!\p"
-	.string "A TEAM MAGMA mob just passed\n"
-	.string "the WEATHER INSTITUTE.\p"
-	.string "They appear to be headed for\n"
-	.string "MT. PYRE!$"
+	.i18n 4027
 
 Route119_WeatherInstitute_2F_Text_2705DD: @ 82705DD
-	.string "What?!\p"
-	.string "We can't waste any more time here!\n"
-	.string "We have to hurry to MT. PYRE, too!\p"
-	.string "Ahahahaha!\n"
-	.string "TEAM MAGMA, just you wait!$"
+	.i18n 4028
 
 Route119_WeatherInstitute_2F_Text_270650: @ 8270650
-	.string "Thanks!\n"
-	.string "Thanks to you, we're safe!\p"
-	.string "It might be an odd way of thanking you,\n"
-	.string "but take this POKéMON.$"
+	.i18n 4029
 
 Route119_WeatherInstitute_2F_Text_2706B2: @ 82706B2
-	.string "Hm? You don't seem to have any room\n"
-	.string "for this POKéMON.$"
+	.i18n 4030
 
 Route119_WeatherInstitute_2F_Text_2706E8: @ 82706E8
-	.string "{PLAYER} received CASTFORM!$"
+	.i18n 4031
 
 Route119_WeatherInstitute_2F_Text_2706FE: @ 82706FE
-	.string "That POKéMON changes shape according\n"
-	.string "to the weather conditions.\p"
-	.string "There're plenty of them in the\n"
-	.string "INSTITUTE--go ahead and take it.$"
+	.i18n 4032
 
 Route119_WeatherInstitute_2F_Text_27077E: @ 827077E
-	.string "I've been researching rain for many\n"
-	.string "years, but it's ridiculous to think that\l"
-	.string "humans can freely change the weather.$"
+	.i18n 4033
 
 WeatherInstitute_UnusualWeather_GroudonWeatherText: @ 82707F1
-	.string "I track weather patterns over\n"
-	.string "the HOENN region.\p"
-	.string "Presently, a drought has been recorded\n"
-	.string "in {STR_VAR_1}.\p"
-	.string "Could that mean, somewhere near\n"
-	.string "{STR_VAR_1}…$"
+	.i18n 4034
 
 WeatherInstitute_UnusualWeather_KyogreWeatherText: @ 8270873
-	.string "I track weather patterns over\n"
-	.string "the HOENN region.\p"
-	.string "Presently, heavy rainfall has been\n"
-	.string "recorded over {STR_VAR_1}.\p"
-	.string "Could that mean, somewhere near\n"
-	.string "{STR_VAR_1}…$"
+	.i18n 4035
 
 WeatherInstitute_UnusualWeather_EventScript_ShowLegendariesAlreadyDefeatedText: @ 82708FC
-	.string "Abnormal weather conditions are\n"
-	.string "no longer being reported.\p"
-	.string "The occasional rainfall is a blessing,\n"
-	.string "really.$"
+	.i18n 4036
 

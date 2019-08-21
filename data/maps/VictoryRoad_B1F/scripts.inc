@@ -27,65 +27,47 @@ VictoryRoad_B1F_EventScript_236541:: @ 8236541
 	end
 
 VictoryRoad_B1F_Text_236558: @ 8236558
-	.string "The thought that I'm getting closer to\n"
-	.string "the POKéMON LEAGUE…\p"
-	.string "I'm getting stage fright…$"
+	.i18n 4840
 
 VictoryRoad_B1F_Text_2365AD: @ 82365AD
-	.string "I couldn't do a thing…$"
+	.i18n 4841
 
 VictoryRoad_B1F_Text_2365C4: @ 82365C4
-	.string "The POKéMON LEAGUE became distant\n"
-	.string "again… What a letdown…$"
+	.i18n 4842
 
 VictoryRoad_B1F_Text_2365FD: @ 82365FD
-	.string "To win your way through the POKéMON\n"
-	.string "LEAGUE, you need the trust of your\l"
-	.string "POKéMON.$"
+	.i18n 4843
 
 VictoryRoad_B1F_Text_23664D: @ 823664D
-	.string "Your relationship is based on\n"
-	.string "solid trust.$"
+	.i18n 4844
 
 VictoryRoad_B1F_Text_236678: @ 8236678
-	.string "By being together all the time, trust\n"
-	.string "grows between POKéMON and TRAINERS.$"
+	.i18n 4845
 
 VictoryRoad_B1F_Text_2366C2: @ 82366C2
-	.string "This isn't the goal. It's only a place\n"
-	.string "on the way to the POKéMON LEAGUE.$"
+	.i18n 4846
 
 VictoryRoad_B1F_Text_23670B: @ 823670B
-	.string "That's the way!$"
+	.i18n 4847
 
 VictoryRoad_B1F_Text_23671B: @ 823671B
-	.string "You'll do fine, for sure!\n"
-	.string "Your POKéMON are all eager to go!$"
+	.i18n 4848
 
 VictoryRoad_B1F_Text_236757: @ 8236757
-	.string "My POKéMON are cosmically\n"
-	.string "awe inspiring!$"
+	.i18n 4849
 
 VictoryRoad_B1F_Text_236780: @ 8236780
-	.string "I've never met anyone like you before.$"
+	.i18n 4850
 
 VictoryRoad_B1F_Text_2367A7: @ 82367A7
-	.string "Even outside of battle, I sense\n"
-	.string "incredible power emanating from you\l"
-	.string "and your POKéMON.$"
+	.i18n 4851
 
 VictoryRoad_B1F_Text_2367FD: @ 82367FD
-	.string "Okay, no need to get your back up!\n"
-	.string "Relax, let's take it easy!$"
+	.i18n 4852
 
 VictoryRoad_B1F_Text_23683B: @ 823683B
-	.string "Whoa!\n"
-	.string "Wonderful!$"
+	.i18n 4853
 
 VictoryRoad_B1F_Text_23684C: @ 823684C
-	.string "Sure, this is VICTORY ROAD.\p"
-	.string "But it's not all that different from\n"
-	.string "the path you've taken so far.\p"
-	.string "Try to enjoy things the rest of\n"
-	.string "the way!$"
+	.i18n 4854
 

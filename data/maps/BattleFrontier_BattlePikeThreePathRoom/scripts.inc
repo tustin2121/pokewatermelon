@@ -286,108 +286,78 @@ BattleFrontier_BattlePikeThreePathRoom_Movement_25CBD5: @ 825CBD5
 	step_end
 
 BattleFrontier_BattlePikeThreePathRoom_Text_25CBDD: @ 825CBDD
-	.string "You are currently in\n"
-	.string "the 1st room…$"
+	.i18n 1015
 
 BattleFrontier_BattlePikeThreePathRoom_Text_25CC00: @ 825CC00
-	.string "You are currently in\n"
-	.string "the 3rd room…$"
+	.i18n 1016
 
 BattleFrontier_BattlePikeThreePathRoom_Text_25CC23: @ 825CC23
-	.string "You are currently in\n"
-	.string "the 5th room…$"
+	.i18n 1017
 
 BattleFrontier_BattlePikeThreePathRoom_Text_25CC46: @ 825CC46
-	.string "You are currently in\n"
-	.string "the 7th room…$"
+	.i18n 1018
 
 BattleFrontier_BattlePikeThreePathRoom_Text_25CC69: @ 825CC69
-	.string "You are currently in\n"
-	.string "the 9th room…$"
+	.i18n 1019
 
 BattleFrontier_BattlePikeThreePathRoom_Text_25CC8C: @ 825CC8C
-	.string "You are currently in\n"
-	.string "the 11th room…$"
+	.i18n 1020
 
 BattleFrontier_BattlePikeThreePathRoom_Text_25CCB0: @ 825CCB0
-	.string "You are currently in\n"
-	.string "the 13th room…$"
+	.i18n 1021
 
 BattleFrontier_BattlePikeThreePathRoom_Text_25CCD4: @ 825CCD4
-	.string "Will you continue with\n"
-	.string "your challenge?$"
+	.i18n 1022
 
 BattleFrontier_BattlePikeThreePathRoom_Text_25CCFB: @ 825CCFB
-	.string "Would you like to save your challenge\n"
-	.string "and quit the game for now?$"
+	.i18n 1023
 
 BattleFrontier_BattlePikeThreePathRoom_Text_25CD3C: @ 825CD3C
-	.string "Do you wish to retire from your\n"
-	.string "Battle Choice challenge?$"
+	.i18n 1024
 
 BattleFrontier_BattlePikeThreePathRoom_Text_25CD75: @ 825CD75
-	.string "We've been awaiting your return…\p"
-	.string "Before resuming your Battle Choice\n"
-	.string "challenge, let me save the game…$"
+	.i18n 1025
 
 BattleFrontier_BattlePikeThreePathRoom_Text_25CDDA: @ 825CDDA
-	.string "Please do enjoy your Battle Choice\n"
-	.string "challenge…$"
+	.i18n 1026
 
 BattleFrontier_BattlePikeThreePathRoom_Text_25CE08: @ 825CE08
-	.string "I am saving your data…\n"
-	.string "A little time, please…$"
+	.i18n 1027
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25CE36: @ 825CE36
 BattleFrontier_BattlePikeRandomRoom3_Text_25CE36: @ 825CE36
 BattleFrontier_BattlePikeThreePathRoom_Text_25CE36: @ 825CE36
-	.string "The path is blocked!\n"
-	.string "And there is no turning back…$"
+	.i18n 1028
 
 BattleFrontier_BattlePikeThreePathRoom_Text_25CE69: @ 825CE69
-	.string "I beg your pardon, but…\p"
-	.string "Are you perhaps finding it difficult\n"
-	.string "to choose your path?$"
+	.i18n 1029
 
 BattleFrontier_BattlePikeThreePathRoom_Text_25CEBB: @ 825CEBB
-	.string "I see…\n"
-	.string "I apologize for my impertinence…$"
+	.i18n 1030
 
 BattleFrontier_BattlePikeThreePathRoom_Text_25CEE3: @ 825CEE3
-	.string "Ah, let me see… There is something\n"
-	.string "about the path on the right…$"
+	.i18n 1031
 
 BattleFrontier_BattlePikeThreePathRoom_Text_25CF23: @ 825CF23
-	.string "Ah, let me see… There is something\n"
-	.string "about the path in the center…$"
+	.i18n 1032
 
 BattleFrontier_BattlePikeThreePathRoom_Text_25CF64: @ 825CF64
-	.string "Ah, let me see… There is something\n"
-	.string "about the path on the left…$"
+	.i18n 1033
 
 BattleFrontier_BattlePikeThreePathRoom_Text_25CFA3: @ 825CFA3
-	.string "It seems to have the distinct aroma\n"
-	.string "of POKéMON wafting around it…$"
+	.i18n 1034
 
 BattleFrontier_BattlePikeThreePathRoom_Text_25CFE5: @ 825CFE5
-	.string "Is it… A TRAINER?\n"
-	.string "I sense the presence of people…$"
+	.i18n 1035
 
 BattleFrontier_BattlePikeThreePathRoom_Text_25D017: @ 825D017
-	.string "I seem to have heard something…\n"
-	.string "It may have been whispering…$"
+	.i18n 1036
 
 BattleFrontier_BattlePikeThreePathRoom_Text_25D054: @ 825D054
-	.string "For some odd reason, I felt a wave\n"
-	.string "of nostalgia coming from it…$"
+	.i18n 1037
 
 BattleFrontier_BattlePikeThreePathRoom_Text_25D094: @ 825D094
-	.string "I am sorry to say…\p"
-	.string "A terrifying event, yes, a horrible one,\n"
-	.string "is about to befall you…\p"
-	.string "I urge you to pay the utmost care\n"
-	.string "and prepare for the worst…$"
+	.i18n 1038
 
 BattleFrontier_BattlePikeThreePathRoom_Text_25D125: @ 825D125
-	.string "From every path I sense a dreadful\n"
-	.string "presence…$"
+	.i18n 1039

@@ -1,258 +1,258 @@
 gBerryDescriptionPart1_Cheri:: @ 8589AE4
-	.string "Blooms with delicate pretty flowers.$"
+	.i18n 5794
 
 gBerryDescriptionPart2_Cheri:: @ 8589B09
-	.string "The bright red BERRY is very spicy.$"
+	.i18n 5795
 
 gBerryDescriptionPart1_Chesto:: @ 8589B2D
-	.string "The BERRY's thick skin and fruit are$"
+	.i18n 5796
 
 gBerryDescriptionPart2_Chesto:: @ 8589B52
-	.string "very tough. It is dry-tasting all over.$"
+	.i18n 5797
 
 gBerryDescriptionPart1_Pecha:: @ 8589B7A
-	.string "Very sweet and delicious.$"
+	.i18n 5798
 
 gBerryDescriptionPart2_Pecha:: @ 8589B94
-	.string "Also very tender - handle with care.$"
+	.i18n 5799
 
 gBerryDescriptionPart1_Rawst:: @ 8589BB9
-	.string "If the leaves grow long and curly,$"
+	.i18n 5800
 
 gBerryDescriptionPart2_Rawst:: @ 8589BDC
-	.string "the BERRY seems to grow very bitter.$"
+	.i18n 5801
 
 gBerryDescriptionPart1_Aspear:: @ 8589C01
-	.string "The hard BERRY is dense with a rich$"
+	.i18n 5802
 
 gBerryDescriptionPart2_Aspear:: @ 8589C25
-	.string "juice. It is quite sour.$"
+	.i18n 5803
 
 gBerryDescriptionPart1_Leppa:: @ 8589C3E
-	.string "Grows slower than CHERI and others.$"
+	.i18n 5804
 
 gBerryDescriptionPart2_Leppa:: @ 8589C62
-	.string "The smaller the BERRY, the tastier.$"
+	.i18n 5805
 
 gBerryDescriptionPart1_Oran:: @ 8589C86
-	.string "A peculiar BERRY with a mix of flavors.$"
+	.i18n 5806
 
 gBerryDescriptionPart2_Oran:: @ 8589CAE
-	.string "BERRIES grow in half a day.$"
+	.i18n 5807
 
 gBerryDescriptionPart1_Persim:: @ 8589CCA
-	.string "Loves sunlight. The BERRY's color$"
+	.i18n 5808
 
 gBerryDescriptionPart2_Persim:: @ 8589CEC
-	.string "grows vivid when exposed to the sun.$"
+	.i18n 5809
 
 gBerryDescriptionPart1_Lum:: @ 8589D11
-	.string "Slow to grow. If raised with loving$"
+	.i18n 5810
 
 gBerryDescriptionPart2_Lum:: @ 8589D35
-	.string "care, it may grow two BERRIES.$"
+	.i18n 5811
 
 gBerryDescriptionPart1_Sitrus:: @ 8589D54
-	.string "Closely related to ORAN. The large$"
+	.i18n 5812
 
 gBerryDescriptionPart2_Sitrus:: @ 8589D77
-	.string "BERRY has a well-rounded flavor.$"
+	.i18n 5813
 
 gBerryDescriptionPart1_Figy:: @ 8589D98
-	.string "The BERRY, which looks chewed up,$"
+	.i18n 5814
 
 gBerryDescriptionPart2_Figy:: @ 8589DBA
-	.string "brims with spicy substances.$"
+	.i18n 5815
 
 gBerryDescriptionPart1_Wiki:: @ 8589DD7
-	.string "The BERRY is said to have grown lumpy$"
+	.i18n 5816
 
 gBerryDescriptionPart2_Wiki:: @ 8589DFD
-	.string "to help POKéMON grip it.$"
+	.i18n 5817
 
 gBerryDescriptionPart1_Mago:: @ 8589E16
-	.string "The BERRY turns curvy as it grows.$"
+	.i18n 5818
 
 gBerryDescriptionPart2_Mago:: @ 8589E39
-	.string "The curvier, the sweeter and tastier.$"
+	.i18n 5819
 
 gBerryDescriptionPart1_Aguav:: @ 8589E5F
-	.string "The flower is dainty. It is rare in its$"
+	.i18n 5820
 
 gBerryDescriptionPart2_Aguav:: @ 8589E87
-	.string "ability to grow without light.$"
+	.i18n 5821
 
 gBerryDescriptionPart1_Iapapa:: @ 8589EA6
-	.string "The BERRY is very big and sour.$"
+	.i18n 5822
 
 gBerryDescriptionPart2_Iapapa:: @ 8589EC6
-	.string "It takes at least a day to grow.$"
+	.i18n 5823
 
 gBerryDescriptionPart1_Razz:: @ 8589EE7
-	.string "The red BERRY tastes slightly spicy.$"
+	.i18n 5824
 
 gBerryDescriptionPart2_Razz:: @ 8589F0C
-	.string "It grows quickly in just four hours.$"
+	.i18n 5825
 
 gBerryDescriptionPart1_Bluk:: @ 8589F31
-	.string "The BERRY is blue on the outside, but$"
+	.i18n 5826
 
 gBerryDescriptionPart2_Bluk:: @ 8589F57
-	.string "it blackens the mouth when eaten.$"
+	.i18n 5827
 
 gBerryDescriptionPart1_Nanab:: @ 8589F79
-	.string "This BERRY was the seventh$"
+	.i18n 5828
 
 gBerryDescriptionPart2_Nanab:: @ 8589F94
-	.string "discovered in the world. It is sweet.$"
+	.i18n 5829
 
 gBerryDescriptionPart1_Wepear:: @ 8589FBA
-	.string "The flower is small and white. It has a$"
+	.i18n 5830
 
 gBerryDescriptionPart2_Wepear:: @ 8589FE2
-	.string "delicate balance of bitter and sour.$"
+	.i18n 5831
 
 gBerryDescriptionPart1_Pinap:: @ 858A007
-	.string "Weak against wind and cold.$"
+	.i18n 5832
 
 gBerryDescriptionPart2_Pinap:: @ 858A023
-	.string "The fruit is spicy and the skin, sour.$"
+	.i18n 5833
 
 gBerryDescriptionPart1_Pomeg:: @ 858A04A
-	.string "However much it is watered,$"
+	.i18n 5834
 
 gBerryDescriptionPart2_Pomeg:: @ 858A066
-	.string "it only grows up to six BERRIES.$"
+	.i18n 5835
 
 gBerryDescriptionPart1_Kelpsy:: @ 858A087
-	.string "A rare variety shaped like a root.$"
+	.i18n 5836
 
 gBerryDescriptionPart2_Kelpsy:: @ 858A0AA
-	.string "Grows a very large flower.$"
+	.i18n 5837
 
 gBerryDescriptionPart1_Qualot:: @ 858A0C5
-	.string "Loves water. Grows strong even in$"
+	.i18n 5838
 
 gBerryDescriptionPart2_Qualot:: @ 858A0E7
-	.string "locations with constant rainfall.$"
+	.i18n 5839
 
 gBerryDescriptionPart1_Hondew:: @ 858A109
-	.string "A BERRY that is very valuable and$"
+	.i18n 5840
 
 gBerryDescriptionPart2_Hondew:: @ 858A12B
-	.string "rarely seen. It is very delicious.$"
+	.i18n 5841
 
 gBerryDescriptionPart1_Grepa:: @ 858A14E
-	.string "Despite its tenderness and round$"
+	.i18n 5842
 
 gBerryDescriptionPart2_Grepa:: @ 858A16F
-	.string "shape, the BERRY is unimaginably sour.$"
+	.i18n 5843
 
 gBerryDescriptionPart1_Tamato:: @ 858A196
-	.string "The BERRY is lip-bendingly spicy.$"
+	.i18n 5844
 
 gBerryDescriptionPart2_Tamato:: @ 858A1B8
-	.string "It takes time to grow.$"
+	.i18n 5845
 
 gBerryDescriptionPart1_Cornn:: @ 858A1CF
-	.string "A BERRY from an ancient era. May not$"
+	.i18n 5846
 
 gBerryDescriptionPart2_Cornn:: @ 858A1F4
-	.string "grow unless planted in quantity.$"
+	.i18n 5847
 
 gBerryDescriptionPart1_Magost:: @ 858A215
-	.string "A BERRY that is widely said to have$"
+	.i18n 5848
 
 gBerryDescriptionPart2_Magost:: @ 858A239
-	.string "a finely balanced flavor.$"
+	.i18n 5849
 
 gBerryDescriptionPart1_Rabuta:: @ 858A253
-	.string "A rare variety that is overgrown with$"
+	.i18n 5850
 
 gBerryDescriptionPart2_Rabuta:: @ 858A279
-	.string "hair. It is quite bitter.$"
+	.i18n 5851
 
 gBerryDescriptionPart1_Nomel:: @ 858A293
-	.string "Quite sour. Just one bite makes it$"
+	.i18n 5852
 
 gBerryDescriptionPart2_Nomel:: @ 858A2B6
-	.string "impossible to taste for three days.$"
+	.i18n 5853
 
 gBerryDescriptionPart1_Spelon:: @ 858A2DA
-	.string "The vividly red BERRY is very spicy.$"
+	.i18n 5854
 
 gBerryDescriptionPart2_Spelon:: @ 858A2FF
-	.string "Its warts secrete a spicy substance.$"
+	.i18n 5855
 
 gBerryDescriptionPart1_Pamtre:: @ 858A324
-	.string "Drifts on the sea from somewhere.$"
+	.i18n 5856
 
 gBerryDescriptionPart2_Pamtre:: @ 858A346
-	.string "It is thought to grow elsewhere.$"
+	.i18n 5857
 
 gBerryDescriptionPart1_Watmel:: @ 858A367
-	.string "A huge BERRY, with some over 20$"
+	.i18n 5858
 
 gBerryDescriptionPart2_Watmel:: @ 858A387
-	.string "inches discovered. Exceedingly sweet.$"
+	.i18n 5859
 
 gBerryDescriptionPart1_Durin:: @ 858A3AD
-	.string "Bitter to even look at. It is so$"
+	.i18n 5860
 
 gBerryDescriptionPart2_Durin:: @ 858A3CE
-	.string "bitter, no one has ever eaten it as is.$"
+	.i18n 5861
 
 gBerryDescriptionPart1_Belue:: @ 858A3F6
-	.string "It is glossy and looks delicious, but$"
+	.i18n 5862
 
 gBerryDescriptionPart2_Belue:: @ 858A41C
-	.string "it is awfully sour. Takes time to grow.$"
+	.i18n 5863
 
 gBerryDescriptionPart1_Liechi:: @ 858A444
-	.string "A mysterious BERRY. It is rumored to$"
+	.i18n 5864
 
 gBerryDescriptionPart2_Liechi:: @ 858A469
-	.string "contain the power of the sea.$"
+	.i18n 5865
 
 gBerryDescriptionPart1_Ganlon:: @ 858A487
-	.string "A mysterious BERRY. It is rumored to$"
+	.i18n 5866
 
 gBerryDescriptionPart2_Ganlon:: @ 858A4AC
-	.string "contain the power of the land.$"
+	.i18n 5867
 
 gBerryDescriptionPart1_Salac:: @ 858A4CB
-	.string "A mysterious BERRY. It is rumored to$"
+	.i18n 5868
 
 gBerryDescriptionPart2_Salac:: @ 858A4F0
-	.string "contain the power of the sky.$"
+	.i18n 5869
 
 gBerryDescriptionPart1_Petaya:: @ 858A50E
-	.string "A mysterious BERRY. It is rumored to$"
+	.i18n 5870
 
 gBerryDescriptionPart2_Petaya:: @ 858A533
-	.string "contain the power of all living things.$"
+	.i18n 5871
 
 gBerryDescriptionPart1_Apicot:: @ 858A55B
-	.string "A very mystifying BERRY. No telling$"
+	.i18n 5872
 
 gBerryDescriptionPart2_Apicot:: @ 858A57F
-	.string "what may happen or how it can be used.$"
+	.i18n 5873
 
 gBerryDescriptionPart1_Lansat:: @ 858A5A6
-	.string "Said to be a legendary BERRY.$"
+	.i18n 5874
 
 gBerryDescriptionPart2_Lansat:: @ 858A5C4
-	.string "Holding it supposedly brings joy.$"
+	.i18n 5875
 
 gBerryDescriptionPart1_Starf:: @ 858A5E6
-	.string "So strong, it was abandoned at the$"
+	.i18n 5876
 
 gBerryDescriptionPart2_Starf:: @ 858A609
-	.string "world's edge. Considered a mirage.$"
+	.i18n 5877
 
 gBerryDescriptionPart1_Enigma:: @ 858A62C
-	.string "A completely enigmatic BERRY.$"
+	.i18n 5878
 
 gBerryDescriptionPart2_Enigma:: @ 858A64A
-	.string "Appears to have the power of stars.$"
+	.i18n 5879
 

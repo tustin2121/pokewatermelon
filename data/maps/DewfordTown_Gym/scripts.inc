@@ -310,177 +310,100 @@ DewfordTown_Gym_EventScript_1FC9CC:: @ 81FC9CC
 	end
 
 DewfordTown_Gym_Text_1FC9D6: @ 81FC9D6
-	.string "Hey, how's it going, CHAMPION-\n"
-	.string "bound {PLAYER}?\p"
-	.string "DEWFORD's GYM LEADER BRAWLY commands\n"
-	.string "FIGHTING-type POKéMON.\p"
-	.string "Going against him with NORMAL-type\n"
-	.string "POKéMON is asking for trouble.\p"
-	.string "FIGHTING POKéMON will lay a serious\n"
-	.string "smack down on NORMAL POKéMON,\l"
-	.string "so be careful!\p"
-	.string "What's worse, the GYM is as dark as\n"
-	.string "the ocean floor.\p"
-	.string "But it will get brighter after defeating\n"
-	.string "the TRAINERS in your way.\p"
-	.string "Hey, okay, go for it!$"
+	.i18n 2108
 
 DewfordTown_Gym_Text_1FCB5C: @ 81FCB5C
-	.string "Whoah! It's turned too bright in here!\p"
-	.string "Your future is bright, too!$"
+	.i18n 2109
 
 DewfordTown_Gym_Text_1FCB9F: @ 81FCB9F
-	.string "Might is right!\n"
-	.string "Come on!$"
+	.i18n 2110
 
 DewfordTown_Gym_Text_1FCBB8: @ 81FCBB8
-	.string "Not enough power…$"
+	.i18n 2111
 
 DewfordTown_Gym_Text_1FCBCA: @ 81FCBCA
-	.string "Your skill overcame my strength!\n"
-	.string "Your technique is commendable!$"
+	.i18n 2112
 
 DewfordTown_Gym_Text_1FCC0A: @ 81FCC0A
-	.string "There's no need for BRAWLY to be\n"
-	.string "involved!\p"
-	.string "I'll crush you!$"
+	.i18n 2113
 
 DewfordTown_Gym_Text_1FCC45: @ 81FCC45
-	.string "But… How?\n"
-	.string "How could I lose so easily?$"
+	.i18n 2114
 
 DewfordTown_Gym_Text_1FCC6B: @ 81FCC6B
-	.string "I'm not going to waste this loss.\n"
-	.string "I'll use it to motivate me to train!\p"
-	.string "One day I'll become a GYM LEADER…\p"
-	.string "No, I'll become the POKéMON LEAGUE\n"
-	.string "CHAMPION!$"
+	.i18n 2115
 
 DewfordTown_Gym_Text_1FCD01: @ 81FCD01
-	.string "Don't you dare brush me off!\n"
-	.string "It's not my fault if you cry!$"
+	.i18n 2116
 
 DewfordTown_Gym_Text_1FCD3C: @ 81FCD3C
-	.string "Waaaaaaah!\n"
-	.string "I lost!$"
+	.i18n 2117
 
 DewfordTown_Gym_Text_1FCD4F: @ 81FCD4F
-	.string "I battle in the dark to make my heart\n"
-	.string "stronger.\p"
-	.string "But because it's so dark, I can never\n"
-	.string "see BRAWLY's face…$"
+	.i18n 2118
 
 DewfordTown_Gym_Text_1FCDB8: @ 81FCDB8
-	.string "Ufufu…\n"
-	.string "Are you stumbling around in the dark?$"
+	.i18n 2119
 
 DewfordTown_Gym_Text_1FCDE5: @ 81FCDE5
-	.string "Oh, you…\n"
-	.string "I don't want to know you!$"
+	.i18n 2120
 
 DewfordTown_Gym_Text_1FCE08: @ 81FCE08
-	.string "You deserve to stay lost and end up\n"
-	.string "back at the entrance again!$"
+	.i18n 2121
 
 DewfordTown_Gym_Text_1FCE48: @ 81FCE48
-	.string "I'll show you the gumption of\n"
-	.string "a sailing man!$"
+	.i18n 2122
 
 DewfordTown_Gym_Text_1FCE75: @ 81FCE75
-	.string "How'd this happen?\n"
-	.string "It's not like me to lose this way!$"
+	.i18n 2123
 
 DewfordTown_Gym_Text_1FCEAB: @ 81FCEAB
-	.string "Oh, aye! You're worthy of seeing\n"
-	.string "our GYM LEADER.$"
+	.i18n 2124
 
 DewfordTown_Gym_Text_1FCEDC: @ 81FCEDC
-	.string "If you mean to pass, it has to be\n"
-	.string "through me!$"
+	.i18n 2125
 
 DewfordTown_Gym_Text_1FCF0A: @ 81FCF0A
-	.string "Grrrrr!\n"
-	.string "Vastly overpowered!$"
+	.i18n 2126
 
 DewfordTown_Gym_Text_1FCF26: @ 81FCF26
-	.string "You win!\n"
-	.string "Go after that BADGE!$"
+	.i18n 2127
 
 DewfordTown_Gym_Text_1FCF44: @ 81FCF44
-	.string "I'm BRAWLY!\n"
-	.string "DEWFORD's GYM LEADER!\p"
-	.string "I've been churned in the rough waves\n"
-	.string "of these parts, and I've grown tough\l"
-	.string "in the pitch-black cave!\p"
-	.string "So you wanted to challenge me?\n"
-	.string "Let me see what you're made of!$"
+	.i18n 2128
 
 DewfordTown_Gym_Text_1FD008: @ 81FD008
-	.string "Whoah, wow! You made a much bigger\n"
-	.string "splash than I expected!\p"
-	.string "You swamped me!\p"
-	.string "Okay, you've got me.\n"
-	.string "Take this GYM BADGE!$"
+	.i18n 2129
 
 DewfordTown_Gym_Text_1FD07D: @ 81FD07D
-	.string "{PLAYER} received the KNUCKLE BADGE\n"
-	.string "from BRAWLY.$"
+	.i18n 2130
 
 DewfordTown_Gym_Text_1FD0A8: @ 81FD0A8
-	.string "The KNUCKLE BADGE makes all POKéMON\n"
-	.string "up to Level 30, even those you get in\l"
-	.string "trades, obey without question.\p"
-	.string "And, you'll be able to use the HM move\n"
-	.string "FLASH outside of battle.\p"
-	.string "If you'd like, use this TECHNICAL\n"
-	.string "MACHINE, too.$"
+	.i18n 2131
 
 DewfordTown_Gym_Text_1FD181: @ 81FD181
-	.string "That TM08 contains BULK UP.\p"
-	.string "It's a move that raises both ATTACK\n"
-	.string "and DEFENSE stats.\p"
-	.string "… … … … … …$"
+	.i18n 2132
 
 DewfordTown_Gym_Text_1FD1E0: @ 81FD1E0
-	.string "Registered GYM LEADER BRAWLY\n"
-	.string "in the POKéNAV.$"
+	.i18n 2133
 
 DewfordTown_Gym_Text_1FD20D: @ 81FD20D
-	.string "I can see your talent becoming a giant\n"
-	.string "wave to cause a storm of astonishment\l"
-	.string "among TRAINERS one day!$"
+	.i18n 2134
 
 DewfordTown_Gym_Text_1FD272: @ 81FD272
-	.string "DEWFORD TOWN POKéMON GYM$"
+	.i18n 2135
 
 DewfordTown_Gym_Text_1FD28B: @ 81FD28B
-	.string "DEWFORD TOWN POKéMON GYM\p"
-	.string "BRAWLY'S CERTIFIED TRAINERS:\n"
-	.string "{PLAYER}$"
+	.i18n 2136
 
 DewfordTown_Gym_Text_1FD2C4: @ 81FD2C4
-	.string "BRAWLY: A wave may draw back, but it\n"
-	.string "always returns to the shore.\p"
-	.string "A giant wave of a talent like you…\n"
-	.string "I knew you would return!\p"
-	.string "Show me how much higher\n"
-	.string "you've gone!$"
+	.i18n 2137
 
 DewfordTown_Gym_Text_1FD367: @ 81FD367
-	.string "Wow!\n"
-	.string "Swamped again!$"
+	.i18n 2138
 
 DewfordTown_Gym_Text_1FD37B: @ 81FD37B
-	.string "BRAWLY: Battling is vast and it's deep.\n"
-	.string "You can't see the bottom.\l"
-	.string "It's just like the sea of HOENN!$"
+	.i18n 2139
 
 DewfordTown_Gym_Text_1FD3DE: @ 81FD3DE
-	.string "BRAWLY: A wave may draw back, but it\n"
-	.string "always returns to the shore.\p"
-	.string "A giant wave of a talent like you…\n"
-	.string "I knew you would return!\p"
-	.string "Oh? You only have one POKéMON\n"
-	.string "that can battle.\p"
-	.string "I'm sorry, but I'd like you to come back\n"
-	.string "with at least two POKéMON.$"
+	.i18n 2140

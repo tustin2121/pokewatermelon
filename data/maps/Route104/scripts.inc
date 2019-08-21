@@ -1014,174 +1014,97 @@ Route104_EventScript_1ED5D5:: @ 81ED5D5
 	end
 
 Route104_Text_1ED5EC: @ 81ED5EC
-	.string "That seaside cottage is where\n"
-	.string "MR. BRINEY lives.\p"
-	.string "He was once a mighty sailor who never\n"
-	.string "feared the sea, however stormy.$"
+	.i18n 3580
 
 Route104_Text_1ED662: @ 81ED662
-	.string "The sea, huh?\p"
-	.string "I wonder what it's like at the bottom\n"
-	.string "of the sea?$"
+	.i18n 3581
 
 Route104_Text_1ED6A2: @ 81ED6A2
-	.string "If you're going to throw a POKé BALL,\n"
-	.string "weaken the wild POKéMON first.\p"
-	.string "It will be easier to catch if it's been\n"
-	.string "poisoned, burned, or lulled to sleep.$"
+	.i18n 3582
 
 Route104_Text_1ED735: @ 81ED735
-	.string "You're a thief if you try to steal\n"
-	.string "someone else's POKéMON.\p"
-	.string "You should throw POKé BALLS only at\n"
-	.string "wild POKéMON.$"
+	.i18n 3583
 
 Route104_Text_1ED7A2: @ 81ED7A2
-	.string "Oh, no, I'm not a TRAINER.\p"
-	.string "But that's right, if TRAINERS lock eyes,\n"
-	.string "it's a challenge to battle.\p"
-	.string "If you don't want to battle, stay out\n"
-	.string "of their sight.$"
+	.i18n 3584
 
 Route104_Text_1ED838: @ 81ED838
-	.string "I like filling my mouth with seeds,\n"
-	.string "then spitting them out fast!\p"
-	.string "You can have this, so you try it out!\p"
-	.string "Use it on a POKéMON, and it will learn\n"
-	.string "a move for firing seeds rapidly.$"
+	.i18n 3585
 
 Route104_Text_1ED8E7: @ 81ED8E7
-	.string "A word of advice!\p"
-	.string "A TM, TECHNICAL MACHINE, is good only\n"
-	.string "for one-time use.\p"
-	.string "Once you use it, it's gone.\n"
-	.string "Think twice before using it!$"
+	.i18n 3586
 
 Route104_Text_1ED96A: @ 81ED96A
-	.string "This FLOWER SHOP started selling\n"
-	.string "saplings recently.\p"
-	.string "It made me so happy, I went overboard\n"
-	.string "shopping.\p"
-	.string "I don't need this WHITE HERB anymore.\n"
-	.string "Would you take it, please?$"
+	.i18n 3587
 
 Route104_Text_1EDA0F: @ 81EDA0F
-	.string "This FLOWER SHOP started selling\n"
-	.string "saplings recently.\p"
-	.string "It made me so happy, I went overboard\n"
-	.string "shopping. Where should I put them?$"
+	.i18n 3588
 
 Route104_Text_1EDA8C: @ 81EDA8C
-	.string "MR. BRINEY'S COTTAGE$"
+	.i18n 3589
 
 Route104_Text_1EDAA1: @ 81EDAA1
-	.string "ROUTE 1O4\n"
-	.string "{RIGHT_ARROW} PETALBURG CITY$"
+	.i18n 3590
 
 Route104_Text_1EDABC: @ 81EDABC
-	.string "ROUTE 1O4\n"
-	.string "{UP_ARROW} RUSTBORO CITY$"
+	.i18n 3591
 
 Route104_Text_1EDAD6: @ 81EDAD6
-	.string "PRETTY PETAL FLOWER SHOP$"
+	.i18n 3592
 
 Route104_Text_1EDAEF: @ 81EDAEF
-	.string "TRAINER TIPS\p"
-	.string "In the HOENN region there are pairs\n"
-	.string "of TRAINERS who challenge others\l"
-	.string "for 2-on-2 POKéMON battles called\l"
-	.string "DOUBLE BATTLES.\p"
-	.string "In a DOUBLE BATTLE, the TRAINER must\n"
-	.string "send out two POKéMON, the one at the\l"
-	.string "left of the list and the top one.\l"
-	.string "Watch how POKéMON are lined up.$"
+	.i18n 3593
 
 Route104_Text_1EDBFF: @ 81EDBFF
-	.string "MAY: Oh, hi, {PLAYER}{KUN}!\p"
-	.string "DEVON upgraded your POKéNAV with\n"
-	.string "the MATCH CALL system, huh?\p"
-	.string "We should register each other so we\n"
-	.string "can get in contact anytime.$"
+	.i18n 3594
 
 Route104_Text_1EDC8F: @ 81EDC8F
-	.string "{PLAYER} registered MAY\n"
-	.string "in the POKéNAV.$"
+	.i18n 3595
 
 Route104_Text_1EDCB1: @ 81EDCB1
-	.string "MAY: Oh, by the way, {PLAYER}{KUN},\n"
-	.string "how's your POKéDEX coming along?$"
+	.i18n 3596
 
 Route104_Text_1EDCED: @ 81EDCED
-	.string "Mine's looking pretty decent.\n"
-	.string "So…\l"
-	.string "How about a little battle?$"
+	.i18n 3597
 
 Route104_Text_1EDD2A: @ 81EDD2A
-	.string "MAY: Oh, what's the matter?\p"
-	.string "Haven't you caught or raised your\n"
-	.string "POKéMON very much?\p"
-	.string "That's not very good for a TRAINER!$"
+	.i18n 3598
 
 Route104_Text_1EDD9F: @ 81EDD9F
-	.string "MAY: So, what do you think?\n"
-	.string "How about a little battle here?$"
+	.i18n 3599
 
 Route104_Text_1EDDDB: @ 81EDDDB
-	.string "MAY: You just became a TRAINER,\n"
-	.string "{PLAYER}{KUN}. I'm not going to lose!$"
+	.i18n 3600
 
 Route104_Text_1EDE18: @ 81EDE18
-	.string "Yikes!\n"
-	.string "You're better than I expected!$"
+	.i18n 3601
 
 Route104_Text_1EDE3E: @ 81EDE3E
-	.string "MAY: I can tell you've gotten pretty\n"
-	.string "good with the way you handle POKéMON.\p"
-	.string "But instead of only making them\n"
-	.string "battle, you should be like MR. BRINEY.\p"
-	.string "It's important to become friends with\n"
-	.string "POKéMON, too.$"
+	.i18n 3602
 
 Route104_Text_1EDF04: @ 81EDF04
-	.string "BRENDAN: Oh, hey, {PLAYER}!\p"
-	.string "Cool, you had DEVON install the MATCH\n"
-	.string "CALL system on your POKéNAV!\p"
-	.string "Let's register each other in our\n"
-	.string "POKéNAVS so we can keep in touch.$"
+	.i18n 3603
 
 Route104_Text_1EDFA0: @ 81EDFA0
-	.string "{PLAYER} registered BRENDAN\n"
-	.string "in the POKéNAV.$"
+	.i18n 3604
 
 Route104_Text_1EDFC6: @ 81EDFC6
-	.string "BRENDAN: {PLAYER}, how's your POKéDEX?\n"
-	.string "Have you filled in any pages yet?$"
+	.i18n 3605
 
 Route104_Text_1EE009: @ 81EE009
-	.string "Me, I'm doing great!\p"
-	.string "Want to check out how good I am with\n"
-	.string "a battle?$"
+	.i18n 3606
 
 Route104_Text_1EE04D: @ 81EE04D
-	.string "BRENDAN: What's the matter? Don't have\n"
-	.string "any confidence in your POKéMON?$"
+	.i18n 3607
 
 Route104_Text_1EE094: @ 81EE094
-	.string "BRENDAN: What's up?\n"
-	.string "Want to have a battle with me?$"
+	.i18n 3608
 
 Route104_Text_1EE0C7: @ 81EE0C7
-	.string "BRENDAN: I know you just became\n"
-	.string "a TRAINER, but I won't go easy!$"
+	.i18n 3609
 
 Route104_Text_1EE107: @ 81EE107
-	.string "Hmm…\n"
-	.string "You're pretty good.$"
+	.i18n 3610
 
 Route104_Text_1EE120: @ 81EE120
-	.string "BRENDAN: You've gotten pretty decent\n"
-	.string "at handling POKéMON.\p"
-	.string "But, you know, you shouldn't just be\n"
-	.string "making POKéMON battle.\p"
-	.string "Like MR. BRINEY, it's important to\n"
-	.string "become friends with your POKéMON.$"
+	.i18n 3611

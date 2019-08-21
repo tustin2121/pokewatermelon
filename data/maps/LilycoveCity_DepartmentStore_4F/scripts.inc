@@ -54,19 +54,11 @@ LilycoveCity_DepartmentStore_4F_Pokemart_21FE44: @ 821FE44
 	end
 
 LilycoveCity_DepartmentStore_4F_Text_21FE50: @ 821FE50
-	.string "Hmm…\p"
-	.string "An attacking move…\n"
-	.string "Or a defensive move…\p"
-	.string "It's no easy matter to decide which TM\n"
-	.string "moves should be taught to POKéMON…$"
+	.i18n 2581
 
 LilycoveCity_DepartmentStore_4F_Text_21FEC7: @ 821FEC7
-	.string "There are so many different kinds of\n"
-	.string "TM moves.\p"
-	.string "A catalog I read said there are fifty\n"
-	.string "different kinds.$"
+	.i18n 2582
 
 LilycoveCity_DepartmentStore_4F_Text_21FF2D: @ 821FF2D
-	.string "I'd like to get all the different TMs,\n"
-	.string "but a POKéMON learns only four moves.$"
+	.i18n 2583
 

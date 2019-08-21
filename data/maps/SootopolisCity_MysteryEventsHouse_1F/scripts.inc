@@ -180,62 +180,44 @@ SootopolisCity_MysteryEventsHouse_1F_Movement_227B43: @ 8227B43
 	step_end
 
 SootopolisCity_MysteryEventsHouse_1F_Text_227B46: @ 8227B46
-	.string "When I was young, I traveled the world\n"
-	.string "as a POKéMON TRAINER.\p"
-	.string "Now that I've become an old buzzard,\n"
-	.string "my only amusement is watching young\l"
-	.string "TRAINERS battle.$"
+	.i18n 4724
 
 SootopolisCity_MysteryEventsHouse_1F_Text_227BDD: @ 8227BDD
-	.string "The door appears to be locked.$"
+	.i18n 4725
 
 SootopolisCity_MysteryEventsHouse_1F_Text_227BFC: @ 8227BFC
-	.string "A TRAINER named {STR_VAR_1}\n"
-	.string "is visiting my home.\p"
-	.string "Would you like to challenge\n"
-	.string "{STR_VAR_1}?$"
+	.i18n 4726
 
 SootopolisCity_MysteryEventsHouse_1F_Text_227C44: @ 8227C44
-	.string "You won't battle? I'm disappointed\n"
-	.string "that I can't see you battle…$"
+	.i18n 4727
 
 SootopolisCity_MysteryEventsHouse_1F_Text_227C84: @ 8227C84
-	.string "Oh, good, good!\p"
-	.string "But my house isn't all that sturdy.\p"
-	.string "Could I ask you to keep it down to\n"
-	.string "a 3-on-3 match?$"
+	.i18n 4728
 
 SootopolisCity_MysteryEventsHouse_1F_Text_227CEB: @ 8227CEB
-	.string "Before you two battle, you should\n"
-	.string "save your progress.$"
+	.i18n 4729
 
 SootopolisCity_MysteryEventsHouse_1F_Text_227D21: @ 8227D21
-	.string "I hope to see a good match!$"
+	.i18n 4730
 
 SootopolisCity_MysteryEventsHouse_1F_Text_227D3D: @ 8227D3D
-	.string "{STR_VAR_1}$"
+	.i18n 4731
 
 SootopolisCity_MysteryEventsHouse_B1F_Text_227D40: @ 8227D40
-	.string "The match ended up a draw.$"
+	.i18n 4732
 
 SootopolisCity_MysteryEventsHouse_1F_Text_227D5B: @ 8227D5B
-	.string "So, it became a standoff.\p"
-	.string "It was a brilliant match in which\n"
-	.string "neither side conceded a step!$"
+	.i18n 4733
 
 SootopolisCity_MysteryEventsHouse_1F_Text_227DB5: @ 8227DB5
-	.string "{STR_VAR_1}$"
+	.i18n 4734
 
 SootopolisCity_MysteryEventsHouse_1F_Text_227DB8: @ 8227DB8
-	.string "That was superlative!\p"
-	.string "Why, it was like seeing myself in\n"
-	.string "my youth again!$"
+	.i18n 4735
 
 SootopolisCity_MysteryEventsHouse_1F_Text_227E00: @ 8227E00
-	.string "{STR_VAR_1}$"
+	.i18n 4736
 
 SootopolisCity_MysteryEventsHouse_1F_Text_227E03: @ 8227E03
-	.string "Ah, too bad for you!\p"
-	.string "But it was a good match.\n"
-	.string "I hope you can win next time.$"
+	.i18n 4737
 

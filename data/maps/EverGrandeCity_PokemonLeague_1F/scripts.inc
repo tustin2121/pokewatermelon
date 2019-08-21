@@ -122,18 +122,11 @@ EverGrandeCity_PokemonLeague_1F_Movement_2296E5: @ 82296E5
 	step_end
 
 EverGrandeCity_PokemonLeague_1F_Text_2296E8: @ 82296E8
-	.string "Beyond this point, only those TRAINERS\n"
-	.string "who have collected all the GYM BADGES\l"
-	.string "are permitted to enter.\p"
-	.string "TRAINER, let us confirm that you have\n"
-	.string "all the GYM BADGES.$"
+	.i18n 2206
 
 EverGrandeCity_PokemonLeague_1F_Text_229787: @ 8229787
-	.string "You haven't obtained all the BADGES.\p"
-	.string "If you're bound for the POKéMON\n"
-	.string "LEAGUE, you must return with them.$"
+	.i18n 2207
 
 EverGrandeCity_PokemonLeague_1F_Text_2297EF: @ 82297EF
-	.string "TRAINER! Believe in yourself and your\n"
-	.string "POKéMON, and go forth!$"
+	.i18n 2208
 

@@ -74,56 +74,23 @@ LilycoveCity_CoveLilyMotel_1F_Movement_218260: @ 8218260
 	step_end
 
 LilycoveCity_CoveLilyMotel_1F_Text_218264: @ 8218264
-	.string "Hm, so they doubled the guests by\n"
-	.string "using POKéMON as attractions?\p"
-	.string "Hm, well, maybe I should make a cute\n"
-	.string "POKéMON our inn's mascot.\p"
-	.string "I wonder if that will attract more\n"
-	.string "guests to stay with us?$"
+	.i18n 2543
 
 LilycoveCity_CoveLilyMotel_1F_Text_21831E: @ 821831E
-	.string "Oh, sorry, sorry!\n"
-	.string "I was too involved in watching TV!\p"
-	.string "Since that TEAM AQUA came to town,\n"
-	.string "the tourists have been staying away.$"
+	.i18n 2544
 
 LilycoveCity_CoveLilyMotel_1F_Text_21839B: @ 821839B
-	.string "Hey, down in front!\n"
-	.string "I can't see the TV!$"
+	.i18n 2545
 
 LilycoveCity_CoveLilyMotel_1F_Text_2183C3: @ 82183C3
-	.string "Amazing! You're telling me a POKéMON\n"
-	.string "found someone's lost item?\p"
-	.string "That's something. If we had some smart\n"
-	.string "POKéMON like that…\p"
-	.string "We could recover anything that our\n"
-	.string "guests mislaid…$"
+	.i18n 2546
 
 LilycoveCity_CoveLilyMotel_1F_Text_218470: @ 8218470
-	.string "Oh, sorry, sorry!\n"
-	.string "I was too involved in watching TV!\p"
-	.string "I heard that someone busted\n"
-	.string "the TEAM AQUA HIDEOUT.\p"
-	.string "Thanks to that, we just booked\n"
-	.string "a reservation from a big group.\p"
-	.string "It was a company called… Uh…\n"
-	.string "GAME something…$"
+	.i18n 2547
 
 LilycoveCity_CoveLilyMotel_1F_Text_218544: @ 8218544
-	.string "Amazing! A house-sitting POKéMON\n"
-	.string "caught a burglar?\p"
-	.string "That's something. If we had a tough\n"
-	.string "POKéMON as a security guard…\p"
-	.string "We would be able to provide our guests\n"
-	.string "with greater safety.$"
+	.i18n 2548
 
 LilycoveCity_CoveLilyMotel_1F_Text_2185F4: @ 82185F4
-	.string "Oh, sorry, sorry!\n"
-	.string "I was too involved in watching TV.\p"
-	.string "Oh, yes. A big group of guests arrived\n"
-	.string "a little while ago.\p"
-	.string "They booked in as GAME FREAK,\n"
-	.string "so I guess they must make games.\p"
-	.string "Uh-oh, I'd better get working on\n"
-	.string "their dinner!$"
+	.i18n 2549
 

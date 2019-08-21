@@ -10,11 +10,8 @@ SootopolisCity_House5_EventScript_226E9D:: @ 8226E9D
 	end
 
 SootopolisCity_House5_Text_226EA6: @ 8226EA6
-	.string "There appears to be some connection\n"
-	.string "between SOOTOPOLIS and MT. PYRE.\p"
-	.string "My friends and I did some research on\n"
-	.string "it at the lab where I used to work.$"
+	.i18n 4695
 
 SootopolisCity_House5_Text_226F35: @ 8226F35
-	.string "My big brother used to study the sea.$"
+	.i18n 4696
 

@@ -64,123 +64,74 @@ MeteorFalls_1F_2R_EventScript_22C5ED:: @ 822C5ED
 	end
 
 MeteorFalls_1F_2R_Text_22C608: @ 822C608
-	.string "This is where we DRAGON users do our\n"
-	.string "training.\p"
-	.string "The CHAMPION even visits.\n"
-	.string "Now do you see how special it is here?$"
+	.i18n 3022
 
 MeteorFalls_1F_2R_Text_22C678: @ 822C678
-	.string "Urgh!\n"
-	.string "I didn't expect you to be so strong!$"
+	.i18n 3023
 
 MeteorFalls_1F_2R_Text_22C6A3: @ 822C6A3
-	.string "The road ahead remains long and harsh.\p"
-	.string "When will my POKéMON and I become\n"
-	.string "the best?$"
+	.i18n 3024
 
 MeteorFalls_1F_2R_Text_22C6F6: @ 822C6F6
-	.string "I want to know more about your power.\n"
-	.string "Let me register you in my POKéNAV.$"
+	.i18n 3025
 
 MeteorFalls_1F_2R_Text_22C73F: @ 822C73F
-	.string "Since we met, we have trained hard\n"
-	.string "with our sights on number one.\p"
-	.string "Help us see how much stronger we've\n"
-	.string "become!$"
+	.i18n 3026
 
 MeteorFalls_1F_2R_Text_22C7AD: @ 822C7AD
-	.string "Urgh!\n"
-	.string "I didn't expect you to be so strong!$"
+	.i18n 3027
 
 MeteorFalls_1F_2R_Text_22C7D8: @ 822C7D8
-	.string "You've obviously kept up your\n"
-	.string "POKéMON training.\p"
-	.string "So long as you remain strong, I, too,\n"
-	.string "can become stronger!$"
+	.i18n 3028
 
 MeteorFalls_1F_2R_Text_22C843: @ 822C843
-	.string "JOHN: We've always battled POKéMON\n"
-	.string "together as a twosome.\l"
-	.string "We've confidence in ourselves.$"
+	.i18n 3029
 
 MeteorFalls_1F_2R_Text_22C89C: @ 822C89C
-	.string "JOHN: Oh, my.\n"
-	.string "We've lost, dear wife.$"
+	.i18n 3030
 
 MeteorFalls_1F_2R_Text_22C8C1: @ 822C8C1
-	.string "JOHN: We've been married for\n"
-	.string "fifty years.\p"
-	.string "Come to think of it, I've yet to beat\n"
-	.string "my dear wife in a battle.$"
+	.i18n 3031
 
 MeteorFalls_1F_2R_Text_22C92B: @ 822C92B
-	.string "JOHN: Well, well, what a young TRAINER!\p"
-	.string "Will you battle with us? If so, you'll\n"
-	.string "have to return with more POKéMON.$"
+	.i18n 3032
 
 MeteorFalls_1F_2R_Text_22C99C: @ 822C99C
-	.string "JOHN: Young TRAINER, if the chance\n"
-	.string "arises, will you battle with us again?$"
+	.i18n 3033
 
 MeteorFalls_1F_2R_Text_22C9E6: @ 822C9E6
-	.string "JAY: We've been married for\n"
-	.string "fifty years.\p"
-	.string "The bond we share as a couple could\n"
-	.string "never be broken.$"
+	.i18n 3034
 
 MeteorFalls_1F_2R_Text_22CA44: @ 822CA44
-	.string "JAY: Oh, dear.\n"
-	.string "We've lost, my dear husband.$"
+	.i18n 3035
 
 MeteorFalls_1F_2R_Text_22CA70: @ 822CA70
-	.string "JAY: Fifty years of marriage…\p"
-	.string "If we ever argued, we always settled\n"
-	.string "it with a POKéMON battle…$"
+	.i18n 3036
 
 MeteorFalls_1F_2R_Text_22CACD: @ 822CACD
-	.string "JAY: Well, well, aren't you a young\n"
-	.string "TRAINER?\p"
-	.string "If you'd care to battle with us, you'll\n"
-	.string "have to come back with more POKéMON.$"
+	.i18n 3037
 
 MeteorFalls_1F_2R_Text_22CB47: @ 822CB47
-	.string "JOHN: We've always battled POKéMON\n"
-	.string "together as a twosome.\l"
-	.string "We've confidence in ourselves.$"
+	.i18n 3038
 
 MeteorFalls_1F_2R_Text_22CBA0: @ 822CBA0
-	.string "JOHN: Oh, my.\n"
-	.string "We've lost, dear wife.$"
+	.i18n 3039
 
 MeteorFalls_1F_2R_Text_22CBC5: @ 822CBC5
-	.string "JOHN: Married for fifty years…\p"
-	.string "On reflection, the dear wife and I,\n"
-	.string "we battled day in and day out…$"
+	.i18n 3040
 
 MeteorFalls_1F_2R_Text_22CC27: @ 822CC27
-	.string "JOHN: Well, well, what a young TRAINER!\p"
-	.string "Will you battle with us? If so, you'll\n"
-	.string "have to return with more POKéMON.$"
+	.i18n 3041
 
 MeteorFalls_1F_2R_Text_22CC98: @ 822CC98
-	.string "JAY: We've been married for\n"
-	.string "fifty years.\p"
-	.string "We've supported each other all that\n"
-	.string "time. We've made ourselves strong.$"
+	.i18n 3042
 
 MeteorFalls_1F_2R_Text_22CD08: @ 822CD08
-	.string "JAY: Oh, dear.\n"
-	.string "We've lost, my dear husband.$"
+	.i18n 3043
 
 MeteorFalls_1F_2R_Text_22CD34: @ 822CD34
-	.string "JAY: Fifty years of marriage…\n"
-	.string "Many things have happened.\p"
-	.string "I hope that we will continue to make\n"
-	.string "happy memories together.$"
+	.i18n 3044
 
 MeteorFalls_1F_2R_Text_22CDAB: @ 822CDAB
-	.string "JAY: Well, well, aren't you a young\n"
-	.string "TRAINER?\p"
-	.string "If you'd care to battle with us, you'll\n"
-	.string "have to come back with more POKéMON.$"
+	.i18n 3045
 

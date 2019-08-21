@@ -1,313 +1,200 @@
 Text_274746: @ 8274746
-	.string "If some vines drop down, this tree can\n"
-	.string "be climbed.$"
+	.i18n 5668
 
 Text_274779: @ 8274779
-	.string "If some vines drop down, this tree can\n"
-	.string "be climbed.\p"
-	.string "Use the SECRET POWER?$"
+	.i18n 5669
 
 Text_2747C2: @ 82747C2
-	.string "A thick vine dropped down!$"
+	.i18n 5670
 
 Text_2747DD: @ 82747DD
-	.string "If this clump of grass can be moved,\n"
-	.string "it might be possible to go inside.$"
+	.i18n 5671
 
 Text_274825: @ 8274825
-	.string "If this clump of grass can be moved,\n"
-	.string "it might be possible to go inside.\p"
-	.string "Use the SECRET POWER?$"
+	.i18n 5672
 
 Text_274883: @ 8274883
-	.string "Discovered a small entrance!$"
+	.i18n 5673
 
 SecretBase_RedCave1_Text_2748A0: @ 82748A0
-	.string "Have you made a SECRET BASE already?\p"
-	.string "I went here, there, everywhere before\n"
-	.string "choosing this place.\p"
-	.string "Since you're already here, how would\n"
-	.string "you like to battle?$"
+	.i18n 5674
 
 SecretBase_RedCave1_Text_274939: @ 8274939
-	.string "Okay!\n"
-	.string "Here we come!$"
+	.i18n 5675
 
 SecretBase_RedCave1_Text_27494D: @ 827494D
-	.string "Hunh?\n"
-	.string "Oh, you can't now…$"
+	.i18n 5676
 
 SecretBase_RedCave1_Text_274966:: @ 8274966
-	.string "Waaargh! You're too strong!\n"
-	.string "About me losing… Please keep it secret!$"
+	.i18n 5677
 
 SecretBase_RedCave1_Text_2749AA: @ 82749AA
-	.string "What do you think of my SECRET BASE?\n"
-	.string "Come visit me again tomorrow.$"
+	.i18n 5678
 
 SecretBase_RedCave1_Text_2749ED: @ 82749ED
-	.string "Have you made a SECRET BASE already?\p"
-	.string "I went here, there, everywhere before\n"
-	.string "choosing this place.\p"
-	.string "Feel free to hang out!$"
+	.i18n 5679
 
 SecretBase_RedCave1_Text_274A64: @ 8274A64
-	.string "There're a lot of places where\n"
-	.string "you can make a SECRET BASE.\p"
-	.string "But I like this spot best.\n"
-	.string "Don't you think it's nice?\p"
-	.string "Oh, would you like to have a battle?$"
+	.i18n 5680
 
 SecretBase_RedCave1_Text_274AFA: @ 8274AFA
-	.string "Okay, here goes!$"
+	.i18n 5681
 
 SecretBase_RedCave1_Text_274B0B: @ 8274B0B
-	.string "Oh…\n"
-	.string "You can't now, okay.$"
+	.i18n 5682
 
 SecretBase_RedCave1_Text_274B24:: @ 8274B24
-	.string "Hmmm… It's our loss…\n"
-	.string "But don't tell anyone!\l"
-	.string "It's a confidential secret!$"
+	.i18n 5683
 
 SecretBase_RedCave1_Text_274B6C: @ 8274B6C
-	.string "If you're in this area again,\n"
-	.string "I hope you'll visit me.$"
+	.i18n 5684
 
 SecretBase_RedCave1_Text_274BA2: @ 8274BA2
-	.string "There're a lot of places where you can\n"
-	.string "make a SECRET BASE.\p"
-	.string "But I like this spot best.\n"
-	.string "Don't you think it's nice?$"
+	.i18n 5685
 
 SecretBase_RedCave1_Text_274C13: @ 8274C13
-	.string "This is a popular spot.\n"
-	.string "It's always taken.\p"
-	.string "Oh! Were you thinking about\n"
-	.string "taking this spot, too?\p"
-	.string "I'll tell you what, you can have this\n"
-	.string "spot if you can beat me.$"
+	.i18n 5686
 
 SecretBase_RedCave1_Text_274CB0: @ 8274CB0
-	.string "Okay!\n"
-	.string "I'm going to defend my SECRET BASE!$"
+	.i18n 5687
 
 SecretBase_RedCave1_Text_274CDA: @ 8274CDA
-	.string "Hunh? Is that right?\n"
-	.string "You're not interested in this spot?$"
+	.i18n 5688
 
 SecretBase_RedCave1_Text_274D13:: @ 8274D13
-	.string "I can't keep going!\n"
-	.string "I surrender!$"
+	.i18n 5689
 
 SecretBase_RedCave1_Text_274D34: @ 8274D34
-	.string "Okay, when I move one day,\n"
-	.string "this place will be yours!$"
+	.i18n 5690
 
 SecretBase_RedCave1_Text_274D69: @ 8274D69
-	.string "This is a popular spot.\n"
-	.string "It's always taken.\p"
-	.string "I waited a long time for it to open.\n"
-	.string "I finally got to use it!$"
+	.i18n 5691
 
 SecretBase_RedCave1_Text_274DD2: @ 8274DD2
-	.string "Welcome to my POKéMON LAB.\p"
-	.string "I carry out research on battling in\n"
-	.string "secrecy.\p"
-	.string "Would you like to see how strong I am?$"
+	.i18n 5692
 
 SecretBase_RedCave1_Text_274E41: @ 8274E41
-	.string "I'm going to go all out!$"
+	.i18n 5693
 
 SecretBase_RedCave1_Text_274E5A: @ 8274E5A
-	.string "Oh.\n"
-	.string "Some other time, then!$"
+	.i18n 5694
 
 SecretBase_RedCave1_Text_274E75:: @ 8274E75
-	.string "Hmm… I've still got lots to learn.\n"
-	.string "I have to study some more.$"
+	.i18n 5695
 
 SecretBase_RedCave1_Text_274EB3: @ 8274EB3
-	.string "Thanks for battling with me.\n"
-	.string "Please come back again tomorrow.$"
+	.i18n 5696
 
 SecretBase_RedCave1_Text_274EF1: @ 8274EF1
-	.string "Welcome to my POKéMON LAB.\p"
-	.string "I carry out research on battling in\n"
-	.string "secrecy.$"
+	.i18n 5697
 
 SecretBase_RedCave1_Text_274F39: @ 8274F39
-	.string "A big mansion is nice, but I like this\n"
-	.string "sort of place more.\p"
-	.string "I like it because all kinds of people\n"
-	.string "come visit me.\p"
-	.string "So, how would you like a battle?$"
+	.i18n 5698
 
 SecretBase_RedCave1_Text_274FCA: @ 8274FCA
-	.string "That's the way!$"
+	.i18n 5699
 
 SecretBase_RedCave1_Text_274FDA: @ 8274FDA
-	.string "When you're ready, give me a shout!$"
+	.i18n 5700
 
 SecretBase_RedCave1_Text_274FFE:: @ 8274FFE
-	.string "Aww! Done in!\n"
-	.string "But it's still fun to battle!$"
+	.i18n 5701
 
 SecretBase_RedCave1_Text_27502A: @ 827502A
-	.string "Well, anyway, I should go buy some\n"
-	.string "decorations and furniture.\p"
-	.string "I want my SECRET BASE to be a place\n"
-	.string "other people can enjoy.$"
+	.i18n 5702
 
 SecretBase_RedCave1_Text_2750A4: @ 82750A4
-	.string "A big mansion is nice, but I like this\n"
-	.string "sort of place more.\p"
-	.string "I like it because all kinds of people\n"
-	.string "come visit me.$"
+	.i18n 5703
 
 SecretBase_RedCave1_Text_275114: @ 8275114
-	.string "I simply adore shopping for decorations\n"
-	.string "and furniture.\p"
-	.string "I also love raising POKéMON just\n"
-	.string "as much.\p"
-	.string "If you would be so kind, will you battle\n"
-	.string "with my POKéMON?$"
+	.i18n 5704
 
 SecretBase_RedCave1_Text_2751AF: @ 82751AF
-	.string "Thank you.\n"
-	.string "Shall we begin?$"
+	.i18n 5705
 
 SecretBase_RedCave1_Text_2751CA: @ 82751CA
-	.string "Oh.\n"
-	.string "How disappointing…$"
+	.i18n 5706
 
 SecretBase_RedCave1_Text_2751E1:: @ 82751E1
-	.string "I concede…$"
+	.i18n 5707
 
 SecretBase_RedCave1_Text_2751EC: @ 82751EC
-	.string "That was all in good fun!\n"
-	.string "I should go enjoy shopping now.$"
+	.i18n 5708
 
 SecretBase_RedCave1_Text_275226: @ 8275226
-	.string "I simply adore shopping for decorations\n"
-	.string "and furniture.\p"
-	.string "I also love raising POKéMON just\n"
-	.string "as much.$"
+	.i18n 5709
 
 SecretBase_RedCave1_Text_275287: @ 8275287
-	.string "Some people make their SECRET BASES in\n"
-	.string "hard-to-find places.\l"
-	.string "Do they want to just lie low?\p"
-	.string "But since you found me, how about we\n"
-	.string "have a battle?$"
+	.i18n 5710
 
 SecretBase_RedCave1_Text_275315: @ 8275315
-	.string "I'm not going down easily!$"
+	.i18n 5711
 
 SecretBase_RedCave1_Text_275330: @ 8275330
-	.string "Oh… Are you maybe tired from searching\n"
-	.string "for this place?$"
+	.i18n 5712
 
 SecretBase_RedCave1_Text_275367:: @ 8275367
-	.string "I went down…$"
+	.i18n 5713
 
 SecretBase_RedCave1_Text_275374: @ 8275374
-	.string "Where's your SECRET BASE?\n"
-	.string "I should go visit you there.$"
+	.i18n 5714
 
 SecretBase_RedCave1_Text_2753AB: @ 82753AB
-	.string "Some people make their SECRET BASES in\n"
-	.string "hard-to-find places.\l"
-	.string "Do they want to just lie low?$"
+	.i18n 5715
 
 SecretBase_RedCave1_Text_275405: @ 8275405
-	.string "People have told me that you can get\n"
-	.string "decorations in several ways.\p"
-	.string "We should have a race to see who can\n"
-	.string "get nicer decorations and furniture!\p"
-	.string "In the meantime, want to battle?$"
+	.i18n 5716
 
 SecretBase_RedCave1_Text_2754B2: @ 82754B2
-	.string "This is my SECRET BASE.\n"
-	.string "I can't lose!$"
+	.i18n 5717
 
 SecretBase_RedCave1_Text_2754D8: @ 82754D8
-	.string "I'll battle with you anytime.$"
+	.i18n 5718
 
 SecretBase_RedCave1_Text_2754F6:: @ 82754F6
-	.string "Huh?\n"
-	.string "Did I just lose?$"
+	.i18n 5719
 
 SecretBase_RedCave1_Text_27550C: @ 827550C
-	.string "I won't lose at collecting decorations.\n"
-	.string "Come visit again!$"
+	.i18n 5720
 
 SecretBase_RedCave1_Text_275546: @ 8275546
-	.string "People have told me that you can get\n"
-	.string "decorations in several ways.\p"
-	.string "We should have a race to see who can\n"
-	.string "get nicer decorations and furniture!$"
+	.i18n 5721
 
 SecretBase_RedCave1_Text_2755D2: @ 82755D2
-	.string "I found a spot I liked, and I did it up\n"
-	.string "with my favorite decorations.\p"
-	.string "I raise my favorite POKéMON and grow\n"
-	.string "stronger with it.\p"
-	.string "That's what I do.\n"
-	.string "Want to battle with me?$"
+	.i18n 5722
 
 SecretBase_RedCave1_Text_275679: @ 8275679
-	.string "Show me what you're made of!$"
+	.i18n 5723
 
 SecretBase_RedCave1_Text_275696: @ 8275696
-	.string "I guess there are times when you're not\n"
-	.string "into it.$"
+	.i18n 5724
 
 SecretBase_RedCave1_Text_2756C7:: @ 82756C7
-	.string "I know exactly what you're made of now.$"
+	.i18n 5725
 
 SecretBase_RedCave1_Text_2756EF: @ 82756EF
-	.string "We can both become stronger.\n"
-	.string "Let's keep at it!$"
+	.i18n 5726
 
 SecretBase_RedCave1_Text_27571E: @ 827571E
-	.string "I found a spot I liked, and I did it up\n"
-	.string "with my favorite decorations.\p"
-	.string "I raise my favorite POKéMON and grow\n"
-	.string "stronger with it.\p"
-	.string "Every day is a great day.$"
+	.i18n 5727
 
 SecretBase_RedCave1_Text_2757B5: @ 82757B5
-	.string "You can learn a lot about the taste\n"
-	.string "and sense of people by the kinds of\l"
-	.string "decorations they have, and how they\l"
-	.string "display them.\p"
-	.string "What do you think of my taste?\n"
-	.string "Are you speechless?\p"
-	.string "Want to see my taste in battling?$"
+	.i18n 5728
 
 SecretBase_RedCave1_Text_275884: @ 8275884
-	.string "There's no holding back!$"
+	.i18n 5729
 
 SecretBase_RedCave1_Text_27589D: @ 827589D
-	.string "I'll be happy to demonstrate my style\n"
-	.string "anytime.$"
+	.i18n 5730
 
 SecretBase_RedCave1_Text_2758CC:: @ 82758CC
-	.string "You're supremely talented!\n"
-	.string "Your power seems to be limitless…$"
+	.i18n 5731
 
 SecretBase_RedCave1_Text_275909: @ 8275909
-	.string "What did you think of my style?\n"
-	.string "I'll keep on polishing it!$"
+	.i18n 5732
 
 SecretBase_RedCave1_Text_275944: @ 8275944
-	.string "You can learn a lot about the taste\n"
-	.string "and sense of people by the kinds of\l"
-	.string "decorations they have, and how they\l"
-	.string "display them.\p"
-	.string "What do you think of my taste?\n"
-	.string "Are you speechless?$"
+	.i18n 5733
 
 EventScript_2759F1:: @ 82759F1
 	special GetSecretBaseTypeInFrontOfPlayer
@@ -1048,66 +935,46 @@ SecretBase_EventScript_CushionInteract:: @ 82766A6
 	end
 
 Text_2766AA: @ 82766AA
-	.string "All decorations and furniture in your\n"
-	.string "SECRET BASE will be returned to your PC.\p"
-	.string "Is that okay?$"
+	.i18n 5734
 
 Text_WantToRegisterSecretBase: @ 8276707
-	.string "Do you want to register\n"
-	.string "{STR_VAR_1}'s SECRET BASE?$"
+	.i18n 5735
 
 Text_276731: @ 8276731
-	.string "This data is already registered.\n"
-	.string "Would you like to delete it?$"
+	.i18n 5736
 
 Text_TooManyBasesDeleteSome: @ 827676F
-	.string "Up to 10 locations can be registered.\p"
-	.string "Delete a location if you want to\n"
-	.string "register another location.$"
+	.i18n 5737
 
 Text_2767D1: @ 82767D1
-	.string "Registration completed.$"
+	.i18n 5738
 
 Text_2767E9: @ 82767E9
-	.string "Data has been unregistered.$"
+	.i18n 5739
 
 Text_SecretBaseBootUpPC: @ 8276805
-	.string "{PLAYER} booted up the PC.$"
+	.i18n 5740
 
 Text_SecretBasePCStartMenu: @ 827681A
-	.string "What would you like to do?$"
+	.i18n 5741
 
 Text_276835: @ 8276835
-	.string "Once registered, a SECRET BASE will not\n"
-	.string "disappear unless the other TRAINER\l"
-	.string "moves it to a different location.\p"
-	.string "If a SECRET BASE is deleted from the\n"
-	.string "registered list, another one may take\l"
-	.string "its place.\p"
-	.string "Up to ten SECRET BASE locations\n"
-	.string "may be registered.$"
+	.i18n 5742
 
 Text_27692B: @ 827692B
-	.string "A shield of {STR_VAR_2} that marks winning\n"
-	.string "{STR_VAR_1} times in a row at the BATTLE TOWER.$"
+	.i18n 5743
 
 Text_276974: @ 8276974
-	.string "A realistic toy TV. It could be easily\n"
-	.string "mistaken for the real thing.$"
+	.i18n 5744
 
 Text_2769B8: @ 82769B8
-	.string "A toy TV shaped like a SEEDOT.\n"
-	.string "It looks ready to roll away on its own…$"
+	.i18n 5745
 
 Text_2769FF: @ 82769FF
-	.string "A toy TV shaped like a SKITTY.\n"
-	.string "It looks ready to stroll away…$"
+	.i18n 5746
 
 Text_276A3D: @ 8276A3D
-	.string "You may only make one SECRET BASE.\p"
-	.string "Would you like to move from the SECRET\n"
-	.string "BASE near {STR_VAR_1}?$"
+	.i18n 5747
 
 Text_276A95: @ 8276A95
-	.string "Moving completed.\p"
-	.string "Would you like to use the SECRET POWER?$"
+	.i18n 5748

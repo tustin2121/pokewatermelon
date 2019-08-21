@@ -29,43 +29,32 @@ Route110_TrickHousePuzzle4_EventScript_26C8AC:: @ 826C8AC
 	end
 
 Route110_TrickHousePuzzle4_Text_26C8C3: @ 826C8C3
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is cool.”\n"
-	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.i18n 3776
 
 Route110_TrickHousePuzzle4_Text_26C92D: @ 826C92D
-	.string "It's too much bother to think this out.\n"
-	.string "I only wanted to battle!$"
+	.i18n 3777
 
 Route110_TrickHousePuzzle4_Text_26C96E: @ 826C96E
-	.string "Even though I lost, I still like battling\n"
-	.string "the best!$"
+	.i18n 3778
 
 Route110_TrickHousePuzzle4_Text_26C9A2: @ 826C9A2
-	.string "Wouldn't you agree? You would go\n"
-	.string "anywhere if TRAINERS were there.$"
+	.i18n 3779
 
 Route110_TrickHousePuzzle4_Text_26C9E4: @ 826C9E4
-	.string "Heh! Boulders like this, I can brush\n"
-	.string "aside with one finger!$"
+	.i18n 3780
 
 Route110_TrickHousePuzzle4_Text_26CA20: @ 826CA20
-	.string "I can push boulders, but I can't solve\n"
-	.string "the puzzle…$"
+	.i18n 3781
 
 Route110_TrickHousePuzzle4_Text_26CA53: @ 826CA53
-	.string "It's not good enough to be brawny…\n"
-	.string "You have to use your head. Be brainy!$"
+	.i18n 3782
 
 Route110_TrickHousePuzzle4_Text_26CA9C: @ 826CA9C
-	.string "The TRICK HOUSE is getting trickier,\n"
-	.string "isn't it?$"
+	.i18n 3783
 
 Route110_TrickHousePuzzle4_Text_26CACB: @ 826CACB
-	.string "Aaak!$"
+	.i18n 3784
 
 Route110_TrickHousePuzzle4_Text_26CAD1: @ 826CAD1
-	.string "Has anyone made it to the end?$"
+	.i18n 3785
 

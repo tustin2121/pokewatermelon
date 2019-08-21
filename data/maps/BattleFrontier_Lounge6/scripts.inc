@@ -49,32 +49,16 @@ BattleFrontier_Lounge6_EventScript_265083:: @ 8265083
 	end
 
 BattleFrontier_Lounge6_Text_26508D: @ 826508D
-	.string "My POKéMON is a {STR_VAR_2}.\n"
-	.string "Do you know it?\l"
-	.string "It's quite cute and rather nice.\p"
-	.string "This little one, I could trade with\n"
-	.string "pride!\p"
-	.string "Would you like to trade me a {STR_VAR_1}\n"
-	.string "for my {STR_VAR_2}?$"
+	.i18n 1902
 
 BattleFrontier_Lounge6_Text_265128: @ 8265128
-	.string "Oh, it's adorable!\n"
-	.string "Thank you!\l"
-	.string "I promise I'll be good to it!\p"
-	.string "Oh! I hope you'll be good to\n"
-	.string "my {STR_VAR_2}, too!$"
+	.i18n 1903
 
 BattleFrontier_Lounge6_Text_26518D: @ 826518D
-	.string "Oh, I'm sorry!\n"
-	.string "I don't intend to trade for anything\l"
-	.string "but a {STR_VAR_1}.$"
+	.i18n 1904
 
 BattleFrontier_Lounge6_Text_2651CB: @ 82651CB
-	.string "Oh, you won't?\n"
-	.string "Well, that's fine, too.\l"
-	.string "Please come visit us again.$"
+	.i18n 1905
 
 BattleFrontier_Lounge6_Text_26520E: @ 826520E
-	.string "Giggle!\n"
-	.string "A SKITTY is so much cuter than I had\l"
-	.string "imagined. I'm delighted!$"
+	.i18n 1906

@@ -202,35 +202,25 @@ LilycoveCity_DepartmentStoreRooftop_EventScript_22045E:: @ 822045E
 	end
 
 LilycoveCity_DepartmentStoreRooftop_Text_220463: @ 8220463
-	.string "Don't they have set dates for their\n"
-	.string "clear-out sales?\p"
-	.string "I watch TV, but they never show any\n"
-	.string "commercials.$"
+	.i18n 2559
 
 LilycoveCity_DepartmentStoreRooftop_Text_2204C9: @ 82204C9
-	.string "Yes! I've been waiting a long time for\n"
-	.string "this clear-out sale.\p"
-	.string "They have items that you can only get\n"
-	.string "here. I'm going to load up, that I am!$"
+	.i18n 2560
 
 LilycoveCity_DepartmentStoreRooftop_Text_220552: @ 8220552
-	.string "Ohh… I'm bone-dry thirsty!$"
+	.i18n 2561
 
 LilycoveCity_DepartmentStoreRooftop_Text_22056D: @ 822056D
-	.string "It's a VENDING MACHINE.\n"
-	.string "Which drink would you like?$"
+	.i18n 2562
 
 LilycoveCity_DepartmentStoreRooftop_Text_2205A1: @ 82205A1
-	.string "Clang!\p"
-	.string "A can of {STR_VAR_1} dropped down.$"
+	.i18n 2563
 
 LilycoveCity_DepartmentStoreRooftop_Text_2205C2: @ 82205C2
-	.string "Clang!\p"
-	.string "Score! An extra can of {STR_VAR_1}\n"
-	.string "dropped down!$"
+	.i18n 2564
 
 LilycoveCity_DepartmentStoreRooftop_Text_2205F1: @ 82205F1
-	.string "Not enough money…$"
+	.i18n 2565
 
 LilycoveCity_DepartmentStoreRooftop_Text_220603: @ 8220603
-	.string "Decided against buying a drink.$"
+	.i18n 2566

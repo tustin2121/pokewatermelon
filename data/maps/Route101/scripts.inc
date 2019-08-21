@@ -260,42 +260,23 @@ Route101_Movement_1EBE8D: @ 81EBE8D
 	step_end
 
 Route101_Text_1EBE8F: @ 81EBE8F
-	.string "H-help me!$"
+	.i18n 3555
 
 Route101_Text_1EBE9A: @ 81EBE9A
-	.string "Hello! You over there!\n"
-	.string "Please! Help!\p"
-	.string "In my BAG!\n"
-	.string "There's a POKé BALL!$"
+	.i18n 3556
 
 Route101_Text_1EBEDF: @ 81EBEDF
-	.string "Wh-Where are you going?!\n"
-	.string "Don't leave me like this!$"
+	.i18n 3557
 
 Route101_Text_1EBF12: @ 81EBF12
-	.string "PROF. BIRCH: Whew…\p"
-	.string "I was in the tall grass studying wild\n"
-	.string "POKéMON when I was jumped.\p"
-	.string "You saved me.\n"
-	.string "Thanks a lot!\p"
-	.string "Oh?\p"
-	.string "Hi, you're {PLAYER}{KUN}!\p"
-	.string "This is not the place to chat, so come\n"
-	.string "by my POKéMON LAB later, okay?$"
+	.i18n 3558
 
 Route101_Text_1EBFDD: @ 81EBFDD
-	.string "If POKéMON get tired, take them to\n"
-	.string "a POKéMON CENTER.\p"
-	.string "There's a POKéMON CENTER in OLDALE\n"
-	.string "TOWN right close by.$"
+	.i18n 3559
 
 Route101_Text_1EC04A: @ 81EC04A
-	.string "Wild POKéMON will jump out at you in\n"
-	.string "tall grass.\p"
-	.string "If you want to catch POKéMON, you have\n"
-	.string "to go into the tall grass and search.$"
+	.i18n 3560
 
 Route101_Text_1EC0C8: @ 81EC0C8
-	.string "ROUTE 101\n"
-	.string "{UP_ARROW} OLDALE TOWN$"
+	.i18n 3561
 

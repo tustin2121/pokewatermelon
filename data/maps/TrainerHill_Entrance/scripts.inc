@@ -311,162 +311,82 @@ TrainerHill_Entrance_Pokemart_268414: @ 8268414
 	end
 
 TrainerHill_Entrance_Text_268430: @ 8268430
-	.string "This is the TRAINER HILL where\n"
-	.string "you may enjoy tag battles with many\l"
-	.string "TRAINERS.\p"
-	.string "Unfortunately, we're still getting\n"
-	.string "things ready. Please come back later!$"
+	.i18n 4742
 
 TrainerHill_Entrance_Text_2684C6: @ 82684C6
-	.string "Welcome!\p"
-	.string "This is the TRAINER HILL where\n"
-	.string "you may enjoy tag battles with many\l"
-	.string "TRAINERS!$"
+	.i18n 4743
 
 TrainerHill_Entrance_Text_26851C: @ 826851C
-	.string "Is this your first visit here?\p"
-	.string "Before you enter, please save\n"
-	.string "your game.$"
+	.i18n 4744
 
 TrainerHill_Entrance_Text_268564: @ 8268564
-	.string "Let's see…\n"
-	.string "The TRAINERS here now are…\p"
-	.string "Up to floor no. {STR_VAR_1}.$"
+	.i18n 4745
 
 TrainerHill_Entrance_Text_26859E: @ 826859E
-	.string "Let's see…\n"
-	.string "The TRAINERS here now are…\p"
-	.string "There appear to be TRAINERS gathered\n"
-	.string "in every room.$"
+	.i18n 4746
 
 TrainerHill_Entrance_Text_2685F8: @ 82685F8
-	.string "Would you like to challenge the\n"
-	.string "waiting TRAINERS?$"
+	.i18n 4747
 
 TrainerHill_Entrance_Text_26862A: @ 826862A
-	.string "I will time your progress.\n"
-	.string "Best of luck!\p"
-	.string "On your marks…\p"
-	.string "Get set…\p"
-	.string "Go!$"
+	.i18n 4748
 
 TrainerHill_Entrance_Text_26866F: @ 826866F
-	.string "Please do visit us again!$"
+	.i18n 4749
 
 TrainerHill_Entrance_Text_268689: @ 8268689
-	.string "That was too bad.\p"
-	.string "I think you put in a tremendous\n"
-	.string "effort in your battling.\p"
-	.string "Please come back and try again!$"
+	.i18n 4750
 
 TrainerHill_Entrance_Text_2686F4: @ 82686F4
-	.string "I hope you give it your best.$"
+	.i18n 4751
 
 TrainerHill_Entrance_Text_268712: @ 8268712
-	.string "When the TRAINERS switch places,\n"
-	.string "the movement can be hectic.\p"
-	.string "To avoid the stampede, we moved\n"
-	.string "the reception counter here.\p"
-	.string "I'm sorry for the inconvenience.$"
+	.i18n 4752
 
 TrainerHill_Entrance_Text_2687AC: @ 82687AC
-	.string "Thank you for playing!$"
+	.i18n 4753
 
 TrainerHill_Entrance_Text_2687C3: @ 82687C3
-	.string "Here at the TRAINER HILL, we conduct\n"
-	.string "an event called the Time Attack.\p"
-	.string "It is a race that measures how long\n"
-	.string "you take to reach our owner on\l"
-	.string "the rooftop from this counter.\p"
-	.string "The fastest times are posted on\n"
-	.string "the Time Board--try competing with\l"
-	.string "your friends.\p"
-	.string "In TRAINER battles along the way,\n"
-	.string "neither Exp. Points nor money will\l"
-	.string "be awarded.$"
+	.i18n 4754
 
 TrainerHill_Entrance_Text_26890D: @ 826890D
-	.string "Oh, I'm sorry, but you appear to have\n"
-	.string "only one POKéMON with you.\p"
-	.string "You will need at least two POKéMON\n"
-	.string "to enter this event.$"
+	.i18n 4755
 
 TrainerHill_Roof_Text_268986: @ 8268986
-	.string "Hm! Hm!\p"
-	.string "You finally came!\n"
-	.string "Yes, you have arrived!\p"
-	.string "Wait! Don't say it!\n"
-	.string "I know why you came all the way\l"
-	.string "here by yourself!\p"
-	.string "You wanted to see me, the owner\n"
-	.string "of the TRAINER HILL, because…\p"
-	.string "You want to form a tag team with me!\n"
-	.string "Wa-hoo!\p"
-	.string "…Uh?\n"
-	.string "That's not it?\p"
-	.string "Anyway, I watched you on your way up.\n"
-	.string "Marvelous battling! Bravo, indeed!$"
+	.i18n 4756
 
 TrainerHill_Roof_Text_268AC5: @ 8268AC5
-	.string "For a marvelous someone like you,\n"
-	.string "I have the most marvelous gift!$"
+	.i18n 4757
 
 TrainerHill_Roof_Text_268B07: @ 8268B07
-	.string "Oh, no, full up with things!\n"
-	.string "You'll be back later for this!$"
+	.i18n 4758
 
 TrainerHill_Roof_Text_268B43: @ 8268B43
-	.string "Oh, hold on here! Did you possibly get\n"
-	.string "here marvelously quickly?\p"
-	.string "How splendid! You needn't have\n"
-	.string "hurried so to see me!\p"
-	.string "That is so delightful. I'll have the Time\n"
-	.string "Board at the reception updated!$"
+	.i18n 4759
 
 TrainerHill_Roof_Text_268C03: @ 8268C03
-	.string "But, oh…\n"
-	.string "You weren't very quick getting here.$"
+	.i18n 4760
 
 TrainerHill_Roof_Text_268C31: @ 8268C31
-	.string "Perhaps it would please me more if you\n"
-	.string "arrived zippier next time.\p"
-	.string "Then, I should be pleased to form\n"
-	.string "a tag team with you!\p"
-	.string "Until we meet again, amigo!$"
+	.i18n 4761
 
 TrainerHill_Roof_Text_268CC6: @ 8268CC6
-	.string "I had the TRAINER HILL built for but\n"
-	.string "one reason and one only!\p"
-	.string "To find the most suitable partner\n"
-	.string "with whom I may form a tag team!$"
+	.i18n 4762
 
 TrainerHill_Entrance_Text_268D47: @ 8268D47
-	.string "{STR_VAR_1} min. {STR_VAR_2}.{STR_VAR_3} sec.$"
+	.i18n 4763
 
 TrainerHill_Entrance_Text_268D5A: @ 8268D5A
-	.string "Who knows what sort of TRAINERS\n"
-	.string "and POKéMON combos are ahead?\p"
-	.string "All I know is that I'll knock aside\n"
-	.string "anyone that stands in my way!$"
+	.i18n 4764
 
 TrainerHill_Entrance_Text_268DDA: @ 8268DDA
-	.string "I heard tough TRAINERS come to this\n"
-	.string "TRAINER HILL from all over.\p"
-	.string "I can't wait to test the waters!\p"
-	.string "I'll knock aside anyone that stands\n"
-	.string "in my way!$"
+	.i18n 4765
 
 TrainerHill_Entrance_Text_268E6A: @ 8268E6A
-	.string "Do you see the Time Board over there?\p"
-	.string "My friends and I are trying to see who\n"
-	.string "can reach the top in the least time.$"
+	.i18n 4766
 
 TrainerHill_Entrance_Text_268EDC: @ 8268EDC
-	.string "Do you know when they're opening\n"
-	.string "this place up?\p"
-	.string "I'm waiting here to be the first\n"
-	.string "challenger ever!$"
+	.i18n 4767
 
 TrainerHill_Elevator_Text_268F3E: @ 8268F3E
-	.string "Would you like to return to\n"
-	.string "the reception counter?$"
+	.i18n 4768

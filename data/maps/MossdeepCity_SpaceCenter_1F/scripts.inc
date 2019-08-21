@@ -285,149 +285,85 @@ MossdeepCity_SpaceCenter_1F_Movement_2232A2: @ 82232A2
 	step_end
 
 MossdeepCity_SpaceCenter_1F_Text_2232A7: @ 82232A7
-	.string "The rocket's launch is imminent!$"
+	.i18n 3157
 
 MossdeepCity_SpaceCenter_1F_Text_2232C8: @ 82232C8
-	.string "The rocket launched safely!\n"
-	.string "That's successful launch no. {STR_VAR_1}!$"
+	.i18n 3158
 
 MossdeepCity_SpaceCenter_1F_Text_223305: @ 8223305
-	.string "I know that things are a little\n"
-	.string "haywire right now, but…\p"
-	.string "The rocket's launch is imminent!$"
+	.i18n 3159
 
 MossdeepCity_SpaceCenter_1F_Text_22335E: @ 822335E
-	.string "I know that things are a little\n"
-	.string "haywire right now, but…\p"
-	.string "The rocket launched safely!\n"
-	.string "That's successful launch no. {STR_VAR_1}!$"
+	.i18n 3160
 
 MossdeepCity_SpaceCenter_1F_Text_2233D3: @ 82233D3
-	.string "A rocket launch demands perfection.\n"
-	.string "Not even a 1% margin of error is allowed.\p"
-	.string "Even if it's 99% okay, the whole thing\n"
-	.string "is useless if 1% happens to be no good.\p"
-	.string "Despite that, we never stop trying.\n"
-	.string "Why? It's a dream that never ends.$"
+	.i18n 3161
 
 MossdeepCity_SpaceCenter_1F_Text_2234B7: @ 82234B7
-	.string "Those MAGMA thugs have their sights\n"
-	.string "set on our SPACE CENTER.\p"
-	.string "But we can't allow anything that minor\n"
-	.string "to interfere with our rocket launch!$"
+	.i18n 3162
 
 MossdeepCity_SpaceCenter_1F_Text_223540: @ 8223540
-	.string "I was taking a stroll down the beach\n"
-	.string "when I found this.\p"
-	.string "It's not anything I need, so you can\n"
-	.string "have it.$"
+	.i18n 3163
 
 MossdeepCity_SpaceCenter_1F_Text_2235A6: @ 82235A6
-	.string "The HOENN region has been famous for \n"
-	.string "its meteor showers for a long time.$"
+	.i18n 3164
 
 MossdeepCity_SpaceCenter_1F_Text_2235F0: @ 82235F0
-	.string "TEAM MAGMA can't be allowed to steal\n"
-	.string "the rocket fuel.\p"
-	.string "Oh, by the way, you can have this stone\n"
-	.string "I found on the beach.$"
+	.i18n 3165
 
 MossdeepCity_SpaceCenter_1F_Text_223664: @ 8223664
-	.string "With TEAM MAGMA around, I guess\n"
-	.string "strolls on the beach aren't safe.$"
+	.i18n 3166
 
 MossdeepCity_SpaceCenter_1F_Text_2236A6: @ 82236A6
-	.string "Some people claim that POKéMON came\n"
-	.string "from space. Could it be true?$"
+	.i18n 3167
 
 MossdeepCity_SpaceCenter_1F_Text_2236E8: @ 82236E8
-	.string "TEAM AQUA should take care of\n"
-	.string "TEAM MAGMA!\p"
-	.string "But if they did that, TEAM AQUA will\n"
-	.string "become bold and brazen, won't they?$"
+	.i18n 3168
 
 MossdeepCity_SpaceCenter_1F_Text_22375B: @ 822375B
-	.string "A giant chunk of metal bursts through\n"
-	.string "the skies and flies into space…\p"
-	.string "It boggles my mind!$"
+	.i18n 3169
 
 MossdeepCity_SpaceCenter_1F_Text_2237B5: @ 82237B5
-	.string "A giant chunk of metal bursts through\n"
-	.string "the skies and flies into space…\p"
-	.string "But TEAM MAGMA wants to spoil\n"
-	.string "that dream of mine!\p"
-	.string "I'm not having any of that!$"
+	.i18n 3170
 
 MossdeepCity_SpaceCenter_1F_Text_223849: @ 8223849
-	.string "STEVEN: {PLAYER}{KUN}, have you read that\n"
-	.string "proclamation already?\p"
-	.string "TEAM MAGMA is coming after the rocket\n"
-	.string "fuel on this island.\p"
-	.string "I don't know what they'd need it for,\n"
-	.string "but they can't be allowed to take it.\p"
-	.string "I'll keep an eye on things for\n"
-	.string "a while longer.\p"
-	.string "In the meantime, why don't you go\n"
-	.string "check out the town?$"
+	.i18n 3171
 
 MossdeepCity_SpaceCenter_1F_Text_22396C: @ 822396C
-	.string "As promised, we've come for\n"
-	.string "the rocket fuel!$"
+	.i18n 3172
 
 MossdeepCity_SpaceCenter_1F_Text_223999: @ 8223999
-	.string "Ran out of fuel…$"
+	.i18n 3173
 
 MossdeepCity_SpaceCenter_1F_Text_2239AA: @ 82239AA
-	.string "Don't think you're on a roll just\n"
-	.string "because you've beaten me!$"
+	.i18n 3174
 
 MossdeepCity_SpaceCenter_1F_Text_2239E6: @ 82239E6
-	.string "We gave you fair warning!\n"
-	.string "There's nothing sneaky about us!$"
+	.i18n 3175
 
 MossdeepCity_SpaceCenter_1F_Text_223A21: @ 8223A21
-	.string "Grrr…\n"
-	.string "We should've used sneaky treachery…$"
+	.i18n 3176
 
 MossdeepCity_SpaceCenter_1F_Text_223A4B: @ 8223A4B
-	.string "Okay, I get it already! The next time,\n"
-	.string "we'll come unannounced.$"
+	.i18n 3177
 
 MossdeepCity_SpaceCenter_1F_Text_223A8A: @ 8223A8A
-	.string "The rocket fuel the SPACE CENTER has\n"
-	.string "in storage--that's what we're after.\p"
-	.string "We mean to take every last bit of it!$"
+	.i18n 3178
 
 MossdeepCity_SpaceCenter_1F_Text_223AFA: @ 8223AFA
-	.string "Please, can you spare some fuel?\n"
-	.string "Even a chintzy cup will do!$"
+	.i18n 3179
 
 MossdeepCity_SpaceCenter_1F_Text_223B37: @ 8223B37
-	.string "What are we going to do with\n"
-	.string "the rocket fuel?\p"
-	.string "How would I know?\n"
-	.string "Ask our leader upstairs!$"
+	.i18n 3180
 
 MossdeepCity_SpaceCenter_1F_Text_223B90: @ 8223B90
-	.string "Our leader said no one, but no one,\n"
-	.string "gets past me!$"
+	.i18n 3181
 
 MossdeepCity_SpaceCenter_1F_Text_223BC2: @ 8223BC2
-	.string "Ack! Ack! Aaack!$"
+	.i18n 3182
 
 MossdeepCity_SpaceCenter_1F_Text_223BD3: @ 8223BD3
-	.string "Please, tell our leader that\n"
-	.string "I never abandoned my post.\l"
-	.string "That I stayed to the bitter end…$"
+	.i18n 3183
 
 MossdeepCity_SpaceCenter_1F_Text_223C2C: @ 8223C2C
-	.string "This is…\n"
-	.string "An intent-to-steal notice?\p"
-	.string "“To the staff of the SPACE CENTER:\n"
-	.string "How are you? We are doing fine.\p"
-	.string "“We will soon visit you to take your\n"
-	.string "rocket fuel.\p"
-	.string "“Please don't try to stop us.\n"
-	.string "We will take the fuel no matter what.\p"
-	.string "“Let there be more land!\n"
-	.string "                                          TEAM MAGMA”$"
+	.i18n 3184

@@ -1015,104 +1015,53 @@ LilycoveCity_ContestLobby_EventScript_21AD06:: @ 821AD06
 	end
 
 LilycoveCity_ContestLobby_Text_21AD10: @ 821AD10
-	.string "Yippee!\p"
-	.string "The lady at the reception counter\n"
-	.string "gave me a case for {POKEBLOCK}S!$"
+	.i18n 2526
 
 LilycoveCity_ContestLobby_Text_21AD55: @ 821AD55
-	.string "Make {POKEBLOCK}S and put them in there.\p"
-	.string "When you make a {POKEBLOCK}, everyone\n"
-	.string "has to put in a different BERRY.$"
+	.i18n 2527
 
 LilycoveCity_ContestLobby_Text_21ADB9: @ 821ADB9
-	.string "Congratulations!\p"
-	.string "I did a painting of your POKéMON to\n"
-	.string "commemorate its victory…\p"
-	.string "Well, your POKéMON's appeals were\n"
-	.string "so fantastic, it spurred me into\l"
-	.string "painting better than I usually do.\l"
-	.string "Look, see?$"
+	.i18n 2528
 
 LilycoveCity_ContestLobby_Text_21AE78: @ 821AE78
-	.string "What do you think? I'm confident in\n"
-	.string "what I've done, but do you like it?\p"
-	.string "A work of this caliber, it wouldn't look\n"
-	.string "out of place in an art museum.\p"
-	.string "Huh? An art museum really is looking\n"
-	.string "for paintings?\p"
-	.string "Do you think I should take this there?$"
+	.i18n 2529
 
 LilycoveCity_ContestLobby_Text_21AF63: @ 821AF63
-	.string "What, really? Then, sure, I will take\n"
-	.string "this painting there right now.\p"
-	.string "I'll give it a proper title, too.\p"
-	.string "I hope they'll like it and consider\n"
-	.string "exhibiting this.\p"
-	.string "Please check if they did accept this.\n"
-	.string "Thank you!$"
+	.i18n 2530
 
 LilycoveCity_ContestLobby_Text_21B030: @ 821B030
-	.string "Oh, that's right!\p"
-	.string "As a memento of me painting your\n"
-	.string "POKéMON, please take this.$"
+	.i18n 2531
 
 LilycoveCity_ContestLobby_Text_21B07E: @ 821B07E
-	.string "{PLAYER} received a RIBBON.$"
+	.i18n 2532
 
 LilycoveCity_ContestLobby_Text_21B094: @ 821B094
-	.string "{PLAYER} put the RIBBON on\n"
-	.string "{STR_VAR_1}.$"
+	.i18n 2533
 
 LilycoveCity_ContestLobby_Text_21B0AD: @ 821B0AD
-	.string "Okay, see you!$"
+	.i18n 2534
 
 LilycoveCity_ContestLobby_Text_21B0BC: @ 821B0BC
-	.string "Oh… Then, I guess I'll just take\n"
-	.string "this home with me…\p"
-	.string "But, you know, I would like to take\n"
-	.string "this to the art museum… Okay?$"
+	.i18n 2535
 
 LilycoveCity_ContestLobby_Text_21B132: @ 821B132
-	.string "Oh, fine, that's the way it is.\n"
-	.string "I will hang this in my own house.\p"
-	.string "I'll just have to try harder next time.\n"
-	.string "Well, be seeing you.$"
+	.i18n 2536
 
 LilycoveCity_ContestLobby_Text_21B1B1: @ 821B1B1
-	.string "Hoo, boy… Master Rank CONTESTS,\n"
-	.string "here I come.\p"
-	.string "The world will know that my dearest\n"
-	.string "POKéMON is the cutest being in all\l"
-	.string "existence. The time has come!\l"
-	.string "Uheheheh.$"
+	.i18n 2537
 
 LilycoveCity_ContestLobby_Text_21B24D: @ 821B24D
-	.string "You can see a whole variety of\n"
-	.string "POKéMON here.\p"
-	.string "That's why I make this place a regular\n"
-	.string "part of my daily stroll.$"
+	.i18n 2538
 
 LilycoveCity_ContestLobby_Text_21B2BA: @ 821B2BA
-	.string "Wow, coming out to a CONTEST is\n"
-	.string "a feast for these eyes!\p"
-	.string "Would you look at all the POKéMON\n"
-	.string "that just scream to be painted?$"
+	.i18n 2539
 
 LilycoveCity_ContestLobby_Text_21B334: @ 821B334
-	.string "The TOUGHNESS CONTEST is like\n"
-	.string "extreme, man!\p"
-	.string "Those muscular appeals…\n"
-	.string "Cascading sweat… I swoon!$"
+	.i18n 2540
 
 LilycoveCity_ContestLobby_Text_21B392: @ 821B392
-	.string "Day in and day out, I lavished my care\n"
-	.string "on this POKéMON.\p"
-	.string "Its condition is peaking.\n"
-	.string "Today, victory is mine!$"
+	.i18n 2541
 
 LilycoveCity_ContestLobby_Text_21B3FC: @ 821B3FC
-	.string "I made {POKEBLOCK}S with Mom, Dad, and\n"
-	.string "Big Sister. They turned out great!\p"
-	.string "I bet you can make smoother, better\n"
-	.string "{POKEBLOCK}S if you have more people.$"
+	.i18n 2542
 

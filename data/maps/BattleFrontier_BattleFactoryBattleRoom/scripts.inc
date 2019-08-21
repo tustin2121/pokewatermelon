@@ -314,71 +314,35 @@ BattleFrontier_BattleFactoryBattleRoom_EventScript_25B1B4:: @ 825B1B4
 	return
 
 BattleFrontier_BattleFactoryBattleRoom_Text_25B1E2: @ 825B1E2
-	.string "Hey, hey!\n"
-	.string "Get a move on!$"
+	.i18n 781
 
 BattleFrontier_BattleFactoryBattleRoom_Text_25B1FB: @ 825B1FB
-	.string "Hey, my name's NOLAND!\n"
-	.string "I'm basically in charge of this place,\l"
-	.string "which is why I'm the FACTORY HEAD!\p"
-	.string "I had a look at your Battle Swap data.\p"
-	.string "You seem to have the right idea,\n"
-	.string "but you're still square in your head!\p"
-	.string "Listen up, okay? Knowledge isn't only\n"
-	.string "about reading books or doing desk work.\p"
-	.string "Just doing that sort of thing…\n"
-	.string "It may as well be useless!\p"
-	.string "You have to experience things with\n"
-	.string "your heart and your body, understand?\p"
-	.string "I'll take you on under the same\n"
-	.string "conditions as you.\p"
-	.string "I'll be using rental POKéMON, too!$"
+	.i18n 782
 
 BattleFrontier_BattleFactoryBattleRoom_Text_25B3F1: @ 825B3F1
-	.string "Shake out every last bit of your\n"
-	.string "knowledge and bring it on!$"
+	.i18n 783
 
 BattleFrontier_BattleFactoryBattleRoom_Text_25B42D: @ 825B42D
-	.string "NOLAND: Smart going!\n"
-	.string "Let's see your FRONTIER PASS.$"
+	.i18n 784
 
 BattleFrontier_BattleFactoryBattleRoom_Text_25B460: @ 825B460
-	.string "The Knowledge Symbol was embossed\n"
-	.string "on the FRONTIER PASS!$"
+	.i18n 785
 
 BattleFrontier_BattleFactoryBattleRoom_Text_25B498: @ 825B498
-	.string "Heh…\n"
-	.string "You're a pretty bright spark…\p"
-	.string "Next time, I'll come after you hard.\n"
-	.string "No holds barred, understand?\p"
-	.string "You keep up your studies!$"
+	.i18n 786
 
 BattleFrontier_BattleFactoryBattleRoom_Text_25B517: @ 825B517
-	.string "NOLAND: Hey, hey! How's it going?\n"
-	.string "You keeping up with your studies?\p"
-	.string "…Oh?\p"
-	.string "You've taken on a harder look than\n"
-	.string "the last time I saw you.\p"
-	.string "Now, this should be fun!\n"
-	.string "I'm getting excited, hey!$"
+	.i18n 787
 
 BattleFrontier_BattleFactoryBattleRoom_Text_25B5CF: @ 825B5CF
-	.string "All right!\n"
-	.string "Bring it on!$"
+	.i18n 788
 
 BattleFrontier_BattleFactoryBattleRoom_Text_25B5E7: @ 825B5E7
-	.string "NOLAND: What the…\n"
-	.string "You're getting out of my league!\p"
-	.string "Sheesh!\n"
-	.string "Let's see that FRONTIER PASS!$"
+	.i18n 789
 
 BattleFrontier_BattleFactoryBattleRoom_Text_25B640: @ 825B640
-	.string "The Knowledge Symbol took on\n"
-	.string "a golden shine!$"
+	.i18n 790
 
 BattleFrontier_BattleFactoryBattleRoom_Text_25B66D: @ 825B66D
-	.string "Pfft, man!\p"
-	.string "That's absolutely the last time\n"
-	.string "I lose to you!\p"
-	.string "We have to do this again, hey?$"
+	.i18n 791
 

@@ -14,17 +14,11 @@ BattleFrontier_Lounge4_EventScript_26359F:: @ 826359F
 	end
 
 BattleFrontier_Lounge4_Text_2635A8: @ 82635A8
-	.string "I wonder if they'll be airing interviews\n"
-	.string "with tough TRAINERS today?$"
+	.i18n 1871
 
 BattleFrontier_Lounge4_Text_2635EC: @ 82635EC
-	.string "If I opened a restaurant here,\n"
-	.string "it'd make money for sure.$"
+	.i18n 1872
 
 BattleFrontier_Lounge4_Text_263625: @ 8263625
-	.string "Whew…\p"
-	.string "I need to take a breather after\n"
-	.string "some intense battles…\p"
-	.string "But even now, I never take a break\n"
-	.string "from plotting strategy and combos.$"
+	.i18n 1873
 

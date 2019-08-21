@@ -587,156 +587,92 @@ Route111_EventScript_1F146C:: @ 81F146C
 	end
 
 Route111_Text_1F1475: @ 81F1475
-	.string "Hello! I take it you're a traveler.\p"
-	.string "How's this? What do you say to taking\n"
-	.string "on our family of four in a series of\l"
-	.string "POKéMON battles?$"
+	.i18n 3850
 
 Route111_Text_1F14F5: @ 81F14F5
-	.string "Is that so?\n"
-	.string "Drop in, if you change your mind!$"
+	.i18n 3851
 
 Route111_Text_1F1523: @ 81F1523
-	.string "That's the spirit! I like you!$"
+	.i18n 3852
 
 Route111_Text_1F1542: @ 81F1542
-	.string "Aiyah!\n"
-	.string "You're a lot tougher than I expected!$"
+	.i18n 3853
 
 Route111_Text_1F156F: @ 81F156F
-	.string "Hey, all!\n"
-	.string "I've found a pretty strong TRAINER!$"
+	.i18n 3854
 
 Route111_Text_1F159D: @ 81F159D
-	.string "Oh, my goodness! Aren't you young?\p"
-	.string "You must be quite the TRAINER to beat\n"
-	.string "my husband, though.\p"
-	.string "It's my turn to battle now!$"
+	.i18n 3855
 
 Route111_Text_1F1616: @ 81F1616
-	.string "Oh, gosh!\n"
-	.string "I can't get over how strong you are!$"
+	.i18n 3856
 
 Route111_Text_1F1645: @ 81F1645
-	.string "There's a strong TRAINER here!\n"
-	.string "This one's really strong!$"
+	.i18n 3857
 
 Route111_Text_1F167E: @ 81F167E
-	.string "You're stronger than Mommy? Wow!\p"
-	.string "But I'm strong, too!\n"
-	.string "Really! Honestly!$"
+	.i18n 3858
 
 Route111_Text_1F16C6: @ 81F16C6
-	.string "Huh? Did I just lose?$"
+	.i18n 3859
 
 Route111_Text_1F16DC: @ 81F16DC
-	.string "This stinks…\p"
-	.string "…Snivel… Grandma!$"
+	.i18n 3860
 
 Route111_Text_1F16FB: @ 81F16FB
-	.string "How dare you make my granddaughter\n"
-	.string "cry!\p"
-	.string "For that, I'm going to smack you!\n"
-	.string "Prepare to lose!$"
+	.i18n 3861
 
 Route111_Text_1F1756: @ 81F1756
-	.string "Kwah! You are strong…\n"
-	.string "My granddaughter was right…$"
+	.i18n 3862
 
 Route111_Text_1F1788: @ 81F1788
-	.string "If you're not in any hurry,\n"
-	.string "visit with us awhile.$"
+	.i18n 3863
 
 Route111_Text_1F17BA: @ 81F17BA
-	.string "If you don't raise your POKéMON some\n"
-	.string "more, it could be tough to keep winning\l"
-	.string "up through the ranks.\p"
-	.string "I've heard the POKéMON LEAGUE's\n"
-	.string "ELITE FOUR are far stronger than\l"
-	.string "any GYM LEADER.$"
+	.i18n 3864
 
 Route111_Text_1F186E: @ 81F186E
-	.string "I challenged the WINSTRATE family,\n"
-	.string "but four matches in a row is tough\l"
-	.string "going… They destroyed me.$"
+	.i18n 3865
 
 Route111_Text_1F18CE: @ 81F18CE
-	.string "ROUTE 111\n"
-	.string "{DOWN_ARROW} MAUVILLE CITY$"
+	.i18n 3866
 
 Route111_Text_1F18E8: @ 81F18E8
-	.string "“Our family's hearts beat as one!”\n"
-	.string "THE WINSTRATE'S HOUSE$"
+	.i18n 3867
 
 Route111_Text_1F1921: @ 81F1921
-	.string "ROUTE 111\n"
-	.string "{LEFT_ARROW} ROUTE 112$"
+	.i18n 3868
 
 Route111_Text_1F1937: @ 81F1937
-	.string "ROUTE 111\n"
-	.string "{LEFT_ARROW} ROUTE 113$"
+	.i18n 3869
 
 Route111_Text_1F194D: @ 81F194D
-	.string "OLD LADY'S REST STOP\n"
-	.string "“Come in and rest your tired bones.”$"
+	.i18n 3870
 
 Route111_Text_1F1987: @ 81F1987
-	.string "TRAINER TIPS\p"
-	.string "One of the indicators of a POKéMON's\n"
-	.string "powerfulness is SP. ATK. It stands for\l"
-	.string "“SPECIAL ATTACK.”\p"
-	.string "Likewise, SP. DEF stands for “SPECIAL\n"
-	.string "DEFENSE.”$"
+	.i18n 3871
 
 Route111_Text_1F1A22: @ 81F1A22
-	.string "There should be a tower made of sand\n"
-	.string "around here somewhere.\p"
-	.string "But for some reason, it can be seen\n"
-	.string "sometimes, and sometimes not.\p"
-	.string "That's why I call it the MIRAGE TOWER.$"
+	.i18n 3872
 
 Route111_Text_1F1AC7: @ 81F1AC7
-	.string "I see it!\n"
-	.string "The tower of sand!\p"
-	.string "The sand tower they called a mirage\n"
-	.string "is clearly visible!\p"
-	.string "But it looks so fragile…\n"
-	.string "It could crumble away anytime…\p"
-	.string "I want to go inside it, but I can't\n"
-	.string "get my courage up for it…$"
+	.i18n 3873
 
 Route111_Text_1F1B92: @ 81F1B92
-	.string "Whoa…\n"
-	.string "That was shocking.\p"
-	.string "Sand rained down in chunks all of\n"
-	.string "a sudden.\p"
-	.string "What was it like inside?\n"
-	.string "Were there sandy ghosts and such?$"
+	.i18n 3874
 
 Route111_Text_1F1C12: @ 81F1C12
-	.string "Since I spoke to you, the tower of sand\n"
-	.string "hasn't been seen.\p"
-	.string "Perhaps it really was\n"
-	.string "the MIRAGE TOWER…$"
+	.i18n 3875
 
 Route111_Text_1F1C74: @ 81F1C74
-	.string "The CLAW FOSSIL disappeared into\n"
-	.string "the sand…$"
+	.i18n 3876
 
 Route111_Text_1F1C9F: @ 81F1C9F
-	.string "The ROOT FOSSIL disappeared into\n"
-	.string "the sand…$"
+	.i18n 3877
 
 Route111_Text_1F1CCA: @ 81F1CCA
-	.string "Oh, no!\p"
-	.string "My uncle in MAUVILLE told me to take\n"
-	.string "ROCK SMASH with me if I was going to\l"
-	.string "ROUTE 111!\p"
-	.string "My uncle? He lives across from\n"
-	.string "the bike shop in MAUVILLE.$"
+	.i18n 3878
 
 Route111_Text_1F1D61: @ 81F1D61
-	.string "{RIGHT_ARROW} TRAINER HILL ENTRANCE\p"
-	.string "“Scale the heights, you hot-blooded\n"
-	.string "TRAINERS!”$"
+	.i18n 3879
 

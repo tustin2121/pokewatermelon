@@ -29,42 +29,32 @@ MtPyre_6F_EventScript_231D9D:: @ 8231D9D
 	end
 
 MtPyre_6F_Text_231DB4: @ 8231DB4
-	.string "When I'm here…\n"
-	.string "A curious power flows into me…$"
+	.i18n 3327
 
 MtPyre_6F_Text_231DE2: @ 8231DE2
-	.string "The power is ebbing away…$"
+	.i18n 3328
 
 MtPyre_6F_Text_231DFC: @ 8231DFC
-	.string "Perhaps the power is from the spirits\n"
-	.string "of POKéMON in fitful sleep here…$"
+	.i18n 3329
 
 MtPyre_6F_Text_231E43: @ 8231E43
-	.string "Fufufu… I lost the match, but…\n"
-	.string "I have this little ability…\p"
-	.string "Without ever laying my hands on\n"
-	.string "your POKéNAV… Hiyah!$"
+	.i18n 3330
 
 MtPyre_6F_Text_231EB3: @ 8231EB3
-	.string "Behind you…\n"
-	.string "What is it…$"
+	.i18n 3331
 
 MtPyre_6F_Text_231ECB: @ 8231ECB
-	.string "Something faded away…$"
+	.i18n 3332
 
 MtPyre_6F_Text_231EE1: @ 8231EE1
-	.string "The POKéMON at rest here…\n"
-	.string "Sometimes, they play…$"
+	.i18n 3333
 
 MtPyre_6F_Text_231F11: @ 8231F11
-	.string "Have you lost your bearings?\n"
-	.string "Have no fear for I am here!$"
+	.i18n 3334
 
 MtPyre_6F_Text_231F4A: @ 8231F4A
-	.string "Weren't you lost?$"
+	.i18n 3335
 
 MtPyre_6F_Text_231F5C: @ 8231F5C
-	.string "I had this feeling that a lost TRAINER\n"
-	.string "would be panicked and easy to beat.\p"
-	.string "It's dirty and I won't try it again…$"
+	.i18n 3336
 

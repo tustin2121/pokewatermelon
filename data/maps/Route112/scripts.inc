@@ -108,36 +108,26 @@ Route112_EventScript_1F1F28:: @ 81F1F28
 	end
 
 Route112_Text_1F1F3F: @ 81F1F3F
-	.string "Hey, man, is our leader really going\n"
-	.string "to awaken that thing?$"
+	.i18n 3890
 
 Route112_Text_1F1F7A: @ 81F1F7A
-	.string "Sounds like it, yeah. But I heard\n"
-	.string "we need a METEORITE to do it.$"
+	.i18n 3891
 
 Route112_Text_1F1FBA: @ 81F1FBA
-	.string "Oh, I get it now. That's why the rest\n"
-	.string "of the crew went out to FALLARBOR.$"
+	.i18n 3892
 
 Route112_Text_1F2003: @ 81F2003
-	.string "You got it. And until they come back,\n"
-	.string "we're not to let anyone pass, right.$"
+	.i18n 3893
 
 Route112_Text_1F204E: @ 81F204E
-	.string "Eh, I'd like to get to MAUVILLE, but if\n"
-	.string "I went down these ledges, it'd be no\l"
-	.string "easy matter to get back to LAVARIDGE.$"
+	.i18n 3894
 
 Route112_Text_1F20C1: @ 81F20C1
-	.string "MT. CHIMNEY CABLE CAR\n"
-	.string "“A short walk {UP_ARROW} way!”$"
+	.i18n 3895
 
 Route112_Text_1F20ED: @ 81F20ED
-	.string "MT. CHIMNEY\p"
-	.string "“For LAVARIDGE TOWN or the summit,\n"
-	.string "please take the CABLE CAR.”$"
+	.i18n 3896
 
 Route112_Text_1F2138: @ 81F2138
-	.string "ROUTE 112\n"
-	.string "{LEFT_ARROW} LAVARIDGE TOWN$"
+	.i18n 3897
 

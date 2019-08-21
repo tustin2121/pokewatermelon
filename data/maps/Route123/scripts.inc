@@ -176,28 +176,20 @@ Route123_EventScript_1F6407:: @ 81F6407
 	end
 
 Route123_Text_1F641E: @ 81F641E
-	.string "I love GRASS-type POKéMON!\p"
-	.string "Do you have any GRASS-type POKéMON?$"
+	.i18n 4053
 
 Route123_Text_1F645D: @ 81F645D
-	.string "Oh?\p"
-	.string "You like GRASS-type POKéMON, too,\n"
-	.string "don't you?\p"
-	.string "I'm so happy, you can have this!\n"
-	.string "It's a token of our friendship.$"
+	.i18n 4054
 
 Route123_Text_1F64CF: @ 81F64CF
-	.string "I check trees with my GRASS-type\n"
-	.string "POKéMON. I'm like a tree doctor.$"
+	.i18n 4055
 
 Route123_Text_1F6511: @ 81F6511
-	.string "{RIGHT_ARROW} ROUTE 123\n"
-	.string "{LEFT_ARROW} ROUTE 118$"
+	.i18n 4056
 
 Route123_Text_1F6529: @ 81F6529
-	.string "{UP_ARROW} MT. PYRE\n"
-	.string "“Forbidden to the faint of heart.”$"
+	.i18n 4057
 
 Route123_Text_1F6557: @ 81F6557
-	.string "BERRY MASTER'S HOUSE$"
+	.i18n 4058
 

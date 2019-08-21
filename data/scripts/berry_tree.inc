@@ -193,69 +193,58 @@ BerryTree_EventScript_PlantBerry:: @ 82744DD
 	return
 
 BerryTree_Text_ItsSoftLoamySoil: @ 82744F0
-	.string "It's soft, loamy soil.$"
+	.i18n 5181
 
 BerryTree_Text_WantToPlant: @ 8274507
-	.string "It's soft, loamy soil.\n"
-	.string "Want to plant a BERRY?$"
+	.i18n 5182
 
 BerryTree_Text_PlantedOneBerry: @ 8274535
-	.string "{PLAYER} planted one {STR_VAR_1} in\n"
-	.string "the soft, loamy soil.$"
+	.i18n 5183
 
 BerryTree_Text_BerryGrowthStage1: @ 8274560
-	.string "One {STR_VAR_1} was planted here.$"
+	.i18n 5184
 
 BerryTree_Text_BerryGrowthStage2: @ 8274579
-	.string "{STR_VAR_1} has sprouted.$"
+	.i18n 5185
 
 BerryTree_Text_BerryGrowthStage3: @ 827458A
-	.string "This {STR_VAR_1} plant is growing taller.$"
+	.i18n 5186
 
 BerryTree_Text_BerryGrowthStage4: @ 82745AB
-	.string "These {STR_VAR_1} flowers are blooming\n"
-	.string "{STR_VAR_2}.$"
+	.i18n 5187
 
 BerryTree_Text_CareAdverbGreat: @ 82745CD
-	.string "very beautifully$"
+	.i18n 5188
 
 BerryTree_Text_CareAdverbPoor: @ 82745DE
-	.string "cutely$"
+	.i18n 5189
 
 BerryTree_Text_CareAdverbGood: @ 82745E5
-	.string "prettily$"
+	.i18n 5190
 
 BerryTree_Text_WantToPick: @ 82745EE
-	.string "You found {STR_VAR_2} {STR_VAR_1}!\p"
-	.string "Do you want to pick the\n"
-	.string "{STR_VAR_1}?$"
+	.i18n 5191
 
 BerryTree_Text_PickedTheBerry: @ 827461B
-	.string "{PLAYER} picked the {STR_VAR_2} {STR_VAR_1}.$"
+	.i18n 5192
 
 BerryTree_Text_PutAwayBerry: @ 8274630
-	.string "{PLAYER} put away the {STR_VAR_1}\n"
-	.string "in the BAG's BERRIES POCKET.\p"
-	.string "The soil returned to its soft and\n"
-	.string "loamy state.$"
+	.i18n 5193
 
 BerryTree_Text_BerryPocketFull: @ 827468F
-	.string "The BAG's BERRIES POCKET is full.\p"
-	.string "The {STR_VAR_1} couldn't be taken.$"
+	.i18n 5194
 
 BerryTree_Text_BerryLeftUnpicked: @ 82746CB
-	.string "{PLAYER} left the {STR_VAR_1}\n"
-	.string "unpicked.$"
+	.i18n 5195
 
 BerryTree_Text_WantToWater: @ 82746E4
-	.string "Want to water the {STR_VAR_1} with the\n"
-	.string "WAILMER PAIL?$"
+	.i18n 5196
 
 BerryTree_Text_WateredTheBerry: @ 8274710
-	.string "{PLAYER} watered the {STR_VAR_1}.$"
+	.i18n 5197
 
 BerryTree_Text_PlantIsDelighted: @ 8274723
-	.string "The plant seems to be delighted.$"
+	.i18n 5198
 
 BerryTree_Text_ExclamationPoint: @ 8274744
-	.string "!$"
+	.i18n 5199

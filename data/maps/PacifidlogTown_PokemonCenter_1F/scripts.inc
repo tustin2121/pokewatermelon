@@ -28,21 +28,11 @@ PacifidlogTown_PokemonCenter_1F_EventScript_2034D6:: @ 82034D6
 	end
 
 PacifidlogTown_PokemonCenter_1F_Text_2034DF: @ 82034DF
-	.string "What color is your TRAINER CARD?\n"
-	.string "Mine's copper!$"
+	.i18n 3418
 
 PacifidlogTown_PokemonCenter_1F_Text_20350F: @ 820350F
-	.string "PACIFIDLOG TOWN floats on top of\n"
-	.string "a colony of CORSOLA.\p"
-	.string "If I told you that, would you believe\n"
-	.string "me?$"
+	.i18n 3419
 
 PacifidlogTown_PokemonCenter_1F_Text_20356F: @ 820356F
-	.string "The ancestors of the people in\n"
-	.string "PACIFIDLOG were said to have been\l"
-	.string "born on boats and then lived and died \l"
-	.string "aboard them.\p"
-	.string "I understand that they lived that way\n"
-	.string "because they were searching for\l"
-	.string "something.$"
+	.i18n 3420
 

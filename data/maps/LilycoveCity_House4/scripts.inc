@@ -10,12 +10,8 @@ LilycoveCity_House4_EventScript_21F5BE:: @ 821F5BE
 	end
 
 LilycoveCity_House4_Text_21F5C7: @ 821F5C7
-	.string "This planet's biggest mysteries are\n"
-	.string "at the bottom of the sea.\p"
-	.string "Somebody said that, but I don't know…$"
+	.i18n 2611
 
 LilycoveCity_House4_Text_21F62B: @ 821F62B
-	.string "There's a deep underwater trench\n"
-	.string "between MOSSDEEP and SOOTOPOLIS.\p"
-	.string "That's what someone told me, anyway.$"
+	.i18n 2612
 

@@ -238,156 +238,80 @@ SlateportCity_OceanicMuseum_1F_Movement_20AFCE: @ 820AFCE
 	step_end
 
 SlateportCity_OceanicMuseum_1F_Text_20AFD5: @ 820AFD5
-	.string "Welcome to the OCEANIC MUSEUM.\p"
-	.string "The entrance fee is ¥50.\n"
-	.string "Would you like to enter?$"
+	.i18n 4500
 
 SlateportCity_OceanicMuseum_1F_Text_20B026: @ 820B026
-	.string "Please enjoy yourself.$"
+	.i18n 4501
 
 SlateportCity_OceanicMuseum_1F_Text_20B03D: @ 820B03D
-	.string "Oh? I'm sorry, but you don't seem to\n"
-	.string "have enough money.$"
+	.i18n 4502
 
 SlateportCity_OceanicMuseum_1F_Text_20B075: @ 820B075
-	.string "Oh? You're with that group that\n"
-	.string "went in earlier?\p"
-	.string "You're the only one who's late.\n"
-	.string "You'd better go catch up to them!$"
+	.i18n 4503
 
 SlateportCity_OceanicMuseum_1F_Text_20B0E8: @ 820B0E8
-	.string "We, TEAM AQUA, exist for the good\n"
-	.string "of all!$"
+	.i18n 4504
 
 SlateportCity_OceanicMuseum_1F_Text_20B112: @ 820B112
-	.string "We were told to assemble here,\n"
-	.string "so we did, but…\p"
-	.string "Our BOSS, the linchpin, isn't here.$"
+	.i18n 4505
 
 SlateportCity_OceanicMuseum_1F_Text_20B165: @ 820B165
-	.string "If I ripped off the stuff here,\n"
-	.string "would it make me rich?$"
+	.i18n 4506
 
 SlateportCity_OceanicMuseum_1F_Text_20B19C: @ 820B19C
-	.string "What I learn here, I can put to use on\n"
-	.string "nefarious deeds…$"
+	.i18n 4507
 
 SlateportCity_OceanicMuseum_1F_Text_20B1D4: @ 820B1D4
-	.string "If our goons didn't bungle things\n"
-	.string "in RUSTBORO, we wouldn't be here!$"
+	.i18n 4508
 
 SlateportCity_OceanicMuseum_1F_Text_20B218: @ 820B218
-	.string "I didn't have ¥50, so it took a long\n"
-	.string "time getting by the receptionist.$"
+	.i18n 4509
 
 SlateportCity_OceanicMuseum_1F_Text_20B25F: @ 820B25F
-	.string "I want to learn about the sea and\n"
-	.string "use that knowledge for battling.$"
+	.i18n 4510
 
 SlateportCity_OceanicMuseum_1F_Text_20B2A2: @ 820B2A2
-	.string "I get all giddy and gooey when\n"
-	.string "I see the sea!\p"
-	.string "For me, CAPT. STERN is the number\n"
-	.string "one role model!$"
+	.i18n 4511
 
 SlateportCity_OceanicMuseum_1F_Text_20B302: @ 820B302
-	.string "The sea is vast without end, and\n"
-	.string "infinitely deep…\p"
-	.string "There must be many POKéMON that\n"
-	.string "we don't know about.$"
+	.i18n 4512
 
 SlateportCity_OceanicMuseum_1F_Text_20B369: @ 820B369
-	.string "I want a sea POKéMON.\p"
-	.string "I think it would feel cool and nice\n"
-	.string "to hug.$"
+	.i18n 4513
 
 SlateportCity_OceanicMuseum_1F_Text_20B3AB: @ 820B3AB
-	.string "Aiyeeeh!\n"
-	.string "What are you doing here?\p"
-	.string "Me? I'm the TEAM AQUA member\n"
-	.string "you thumped before, remember?\l"
-	.string "Back in RUSTURF TUNNEL?\p"
-	.string "Here, take this!\n"
-	.string "You have to forgive me!$"
+	.i18n 4514
 
 SlateportCity_OceanicMuseum_1F_Text_20B449: @ 820B449
-	.string "That TM, it suits you more than it\n"
-	.string "does me.\p"
-	.string "Hope I never see you again!\n"
-	.string "Wahahaha!$"
+	.i18n 4515
 
 SlateportCity_OceanicMuseum_1F_Text_20B49B: @ 820B49B
-	.string "Awww, come on!\n"
-	.string "You have to take this and let me go!$"
+	.i18n 4516
 
 SlateportCity_OceanicMuseum_1F_Text_20B4CF: @ 820B4CF
-	.string "A blue fluid is spiraling inside\n"
-	.string "a glass vessel.\p"
-	.string "“This is an experiment to create a\n"
-	.string "WHIRLPOOL artificially using wind.”$"
+	.i18n 4517
 
 SlateportCity_OceanicMuseum_1F_Text_20B547: @ 820B547
-	.string "A red ball is bobbing up and down\n"
-	.string "inside a glass vessel.\p"
-	.string "“This is an experiment simulating a\n"
-	.string "WATERFALL using the ball's buoyancy.”$"
+	.i18n 4518
 
 SlateportCity_OceanicMuseum_1F_Text_20B5CA: @ 820B5CA
-	.string "It's a sample of soil from the ocean\n"
-	.string "floor.\p"
-	.string "“Over many years, the remains of\n"
-	.string "life-forms settle at the bottom of\l"
-	.string "the sea, making sedimentary layers.\p"
-	.string "“By analyzing these layers, the\n"
-	.string "ancient past is revealed.”$"
+	.i18n 4519
 
 SlateportCity_OceanicMuseum_1F_Text_20B699: @ 820B699
-	.string "It's a sample of beach sand.\p"
-	.string "“Stones from mountains are washed\n"
-	.string "down by rivers where they are\l"
-	.string "chipped and ground down.\p"
-	.string "“They are reduced to grains and end\n"
-	.string "up as sand on beaches.”$"
+	.i18n 4520
 
 SlateportCity_OceanicMuseum_1F_Text_20B74B: @ 820B74B
-	.string "“OCEANIC MINIFACT 1\n"
-	.string "Why is seawater blue?\p"
-	.string "“Light is composed of many colors.\p"
-	.string "“When light passes through water,\n"
-	.string "most kinds of light lose color.\p"
-	.string "“However, blue light retains its\n"
-	.string "color, making the sea appear blue.”$"
+	.i18n 4521
 
 SlateportCity_OceanicMuseum_1F_Text_20B81F: @ 820B81F
-	.string "“OCEANIC MINIFACT 2\n"
-	.string "Why is the sea salty?\p"
-	.string "“Seawater contains dissolved salt in\n"
-	.string "the form of sodium and chlorine ions.\p"
-	.string "“These ions leech out of rocks\n"
-	.string "and are carried out to sea by rain.\p"
-	.string "“The concentration of dissolved salt\n"
-	.string "makes the sea salty.”$"
+	.i18n 4522
 
 SlateportCity_OceanicMuseum_1F_Text_20B912: @ 820B912
-	.string "“OCEANIC MINIFACT 3\n"
-	.string "Which is bigger? The sea or land?\p"
-	.string "“The sea covers about 70% of\n"
-	.string "the planet, and the rest is land.\p"
-	.string "“The sea is therefore more than twice\n"
-	.string "the size of land.”$"
+	.i18n 4523
 
 SlateportCity_OceanicMuseum_1F_Text_20B9C0: @ 820B9C0
-	.string "It's a fossil with wavy ridges on it.\p"
-	.string "“Soil on the ocean floor gets scoured\n"
-	.string "by the tide.\p"
-	.string "“The flowing seawater marks the soil\n"
-	.string "with small ridges and valleys.\p"
-	.string "“If this soil becomes fossilized, it is\n"
-	.string "called a ripple mark.”$"
+	.i18n 4524
 
 SlateportCity_OceanicMuseum_1F_Text_20BA9C: @ 820BA9C
-	.string "A strange machine is rotating under\n"
-	.string "a glass dome.\p"
-	.string "Maybe it's for measuring the depth\n"
-	.string "of something…$"
+	.i18n 4525
 

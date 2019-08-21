@@ -114,54 +114,37 @@ AquaHideout_B1F_EventScript_233AEC:: @ 8233AEC
 	end
 
 AquaHideout_B1F_Text_233B03: @ 8233B03
-	.string "If you want to know the secret about\n"
-	.string "our HIDEOUT, you have me to beat!$"
+	.i18n 577
 
 AquaHideout_B1F_Text_233B4A: @ 8233B4A
-	.string "I can't win at all…$"
+	.i18n 578
 
 AquaHideout_B1F_Text_233B5E: @ 8233B5E
-	.string "Our HIDEOUT's secret?\p"
-	.string "Well, let's just say…\n"
-	.string "There's a submarine at the far end!\p"
-	.string "But, by now…\n"
-	.string "Kekekeke…$"
+	.i18n 579
 
 AquaHideout_B1F_Text_233BC5: @ 8233BC5
-	.string "Fuel supply loaded A-OK!\n"
-	.string "In-cruise snacks loaded A-OK!\p"
-	.string "Nothing left to do but KO a pesky\n"
-	.string "meddler!$"
+	.i18n 580
 
 AquaHideout_B1F_Text_233C27: @ 8233C27
-	.string "I took a serious licking!$"
+	.i18n 581
 
 AquaHideout_B1F_Text_233C41: @ 8233C41
-	.string "Humph!\n"
-	.string "This was supposed to happen!\p"
-	.string "My mission was to just hold you up!$"
+	.i18n 582
 
 AquaHideout_B1F_Text_233C89: @ 8233C89
-	.string "Yawn… Keeping watch over the\n"
-	.string "HIDEOUT bores me. I'll take you on.$"
+	.i18n 583
 
 AquaHideout_B1F_Text_233CCA: @ 8233CCA
-	.string "Yawn…\n"
-	.string "Oh, I lost…$"
+	.i18n 584
 
 AquaHideout_B1F_Text_233CDC: @ 8233CDC
-	.string "If you scurry too much, other TEAM\n"
-	.string "AQUA members might get you.$"
+	.i18n 585
 
 AquaHideout_B1F_Text_233D1B: @ 8233D1B
-	.string "Hey!\n"
-	.string "You there!\p"
-	.string "Which do you think is cooler?\n"
-	.string "TEAM AQUA's uniform or TEAM MAGMA's?$"
+	.i18n 586
 
 AquaHideout_B1F_Text_233D6E: @ 8233D6E
-	.string "I lost in a cool way…$"
+	.i18n 587
 
 AquaHideout_B1F_Text_233D84: @ 8233D84
-	.string "If you have a cool uniform, you look\n"
-	.string "good even in a loss, don't you think?$"
+	.i18n 588

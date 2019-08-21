@@ -47,16 +47,13 @@ EventScript_CancelCut:: @ 829072B
 	end
 
 Text_WantToCut: @ 829072E
-	.string "This tree looks like it can be\n"
-	.string "CUT down!\p"
-	.string "Would you like to CUT it?$"
+	.i18n 5399
 
 Text_MonUsedHM: @ 8290771
-	.string "{STR_VAR_1} used {STR_VAR_2}!$"
+	.i18n 5400
 
 Text_CantCut: @ 829077D
-	.string "This tree looks like it can be\n"
-	.string "CUT down!$"
+	.i18n 5401
 
 EventScript_RockSmash:: @ 82907A6
 	lockall
@@ -117,12 +114,10 @@ EventScript_CancelSmash:: @ 8290837
 	end
 
 Text_WantToSmash: @ 829083A
-	.string "This rock appears to be breakable.\n"
-	.string "Would you like to use ROCK SMASH?$"
+	.i18n 5402
 
 Text_CantSmash: @ 829087F
-	.string "It's a rugged rock, but a POKéMON\n"
-	.string "may be able to smash it.$"
+	.i18n 5403
 
 EventScript_StrengthBoulder:: @ 82908BA
 	lockall
@@ -170,22 +165,16 @@ EventScript_CancelStrength:: @ 8290929
 	end
 
 Text_WantToStrength: @ 829092C
-	.string "It's a big boulder, but a POKéMON\n"
-	.string "may be able to push it aside.\p"
-	.string "Would you like to use STRENGTH?$"
+	.i18n 5404
 
 Text_MonUsedStrength: @ 829098C
-	.string "{STR_VAR_1} used STRENGTH!\p"
-	.string "{STR_VAR_1}'s STRENGTH made it\n"
-	.string "possible to move boulders around!$"
+	.i18n 5405
 
 Text_CantStrength: @ 82909D6
-	.string "It's a big boulder, but a POKéMON\n"
-	.string "may be able to push it aside.$"
+	.i18n 5406
 
 Text_StrengthActivated: @ 8290A16
-	.string "STRENGTH made it possible to move\n"
-	.string "boulders around.$"
+	.i18n 5407
 
 EventScript_UseWaterfall:: @ 8290A49
 	lockall
@@ -212,15 +201,13 @@ EventScript_EndWaterfall:: @ 8290A8C
 	end
 
 Text_CantWaterfall: @ 8290A8E
-	.string "A wall of water is crashing down with\n"
-	.string "a mighty roar.$"
+	.i18n 5408
 
 Text_WantToWaterfall: @ 8290AC3
-	.string "It's a large waterfall.\n"
-	.string "Would you like to use WATERFALL?$"
+	.i18n 5409
 
 Text_MonUsedWaterfall: @ 8290AFC
-	.string "{STR_VAR_1} used WATERFALL.$"
+	.i18n 5410
 
 EventScript_UseDive:: @ 8290B0F
 	lockall
@@ -274,27 +261,23 @@ EventScript_EndSurface:: @ 8290BA8
 	end
 
 Text_CantDive: @ 8290BAA
-	.string "The sea is deep here. A POKéMON\n"
-	.string "may be able to go underwater.$"
+	.i18n 5411
 
 Text_WantToDive: @ 8290BE8
-	.string "The sea is deep here.\n"
-	.string "Would you like to use DIVE?$"
+	.i18n 5412
 
 Text_MonUsedDive: @ 8290C1A
-	.string "{STR_VAR_1} used DIVE.$"
+	.i18n 5413
 
 Text_CantSurface: @ 8290C28
-	.string "Light is filtering down from above.\n"
-	.string "A POKéMON may be able to surface.$"
+	.i18n 5414
 
 Text_WantToSurface: @ 8290C6E
-	.string "Light is filtering down from above.\n"
-	.string "Would you like to use DIVE?$"
+	.i18n 5415
 
 EventScript_FailSweetScent:: @ 8290CAE
 	msgbox Text_FailSweetScent, MSGBOX_SIGN
 	end
 
 Text_FailSweetScent: @ 8290CB7
-	.string "Looks like there's nothing here…$"
+	.i18n 5416

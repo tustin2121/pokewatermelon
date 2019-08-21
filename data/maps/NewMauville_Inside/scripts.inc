@@ -260,18 +260,10 @@ NewMauville_Inside_EventScript_23788D:: @ 823788D
 	end
 
 NewMauville_Inside_Text_237896: @ 8237896
-	.string "The generator is radiating heat that\n"
-	.string "can be felt even at a distance.\p"
-	.string "It looks like it should be turned off\n"
-	.string "as soon as possible.$"
+	.i18n 3364
 
 NewMauville_Inside_Text_237916: @ 8237916
-	.string "The generator quieted down.$"
+	.i18n 3365
 
 NewMauville_Inside_Text_237932: @ 8237932
-	.string "{PLAYER} stepped on the switch.\p"
-	.string "Click…\p"
-	.string "… … … … … … … …\n"
-	.string "… … … … … … … …\p"
-	.string "The generator appears to have\n"
-	.string "stopped…$"
+	.i18n 3366

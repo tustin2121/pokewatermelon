@@ -43,25 +43,14 @@ LavaridgeTown_HerbShop_EventScript_1FE534:: @ 81FE534
 	end
 
 LavaridgeTown_HerbShop_Text_1FE53E: @ 81FE53E
-	.string "Welcome to the HERB SHOP, home of\n"
-	.string "effective and inexpensive medicine!$"
+	.i18n 2425
 
 LavaridgeTown_HerbShop_Text_1FE584: @ 81FE584
-	.string "You've come to look at herbal medicine\n"
-	.string "in LAVARIDGE?\p"
-	.string "That's rather commendable.\p"
-	.string "I like you! Take this!$"
+	.i18n 2426
 
 LavaridgeTown_HerbShop_Text_1FE5EB: @ 81FE5EB
-	.string "That CHARCOAL I gave you, it's used\n"
-	.string "for making herbal medicine.\p"
-	.string "It also does wonders when held by\n"
-	.string "a POKéMON.\p"
-	.string "It intensifies the power of FIRE-type\n"
-	.string "moves.$"
+	.i18n 2427
 
 LavaridgeTown_HerbShop_Text_1FE685: @ 81FE685
-	.string "Herbal medicine works impressively well.\n"
-	.string "But your POKéMON will dislike you for it.\l"
-	.string "It must be horribly bitter!$"
+	.i18n 2428
 

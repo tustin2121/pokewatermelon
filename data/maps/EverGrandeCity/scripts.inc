@@ -24,14 +24,11 @@ EverGrandeCity_EventScript_1E7D46:: @ 81E7D46
 	end
 
 EverGrandeCity_Text_1E7D4F: @ 81E7D4F
-	.string "ENTERING VICTORY ROAD$"
+	.i18n 2176
 
 EverGrandeCity_Text_1E7D65: @ 81E7D65
-	.string "ENTERING POKéMON LEAGUE\n"
-	.string "CENTER GATE$"
+	.i18n 2177
 
 EverGrandeCity_Text_1E7D89: @ 81E7D89
-	.string "EVER GRANDE CITY\p"
-	.string "“The paradise of flowers, the sea,\n"
-	.string "and POKéMON.”$"
+	.i18n 2178
 

@@ -765,130 +765,76 @@ Route110_TrickHouseEntrance_EventScript_26A459:: @ 826A459
 	return
 
 Route110_TrickHouseEntrance_Text_26A474: @ 826A474
-	.string "You're being watched…$"
+	.i18n 3721
 
 Route110_TrickHouseEntrance_Text_26A48A: @ 826A48A
-	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "beneath this desk? You're sharp!$"
+	.i18n 3722
 
 Route110_TrickHouseEntrance_Text_26A4DA: @ 826A4DA
-	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "behind this tree? You're sharp!$"
+	.i18n 3723
 
 Route110_TrickHouseEntrance_Text_26A529: @ 826A529
-	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "in this dresser? You're sharp!$"
+	.i18n 3724
 
 Route110_TrickHouseEntrance_Text_26A577: @ 826A577
-	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "beyond this window? You're sharp!$"
+	.i18n 3725
 
 Route110_TrickHouseEntrance_Text_26A5C8: @ 826A5C8
-	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "in this planter? You're sharp!$"
+	.i18n 3726
 
 Route110_TrickHouseEntrance_Text_26A616: @ 826A616
-	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "in this cupboard? You're sharp!$"
+	.i18n 3727
 
 Route110_TrickHouseEntrance_Text_26A665: @ 826A665
-	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "behind this window? You're sharp!$"
+	.i18n 3728
 
 Route110_TrickHouseEntrance_Text_26A6B6: @ 826A6B6
-	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "beneath this cushion? You're sharp!$"
+	.i18n 3729
 
 Route110_TrickHouseEntrance_Text_26A709: @ 826A709
-	.string "Behold!\p"
-	.string "For I am the greatest living mystery\n"
-	.string "of a man in all of HOENN!\l"
-	.string "They call me…\p"
-	.string "The TRICK MASTER!\n"
-	.string "Wahahaha! Glad to meet you!$"
+	.i18n 3730
 
 Route110_TrickHouseEntrance_Text_26A78C: @ 826A78C
-	.string "You, you've come to challenge\n"
-	.string "my TRICK HOUSE, haven't you?\p"
-	.string "That's why you're here, isn't it?\n"
-	.string "Yes, it is!\p"
-	.string "Consider your challenge accepted!\p"
-	.string "Enter through the scroll there,\n"
-	.string "and let your challenge commence!\p"
-	.string "I shall be waiting in the back!$"
+	.i18n 3731
 
 Route110_TrickHouseEntrance_Text_26A878: @ 826A878
-	.string "It's a scroll.$"
+	.i18n 3732
 
 Route110_TrickHouseEntrance_Text_26A887: @ 826A887
-	.string "There is a big hole behind the scroll!\p"
-	.string "Want to go in?$"
+	.i18n 3733
 
 Route110_TrickHouseEntrance_Text_26A8BD: @ 826A8BD
-	.string "There is a note affixed to the scroll…\p"
-	.string "“I am leaving on a journey.\n"
-	.string "Don't look for me. TRICK MASTER”$"
+	.i18n 3734
 
 Route110_TrickHouseEntrance_Text_26A921: @ 826A921
-	.string "For the next time, I'll use this trick,\n"
-	.string "and that scheme, and those ruses…\p"
-	.string "Mufufufu… If I may say so, it's\n"
-	.string "brilliantly difficult, even for me!$"
+	.i18n 3735
 
 Route110_TrickHouseEntrance_Text_26A9AF: @ 826A9AF
-	.string "Hah? What?!\n"
-	.string "Oh, it's you!\p"
-	.string "I'm in the midst of devising new tricky\n"
-	.string "challenges!\p"
-	.string "It's not too much to ask for a bit more\n"
-	.string "time for me to think, is it now?\l"
-	.string "You wouldn't begrudge me that?\l"
-	.string "Come back in a little while!$"
+	.i18n 3736
 
 Route110_TrickHouseEntrance_Text_26AA82: @ 826AA82
-	.string "Ah, it's you! You're here to accept the\n"
-	.string "reward from before, isn't that right?\l"
-	.string "Yes, right I am!\p"
-	.string "Here!\n"
-	.string "I'll give it to you now!$"
+	.i18n 3737
 
 Route110_TrickHouseEntrance_Text_26AB00: @ 826AB00
-	.string "Hah?\n"
-	.string "Did you not come to claim your reward?$"
+	.i18n 3738
 
 Route110_TrickHouseEntrance_Text_26AB2C: @ 826AB2C
-	.string "MECHADOLL 5 I AM!\n"
-	.string "IF REWARD IS NOT TAKEN BY YOU,\l"
-	.string "THEN TRICK MASTER YOU CANNOT FOLLOW.\p"
-	.string "RED TENT OR BLUE TENT,\n"
-	.string "WHICH DO YOU PREFER?$"
+	.i18n 3739
 
 Route110_TrickHouseEntrance_Text_26ABAE: @ 826ABAE
-	.string "THEN FAREWELL.$"
+	.i18n 3740
 
 Route110_TrickHouseEntrance_Text_26ABBD: @ 826ABBD
-	.string "YOUR PC STATUS: FULL AGAIN.\n"
-	.string "MEAN, YOU ARE.$"
+	.i18n 3741
 
 Route110_TrickHousePuzzle1_Text_26ABE8: @ 826ABE8
-	.string "{PLAYER} found a scroll.$"
+	.i18n 3742
 
 Route110_TrickHousePuzzle1_Text_26ABFB: @ 826ABFB
-	.string "{PLAYER} memorized the secret code\n"
-	.string "written on the scroll.$"
+	.i18n 3743
 
 Route110_TrickHousePuzzle1_Text_26AC2F: @ 826AC2F
-	.string "A secret code is written on it.$"
+	.i18n 3744
 
 Route110_TrickHouseEntrance_Text_26AC4F: @ 826AC4F
-	.string "The door is locked.\p"
-	.string "…On closer inspection, this is written\n"
-	.string "on it: “Write the secret code here.”$"
+	.i18n 3745

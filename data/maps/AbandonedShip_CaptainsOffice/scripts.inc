@@ -24,19 +24,11 @@ AbandonedShip_CaptainsOffice_EventScript_23881A:: @ 823881A
 	end
 
 AbandonedShip_CaptainsOffice_Text_238824: @ 8238824
-	.string "I'm investigating this ship on behalf\n"
-	.string "of CAPT. STERN.\p"
-	.string "He also asked me to find a SCANNER,\n"
-	.string "but I haven't had any success…$"
+	.i18n 512
 
 AbandonedShip_CaptainsOffice_Text_23889D: @ 823889D
-	.string "Oh! That's a SCANNER!\p"
-	.string "Listen, can I get you to deliver that\n"
-	.string "to CAPT. STERN?\p"
-	.string "I want to investigate this ship a\n"
-	.string "little more.$"
+	.i18n 513
 
 AbandonedShip_CaptainsOffice_Text_238918: @ 8238918
-	.string "This ship is called S.S. CACTUS.\n"
-	.string "It seems to be from an earlier era.$"
+	.i18n 514
 

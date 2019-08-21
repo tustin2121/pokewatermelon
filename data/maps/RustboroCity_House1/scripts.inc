@@ -53,32 +53,20 @@ RustboroCity_House1_EventScript_2159DF:: @ 82159DF
 	end
 
 RustboroCity_House1_Text_2159E8: @ 82159E8
-	.string "Huh? My POKéMON is cute?\n"
-	.string "Sure, I knew that.\p"
-	.string "But if you really want, I'm willing\n"
-	.string "to trade it to you.\p"
-	.string "I'll trade you my {STR_VAR_2} for\n"
-	.string "a {STR_VAR_1} if you want.$"
+	.i18n 4220
 
 RustboroCity_House1_Text_215A77: @ 8215A77
-	.string "Eheheh…\n"
-	.string "Please be good to my POKéMON.$"
+	.i18n 4221
 
 RustboroCity_House1_Text_215A9D: @ 8215A9D
-	.string "Huh? That doesn't look anything like\n"
-	.string "a {STR_VAR_1} to me.$"
+	.i18n 4222
 
 RustboroCity_House1_Text_215ACE: @ 8215ACE
-	.string "Oh, if you don't want to, that's okay.\n"
-	.string "But my POKéMON is cute, you know…$"
+	.i18n 4223
 
 RustboroCity_House1_Text_215B17: @ 8215B17
-	.string "Any POKéMON can be cute if you raise\n"
-	.string "it with care and kindness.$"
+	.i18n 4224
 
 RustboroCity_House1_Text_215B57: @ 8215B57
-	.string "In all sorts of places, there are all\n"
-	.string "sorts of POKéMON and people.\p"
-	.string "I find that fascinating, so I go to all\n"
-	.string "sorts of places.$"
+	.i18n 4225
 

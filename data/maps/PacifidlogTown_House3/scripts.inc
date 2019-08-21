@@ -54,39 +54,20 @@ PacifidlogTown_House3_EventScript_203CB5:: @ 8203CB5
 	end
 
 PacifidlogTown_House3_Text_203CBE: @ 8203CBE
-	.string "Check out this {STR_VAR_2}!\p"
-	.string "It's the {STR_VAR_2} that I caught\n"
-	.string "yesterday to celebrate my birthday!\p"
-	.string "Oh, I can see that you want it!\n"
-	.string "After all, it's priceless!\p"
-	.string "I'll tell you what. I might be willing\n"
-	.string "to trade it for a {STR_VAR_1}.$"
+	.i18n 3404
 
 PacifidlogTown_House3_Text_203D87: @ 8203D87
-	.string "Oh, so this is a {STR_VAR_1}?\p"
-	.string "It's sort of like a {STR_VAR_2},\n"
-	.string "and yet it's subtly different.\p"
-	.string "Thank you!$"
+	.i18n 3405
 
 PacifidlogTown_House3_Text_203DDE: @ 8203DDE
-	.string "No, no, no! I won't accept any\n"
-	.string "less than a real {STR_VAR_1}!$"
+	.i18n 3406
 
 PacifidlogTown_House3_Text_203E12: @ 8203E12
-	.string "Oh, so you're not going to go through\n"
-	.string "with this?\p"
-	.string "That's cool. I'm not desperate to make\n"
-	.string "a trade or anything.$"
+	.i18n 3407
 
 PacifidlogTown_House3_Text_203E7F: @ 8203E7F
-	.string "I know I could go looking for one\n"
-	.string "on my own, but…\p"
-	.string "But I really wanted to get a BAGON\n"
-	.string "that another TRAINER caught…$"
+	.i18n 3408
 
 PacifidlogTown_House3_Text_203EF1: @ 8203EF1
-	.string "Is that a POKéDEX?\p"
-	.string "Did you get to meet a lot of different\n"
-	.string "POKéMON?\p"
-	.string "I wish I was like you.$"
+	.i18n 3409
 

@@ -1,55 +1,28 @@
 ShoalCave_LowTideEntranceRoom_Text_2A7E0E: @ 82A7E0E
-	.string "Are you planning on going deep\n"
-	.string "in there?\p"
-	.string "How about bringing me back some\n"
-	.string "SHOAL SALT and SHOAL SHELLS?\p"
-	.string "I can make you something good if\n"
-	.string "you bring me the ingredients.$"
+	.i18n 6485
 
 ShoalCave_LowTideEntranceRoom_Text_2A7EB3: @ 82A7EB3
-	.string "If you bring me four each of the\n"
-	.string "SHOAL SALT and SHOAL SHELLS,\l"
-	.string "I can make you a SHELL BELL…\p"
-	.string "You can get those ingredients\n"
-	.string "every day.$"
+	.i18n 6486
 
 ShoalCave_LowTideEntranceRoom_Text_2A7F37: @ 82A7F37
-	.string "Oh, hey! SHOAL SALT and SHOAL SHELLS!\n"
-	.string "And enough of them, too!\p"
-	.string "Would you like me to make you\n"
-	.string "a SHELL BELL with them?$"
+	.i18n 6487
 
 ShoalCave_LowTideEntranceRoom_Text_2A7FAC: @ 82A7FAC
-	.string "All righty, then! I'll make you\n"
-	.string "a SHELL BELL right away.\p"
-	.string "… … … … … … … …\n"
-	.string "… … … … … … … …\p"
-	.string "There! Done!$"
+	.i18n 6488
 
 ShoalCave_LowTideEntranceRoom_Text_2A8012: @ 82A8012
-	.string "Have a POKéMON hold on to that.\n"
-	.string "It'll love it, that's for certain.\p"
-	.string "Why, the SHELL BELL's chime…\n"
-	.string "It's simply sublime!\p"
-	.string "You can get its ingredients every day,\n"
-	.string "so I can make you more.$"
+	.i18n 6489
 
 ShoalCave_LowTideEntranceRoom_Text_2A80C6: @ 82A80C6
-	.string "Oh… Is that so…\n"
-	.string "I wanted to make a SHELL BELL…$"
+	.i18n 6490
 
 ShoalCave_LowTideEntranceRoom_Text_2A80F5: @ 82A80F5
-	.string "You don't have space in your BAG\n"
-	.string "if I were to make it for you.\p"
-	.string "You should make room and come back\n"
-	.string "for a SHELL BELL.$"
+	.i18n 6491
 
 ShoalCave_LowTideInnerRoom_Text_2A8169: @ 82A8169
 ShoalCave_LowTideLowerRoom_Text_2A8169: @ 82A8169
 ShoalCave_LowTideStairsRoom_Text_2A8169: @ 82A8169
-	.string "There was some SHOAL SALT here.\n"
-	.string "But, there's nothing here now.$"
+	.i18n 6492
 
 ShoalCave_LowTideInnerRoom_Text_2A81A8: @ 82A81A8
-	.string "There was a SHOAL SHELL here.\n"
-	.string "But, there's nothing here now.$"
+	.i18n 6493

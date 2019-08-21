@@ -55,34 +55,24 @@ AbandonedShip_Corridors_B1F_EventScript_237E13:: @ 8237E13
 	end
 
 AbandonedShip_Corridors_B1F_Text_237E2A: @ 8237E2A
-	.string "When we go out to sea, we SAILORS\n"
-	.string "always bring our POKéMON.\l"
-	.string "How about a quick battle?$"
+	.i18n 519
 
 AbandonedShip_Corridors_B1F_Text_237E80: @ 8237E80
-	.string "Whoops, I'm sunk!$"
+	.i18n 520
 
 AbandonedShip_Corridors_B1F_Text_237E92: @ 8237E92
-	.string "The ship's bottom has sunk into the\n"
-	.string "depths.\p"
-	.string "If a POKéMON knew how to go underwater,\n"
-	.string "we might make some progress…$"
+	.i18n 521
 
 AbandonedShip_Corridors_B1F_Text_237F03: @ 8237F03
-	.string "Yay!\n"
-	.string "It's a ship!$"
+	.i18n 522
 
 AbandonedShip_Corridors_B1F_Text_237F15: @ 8237F15
-	.string "The door is locked.\p"
-	.string "“STORAGE” is painted on the door.$"
+	.i18n 523
 
 AbandonedShip_Corridors_B1F_Text_237F4B: @ 8237F4B
-	.string "{PLAYER} inserted and turned the\n"
-	.string "STORAGE KEY.\p"
-	.string "The inserted KEY stuck fast,\n"
-	.string "but the door opened.$"
+	.i18n 524
 
 AbandonedShip_Corridors_B1F_Text_237FA5: @ 8237FA5
 AbandonedShip_HiddenFloorCorridors_Text_237FA5: @ 8237FA5
-	.string "The door is open.$"
+	.i18n 525
 

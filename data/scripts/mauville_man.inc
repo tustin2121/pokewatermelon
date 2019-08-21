@@ -93,63 +93,46 @@ MauvilleCity_PokemonCenter_1F_EventScript_28E1A4:: @ 828E1A4
 	end
 
 MauvilleCity_PokemonCenter_1F_Text_28E1B1: @ 828E1B1
-	.string "Hi, I'm the TRADER.\n"
-	.string "Want to trade decorations with me?$"
+	.i18n 5417
 
 MauvilleCity_PokemonCenter_1F_Text_28E1E8: @ 828E1E8
-	.string "Oh…\n"
-	.string "You've left me feeling the blues…$"
+	.i18n 5418
 
 MauvilleCity_PokemonCenter_1F_Text_28E20E: @ 828E20E
-	.string "But we've traded decorations already,\n"
-	.string "you and I.$"
+	.i18n 5419
 
 MauvilleCity_PokemonCenter_1F_Text_28E23F: @ 828E23F
-	.string "If you see any decorative item that\n"
-	.string "you want of mine, speak up.$"
+	.i18n 5420
 
 MauvilleCity_PokemonCenter_1F_Text_28E27F: @ 828E27F
-	.string "You don't want anything?\n"
-	.string "I feel unwanted…$"
+	.i18n 5421
 
 MauvilleCity_PokemonCenter_1F_Text_28E2A9: @ 828E2A9
-	.string "That decorative item once belonged\n"
-	.string "to {STR_VAR_1}.\p"
-	.string "Do you want it?$"
+	.i18n 5422
 
 MauvilleCity_PokemonCenter_1F_Text_28E2E3: @ 828E2E3
-	.string "Uh… Wait a second. You don't have a\n"
-	.string "single piece of decoration!$"
+	.i18n 5423
 
 MauvilleCity_PokemonCenter_1F_Text_28E323: @ 828E323
-	.string "Okay, pick the decoration that you'll\n"
-	.string "trade to me.$"
+	.i18n 5424
 
 MauvilleCity_PokemonCenter_1F_Text_28E356: @ 828E356
-	.string "You won't trade with me?\n"
-	.string "I feel unwanted…$"
+	.i18n 5425
 
 MauvilleCity_PokemonCenter_1F_Text_28E380: @ 828E380
-	.string "You've got all the {STR_VAR_2}S that can\n"
-	.string "be stored. You've no room for this.$"
+	.i18n 5426
 
 MauvilleCity_PokemonCenter_1F_Text_28E3C4: @ 828E3C4
-	.string "Okay, so we'll trade my {STR_VAR_3}\n"
-	.string "for your {STR_VAR_2}?$"
+	.i18n 5427
 
 MauvilleCity_PokemonCenter_1F_Text_28E3EC: @ 828E3EC
-	.string "That piece of decoration is in use.\n"
-	.string "You can't trade it.$"
+	.i18n 5428
 
 MauvilleCity_PokemonCenter_1F_Text_28E424: @ 828E424
-	.string "Then we'll trade!\n"
-	.string "I'll send my decoration to your PC.$"
+	.i18n 5429
 
 MauvilleCity_PokemonCenter_1F_Text_28E45A: @ 828E45A
-	.string "Oops! Sorry! That's a really rare\n"
-	.string "piece of decoration.\l"
-	.string "I can't trade that one away!\p"
-	.string "Can I interest you in something else?$"
+	.i18n 5430
 
 MauvilleCity_PokemonCenter_1F_EventScript_28E4D4:: @ 828E4D4
 	lock
@@ -248,559 +231,358 @@ MauvilleCity_PokemonCenter_1F_EventScript_28E5EC:: @ 828E5EC
 	end
 
 MauvilleCity_PokemonCenter_1F_Text_28E5F6: @ 828E5F6
-	.string "I'm the STORYTELLER.\n"
-	.string "I'll tell you tales of legendary\l"
-	.string "TRAINERS.\p"
-	.string "Will you hear my tale?$"
+	.i18n 5431
 
 MauvilleCity_PokemonCenter_1F_Text_28E64D: @ 828E64D
-	.string "Oh…\n"
-	.string "You've left me feeling the blues…$"
+	.i18n 5432
 
 MauvilleCity_PokemonCenter_1F_Text_28E673: @ 828E673
-	.string "I know of these legends.\n"
-	.string "Which tale will you have me tell?$"
+	.i18n 5433
 
 MauvilleCity_PokemonCenter_1F_Text_28E6AE: @ 828E6AE
-	.string "But, I know of no legendary TRAINERS.\n"
-	.string "Hence, I know no tales.\p"
-	.string "Where does one find a TRAINER worthy\n"
-	.string "of a legendary tale?$"
+	.i18n 5434
 
 MauvilleCity_PokemonCenter_1F_Text_28E726: @ 828E726
-	.string "What's that?!\n"
-	.string "You… You…\p"
-	.string "{STR_VAR_2}\n"
-	.string "{STR_VAR_1} time(s)?!\p"
-	.string "That is indeed magnificent!\n"
-	.string "It's the birth of a new legend!$"
+	.i18n 5435
 
 MauvilleCity_PokemonCenter_1F_Text_28E78A: @ 828E78A
-	.string "It gets me thinking, could there be\n"
-	.string "other TRAINERS with more impressive\l"
-	.string "legends awaiting discovery?$"
+	.i18n 5436
 
 MauvilleCity_PokemonCenter_1F_Text_28E7EE: @ 828E7EE
-	.string "Are you a TRAINER?\p"
-	.string "Then tell me, have you any tales that\n"
-	.string "are even remotely legendary?$"
+	.i18n 5437
 
 MauvilleCity_PokemonCenter_1F_Text_28E844: @ 828E844
-	.string "Incidentally… Would you care to hear\n"
-	.string "another legendary tale?$"
+	.i18n 5438
 
 MauvilleCity_PokemonCenter_1F_Text_28E881: @ 828E881
-	.string "Hmm…\n"
-	.string "I'm not satisfied…\p"
-	.string "I wish you would bring me news worthy\n"
-	.string "of being called a legend.$"
+	.i18n 5439
 
 MauvilleCity_PokemonCenter_1F_Text_28E8D9: @ 828E8D9
-	.string "I wish more people would be interested\n"
-	.string "in hearing my epic tales of legendary\l"
-	.string "TRAINERS.$"
+	.i18n 5440
 
 MauvilleCity_PokemonCenter_1F_Text_28E930:: @ 828E930
-	.string "The Save-Happy TRAINER$"
+	.i18n 5441
 
 MauvilleCity_PokemonCenter_1F_Text_28E947:: @ 828E947
-	.string "Saved the game$"
+	.i18n 5442
 
 MauvilleCity_PokemonCenter_1F_Text_28E956:: @ 828E956
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER saved the game\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "A more cautious TRAINER than\n"
-	.string "{STR_VAR_3} one will never find!$"
+	.i18n 5443
 
 MauvilleCity_PokemonCenter_1F_Text_28E9D7:: @ 828E9D7
-	.string "The Trendsetter TRAINER$"
+	.i18n 5444
 
 MauvilleCity_PokemonCenter_1F_Text_28E9EF:: @ 828E9EF
-	.string "Started trends$"
+	.i18n 5445
 
 MauvilleCity_PokemonCenter_1F_Text_28E9FE:: @ 828E9FE
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER started new trends\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} is setting trends for all\n"
-	.string "the HOENN region!$"
+	.i18n 5446
 
 MauvilleCity_PokemonCenter_1F_Text_28EA7D:: @ 828EA7D
-    .string "The BERRY-Planting TRAINER$"
+    .i18n 5447
 
 MauvilleCity_PokemonCenter_1F_Text_28EA98:: @ 828EA98
-	.string "Planted BERRIES$"
+	.i18n 5448
 
 MauvilleCity_PokemonCenter_1F_Text_28EAA8:: @ 828EAA8
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER planted BERRIES\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} is a legendary lover of\n"
-	.string "BERRIES!$"
+	.i18n 5449
 
 MauvilleCity_PokemonCenter_1F_Text_28EB19:: @ 828EB19
-	.string "The BIKE-Loving TRAINER$"
+	.i18n 5450
 
 MauvilleCity_PokemonCenter_1F_Text_28EB31:: @ 828EB31
-	.string "Traded BIKES$"
+	.i18n 5451
 
 MauvilleCity_PokemonCenter_1F_Text_28EB3E:: @ 828EB3E
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER swapped BIKES\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} must love BIKES deeply\n"
-	.string "and passionately!$"
+	.i18n 5452
 
 MauvilleCity_PokemonCenter_1F_Text_28EBB5:: @ 828EBB5
-	.string "The Interviewed TRAINER$"
+	.i18n 5453
 
 MauvilleCity_PokemonCenter_1F_Text_28EBCD:: @ 828EBCD
-	.string "Got interviewed$"
+	.i18n 5454
 
 MauvilleCity_PokemonCenter_1F_Text_28EBDD:: @ 828EBDD
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER got interviewed\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} must be a TRAINER who's\n"
-	.string "attracting much attention!$"
+	.i18n 5455
 
 MauvilleCity_PokemonCenter_1F_Text_28EC60:: @ 828EC60
-	.string "The Battle-Happy TRAINER$"
+	.i18n 5456
 
 MauvilleCity_PokemonCenter_1F_Text_28EC79:: @ 828EC79
-	.string "Battled$"
+	.i18n 5457
 
 MauvilleCity_PokemonCenter_1F_Text_28EC81:: @ 828EC81
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER battled {STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} must be a TRAINER who can\n"
-	.string "never refuse a chance to battle!$"
+	.i18n 5458
 
 MauvilleCity_PokemonCenter_1F_Text_28ED04:: @ 828ED04
-	.string "The POKéMON-Catching TRAINER$"
+	.i18n 5459
 
 MauvilleCity_PokemonCenter_1F_Text_28ED21:: @ 828ED21
-	.string "Caught POKéMON$"
+	.i18n 5460
 
 MauvilleCity_PokemonCenter_1F_Text_28ED30:: @ 828ED30
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER caught\n"
-	.string "{STR_VAR_1} POKéMON!\p"
-	.string "{STR_VAR_3} is a legendary catcher of\n"
-	.string "wild POKéMON!$"
+	.i18n 5461
 
 MauvilleCity_PokemonCenter_1F_Text_28EDA1:: @ 828EDA1
-	.string "The Fishing TRAINER$"
+	.i18n 5462
 
 MauvilleCity_PokemonCenter_1F_Text_28EDB5:: @ 828EDB5
-	.string "Caught POKéMON with a ROD$"
+	.i18n 5463
 
 MauvilleCity_PokemonCenter_1F_Text_28EDCF:: @ 828EDCF
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER caught\n"
-	.string "{STR_VAR_1} POKéMON while fishing!\p"
-	.string "{STR_VAR_3} is a legendary fishing\n"
-	.string "expert!$"
+	.i18n 5464
 
 MauvilleCity_PokemonCenter_1F_Text_28EE45:: @ 828EE45
-	.string "The EGG-Warming TRAINER$"
+	.i18n 5465
 
 MauvilleCity_PokemonCenter_1F_Text_28EE5D:: @ 828EE5D
-	.string "Hatched EGGS$"
+	.i18n 5466
 
 MauvilleCity_PokemonCenter_1F_Text_28EE6A:: @ 828EE6A
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER hatched {STR_VAR_1} POKéMON\n"
-	.string "from EGGS!\p"
-	.string "{STR_VAR_3} is a legendary warmer\n"
-	.string "of EGGS!$"
+	.i18n 5467
 
 MauvilleCity_PokemonCenter_1F_Text_28EEDD:: @ 828EEDD
-	.string "The Evolver TRAINER$"
+	.i18n 5468
 
 MauvilleCity_PokemonCenter_1F_Text_28EEF1:: @ 828EEF1
-	.string "Evolved POKéMON$"
+	.i18n 5469
 
 MauvilleCity_PokemonCenter_1F_Text_28EF01:: @ 828EF01
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER made {STR_VAR_1} POKéMON\n"
-	.string "evolve!\p"
-	.string "{STR_VAR_3} is the ultimate evolver\n"
-	.string "of POKéMON!$"
+	.i18n 5470
 
 MauvilleCity_PokemonCenter_1F_Text_28EF73:: @ 828EF73
-	.string "The POKéMON CENTER-Loving TRAINER$"
+	.i18n 5471
 
 MauvilleCity_PokemonCenter_1F_Text_28EF95:: @ 828EF95
-	.string "Used POKéMON CENTERS$"
+	.i18n 5472
 
 MauvilleCity_PokemonCenter_1F_Text_28EFAA:: @ 828EFAA
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER healed POKéMON\n"
-	.string "{STR_VAR_1} times at POKéMON CENTERS!\p"
-	.string "There could be no greater lover of\n"
-	.string "POKéMON CENTERS than {STR_VAR_3}!$"
+	.i18n 5473
 
 MauvilleCity_PokemonCenter_1F_Text_28F045:: @ 828F045
-	.string "The Homebody TRAINER$"
+	.i18n 5474
 
 MauvilleCity_PokemonCenter_1F_Text_28F05A:: @ 828F05A
-	.string "Rested POKéMON at home$"
+	.i18n 5475
 
 MauvilleCity_PokemonCenter_1F_Text_28F071:: @ 828F071
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER healed POKéMON\n"
-	.string "{STR_VAR_1} times at home!\p"
-	.string "There could be no more of a homebody\n"
-	.string "than {STR_VAR_3}!$"
+	.i18n 5476
 
 MauvilleCity_PokemonCenter_1F_Text_28F0F3:: @ 828F0F3
-	.string "The SAFARI-Loving TRAINER$"
+	.i18n 5477
 
 MauvilleCity_PokemonCenter_1F_Text_28F10D:: @ 828F10D
-	.string "Entered the SAFARI ZONE$"
+	.i18n 5478
 
 MauvilleCity_PokemonCenter_1F_Text_28F125:: @ 828F125
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER went into the SAFARI ZONE\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} is a TRAINER whose wild side\n"
-	.string "must come out in the SAFARI ZONE!$"
+	.i18n 5479
 
 MauvilleCity_PokemonCenter_1F_Text_28F1BE:: @ 828F1BE
-	.string "The CUT-Frenzy TRAINER$"
+	.i18n 5480
 
 MauvilleCity_PokemonCenter_1F_Text_28F1D5:: @ 828F1D5
-	.string "Used CUT$"
+	.i18n 5481
 
 MauvilleCity_PokemonCenter_1F_Text_28F1DE:: @ 828F1DE
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER used CUT\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} is a TRAINER who just must\n"
-	.string "love to CUT!$"
+	.i18n 5482
 
 MauvilleCity_PokemonCenter_1F_Text_28F24F:: @ 828F24F
-	.string "The ROCK-SMASHING TRAINER$"
+	.i18n 5483
 
 MauvilleCity_PokemonCenter_1F_Text_28F269:: @ 828F269
-	.string "Smashed rocks$"
+	.i18n 5484
 
 MauvilleCity_PokemonCenter_1F_Text_28F277:: @ 828F277
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER used ROCK SMASH\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} must be a TRAINER who\n"
-	.string "can't leave a stone unsmashed!$"
+	.i18n 5485
 
 MauvilleCity_PokemonCenter_1F_Text_28F2FC:: @ 828F2FC
-	.string "The Move-Loving TRAINER$"
+	.i18n 5486
 
 MauvilleCity_PokemonCenter_1F_Text_28F314:: @ 828F314
-	.string "Moved the SECRET BASE$"
+	.i18n 5487
 
 MauvilleCity_PokemonCenter_1F_Text_28F32A:: @ 828F32A
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER moved the SECRET BASE\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} is a TRAINER who loves\n"
-	.string "to move houses often!$"
+	.i18n 5488
 
 MauvilleCity_PokemonCenter_1F_Text_28F3AD:: @ 828F3AD
-	.string "The SPLASH-Happy TRAINER$"
+	.i18n 5489
 
 MauvilleCity_PokemonCenter_1F_Text_28F3C6:: @ 828F3C6
-	.string "Used SPLASH$"
+	.i18n 5490
 
 MauvilleCity_PokemonCenter_1F_Text_28F3D2:: @ 828F3D2
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER used SPLASH\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} is a TRAINER who must love\n"
-	.string "SPLASHING around!$"
+	.i18n 5491
 
 MauvilleCity_PokemonCenter_1F_Text_28F44B:: @ 828F44B
-	.string "The Tenacious TRAINER$"
+	.i18n 5492
 
 MauvilleCity_PokemonCenter_1F_Text_28F461:: @ 828F461
-	.string "Resorted to using STRUGGLE$"
+	.i18n 5493
 
 MauvilleCity_PokemonCenter_1F_Text_28F47C:: @ 828F47C
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER had to rely on STRUGGLE\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} is a tenacious TRAINER\n"
-	.string "who never gives in to adversity!$"
+	.i18n 5494
 
 MauvilleCity_PokemonCenter_1F_Text_28F50C:: @ 828F50C
-	.string "The SLOT Champ$"
+	.i18n 5495
 
 MauvilleCity_PokemonCenter_1F_Text_28F51B:: @ 828F51B
-	.string "Won the jackpot on the SLOTS$"
+	.i18n 5496
 
 MauvilleCity_PokemonCenter_1F_Text_28F538:: @ 828F538
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER won the jackpot on\n"
-	.string "the SLOTS {STR_VAR_1} times.\p"
-	.string "{STR_VAR_3} is a TRAINER who was lucky\n"
-	.string "on the SLOTS!$"
+	.i18n 5497
 
 MauvilleCity_PokemonCenter_1F_Text_28F5BE:: @ 828F5BE
-	.string "The ROULETTE Champ$"
+	.i18n 5498
 
 MauvilleCity_PokemonCenter_1F_Text_28F5D1:: @ 828F5D1
-	.string "Had consecutive ROULETTE wins of$"
+	.i18n 5499
 
 MauvilleCity_PokemonCenter_1F_Text_28F5F2:: @ 828F5F2
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER won in ROULETTE\n"
-	.string "{STR_VAR_1} times in a row.\p"
-	.string "{STR_VAR_3} was lucky when the ball\n"
-	.string "bounced in ROULETTE!$"
+	.i18n 5500
 
 MauvilleCity_PokemonCenter_1F_Text_28F678:: @ 828F678
-	.string "The BATTLE TOWER Challenger$"
+	.i18n 5501
 
 MauvilleCity_PokemonCenter_1F_Text_28F694:: @ 828F694
-	.string "Took the BATTLE TOWER challenge$"
+	.i18n 5502
 
 MauvilleCity_PokemonCenter_1F_Text_28F6B4:: @ 828F6B4
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER took the BATTLE TOWER\n"
-	.string "challenge {STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} is a TRAINER who aspires\n"
-	.string "for excellence in the BATTLE TOWER!$"
+	.i18n 5503
 
 MauvilleCity_PokemonCenter_1F_Text_28F751:: @ 828F751
-	.string "The Blend-Loving TRAINER$"
+	.i18n 5504
 
 MauvilleCity_PokemonCenter_1F_Text_28F76A:: @ 828F76A
-	.string "Made {POKEBLOCK}S$"
+	.i18n 5505
 
 MauvilleCity_PokemonCenter_1F_Text_28F776:: @ 828F776
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER made {POKEBLOCK}S\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "There is none better at using a BERRY\n"
-	.string "BLENDER than {STR_VAR_3}!$"
+	.i18n 5506
 
 MauvilleCity_PokemonCenter_1F_Text_28F7F6:: @ 828F7F6
-	.string "The CONTEST-Loving TRAINER$"
+	.i18n 5507
 
 MauvilleCity_PokemonCenter_1F_Text_28F811:: @ 828F811
-	.string "Entered CONTESTS$"
+	.i18n 5508
 
 MauvilleCity_PokemonCenter_1F_Text_28F822:: @ 828F822
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER entered CONTESTS\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} must love showing off\n"
-	.string "POKéMON to others!$"
+	.i18n 5509
 
 MauvilleCity_PokemonCenter_1F_Text_28F89C:: @ 828F89C
-	.string "The CONTEST Master$"
+	.i18n 5510
 
 MauvilleCity_PokemonCenter_1F_Text_28F8AF:: @ 828F8AF
-	.string "Won CONTESTS$"
+	.i18n 5511
 
 MauvilleCity_PokemonCenter_1F_Text_28F8BC:: @ 828F8BC
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER won CONTESTS\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} must be an incredible\n"
-	.string "CONTEST master!$"
+	.i18n 5512
 
 MauvilleCity_PokemonCenter_1F_Text_28F92F:: @ 828F92F
-	.string "The Happy Shopper$"
+	.i18n 5513
 
 MauvilleCity_PokemonCenter_1F_Text_28F941:: @ 828F941
-	.string "Shopped$"
+	.i18n 5514
 
 MauvilleCity_PokemonCenter_1F_Text_28F949:: @ 828F949
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER bought items in shops\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} must be one of those\n"
-	.string "people who are born to shop.$"
+	.i18n 5515
 
 MauvilleCity_PokemonCenter_1F_Text_28F9D1:: @ 828F9D1
-	.string "The Item-Finding TRAINER$"
+	.i18n 5516
 
 MauvilleCity_PokemonCenter_1F_Text_28F9EA:: @ 828F9EA
-	.string "Used an ITEMFINDER$"
+	.i18n 5517
 
 MauvilleCity_PokemonCenter_1F_Text_28F9FD:: @ 828F9FD
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER used an ITEMFINDER\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} must enjoy scouring the\n"
-	.string "ground for hidden items!$"
+	.i18n 5518
 
 MauvilleCity_PokemonCenter_1F_Text_28FA81:: @ 828FA81
-	.string "The Rain-Soaked TRAINER$"
+	.i18n 5519
 
 MauvilleCity_PokemonCenter_1F_Text_28FA99:: @ 828FA99
-	.string "Got rained on$"
+	.i18n 5520
 
 MauvilleCity_PokemonCenter_1F_Text_28FAA7:: @ 828FAA7
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER got soaked by rain\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3}'s charisma must even\n"
-	.string "attract rain!$"
+	.i18n 5521
 
 MauvilleCity_PokemonCenter_1F_Text_28FB1D:: @ 828FB1D
-	.string "The Avid POKéDEX Reader$"
+	.i18n 5522
 
 MauvilleCity_PokemonCenter_1F_Text_28FB35:: @ 828FB35
-	.string "Checked a POKéDEX$"
+	.i18n 5523
 
 MauvilleCity_PokemonCenter_1F_Text_28FB47:: @ 828FB47
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER checked a POKéDEX\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} must love inspecting\n"
-	.string "POKéMON in a POKéDEX!$"
+	.i18n 5524
 
 MauvilleCity_PokemonCenter_1F_Text_28FBC4:: @ 828FBC4
-	.string "The RIBBON Collector$"
+	.i18n 5525
 
 MauvilleCity_PokemonCenter_1F_Text_28FBD9:: @ 828FBD9
-	.string "Received RIBBONS$"
+	.i18n 5526
 
 MauvilleCity_PokemonCenter_1F_Text_28FBEA:: @ 828FBEA
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER received RIBBONS\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} must be a TRAINER who\n"
-	.string "loves to collect RIBBONS!$"
+	.i18n 5527
 
 MauvilleCity_PokemonCenter_1F_Text_28FC6B:: @ 828FC6B
-	.string "The Ledge-Jumping TRAINER$"
+	.i18n 5528
 
 MauvilleCity_PokemonCenter_1F_Text_28FC85:: @ 828FC85
-	.string "Jumped down ledges$"
+	.i18n 5529
 
 MauvilleCity_PokemonCenter_1F_Text_28FC98:: @ 828FC98
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER jumped down ledges\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "If there's a ledge to be jumped,\n"
-	.string "{STR_VAR_3} can't ignore it!$"
+	.i18n 5530
 
 MauvilleCity_PokemonCenter_1F_Text_28FD1D:: @ 828FD1D
-	.string "The Legendary TV Viewer$"
+	.i18n 5531
 
 MauvilleCity_PokemonCenter_1F_Text_28FD35:: @ 828FD35
-	.string "Watched TV$"
+	.i18n 5532
 
 MauvilleCity_PokemonCenter_1F_Text_28FD40:: @ 828FD40
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER watched TV\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} must love watching TV!$"
+	.i18n 5533
 
 MauvilleCity_PokemonCenter_1F_Text_28FDA2:: @ 828FDA2
-	.string "The Time-Conscious TRAINER$"
+	.i18n 5534
 
 MauvilleCity_PokemonCenter_1F_Text_28FDBD:: @ 828FDBD
-	.string "Checked the time$"
+	.i18n 5535
 
 MauvilleCity_PokemonCenter_1F_Text_28FDCE:: @ 828FDCE
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER checked the time\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} must be a punctual TRAINER\n"
-	.string "who's conscious of the time.$"
+	.i18n 5536
 
 MauvilleCity_PokemonCenter_1F_Text_28FE57:: @ 828FE57
-	.string "The POKéMON LOTTERY Wizard$"
+	.i18n 5537
 
 MauvilleCity_PokemonCenter_1F_Text_28FE72:: @ 828FE72
-	.string "Won POKéMON LOTTERIES$"
+	.i18n 5538
 
 MauvilleCity_PokemonCenter_1F_Text_28FE88:: @ 828FE88
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER won POKéMON LOTTERIES\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} must have many friends\n"
-	.string "to trade POKéMON with!$"
+	.i18n 5539
 
 MauvilleCity_PokemonCenter_1F_Text_28FF0C:: @ 828FF0C
-	.string "The DAY CARE-Using Trainer$"
+	.i18n 5540
 
 MauvilleCity_PokemonCenter_1F_Text_28FF27:: @ 828FF27
-	.string "Left POKéMON at the DAY CARE$"
+	.i18n 5541
 
 MauvilleCity_PokemonCenter_1F_Text_28FF44:: @ 828FF44
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER left POKéMON with the\n"
-	.string "DAY CARE {STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} must be a real go-getter\n"
-	.string "who raises POKéMON aggressively!$"
+	.i18n 5542
 
 MauvilleCity_PokemonCenter_1F_Text_28FFDD:: @ 828FFDD
-	.string "The CABLE CAR-Loving TRAINER$"
+	.i18n 5543
 
 MauvilleCity_PokemonCenter_1F_Text_28FFFA:: @ 828FFFA
-	.string "Rode the CABLE CAR$"
+	.i18n 5544
 
 MauvilleCity_PokemonCenter_1F_Text_29000D:: @ 829000D
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER rode the CABLE CAR\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} must be a busy TRAINER\n"
-	.string "who's up and down all the time!$"
+	.i18n 5545
 
 MauvilleCity_PokemonCenter_1F_Text_290097:: @ 8290097
-	.string "The Hot Spring-Loving TRAINER$"
+	.i18n 5546
 
 MauvilleCity_PokemonCenter_1F_Text_2900B5:: @ 82900B5
-	.string "Bathed in hot springs$"
+	.i18n 5547
 
 MauvilleCity_PokemonCenter_1F_Text_2900CB:: @ 82900CB
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER bathed in hot springs\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} must be a TRAINER with\n"
-	.string "baby-smooth skin!$"
+	.i18n 5548
 
 
 MauvilleCity_PokemonCenter_1F_EventScript_29014A:: @ 829014A
@@ -876,21 +658,16 @@ MauvilleCity_PokemonCenter_1F_EventScript_29022D:: @ 829022D
 	end
 
 MauvilleCity_PokemonCenter_1F_Text_29022F: @ 829022F
-	.string "I'm GIDDY!\n"
-	.string "I have a scintillating story for you!\p"
-	.string "Would you like to hear my story?$"
+	.i18n 5549
 
 MauvilleCity_PokemonCenter_1F_Text_290281: @ 8290281
-	.string "Oh…\n"
-	.string "You've left me feeling the blues…$"
+	.i18n 5550
 
 MauvilleCity_PokemonCenter_1F_Text_2902A7: @ 82902A7
-	.string "Also, I was thinking…$"
+	.i18n 5551
 
 MauvilleCity_PokemonCenter_1F_Text_2902BD: @ 82902BD
-	.string "That's about it, I think…\p"
-	.string "We should chat again!\n"
-	.string "Bye-bye!$"
+	.i18n 5552
 
 MauvilleCity_PokemonCenter_1F_EventScript_2902F6:: @ 82902F6
 	lock
@@ -945,58 +722,37 @@ MauvilleCity_PokemonCenter_1F_EventScript_290384:: @ 8290384
 	end
 
 MauvilleCity_PokemonCenter_1F_Text_29038E: @ 829038E
-	.string "Hi, I'm the BARD.\n"
-	.string "Would you like to hear my song?$"
+	.i18n 5553
 
 MauvilleCity_PokemonCenter_1F_Text_2903C0: @ 82903C0
-	.string "Oh…\n"
-	.string "You've left me feeling the blues…$"
+	.i18n 5554
 
 MauvilleCity_PokemonCenter_1F_Text_2903E6: @ 82903E6
-	.string "Oh, what a moving song…\n"
-	.string "I wish I could play it for others…$"
+	.i18n 5555
 
 MauvilleCity_PokemonCenter_1F_Text_290421: @ 8290421
-	.string "So?\n"
-	.string "How do you like my song?\p"
-	.string "But I'm none too happy about\n"
-	.string "the lyrics.\p"
-	.string "How would you like to write some\n"
-	.string "new lyrics for me?$"
+	.i18n 5556
 
 MauvilleCity_PokemonCenter_1F_Text_29049B: @ 829049B
-	.string "Oh…\n"
-	.string "You've left me feeling the blues…$"
+	.i18n 5557
 
 MauvilleCity_PokemonCenter_1F_Text_2904C1: @ 82904C1
-	.string "Thank you kindly!\n"
-	.string "Let me sing it for you.$"
+	.i18n 5558
 
 MauvilleCity_PokemonCenter_1F_Text_2904EB: @ 82904EB
-	.string "Was that how you wanted your song\n"
-	.string "to go?$"
+	.i18n 5559
 
 MauvilleCity_PokemonCenter_1F_Text_290514: @ 8290514
-	.string "Okay! That's it, then.\n"
-	.string "I'll sing this song for a while.$"
+	.i18n 5560
 
 MauvilleCity_PokemonCenter_1F_Text_29054C: @ 829054C
-	.string "Hey, yo! They call me the HIPSTER.\n"
-	.string "I'll teach you what's hip and happening.$"
+	.i18n 5561
 
 MauvilleCity_PokemonCenter_1F_Text_290598: @ 8290598
-	.string "But, hey, I taught you what's hip and\n"
-	.string "happening already.\p"
-	.string "I'd like to spread the good word to\n"
-	.string "other folks.$"
+	.i18n 5562
 
 MauvilleCity_PokemonCenter_1F_Text_290602: @ 8290602
-	.string "But, hey, you already know a lot about\n"
-	.string "what's hip and happening.\p"
-	.string "I've got nothing new to teach you!$"
+	.i18n 5563
 
 MauvilleCity_PokemonCenter_1F_Text_290666: @ 8290666
-	.string "Hey, have you heard about\n"
-	.string "“{STR_VAR_1}”?\p"
-	.string "What's it mean? Well…\n"
-	.string "Ask your daddy or mommy, okay?$"
+	.i18n 5564

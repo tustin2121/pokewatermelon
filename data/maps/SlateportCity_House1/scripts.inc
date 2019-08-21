@@ -72,50 +72,29 @@ SlateportCity_House1_EventScript_209B84:: @ 8209B84
 	end
 
 SlateportCity_House1_Text_209B8E: @ 8209B8E
-	.string "Hi, hi! I'm the NAME RATER!\n"
-	.string "I'm the fortune-teller of names!\p"
-	.string "I shall be pleased to rate your\n"
-	.string "POKéMON's nickname.$"
+	.i18n 4487
 
 SlateportCity_House1_Text_209BFF: @ 8209BFF
-	.string "Which POKéMON's nickname should\n"
-	.string "I critique?$"
+	.i18n 4488
 
 SlateportCity_House1_Text_209C2B: @ 8209C2B
-	.string "Hmmm… {STR_VAR_1}, is it? That is\n"
-	.string "quite a fine name you bestowed.\p"
-	.string "But! What say you, if I were to\n"
-	.string "suggest a slightly better name?$"
+	.i18n 4489
 
 SlateportCity_House1_Text_209CA4: @ 8209CA4
-	.string "Ah, good. Then, what shall the new\n"
-	.string "nickname be?$"
+	.i18n 4490
 
 SlateportCity_House1_Text_209CD4: @ 8209CD4
-	.string "Done! From now on, this POKéMON\n"
-	.string "shall be known as {STR_VAR_1}!\p"
-	.string "It is a better name than before!\n"
-	.string "How fortunate for you!$"
+	.i18n 4491
 
 SlateportCity_House1_Text_209D42: @ 8209D42
-	.string "I see.\n"
-	.string "Do come visit again.$"
+	.i18n 4492
 
 SlateportCity_House1_Text_209D5E: @ 8209D5E
-	.string "Done! From now on, this POKéMON\n"
-	.string "shall be known as {STR_VAR_1}!\p"
-	.string "It looks no different from before,\n"
-	.string "and yet, this is vastly superior!\p"
-	.string "How fortunate for you!$"
+	.i18n 4493
 
 SlateportCity_House1_Text_209DF0: @ 8209DF0
-	.string "Hmmm… {STR_VAR_1} it is!\p"
-	.string "This is a magnificent nickname!\n"
-	.string "It is impeccably beyond reproach!\p"
-	.string "You'll do well to cherish your\n"
-	.string "{STR_VAR_1} now and beyond.$"
+	.i18n 4494
 
 SlateportCity_House1_Text_209E74: @ 8209E74
-	.string "Now, now.\n"
-	.string "That is merely an EGG!$"
+	.i18n 4495
 

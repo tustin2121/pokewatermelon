@@ -72,65 +72,38 @@ Route119_WeatherInstitute_1F_EventScript_26FB40:: @ 826FB40
 	end
 
 Route119_WeatherInstitute_1F_Text_26FB57: @ 826FB57
-	.string "The BOSS got interested in\n"
-	.string "the research they have going here,\l"
-	.string "so he sent us out.\p"
-	.string "You quit meddling!$"
+	.i18n 4003
 
 Route119_WeatherInstitute_1F_Text_26FBBB: @ 826FBBB
-	.string "Blast it…\n"
-	.string "Blasted by a kid…$"
+	.i18n 4004
 
 Route119_WeatherInstitute_1F_Text_26FBD7: @ 826FBD7
-	.string "Our BOSS knows everything.\p"
-	.string "But I'm just a GRUNT. What would I know\n"
-	.string "about what he's thinking?$"
+	.i18n 4005
 
 Route119_WeatherInstitute_1F_Text_26FC34: @ 826FC34
-	.string "Huh?\n"
-	.string "What's a kid doing here?$"
+	.i18n 4006
 
 Route119_WeatherInstitute_1F_Text_26FC52: @ 826FC52
-	.string "Huh?\n"
-	.string "I lost?!$"
+	.i18n 4007
 
 Route119_WeatherInstitute_1F_Text_26FC60: @ 826FC60
-	.string "Oh, no…\n"
-	.string "I'll catch an earful for losing to a kid…\p"
-	.string "I should just take a nap in the bed…$"
+	.i18n 4008
 
 Route119_WeatherInstitute_1F_Text_26FCB7: @ 826FCB7
-	.string "While I was sleeping, everyone went\n"
-	.string "upstairs!$"
+	.i18n 4009
 
 Route119_WeatherInstitute_1F_Text_26FCE5: @ 826FCE5
-	.string "Wow, you're really strong!\p"
-	.string "I wish I could be a POKéMON TRAINER\n"
-	.string "like you!$"
+	.i18n 4010
 
 Route119_WeatherInstitute_1F_Text_26FD2E: @ 826FD2E
-	.string "The PROFESSOR loves rain.\n"
-	.string "That's a fact.\p"
-	.string "But if it keeps raining, people will be in\n"
-	.string "trouble. That's another fact.\p"
-	.string "And thus, the PROFESSOR is studying\n"
-	.string "if the rain can be put to good use.$"
+	.i18n 4011
 
 Route119_WeatherInstitute_1F_Text_26FDE8: @ 826FDE8
-	.string "On the 2nd floor of the INSTITUTE,\n"
-	.string "we study the weather patterns over\l"
-	.string "the HOENN region.\p"
-	.string "We've been noticing temporary and\n"
-	.string "isolated cases of droughts and\l"
-	.string "heavy rain lately…$"
+	.i18n 4012
 
 Route119_WeatherInstitute_1F_Text_26FE94: @ 826FE94
-	.string "Hello!\n"
-	.string "We've been saved by your actions!\p"
-	.string "What I don't understand is what on\n"
-	.string "earth the AQUAS were up to.$"
+	.i18n 4013
 
 Route119_WeatherInstitute_1F_Text_26FEFC: @ 826FEFC
-	.string "There's a bed…\n"
-	.string "Let's take a rest.$"
+	.i18n 4014
 

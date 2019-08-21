@@ -34,22 +34,17 @@ SootopolisCity_House6_EventScript_226FAD:: @ 8226FAD
 	end
 
 SootopolisCity_House6_Text_226FC3: @ 8226FC3
-	.string "Hello! You're our first guest in\n"
-	.string "a good while.\p"
-	.string "You've brightened up my day, so I'll\n"
-	.string "give you a big WAILMER DOLL.$"
+	.i18n 4697
 
 SootopolisCity_House6_Text_227034: @ 8227034
-	.string "Take good care of it!$"
+	.i18n 4698
 
 SootopolisCity_House6_Text_22704A: @ 822704A
-	.string "Oh, you want it, but not right now?\n"
-	.string "Okay, then I'll hold it for you.$"
+	.i18n 4699
 
 SootopolisCity_House6_Text_22708F: @ 822708F
-	.string "Are you sure?\n"
-	.string "You don't want this DOLL?$"
+	.i18n 4700
 
 SootopolisCity_House6_Text_2270B7: @ 82270B7
-	.string "I love plush DOLLS!$"
+	.i18n 4701
 

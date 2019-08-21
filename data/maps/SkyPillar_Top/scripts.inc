@@ -183,5 +183,5 @@ SkyPillar_Top_Movement_23985C: @ 823985C
 	step_end
 
 SkyPillar_Top_Text_239860: @ 8239860
-	.string "The awakened RAYQUAZA flew off…$"
+	.i18n 4362
 

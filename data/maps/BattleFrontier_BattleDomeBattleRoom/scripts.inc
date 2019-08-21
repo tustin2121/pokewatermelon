@@ -1025,253 +1025,139 @@ BattleFrontier_BattleDomeBattleRoom_Movement_24C96B: @ 824C96B
 	step_end
 
 BattleFrontier_BattleDomeBattleRoom_Text_24C970: @ 824C970
-	.string "{PLAYER} has entered the BATTLE DOME!$"
+	.i18n 668
 
 BattleFrontier_BattleDomeBattleRoom_Text_24C990: @ 824C990
-	.string "{STR_VAR_1}\n"
-	.string "match!\p"
-	.string "{PLAYER} versus {STR_VAR_2}!\p"
-	.string "Let the battle begin!$"
+	.i18n 669
 
 BattleFrontier_BattleDomeBattleRoom_Text_24C9BE: @ 824C9BE
-	.string "{PLAYER} is the winner!\n"
-	.string "Congratulations!$"
+	.i18n 670
 
 BattleFrontier_BattleDomeBattleRoom_Text_24C9E1: @ 824C9E1
-	.string "{STR_VAR_2} is the winner!\n"
-	.string "Congratulations!$"
+	.i18n 671
 
 BattleFrontier_BattleDomeBattleRoom_Text_24CA04: @ 824CA04
-	.string "{PLAYER} is the Level 50\n"
-	.string "Battle Tournament Champion!\p"
-	.string "Congratulations!$"
+	.i18n 672
 
 BattleFrontier_BattleDomeBattleRoom_Text_24CA44: @ 824CA44
-	.string "{PLAYER} is the Open Level\n"
-	.string "Battle Tournament Champion!\p"
-	.string "Congratulations!$"
+	.i18n 673
 
 BattleFrontier_BattleDomeBattleRoom_Text_24CA86: @ 824CA86
-	.string "What an unbelievable finish!\n"
-	.string "We have a double knockout!\p"
-	.string "In this event, the Battle Tournament\n"
-	.string "rules call for a REFEREE'S decision.\p"
-	.string "Please wait while the judging\n"
-	.string "is under way.$"
+	.i18n 674
 
 BattleFrontier_BattleDomeBattleRoom_Text_24CB34: @ 824CB34
-	.string "The REFEREES have reached\n"
-	.string "a decision!\p"
-	.string "The winner is…\n"
-	.string "Oh, my goodness!\l"
-	.string "The winner is {STR_VAR_1}!\l"
-	.string "Congratulations!$"
+	.i18n 675
 
 BattleFrontier_BattleDomeBattleRoom_Text_24CB9D: @ 824CB9D
-	.string "The REFEREES have reached\n"
-	.string "a decision!\p"
-	.string "The winner is…\n"
-	.string "Oh, my goodness!\l"
-	.string "The winner is {PLAYER}!\l"
-	.string "Congratulations!$"
+	.i18n 676
 
 BattleFrontier_BattleDomeBattleRoom_Text_24CC06: @ 824CC06
-	.string "The bright new hope!\p"
-	.string "$"
+	.i18n 677
 
 BattleFrontier_BattleDomeBattleRoom_Text_24CC1C: @ 824CC1C
-	.string "The rising star!\p"
-	.string "$"
+	.i18n 678
 
 BattleFrontier_BattleDomeBattleRoom_Text_24CC2E: @ 824CC2E
-	.string "Will this TRAINER race to\n"
-	.string "the championship?\p"
-	.string "$"
+	.i18n 679
 
 BattleFrontier_BattleDomeBattleRoom_Text_24CC5B: @ 824CC5B
-	.string "Can the feat of a championship\n"
-	.string "on the first try be achieved?\p"
-	.string "$"
+	.i18n 680
 
 BattleFrontier_BattleDomeBattleRoom_Text_24CC99: @ 824CC99
-	.string "Can the loss of the last match\n"
-	.string "be avenged?\p"
-	.string "$"
+	.i18n 681
 
 BattleFrontier_BattleDomeBattleRoom_Text_24CCC5: @ 824CCC5
-	.string "The TRAINER is on fire for\n"
-	.string "the first championship try!\p"
-	.string "$"
+	.i18n 682
 
 BattleFrontier_BattleDomeBattleRoom_Text_24CCFD: @ 824CCFD
-	.string "A win here means this TRAINER\n"
-	.string "advances to the final!\p"
-	.string "$"
+	.i18n 683
 
 BattleFrontier_BattleDomeBattleRoom_Text_24CD33: @ 824CD33
-	.string "Will the long-held dream of\n"
-	.string "a championship finally come true?\p"
-	.string "$"
+	.i18n 684
 
 BattleFrontier_BattleDomeBattleRoom_Text_24CD72: @ 824CD72
-	.string "The invincible champion!\p"
-	.string "$"
+	.i18n 685
 
 BattleFrontier_BattleDomeBattleRoom_Text_24CD8C: @ 824CD8C
-	.string "Can anyone hope to beat this\n"
-	.string "TRAINER?\p"
-	.string "$"
+	.i18n 686
 
 BattleFrontier_BattleDomeBattleRoom_Text_24CDB3: @ 824CDB3
-	.string "Do battles exist solely for\n"
-	.string "this TRAINER?\p"
-	.string "$"
+	.i18n 687
 
 BattleFrontier_BattleDomeBattleRoom_Text_24CDDE: @ 824CDDE
-	.string "The current champion aiming to\n"
-	.string "retain the title!\p"
-	.string "$"
+	.i18n 688
 
 BattleFrontier_BattleDomeBattleRoom_Text_24CE10: @ 824CE10
-	.string "The former champion has returned!\p"
-	.string "$"
+	.i18n 689
 
 BattleFrontier_BattleDomeBattleRoom_Text_24CE33: @ 824CE33
-	.string "The former toughness has returned!\p"
-	.string "$"
+	.i18n 690
 
 BattleFrontier_BattleDomeBattleRoom_Text_24CE57: @ 824CE57
-	.string "Will this TRAINER do as expected\n"
-	.string "and advance to the finals?\p"
-	.string "$"
+	.i18n 691
 
 BattleFrontier_BattleDomeBattleRoom_Text_24CE94: @ 824CE94
-	.string "Will the former champ regain\n"
-	.string "lost glory?\p"
-	.string "$"
+	.i18n 692
 
 BattleFrontier_BattleDomeBattleRoom_Text_24CEBE: @ 824CEBE
-	.string "Feel the glow of a true master!$"
+	.i18n 693
 
 BattleFrontier_BattleDomeBattleRoom_Text_24CEDE: @ 824CEDE
-	.string "And now… The TRAINER standing in\n"
-	.string "{PLAYER}'s record-setting path…\p"
-	.string "Yes! The one and only!\n"
-	.string "The BATTLE DOME COMMISSIONER!\l"
-	.string "Our very own DOME ACE!\l"
-	.string "Make way for TUCKER!$"
+	.i18n 694
 
 BattleFrontier_BattleDomeBattleRoom_Text_24CF7A: @ 824CF7A
-	.string "Spectators: TUCKER! TUCKER!\n"
-	.string "TUCKER! TUCKER! TUCKER!$"
+	.i18n 695
 
 BattleFrontier_BattleDomeBattleRoom_Text_24CFAE: @ 824CFAE
-	.string "TUCKER: Ahahah!\p"
-	.string "Do you hear it? This crowd!\n"
-	.string "They're all itching to see our match!\p"
-	.string "Ahahah!\p"
-	.string "I bet you're twitching all over from\n"
-	.string "the tension of getting to battle me!\p"
-	.string "But don't you worry about a thing!\p"
-	.string "I'm the no. 1 star of the BATTLE DOME!\n"
-	.string "I, TUCKER the DOME ACE, will bathe you\l"
-	.string "in my brilliant glow!$"
+	.i18n 696
 
 BattleFrontier_BattleDomeBattleRoom_Text_24D0D9: @ 824D0D9
-	.string "Your strategy!\n"
-	.string "Let's see it!$"
+	.i18n 697
 
 BattleFrontier_BattleDomeBattleRoom_Text_24D0F6: @ 824D0F6
-	.string "Unbelievable! It's incredible!\n"
-	.string "The victor is {PLAYER}!$"
+	.i18n 698
 
 BattleFrontier_BattleDomeBattleRoom_Text_24D127: @ 824D127
-	.string "The winner is TUCKER!\n"
-	.string "The DOME ACE has prevailed!\p"
-	.string "Congratulations, TUCKER!$"
+	.i18n 699
 
 BattleFrontier_BattleDomeBattleRoom_Text_24D172: @ 824D172
-	.string "TUCKER: Rules are rules!\n"
-	.string "Let me see your FRONTIER PASS.$"
+	.i18n 700
 
 BattleFrontier_BattleDomeBattleRoom_Text_24D1AA: @ 824D1AA
-	.string "The Tactics Symbol was embossed on\n"
-	.string "the FRONTIER PASS!$"
+	.i18n 701
 
 BattleFrontier_BattleDomeBattleRoom_Text_24D1E0: @ 824D1E0
-	.string "… … … … … …\p"
-	.string "I sorely underestimated you. I won't\n"
-	.string "make the same mistake next time…$"
+	.i18n 702
 
 BattleFrontier_BattleDomeBattleRoom_Text_24D232: @ 824D232
-	.string "Can the win streak be stretched?\n"
-	.string "The confidence is there!$"
+	.i18n 703
 
 BattleFrontier_BattleDomeBattleRoom_Text_24D26C: @ 824D26C
-	.string "Ladies and gentlemen!\n"
-	.string "Boys, girls, and POKéMON!\p"
-	.string "Finally!\n"
-	.string "Finally, the legend has returned!\p"
-	.string "Yes, the name of that legend!\n"
-	.string "Our very own DOME ACE!\l"
-	.string "It's none other than TUCKER!$"
+	.i18n 704
 
 BattleFrontier_BattleDomeBattleRoom_Text_24D319: @ 824D319
-	.string "TUCKER: Ah…\n"
-	.string "The pummeling roar of the crowd…\l"
-	.string "Their furnace-like heat of excitement…\l"
-	.string "This is a wonderful place…\p"
-	.string "To the crowd, I am the DOME ACE…\n"
-	.string "I represent their hopes and dreams…\l"
-	.string "I must never fade from their sight…\p"
-	.string "I must burn!\n"
-	.string "Brighter and more brilliant!\l"
-	.string "I must light all that gather here!$"
+	.i18n 705
 
 BattleFrontier_BattleDomeBattleRoom_Text_24D43E: @ 824D43E
-	.string "I will unleash all the power that\n"
-	.string "I possess! Right here and now!$"
+	.i18n 706
 
 BattleFrontier_BattleDomeBattleRoom_Text_24D47F: @ 824D47F
-	.string "TUCKER: You're genuinely fantastic!\p"
-	.string "Never before! I haven't ever lost in the\n"
-	.string "times I've had to unleash my power.\p"
-	.string "Yes, quite fantastic!\n"
-	.string "Your FRONTIER PASS, please?$"
+	.i18n 707
 
 BattleFrontier_BattleDomeBattleRoom_Text_24D522: @ 824D522
-	.string "The Tactics Symbol took on\n"
-	.string "a golden shine!$"
+	.i18n 708
 
 BattleFrontier_BattleDomeBattleRoom_Text_24D54D: @ 824D54D
-	.string "You're strong, but above all,\n"
-	.string "you have a unique charm!\p"
-	.string "In you, I see a definite potential for\n"
-	.string "a superstar like me.\p"
-	.string "I will very much look forward to\n"
-	.string "our next encounter!$"
+	.i18n 709
 
 BattleFrontier_BattleDomeBattleRoom_Text_24D5F5: @ 824D5F5
-	.string "{PLAYER} is the Level 50\n"
-	.string "Battle Tournament Champion!\p"
-	.string "Congratulations!$"
+	.i18n 710
 
 BattleFrontier_BattleDomeBattleRoom_Text_24D635: @ 824D635
-	.string "{PLAYER} is the Open Level\n"
-	.string "Battle Tournament Champion!\p"
-	.string "Congratulations!$"
+	.i18n 711
 
 BattleFrontier_BattleDomeBattleRoom_Text_24D677: @ 824D677
-	.string "The final match!\p"
-	.string "{PLAYER} versus the DOME ACE, TUCKER!\p"
-	.string "Let the battle begin!$"
+	.i18n 712
 
 BattleFrontier_BattleDomeBattleRoom_Text_24D6BE: @ 824D6BE
-	.string "The REFEREES have reached\n"
-	.string "a decision!\p"
-	.string "The winner is…\n"
-	.string "Oh, my goodness!\l"
-	.string "The winner is our very own DOME ACE!\l"
-	.string "It's TUCKER!\p"
-	.string "Congratulations! And thank you!\n"
-	.string "Let's hear it for the DOME ACE, TUCKER!$"
+	.i18n 713

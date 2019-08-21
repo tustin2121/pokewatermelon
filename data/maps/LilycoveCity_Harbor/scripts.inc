@@ -568,52 +568,35 @@ LilycoveCity_Harbor_Movement_21E6EA: @ 821E6EA
 	step_end
 
 LilycoveCity_Harbor_Text_21E6F1: @ 821E6F1
-	.string "I beg your pardon?\n"
-	.string "You're looking for a ship?\p"
-	.string "I'm sorry, the ferry service isn't\n"
-	.string "available at present…$"
+	.i18n 2588
 
 LilycoveCity_Harbor_Text_21E758: @ 821E758
-	.string "Hello, are you here for the ferry?\n"
-	.string "May I see your TICKET?$"
+	.i18n 2589
 
 
 LilycoveCity_Harbor_Text_21E792: @ 821E792
-	.string "{PLAYER} doesn't have the TICKET…\p"
-	.string "I'm terribly sorry.\p"
-	.string "You must have a TICKET to board\n"
-	.string "the ferry.$"
+	.i18n 2590
 
 LilycoveCity_Harbor_Text_21E7ED: @ 821E7ED
-	.string "{PLAYER} flashed the TICKET.\p"
-	.string "Perfect! That's all you need!\p"
-	.string "And where would you like to go?$"
+	.i18n 2591
 
 LilycoveCity_Harbor_Text_21E842: @ 821E842
-	.string "Please sail with us another time!$"
+	.i18n 2592
 
 LilycoveCity_Harbor_Text_21E864: @ 821E864
-	.string "SLATEPORT CITY it is, then!$"
+	.i18n 2593
 
 LilycoveCity_Harbor_Text_21E880: @ 821E880
-	.string "BATTLE FRONTIER it is, then!$"
+	.i18n 2594
 
 LilycoveCity_Harbor_Text_21E89D: @ 821E89D
-	.string "Please board the ferry and wait for\n"
-	.string "departure.$"
+	.i18n 2595
 
 LilycoveCity_Harbor_Text_21E8CC: @ 821E8CC
-	.string "Then, where would you like to go?$"
+	.i18n 2596
 
 LilycoveCity_Harbor_Text_21E8EE: @ 821E8EE
-	.string "Until they finish making the ferry,\n"
-	.string "we sailors have nothing to do…\p"
-	.string "I wish they'd get a move on, the folks\n"
-	.string "at the SHIPYARD in SLATEPORT.$"
+	.i18n 2597
 
 LilycoveCity_Harbor_Text_21E976: @ 821E976
-	.string "The ferry S.S. TIDAL is finally in\n"
-	.string "operation.\p"
-	.string "The folks at the SHIPYARD in SLATEPORT\n"
-	.string "must've worked extra hard.\p"
-	.string "Well, it's my turn to get busy now!$"
+	.i18n 2598

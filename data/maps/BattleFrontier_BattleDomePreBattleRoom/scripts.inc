@@ -299,117 +299,80 @@ BattleFrontier_BattleDomePreBattleRoom_Movement_24B659: @ 824B659
 	step_end
 
 BattleFrontier_BattleDomePreBattleRoom_Text_24B65C: @ 824B65C
-	.string "Your 1st-round match is next.\n"
-	.string "Are you ready?$"
+	.i18n 755
 
 BattleFrontier_BattleDomePreBattleRoom_Text_24B689: @ 824B689
-	.string "Your 2nd-round match is next.\n"
-	.string "Are you ready?$"
+	.i18n 756
 
 BattleFrontier_BattleDomePreBattleRoom_Text_24B6B6: @ 824B6B6
-	.string "Your semifinal match is next.\n"
-	.string "Are you ready?$"
+	.i18n 757
 
 BattleFrontier_BattleDomePreBattleRoom_Text_24B6E3: @ 824B6E3
-	.string "Your final match is next.\n"
-	.string "Are you ready?$"
+	.i18n 758
 
 BattleFrontier_BattleDomePreBattleRoom_Text_24B70C: @ 824B70C
-	.string "Please choose the two POKéMON\n"
-	.string "that are to appear in battle.$"
+	.i18n 759
 
 BattleFrontier_BattleDomePreBattleRoom_Text_24B748: @ 824B748
-	.string "Right this way, please.$"
+	.i18n 760
 
 BattleFrontier_BattleDomePreBattleRoom_Text_24B760: @ 824B760
-	.string "Thank you for competing!\p"
-	.string "I'll restore your POKéMON to\n"
-	.string "full health.$"
+	.i18n 761
 
 BattleFrontier_BattleDomePreBattleRoom_Text_24B7A3: @ 824B7A3
-	.string "All 1st-round matches have been\n"
-	.string "completed.\p"
-	.string "These are the teams that advanced!$"
+	.i18n 762
 
 BattleFrontier_BattleDomePreBattleRoom_Text_24B7F1: @ 824B7F1
-	.string "All 2nd-round matches have been\n"
-	.string "completed.\p"
-	.string "These are the teams that advanced!$"
+	.i18n 763
 
 BattleFrontier_BattleDomePreBattleRoom_Text_24B83F: @ 824B83F
-	.string "All semifinal matches have been\n"
-	.string "completed.\p"
-	.string "These are the teams that advanced!$"
+	.i18n 764
 
 BattleFrontier_BattleDomePreBattleRoom_Text_24B88D: @ 824B88D
-	.string "Congratulations for getting through\n"
-	.string "the 1st round.\p"
-	.string "The 2nd round is next.\n"
-	.string "Are you ready?$"
+	.i18n 765
 
 BattleFrontier_BattleDomePreBattleRoom_Text_24B8E6: @ 824B8E6
-	.string "Congratulations for advancing\n"
-	.string "to the semifinals.\p"
-	.string "The best four teams meet in this round.\n"
-	.string "Are you ready?$"
+	.i18n 766
 
 BattleFrontier_BattleDomePreBattleRoom_Text_24B94E: @ 824B94E
-	.string "Congratulations for advancing\n"
-	.string "to the final match.\p"
-	.string "You're one win from the championship.\n"
-	.string "Are you ready?$"
+	.i18n 767
 
 BattleFrontier_BattleDomePreBattleRoom_Text_24B9B5: @ 824B9B5
-	.string "{PLAYER}'s next opponent\n"
-	.string "is this TRAINER.$"
+	.i18n 768
 
 BattleFrontier_BattleDomePreBattleRoom_Text_24B9D9: @ 824B9D9
-	.string "The tournament is in the 1st round.$"
+	.i18n 769
 
 BattleFrontier_BattleDomePreBattleRoom_Text_24B9FD: @ 824B9FD
-	.string "The tournament is in the 2nd round.$"
+	.i18n 770
 
 BattleFrontier_BattleDomePreBattleRoom_Text_24BA21: @ 824BA21
-	.string "The tournament is in the semifinals.$"
+	.i18n 771
 
 BattleFrontier_BattleDomePreBattleRoom_Text_24BA46: @ 824BA46
-	.string "The tournament is up to the final.$"
+	.i18n 772
 
 BattleFrontier_BattleDomePreBattleRoom_Text_24BA69: @ 824BA69
-	.string "Would you like to save and\n"
-	.string "quit the game?$"
+	.i18n 773
 
 BattleFrontier_BattleDomePreBattleRoom_Text_24BA93: @ 824BA93
-	.string "Would you like to retire from your\n"
-	.string "Battle Tournament challenge?$"
+	.i18n 774
 
 BattleFrontier_BattleDomePreBattleRoom_Text_24BAD3: @ 824BAD3
-	.string "I am saving your data.\n"
-	.string "Please wait.$"
+	.i18n 775
 
 BattleFrontier_BattleDomePreBattleRoom_Text_24BAF7: @ 824BAF7
-	.string "Should I record your last match\n"
-	.string "on your FRONTIER PASS?$"
+	.i18n 776
 
 BattleFrontier_BattleDomePreBattleRoom_Text_24BB2E: @ 824BB2E
-	.string "Congratulations for advancing\n"
-	.string "to the final match.\p"
-	.string "For the final match, you will challenge\n"
-	.string "the DOME ACE TUCKER.\p"
-	.string "Are you ready?$"
+	.i18n 777
 
 BattleFrontier_BattleDomePreBattleRoom_Text_24BBAC: @ 824BBAC
-	.string "Congratulations for advancing\n"
-	.string "to the final match.\p"
-	.string "For the final match, you will challenge\n"
-	.string "the DOME ACE TUCKER.\p"
-	.string "Are you ready?$"
+	.i18n 778
 
 BattleFrontier_BattleDomePreBattleRoom_Text_24BC2A: @ 824BC2A
-	.string "Your final battle against TUCKER is\n"
-	.string "next. Are you ready?$"
+	.i18n 779
 
 BattleFrontier_BattleDomePreBattleRoom_Text_24BC63: @ 824BC63
-	.string "Your final battle against TUCKER is\n"
-	.string "next. Are you ready?$"
+	.i18n 780
 

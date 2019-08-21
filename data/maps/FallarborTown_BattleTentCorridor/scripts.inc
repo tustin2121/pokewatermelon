@@ -41,24 +41,14 @@ FallarborTown_BattleTentCorridor_Movement_200701: @ 8200701
 	step_end
 
 FallarborTown_BattleTentCorridor_Text_200704: @ 8200704
-	.string "We do all right in the preliminary round,\n"
-	.string "but we can never win the appeals…\p"
-	.string "Maybe it means I have to watch what\n"
-	.string "other contestants are doing…$"
+	.i18n 2220
 
 FallarborTown_BattleTentCorridor_Text_200791: @ 8200791
-	.string "See!\n"
-	.string "My POKéMON won all these RIBBONS!\p"
-	.string "Have your POKéMON earned any RIBBONS?\n"
-	.string "You can check them on your POKéNAV.$"
+	.i18n 2221
 
 FallarborTown_BattleTentCorridor_Text_200802: @ 8200802
-	.string "I can't beat GYM LEADERS…\p"
-	.string "I can't win any CONTESTS…\p"
-	.string "I've been here, there, and everywhere,\n"
-	.string "and it's all for naught…$"
+	.i18n 2222
 
 FallarborTown_BattleTentCorridor_Text_200876: @ 8200876
-	.string "POKéMON CONTESTS\n"
-	.string "SUPER RANK STAGE!$"
+	.i18n 2223
 

@@ -164,133 +164,74 @@ LilycoveCity_LilycoveMuseum_1F_EventScript_218E42:: @ 8218E42
 	end
 
 LilycoveCity_LilycoveMuseum_1F_Text_218E4B: @ 8218E4B
-	.string "Welcome to LILYCOVE MUSEUM.\p"
-	.string "Please take the time to enjoy our\n"
-	.string "collection of fantastic artwork\l"
-	.string "featuring POKéMON.$"
+	.i18n 2613
 
 LilycoveCity_LilycoveMuseum_1F_Text_218EBC: @ 8218EBC
-	.string "I'm the CURATOR of this MUSEUM of\n"
-	.string "fine arts.\p"
-	.string "It's heartening to see someone so\n"
-	.string "young as you in our MUSEUM.\p"
-	.string "Have you viewed our collection of\n"
-	.string "paintings already?$"
+	.i18n 2614
 
 LilycoveCity_LilycoveMuseum_1F_Text_218F5C: @ 8218F5C
-	.string "Ah, then let me not disturb you.\n"
-	.string "Please, do take your time.$"
+	.i18n 2615
 
 LilycoveCity_LilycoveMuseum_1F_Text_218F98: @ 8218F98
-	.string "Oh? I do believe that you seem to\n"
-	.string "be a POKéMON TRAINER.\p"
-	.string "Have you an interest in paintings,\n"
-	.string "too?$"
+	.i18n 2616
 
 LilycoveCity_LilycoveMuseum_1F_Text_218FF8: @ 8218FF8
-	.string "I see…\p"
-	.string "I'm honored that you would visit\n"
-	.string "us in spite of that.$"
+	.i18n 2617
 
 LilycoveCity_LilycoveMuseum_1F_Text_219035: @ 8219035
-	.string "Ah, excellent!\n"
-	.string "You do like paintings!\p"
-	.string "Then, may I ask you to come with me?$"
+	.i18n 2618
 
 LilycoveCity_LilycoveMuseum_1F_Text_219080: @ 8219080
-	.string "It's a very old painting.\n"
-	.string "The paint is peeling here and there.$"
+	.i18n 2619
 
 LilycoveCity_LilycoveMuseum_1F_Text_2190BF: @ 82190BF
-	.string "It's an odd landscape with bizarre\n"
-	.string "and fantastic scenery.$"
+	.i18n 2620
 
 LilycoveCity_LilycoveMuseum_1F_Text_2190F9: @ 82190F9
-	.string "It's a painting of a beautiful, smiling\n"
-	.string "woman with a POKéMON on her lap.$"
+	.i18n 2621
 
 LilycoveCity_LilycoveMuseum_1F_Text_219142: @ 8219142
-	.string "It's a painting of a legendary POKéMON\n"
-	.string "from long ago.\p"
-	.string "The artist painted this from\n"
-	.string "imagination.$"
+	.i18n 2622
 
 LilycoveCity_LilycoveMuseum_1F_Text_2191A2: @ 82191A2
-	.string "It's a painting of GRASS POKéMON\n"
-	.string "swaying in a breeze.\p"
-	.string "They appear to be enjoying the wind's\n"
-	.string "gentle caress.$"
+	.i18n 2623
 
 LilycoveCity_LilycoveMuseum_1F_Text_21920D: @ 821920D
-	.string "It's a delicious-looking painting\n"
-	.string "of BERRIES.\p"
-	.string "This painting could make you hungry!$"
+	.i18n 2624
 
 LilycoveCity_LilycoveMuseum_1F_Text_219260: @ 8219260
-	.string "It's a replica of a famous sculpture.\p"
-	.string "It depicts an ancient BIRD POKéMON.$"
+	.i18n 2625
 
 LilycoveCity_LilycoveMuseum_1F_Text_2192AA: @ 82192AA
-	.string "It's a big POKé BALL carved from\n"
-	.string "a black stone.\p"
-	.string "It was apparently used in festivals\n"
-	.string "in the olden days.$"
+	.i18n 2626
 
 LilycoveCity_LilycoveMuseum_1F_Text_219311: @ 8219311
-	.string "It's a huge stone tablet inscribed\n"
-	.string "with POKéMON and dense text in the\l"
-	.string "small characters of an ancient,\l"
-	.string "unreadable language.$"
+	.i18n 2627
 
 LilycoveCity_LilycoveMuseum_1F_Text_21938C: @ 821938C
-	.string "Hmmm…\n"
-	.string "What works of great magnificence…$"
+	.i18n 2628
 
 LilycoveCity_LilycoveMuseum_1F_Text_2193B4: @ 82193B4
-	.string "Battling with POKéMON is fun,\n"
-	.string "I'll grant you that.\p"
-	.string "But one mustn't forget our love for\n"
-	.string "the fine arts.$"
+	.i18n 2629
 
 LilycoveCity_LilycoveMuseum_1F_Text_21941A: @ 821941A
-	.string "This ART MUSEUM… Well, you could\n"
-	.string "see many fantastic paintings.\p"
-	.string "And the CURATOR is a wonderful person.\p"
-	.string "Among artists like myself, this MUSEUM\n"
-	.string "is an inspiration.$"
+	.i18n 2630
 
 LilycoveCity_LilycoveMuseum_1F_Text_2194BA: @ 82194BA
-	.string "This lady is pretty!\n"
-	.string "She's like Mommy!$"
+	.i18n 2631
 
 LilycoveCity_LilycoveMuseum_1F_Text_2194E1: @ 82194E1
-	.string "This POKéMON is adorable!\n"
-	.string "Just like our little boy!$"
+	.i18n 2632
 
 LilycoveCity_LilycoveMuseum_1F_Text_219515: @ 8219515
-	.string "I'd heard that this ART MUSEUM got\n"
-	.string "in some new paintings.\p"
-	.string "So, naturally I hurried over.\p"
-	.string "Are the new paintings up on\n"
-	.string "the second floor?$"
+	.i18n 2633
 
 LilycoveCity_LilycoveMuseum_1F_Text_21959B: @ 821959B
-	.string "Lately, the CURATOR has been\n"
-	.string "unusually cheerful.\p"
-	.string "I bet something good happened for him.\n"
-	.string "Definitely.$"
+	.i18n 2634
 
 LilycoveCity_LilycoveMuseum_1F_Text_2195FF: @ 82195FF
-	.string "I aim to see many great paintings\n"
-	.string "here and learn from them.\p"
-	.string "I have this dream of one day having\n"
-	.string "my artwork exhibited here.$"
+	.i18n 2635
 
 LilycoveCity_LilycoveMuseum_1F_Text_21967A: @ 821967A
-	.string "The ART MUSEUM has become a favorite\n"
-	.string "tourist destination.\p"
-	.string "It's great for LILYCOVE…\n"
-	.string "No, great for the HOENN region!\p"
-	.string "This is what I've heard--a lone TRAINER\n"
-	.string "procured all the paintings upstairs.$"
+	.i18n 2636
 

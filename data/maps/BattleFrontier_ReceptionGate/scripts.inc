@@ -294,212 +294,98 @@ BattleFrontier_ReceptionGate_EventScript_266576:: @ 8266576
 	end
 
 BattleFrontier_ReceptionGate_Text_266580: @ 8266580
-	.string "Is it your first time here?\n"
-	.string "Please step this way!$"
+	.i18n 2025
 
 BattleFrontier_ReceptionGate_Text_2665B2: @ 82665B2
-	.string "The front lines of POKéMON battling!\n"
-	.string "Welcome to the BATTLE FRONTIER!$"
+	.i18n 2026
 
 BattleFrontier_ReceptionGate_Text_2665F7: @ 82665F7
-	.string "For a first-time visitor, we issue\n"
-	.string "the FRONTIER PASS.\p"
-	.string "It's for use at all the facilities\n"
-	.string "in the BATTLE FRONTIER.\p"
-	.string "Here you are!$"
+	.i18n 2027
 
 BattleFrontier_ReceptionGate_Text_266676: @ 8266676
-	.string "{PLAYER} obtained\n"
-	.string "the FRONTIER PASS.$"
+	.i18n 2028
 
 BattleFrontier_ReceptionGate_Text_266695: @ 8266695
-	.string "{PLAYER} placed the TRAINER CARD\n"
-	.string "in the FRONTIER PASS.$"
+	.i18n 2029
 
 BattleFrontier_ReceptionGate_Text_2666C6: @ 82666C6
-	.string "We hope you enjoy all that the BATTLE\n"
-	.string "FRONTIER has to offer!$"
+	.i18n 2030
 
 BattleFrontier_ReceptionGate_Text_266703: @ 8266703
-	.string "???: Well, if it isn't {PLAYER}{KUN}!\n"
-	.string "You came out here!$"
+	.i18n 2031
 
 BattleFrontier_ReceptionGate_Text_266733: @ 8266733
-	.string "GUIDE: Oh! MR. SCOTT, sir!\n"
-	.string "Good day to you, sir!$"
+	.i18n 2032
 
 BattleFrontier_ReceptionGate_Text_266764: @ 8266764
-	.string "SCOTT: It's great to see you here,\n"
-	.string "it really is!\p"
-	.string "I hope you'll take your time and\n"
-	.string "explore everywhere.\p"
-	.string "Naturally, I hope you'll also experience\n"
-	.string "the pure essence of battling.\p"
-	.string "I also have my quarters here, so feel\n"
-	.string "free to visit if you have time.$"
+	.i18n 2033
 
 BattleFrontier_ReceptionGate_Text_266857: @ 8266857
-	.string "I'm your guide to the various facilities\n"
-	.string "here in the BATTLE FRONTIER.$"
+	.i18n 2034
 
 BattleFrontier_ReceptionGate_Text_26689D: @ 826689D
-	.string "Which would you like to learn about?$"
+	.i18n 2035
 
 BattleFrontier_ReceptionGate_Text_2668C2: @ 82668C2
-	.string "It is the gigantic tower considered\n"
-	.string "to be the BATTLE FRONTIER's symbol.\p"
-	.string "There are four kinds of BATTLE ROOMS\n"
-	.string "in the tower for SINGLE, DOUBLE, MULTI,\l"
-	.string "and LINK MULTI BATTLES.$"
+	.i18n 2036
 
 BattleFrontier_ReceptionGate_Text_26696F: @ 826696F
-	.string "The BATTLE DOME is the large building\n"
-	.string "shaped like a huge egg.\p"
-	.string "Events named Battle Tourneys are held\n"
-	.string "in this facility.\p"
-	.string "The Battle Tourneys are offered in\n"
-	.string "two courses--for SINGLE and DOUBLE\l"
-	.string "BATTLES.$"
+	.i18n 2037
 
 BattleFrontier_ReceptionGate_Text_266A34: @ 8266A34
-	.string "The BATTLE PALACE is the red building\n"
-	.string "on the right of the BATTLE FRONTIER.\p"
-	.string "There are two kinds of BATTLE HALLS\n"
-	.string "for SINGLE and DOUBLE BATTLES.$"
+	.i18n 2038
 
 BattleFrontier_ReceptionGate_Text_266AC2: @ 8266AC2
-	.string "The BATTLE ARENA is the dojo-like\n"
-	.string "building at the center-right of\l"
-	.string "the BATTLE FRONTIER.\p"
-	.string "An event called the Set KO Tourney\n"
-	.string "takes place at the BATTLE ARENA.$"
+	.i18n 2039
 
 BattleFrontier_ReceptionGate_Text_266B5D: @ 8266B5D
-	.string "The BATTLE FACTORY is the large\n"
-	.string "building that is the closest to us.\p"
-	.string "An event called the Battle Swap\n"
-	.string "is conducted there.\p"
-	.string "The Battle Swap event is offered in\n"
-	.string "two courses for SINGLE and DOUBLE\l"
-	.string "BATTLES.$"
+	.i18n 2040
 
 BattleFrontier_ReceptionGate_Text_266C24: @ 8266C24
-	.string "The BATTLE PIKE is the building shaped\n"
-	.string "like a POKéMON at the center-left of\l"
-	.string "the BATTLE FRONTIER.\p"
-	.string "An event called the Battle Choice\n"
-	.string "is conducted there.$"
+	.i18n 2041
 
 BattleFrontier_ReceptionGate_Text_266CBB: @ 8266CBB
-	.string "The BATTLE PYRAMID is the enormous\n"
-	.string "pyramid.\p"
-	.string "An event called the Battle Quest\n"
-	.string "is conducted there.$"
+	.i18n 2042
 
 BattleFrontier_ReceptionGate_Text_266D1C: @ 8266D1C
-	.string "The RANKING HALL is located near\n"
-	.string "the BATTLE TOWER.\p"
-	.string "There, you may see the most fantastic\n"
-	.string "records left by the TRAINERS that\l"
-	.string "took on the many challenges of\l"
-	.string "the BATTLE FRONTIER.$"
+	.i18n 2043
 
 BattleFrontier_ReceptionGate_Text_266DCB: @ 8266DCB
-	.string "The EXCHANGE SERVICE CORNER is near\n"
-	.string "the BATTLE TOWER.\p"
-	.string "The Battle Points you have earned in\n"
-	.string "the BATTLE FRONTIER may be exchanged\l"
-	.string "for fabulous prizes there.$"
+	.i18n 2044
 
 BattleFrontier_ReceptionGate_Text_266E66: @ 8266E66
-	.string "I'm your guide to the basic rules that\n"
-	.string "are common to all the challenges\l"
-	.string "offered by the facilities in the BATTLE\l"
-	.string "FRONTIER.$"
+	.i18n 2045
 
 BattleFrontier_ReceptionGate_Text_266EE0: @ 8266EE0
-	.string "What would you like to learn about?$"
+	.i18n 2046
 
 BattleFrontier_ReceptionGate_Text_266F04: @ 8266F04
-	.string "All the challenges at the BATTLE\n"
-	.string "FRONTIER's facilities come in\l"
-	.string "two courses--Level 50 and Open Level.$"
+	.i18n 2047
 
 BattleFrontier_ReceptionGate_Text_266F69: @ 8266F69
-	.string "The Level 50 course is open to POKéMON\n"
-	.string "up to and including Level 50.\p"
-	.string "Please keep in mind, however, that\n"
-	.string "no TRAINER you face will have any\l"
-	.string "POKéMON below Level 50.\p"
-	.string "This course is the entry level for\n"
-	.string "battles at the BATTLE FRONTIER.\p"
-	.string "To begin, we hope you will challenge\n"
-	.string "this course.$"
+	.i18n 2048
 
 BattleFrontier_ReceptionGate_Text_267080: @ 8267080
-	.string "The Open Level course places no limit\n"
-	.string "on the levels of POKéMON entering\l"
-	.string "challenges.\p"
-	.string "The levels of your opponents will\n"
-	.string "be adjusted to match the levels of\l"
-	.string "your POKéMON.\p"
-	.string "However, no TRAINER you face will\n"
-	.string "have any POKéMON below Level 60.$"
+	.i18n 2049
 
 BattleFrontier_ReceptionGate_Text_26716A: @ 826716A
-	.string "Virtually any kind of POKéMON may take\n"
-	.string "on the challenges at all facilities.\p"
-	.string "EGGS and certain kinds of POKéMON,\n"
-	.string "however, are not permitted.\p"
-	.string "The numbers of POKéMON required for\n"
-	.string "challenges will depend on the facility.\p"
-	.string "At all facilities, however, two or more\n"
-	.string "of the same kind of POKéMON are not\l"
-	.string "permitted.$"
+	.i18n 2050
 
 BattleFrontier_ReceptionGate_Text_267298: @ 8267298
-	.string "When entering a challenge at a BATTLE\n"
-	.string "FRONTIER facility, POKéMON may not\l"
-	.string "be holding the same kind of item.\p"
-	.string "Please make sure that all POKéMON\n"
-	.string "entering a challenge are holding\l"
-	.string "different items.$"
+	.i18n 2051
 
 BattleFrontier_ReceptionGate_Text_267357: @ 8267357
-	.string "I'm your guide to the FRONTIER PASS.$"
+	.i18n 2052
 
 BattleFrontier_ReceptionGate_Text_26737C: @ 826737C
-	.string "Which would you like to learn about?$"
+	.i18n 2053
 
 BattleFrontier_ReceptionGate_Text_2673A1: @ 82673A1
-	.string "There are seven facilities at\n"
-	.string "the BATTLE FRONTIER.\p"
-	.string "TRAINERS who gain recognition for\n"
-	.string "their abilities may be rewarded with\l"
-	.string "symbols from each of the facilities.\p"
-	.string "To earn a symbol, TRAINERS may need\n"
-	.string "to defeat other TRAINERS in a row,\l"
-	.string "and may need to win events repeatedly.\p"
-	.string "It's certainly not easy to win symbols.\n"
-	.string "I wish you the best of luck!$"
+	.i18n 2054
 
 BattleFrontier_ReceptionGate_Text_2674F3: @ 82674F3
-	.string "It is possible to record one battle\n"
-	.string "on your FRONTIER PASS.\p"
-	.string "You may record a battle you had with\n"
-	.string "a friend or friends.\p"
-	.string "Or you may record a battle conducted\n"
-	.string "at the BATTLE FRONTIER excluding\l"
-	.string "matches at the BATTLE PIKE or\l"
-	.string "the BATTLE PYRAMID.\p"
-	.string "You may choose to record your match\n"
-	.string "at the end of a battle.$"
+	.i18n 2055
 
 BattleFrontier_ReceptionGate_Text_26761C: @ 826761C
-	.string "Battle Points are rewards given to\n"
-	.string "TRAINERS who battled outstandingly\l"
-	.string "at the BATTLE FRONTIER.\p"
-	.string "You may trade in your Battle Points\n"
-	.string "for prizes at the EXCHANGE SERVICE\l"
-	.string "CORNER.$"
+	.i18n 2056
 

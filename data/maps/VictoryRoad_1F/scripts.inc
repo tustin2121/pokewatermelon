@@ -120,100 +120,64 @@ VictoryRoad_1F_EventScript_235ECF:: @ 8235ECF
 	end
 
 VictoryRoad_1F_Text_235EE6: @ 8235EE6
-	.string "WALLY: Hi! {PLAYER}!\p"
-	.string "I bet you're surprised to see me here!\p"
-	.string "I made it all the way here, and it's\n"
-	.string "all thanks to you!\p"
-	.string "{PLAYER}, losing to you that time\n"
-	.string "made me stronger!\p"
-	.string "But I'm not going to lose anymore!\p"
-	.string "I'm going to win! For the POKéMON who\n"
-	.string "gave me courage and strength!\p"
-	.string "Okay… Here I come!$"
+	.i18n 4819
 
 VictoryRoad_1F_Text_235FFC: @ 8235FFC
-	.string "Wow!\n"
-	.string "{PLAYER}, you are strong, after all!$"
+	.i18n 4820
 
 VictoryRoad_1F_Text_236020: @ 8236020
-	.string "WALLY: I couldn't beat you today,\n"
-	.string "{PLAYER}, but one of these days, I'll\l"
-	.string "catch up to you!$"
+	.i18n 4821
 
 VictoryRoad_1F_Text_236073: @ 8236073
-	.string "WALLY: Hi! {PLAYER}!\p"
-	.string "I've gotten stronger since that last\n"
-	.string "time! I wanted to show you, {PLAYER}!\p"
-	.string "Okay… Here I come!$"
+	.i18n 4822
 
 VictoryRoad_1F_Text_2360DA: @ 82360DA
-	.string "Wow!\n"
-	.string "{PLAYER}, you are strong, after all!$"
+	.i18n 4823
 
 VictoryRoad_1F_Text_2360FE: @ 82360FE
-	.string "WALLY: I couldn't beat you this time,\n"
-	.string "too… But one of these days, {PLAYER},\l"
-	.string "I'm going to catch up to you…\p"
-	.string "And challenge the POKéMON LEAGUE!$"
+	.i18n 4824
 
 VictoryRoad_1F_Text_236184: @ 8236184
-	.string "I've made it this far a couple times,\n"
-	.string "but the last stretch is so long…$"
+	.i18n 4825
 
 VictoryRoad_1F_Text_2361CB: @ 82361CB
-	.string "My dream ends here again…$"
+	.i18n 4826
 
 VictoryRoad_1F_Text_2361E5: @ 82361E5
-	.string "You've made it this far. Keep the\n"
-	.string "momentum going and become the\l"
-	.string "CHAMPION! If anyone can, it's you!$"
+	.i18n 4827
 
 VictoryRoad_1F_Text_236248: @ 8236248
-	.string "I didn't come all this way to lose now.\n"
-	.string "That possibility doesn't exist!$"
+	.i18n 4828
 
 VictoryRoad_1F_Text_236290: @ 8236290
-	.string "Impossible…\n"
-	.string "I lost?$"
+	.i18n 4829
 
 VictoryRoad_1F_Text_2362A4: @ 82362A4
-	.string "I lost here…\p"
-	.string "That means I lack the qualifications\n"
-	.string "to become the CHAMPION…$"
+	.i18n 4830
 
 VictoryRoad_1F_Text_2362EE: @ 82362EE
-	.string "This seemingly infinite and harsh road\n"
-	.string "lives up to its name of VICTORY.$"
+	.i18n 4831
 
 VictoryRoad_1F_Text_236336: @ 8236336
-	.string "Your battle style is fantastic…$"
+	.i18n 4832
 
 VictoryRoad_1F_Text_236356: @ 8236356
-	.string "You seem to have the potential for\n"
-	.string "becoming the CHAMPION.$"
+	.i18n 4833
 
 VictoryRoad_1F_Text_236390: @ 8236390
-	.string "What is the VICTORY ROAD?\n"
-	.string "I'll tell you if you win!$"
+	.i18n 4834
 
 VictoryRoad_1F_Text_2363C4: @ 82363C4
-	.string "Okay!\n"
-	.string "Well done!$"
+	.i18n 4835
 
 VictoryRoad_1F_Text_2363D5: @ 82363D5
-	.string "Getting through here safely--that's\n"
-	.string "the final test for any TRAINER aiming\l"
-	.string "to become the POKéMON CHAMPION.\p"
-	.string "That's why it's called the VICTORY\n"
-	.string "ROAD.$"
+	.i18n 4836
 
 VictoryRoad_1F_Text_236468: @ 8236468
-	.string "I have nothing to say to anyone\n"
-	.string "that's come this far. Come on!$"
+	.i18n 4837
 
 VictoryRoad_1F_Text_2364A7: @ 82364A7
-	.string "This is a disgrace…$"
+	.i18n 4838
 
 VictoryRoad_1F_Text_2364BB: @ 82364BB
-	.string "Humph, go right on ahead.\n"
-	.string "See if I care.$"
+	.i18n 4839

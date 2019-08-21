@@ -50,69 +50,29 @@ AquaHideout_1F_EventScript_233513:: @ 8233513
 	end
 
 AquaHideout_1F_Text_23351D: @ 823351D
-	.string "What? What? What do you want with \n"
-	.string "TEAM AQUA?\p"
-	.string "Our BOSS isn't here! He's gone off to\n"
-	.string "snatch something important!\p"
-	.string "… …\n"
-	.string "Where did he go?\p"
-	.string "Wahaha! Do you really think I'd tell\n"
-	.string "you something that crucial?$"
+	.i18n 568
 
 AquaHideout_1F_Text_2335E3: @ 82335E3
-	.string "What? What?\n"
-	.string "Are you a TEAM MAGMA grunt?\p"
-	.string "I hear that TEAM MAGMA is trying to\n"
-	.string "awaken an awesome POKéMON at their\l"
-	.string "HIDEOUT.\p"
-	.string "But where might their HIDEOUT be?$"
+	.i18n 569
 
 AquaHideout_1F_Text_23367D: @ 823367D
-	.string "What? What? What do you want with \n"
-	.string "TEAM AQUA?\p"
-	.string "Our BOSS isn't here!\n"
-	.string "He's gone off to jack a submarine!\p"
-	.string "… …\n"
-	.string "Where did he go?\p"
-	.string "Wahaha! Do you really think I'd tell\n"
-	.string "you something that crucial?$"
+	.i18n 570
 
 AquaHideout_1F_Text_233739: @ 8233739
-	.string "What? What? What do you want with \n"
-	.string "TEAM AQUA?\p"
-	.string "Our BOSS isn't here! He's on his way to\n"
-	.string "MT. PYRE on ROUTE 122!\p"
-	.string "… …\n"
-	.string "Why did he go?\p"
-	.string "Wahaha! Do you really think I'd tell\n"
-	.string "you something that crucial?$"
+	.i18n 571
 
 AquaHideout_1F_Text_2337FA: @ 82337FA
-	.string "What? What?\n"
-	.string "Are you a TEAM MAGMA grunt?\p"
-	.string "I hear that TEAM MAGMA is after\n"
-	.string "an awesome POKéMON at MT. CHIMNEY.\p"
-	.string "But what is that POKéMON like?$"
+	.i18n 572
 
 AquaHideout_1F_Text_233884: @ 8233884
-	.string "What? What? What do you want with\n"
-	.string "TEAM AQUA?\p"
-	.string "Our BOSS isn't here!\n"
-	.string "He's on his way to SLATEPORT CITY!\p"
-	.string "… …\n"
-	.string "Why did he go?\p"
-	.string "Wahaha! Do you really think I'd tell\n"
-	.string "you something that crucial?$"
+	.i18n 573
 
 AquaHideout_1F_Text_23393D: @ 823393D
-	.string "Ayiyiyi!\n"
-	.string "Suspicious character spotted!$"
+	.i18n 574
 
 AquaHideout_1F_Text_233964: @ 8233964
-	.string "Grrrrr…\n"
-	.string "I lost it!$"
+	.i18n 575
 
 AquaHideout_1F_Text_233977: @ 8233977
-	.string "I took the loss for the TEAM,\n"
-	.string "but I did my job…$"
+	.i18n 576
 

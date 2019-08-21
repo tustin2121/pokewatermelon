@@ -63,42 +63,29 @@ VerdanturfTown_FriendshipRatersHouse_EventScript_2030DA:: @ 82030DA
 	end
 
 VerdanturfTown_FriendshipRatersHouse_Text_2030ED: @ 82030ED
-	.string "Let me see your POKéMON.\n"
-	.string "I'll check to see how much it likes you.\p"
-	.string "Oh.\n"
-	.string "Your POKéMON…$"
+	.i18n 4791
 
 VerdanturfTown_FriendshipRatersHouse_Text_203141: @ 8203141
-	.string "It adores you.\n"
-	.string "It can't possibly love you any more.\l"
-	.string "I even feel happy seeing it.$"
+	.i18n 4792
 
 VerdanturfTown_FriendshipRatersHouse_Text_203192: @ 8203192
-	.string "It seems to be very happy.\n"
-	.string "It obviously likes you a whole lot.$"
+	.i18n 4793
 
 VerdanturfTown_FriendshipRatersHouse_Text_2031D1: @ 82031D1
-	.string "It likes you quite a lot.\n"
-	.string "It seems to want to be babied a little.$"
+	.i18n 4794
 
 VerdanturfTown_FriendshipRatersHouse_Text_203213: @ 8203213
-	.string "It's getting used to you.\n"
-	.string "It seems to believe in you.$"
+	.i18n 4795
 
 VerdanturfTown_FriendshipRatersHouse_Text_203249: @ 8203249
-	.string "It's not very used to you yet.\n"
-	.string "It neither loves nor hates you.$"
+	.i18n 4796
 
 VerdanturfTown_FriendshipRatersHouse_Text_203288: @ 8203288
-	.string "It's very wary.\n"
-	.string "It has scary viciousness in its eyes.\l"
-	.string "It doesn't like you much at all.$"
+	.i18n 4797
 
 VerdanturfTown_FriendshipRatersHouse_Text_2032DF: @ 82032DF
-	.string "This is a little hard for me to say…\p"
-	.string "Your POKéMON simply detests you.\n"
-	.string "Doesn't that make you uncomfortable?$"
+	.i18n 4798
 
 VerdanturfTown_FriendshipRatersHouse_Text_20334A: @ 820334A
-	.string "PIKACHU: Pika pika!$"
+	.i18n 4799
 

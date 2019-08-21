@@ -43,45 +43,32 @@ Route110_TrickHousePuzzle6_EventScript_26DE0F:: @ 826DE0F
 	end
 
 Route110_TrickHousePuzzle6_Text_26DE26: @ 826DE26
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is my life.”\n"
-	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.i18n 3811
 
 Route110_TrickHousePuzzle6_Text_26DE93: @ 826DE93
-	.string "When I heard there was a strange\n"
-	.string "house, I had to check it out.$"
+	.i18n 3812
 
 Route110_TrickHousePuzzle6_Text_26DED2: @ 826DED2
-	.string "I've discovered a tough TRAINER!$"
+	.i18n 3813
 
 Route110_TrickHousePuzzle6_Text_26DEF3: @ 826DEF3
-	.string "I'm sure having a good time checking\n"
-	.string "this place out.\p"
-	.string "It's a challenge I've found worth\n"
-	.string "repeating!$"
+	.i18n 3814
 
 Route110_TrickHousePuzzle6_Text_26DF55: @ 826DF55
-	.string "Maybe I could get my BIRD POKéMON\n"
-	.string "to fly over the wall…$"
+	.i18n 3815
 
 Route110_TrickHousePuzzle6_Text_26DF8D: @ 826DF8D
-	.string "Gwaaah! I blew it!$"
+	.i18n 3816
 
 Route110_TrickHousePuzzle6_Text_26DFA0: @ 826DFA0
-	.string "Ehehehe… I guess I lost because\n"
-	.string "I was trying to cheat.$"
+	.i18n 3817
 
 Route110_TrickHousePuzzle6_Text_26DFD7: @ 826DFD7
-	.string "I'm getting dizzy from these rotating\n"
-	.string "doors…$"
+	.i18n 3818
 
 Route110_TrickHousePuzzle6_Text_26E004: @ 826E004
-	.string "Everything's spinning around and\n"
-	.string "around. I can't take this anymore…$"
+	.i18n 3819
 
 Route110_TrickHousePuzzle6_Text_26E048: @ 826E048
-	.string "You don't seem to be affected at all.\n"
-	.string "Or do you have your poker face on?$"
+	.i18n 3820
 

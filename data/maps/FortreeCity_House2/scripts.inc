@@ -43,40 +43,23 @@ FortreeCity_House2_EventScript_217878:: @ 8217878
 	end
 
 FortreeCity_House2_Text_217882: @ 8217882
-	.string "People… POKéMON…\p"
-	.string "Their hidden powers are aroused by\n"
-	.string "living in natural environments…$"
+	.i18n 2307
 
 FortreeCity_House2_Text_2178D6: @ 82178D6
-	.string "Let this old woman see if your hidden\n"
-	.string "power has awoken…\p"
-	.string "I hold a coin in my hand.\p"
-	.string "Now, tell me, have I palmed it in\n"
-	.string "the right hand? Or in the left?$"
+	.i18n 2308
 
 FortreeCity_House2_Text_21796A: @ 821796A
-	.string "Oh! Yes, correct!\p"
-	.string "We shall try again.\p"
-	.string "In which hand have I palmed the coin?\n"
-	.string "The right or left?$"
+	.i18n 2309
 
 FortreeCity_House2_Text_2179C9: @ 82179C9
-	.string "Oh! Yes, correct!\p"
-	.string "We shall try again.\p"
-	.string "In which hand have I palmed the coin?\n"
-	.string "The right or left?$"
+	.i18n 2310
 
 FortreeCity_House2_Text_217A28: @ 8217A28
-	.string "Oh! Splendid!\n"
-	.string "Your hidden power has awoken!\p"
-	.string "Here, take this and awaken the hidden\n"
-	.string "power of your POKéMON.$"
+	.i18n 2311
 
 FortreeCity_House2_Text_217A91: @ 8217A91
-	.string "HIDDEN POWER is a move that changes\n"
-	.string "with the POKéMON.$"
+	.i18n 2312
 
 FortreeCity_House2_Text_217AC7: @ 8217AC7
-	.string "No, too bad.\n"
-	.string "You guessed wrong.$"
+	.i18n 2313
 

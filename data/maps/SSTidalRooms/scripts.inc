@@ -64,113 +64,80 @@ SSTidalRooms_EventScript_23CADB:: @ 823CADB
 	end
 
 SSTidalRooms_Text_23CAF2: @ 823CAF2
-	.string "There's a bed…\n"
-	.string "Let's take a rest.$"
+	.i18n 4294
 
 SSTidalRooms_Text_23CB14: @ 823CB14
-	.string "I often sail to LILYCOVE CITY.\p"
-	.string "I enjoy attending CONTESTS,\n"
-	.string "you see.$"
+	.i18n 4295
 
 SSTidalRooms_Text_23CB58: @ 823CB58
-	.string "That was an enjoyable match!$"
+	.i18n 4296
 
 SSTidalRooms_Text_23CB75: @ 823CB75
-	.string "I get so excited imagining what kinds\n"
-	.string "of POKéMON I'll get to see in the next\l"
-	.string "CONTEST. The anticipation of it thrills!$"
+	.i18n 4297
 
 SSTidalRooms_Text_23CBEB: @ 823CBEB
-	.string "Are your friends strong?$"
+	.i18n 4298
 
 SSTidalRooms_Text_23CC04: @ 823CC04
-	.string "Your friends are, indeed, strong.$"
+	.i18n 4299
 
 SSTidalRooms_Text_23CC26: @ 823CC26
-	.string "Friends need not be human.\n"
-	.string "For me, POKéMON are treasured friends!$"
+	.i18n 4300
 
 SSTidalRooms_Text_23CC68: @ 823CC68
-	.string "Child…\n"
-	.string "Did you knock on the door?$"
+	.i18n 4301
 
 SSTidalRooms_Text_23CC8A: @ 823CC8A
-	.string "A loss is to be accepted without haste\n"
-	.string "or panic.$"
+	.i18n 4302
 
 SSTidalRooms_Text_23CCBB: @ 823CCBB
-	.string "To be never ruffled in any situation is\n"
-	.string "the GENTLEMAN's code of conduct.$"
+	.i18n 4303
 
 SSTidalRooms_Text_23CD04: @ 823CD04
-	.string "JED: I feel a little shy about this, but…\n"
-	.string "We'll show you our lovey-dovey power!$"
+	.i18n 4304
 
 SSTidalRooms_Text_23CD54: @ 823CD54
-	.string "JED: Sigh…$"
+	.i18n 4305
 
 SSTidalRooms_Text_23CD5F: @ 823CD5F
-	.string "JED: It's the first time that our lovey-\n"
-	.string "dovey power couldn't prevail!\l"
-	.string "You must be an awesome TRAINER!$"
+	.i18n 4306
 
 SSTidalRooms_Text_23CDC6: @ 823CDC6
-	.string "JED: You only have one POKéMON?\n"
-	.string "Isn't that just too lonesome?$"
+	.i18n 4307
 
 SSTidalRooms_Text_23CE04: @ 823CE04
-	.string "LEA: I feel a little silly, but…\n"
-	.string "We'll show you our lovey-dovey power!$"
+	.i18n 4308
 
 SSTidalRooms_Text_23CE4B: @ 823CE4B
-	.string "LEA: Oh, boo!$"
+	.i18n 4309
 
 SSTidalRooms_Text_23CE59: @ 823CE59
-	.string "LEA: I can't believe it!\n"
-	.string "Our lovey-dovey power failed…\l"
-	.string "You must be an awesome TRAINER!$"
+	.i18n 4310
 
 SSTidalRooms_Text_23CEB0: @ 823CEB0
-	.string "LEA: I wanted to battle…\n"
-	.string "But you don't even have two POKéMON…$"
+	.i18n 4311
 
 SSTidalRooms_Text_23CEEE: @ 823CEEE
-	.string "Ah, you've come just in time.\p"
-	.string "I'm bored, you see.\n"
-	.string "You may entertain me.$"
+	.i18n 4312
 
 SSTidalRooms_Text_23CF36: @ 823CF36
-	.string "…That will do.$"
+	.i18n 4313
 
 SSTidalRooms_Text_23CF45: @ 823CF45
-	.string "Perhaps I shall get Father to acquire\n"
-	.string "a yacht for me.\l"
-	.string "A yacht for me and POKéMON!$"
+	.i18n 4314
 
 SSTidalRooms_Text_23CF97: @ 823CF97
-	.string "Oh, you're such an adorable TRAINER.\n"
-	.string "Would you like to have tea?\l"
-	.string "Or would you rather battle?$"
+	.i18n 4315
 
 SSTidalRooms_Text_23CFF4: @ 823CFF4
-	.string "I see.\n"
-	.string "You're the active sort.$"
+	.i18n 4316
 
 SSTidalRooms_Text_23D013: @ 823D013
-	.string "A world cruise on a luxury liner has its\n"
-	.string "charms, I must say…\p"
-	.string "But, I will admit there is an appealing\n"
-	.string "side to touring HOENN by ferry.$"
+	.i18n 4317
 
 SSTidalRooms_Text_23D098: @ 823D098
-	.string "Uh… Hi! I… I'm not acting suspicious!\n"
-	.string "Uh… You can have this! For free!\p"
-	.string "It… Honestly, I didn't SNATCH it from\n"
-	.string "someone! I'd never do such a thing!\l"
-	.string "It's clean! You can use it!$"
+	.i18n 4318
 
 SSTidalRooms_Text_23D145: @ 823D145
-	.string "SNATCH steals the beneficial effects\n"
-	.string "of certain moves before they can be\l"
-	.string "used by a foe or ally.$"
+	.i18n 4319
 

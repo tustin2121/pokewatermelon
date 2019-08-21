@@ -153,66 +153,29 @@ MossdeepCity_StevensHouse_EventScript_222926:: @ 8222926
 	end
 
 MossdeepCity_StevensHouse_Text_222936: @ 8222936
-	.string "STEVEN: {PLAYER}{KUN}…\p"
-	.string "As you can see, there's not much here,\n"
-	.string "but this is my home.\p"
-	.string "Thank you for all that you've done.\p"
-	.string "This is my token of appreciation.\n"
-	.string "It's the HIDDEN MACHINE DIVE.\p"
-	.string "No need to be shy--you've earned\n"
-	.string "this HM.$"
+	.i18n 3213
 
 MossdeepCity_StevensHouse_Text_222A0E: @ 8222A0E
-	.string "STEVEN: While you're using SURF, you\n"
-	.string "should notice dark patches of water.\p"
-	.string "Use DIVE if you come to deep water\n"
-	.string "like it. You'll drop to the seafloor.\p"
-	.string "When you want to come back up, use\n"
-	.string "DIVE again.\p"
-	.string "In some places, it won't be possible\n"
-	.string "for you to surface, though.$"
+	.i18n 3214
 
 MossdeepCity_StevensHouse_Text_222B11: @ 8222B11
-	.string "STEVEN: Apparently, there's an\n"
-	.string "underwater cavern between\l"
-	.string "MOSSDEEP and SOOTOPOLIS.\p"
-	.string "You know, the one that CAPT. STERN\n"
-	.string "found in his submarine.$"
+	.i18n 3215
 
 MossdeepCity_StevensHouse_Text_222B9E: @ 8222B9E
-	.string "{PLAYER} checked the POKé BALL.\p"
-	.string "It contained the POKéMON\n"
-	.string "BELDUM.\p"
-	.string "Take the POKé BALL?$"
+	.i18n 3216
 
 MossdeepCity_StevensHouse_Text_222BED: @ 8222BED
-	.string "{PLAYER} obtained a BELDUM.$"
+	.i18n 3217
 
 MossdeepCity_StevensHouse_Text_222C03: @ 8222C03
-	.string "There is no space for another POKéMON.$"
+	.i18n 3218
 
 MossdeepCity_StevensHouse_Text_222C2A: @ 8222C2A
-	.string "{PLAYER} left the POKé BALL where\n"
-	.string "it was.$"
+	.i18n 3219
 
 MossdeepCity_StevensHouse_Text_222C4E: @ 8222C4E
-	.string "It's a letter.\p"
-	.string "… … … … … …\p"
-	.string "To {PLAYER}{KUN}…\p"
-	.string "I've decided to do a little soul-\n"
-	.string "searching and train on the road.\p"
-	.string "I don't plan to return home for some\n"
-	.string "time.\p"
-	.string "I have a favor to ask of you.\p"
-	.string "I want you to take the POKé BALL on\n"
-	.string "the desk.\p"
-	.string "Inside it is a BELDUM, my favorite\n"
-	.string "POKéMON.\p"
-	.string "I'm counting on you.\p"
-	.string "May our paths cross someday.\p"
-	.string "STEVEN STONE$"
+	.i18n 3220
 
 MossdeepCity_StevensHouse_Text_222D97: @ 8222D97
-	.string "It's a collection of rare rocks and\n"
-	.string "stones assembled by STEVEN.$"
+	.i18n 3221
 

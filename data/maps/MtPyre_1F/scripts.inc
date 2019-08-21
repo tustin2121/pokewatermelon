@@ -27,22 +27,14 @@ MtPyre_1F_EventScript_230F81:: @ 8230F81
 	end
 
 MtPyre_1F_Text_230F8A: @ 8230F8A
-	.string "All sorts of beings wander the slopes\n"
-	.string "of MT. PYRE…\p"
-	.string "There is no telling what may happen.\n"
-	.string "Take this. It's for your own good.$"
+	.i18n 3285
 
 MtPyre_1F_Text_231005: @ 8231005
-	.string "Have a POKéMON hold that\n"
-	.string "CLEANSE TAG.\p"
-	.string "It will help ward off wild POKéMON.$"
+	.i18n 3286
 
 MtPyre_1F_Text_23104F: @ 823104F
-	.string "Did you come to pay your respect\n"
-	.string "to the spirits of departed POKéMON?\p"
-	.string "You must care for your POKéMON a lot.$"
+	.i18n 3287
 
 MtPyre_1F_Text_2310BA: @ 82310BA
-	.string "This is the final resting place of my\n"
-	.string "ZIGZAGOON. I cherished it…$"
+	.i18n 3288
 

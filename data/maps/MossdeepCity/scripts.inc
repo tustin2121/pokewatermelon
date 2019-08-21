@@ -308,125 +308,59 @@ MossdeepCity_Movement_1E4CE2: @ 81E4CE2
 	step_end
 
 MossdeepCity_Text_1E4CED: @ 81E4CED
-	.string "I got this from STEVEN, but I don't\n"
-	.string "know what it's good for.\p"
-	.string "I think it's called KING'S ROCK.\n"
-	.string "Do you want it?$"
+	.i18n 3053
 
 MossdeepCity_Text_1E4D5B: @ 81E4D5B
-	.string "Why would you want it?\n"
-	.string "You're weird.\p"
-	.string "You can keep it, but keep it a secret\n"
-	.string "from STEVEN.$"
+	.i18n 3054
 
 MossdeepCity_Text_1E4DB3: @ 81E4DB3
-	.string "STEVEN's house is right over there!$"
+	.i18n 3055
 
 MossdeepCity_Text_1E4DD7: @ 81E4DD7
-	.string "Yeah, you think so, too! What are you\n"
-	.string "supposed to do with some weird rock?$"
+	.i18n 3056
 
 MossdeepCity_Text_1E4E22: @ 81E4E22
-	.string "Around MOSSDEEP, you can see wild\n"
-	.string "WAILMER.\p"
-	.string "It's called, uh…\n"
-	.string "What was it now…\p"
-	.string "WAI, WAI, WAI…\p"
-	.string "WAILMER watching!$"
+	.i18n 3057
 
 MossdeepCity_Text_1E4E90: @ 81E4E90
-	.string "The island's SPACE CENTER has been\n"
-	.string "launching huge rockets.\p"
-	.string "There's been some kind of an uproar\n"
-	.string "over a letter they received recently.$"
+	.i18n 3058
 
 MossdeepCity_Text_1E4F15: @ 81E4F15
-	.string "The island's SPACE CENTER has been\n"
-	.string "launching huge rockets.$"
+	.i18n 3059
 
 MossdeepCity_Text_1E4F50: @ 81E4F50
-	.string "I heard from a SAILOR buddy that\n"
-	.string "TEAM AQUA set up shop in LILYCOVE.\p"
-	.string "I also heard that someone came along\n"
-	.string "and wiped the floor with them!\p"
-	.string "But MOSSDEEP here's been targeted\n"
-	.string "by that TEAM MAGMA.\p"
-	.string "If you want to know what they're up to,\n"
-	.string "go visit the SPACE CENTER.$"
+	.i18n 3060
 
 MossdeepCity_Text_1E5051: @ 81E5051
-	.string "I'm a SAILOR, so the sea's obviously\n"
-	.string "more important to me.\p"
-	.string "But you know? When I get back on land\n"
-	.string "after a long voyage, I do feel relief!$"
+	.i18n 3061
 
 MossdeepCity_Text_1E50D9: @ 81E50D9
-	.string "Wouldn't it be nice?\p"
-	.string "If the whole world was covered in\n"
-	.string "plants and flowers like this island?$"
+	.i18n 3062
 
 MossdeepCity_Text_1E5135: @ 81E5135
-	.string "All life needs the sea to live, even\n"
-	.string "though it makes its home on the land.\p"
-	.string "Life, having run its course, becomes\n"
-	.string "soil and returns to the land.\p"
-	.string "And the sea is always connected to\n"
-	.string "the land.\p"
-	.string "Yes, like the very shoreline here.$"
+	.i18n 3063
 
 MossdeepCity_Text_1E5213: @ 81E5213
-	.string "A voyage on a ship is fine.\p"
-	.string "But crossing the sea with POKéMON\n"
-	.string "using SURF…\p"
-	.string "Now that's an exhilarating trip!\n"
-	.string "Wouldn't you agree, youngster?$"
+	.i18n 3064
 
 MossdeepCity_Text_1E529D: @ 81E529D
-	.string "This rock has a special meaning to\n"
-	.string "the people at the SPACE CENTER.\p"
-	.string "They put it here as their wish for\n"
-	.string "their rockets to fly safely.\p"
-	.string "When you make a wish, what do you use?\n"
-	.string "Do you wish upon a star?\p"
-	.string "I use a wish tag to make it happen.\n"
-	.string "That's what I do.$"
+	.i18n 3065
 
 MossdeepCity_Text_1E5396: @ 81E5396
-	.string "It's a white rock.$"
+	.i18n 3066
 
 MossdeepCity_Text_1E53A9: @ 81E53A9
-	.string "MOSSDEEP CITY POKéMON GYM\n"
-	.string "LEADERS: LIZA & TATE\p"
-	.string "“The mystic combination!”$"
+	.i18n 3067
 
 MossdeepCity_Text_1E53F2: @ 81E53F2
-	.string "MOSSDEEP CITY\n"
-	.string "“Our slogan: Cherish POKéMON!”$"
+	.i18n 3068
 
 MossdeepCity_Text_1E541F: @ 81E541F
-	.string "MOSSDEEP SPACE CENTER\n"
-	.string "“The closest place to space.”$"
+	.i18n 3069
 
 MossdeepCity_Text_1E5453: @ 81E5453
-	.string "SCOTT: {PLAYER}{KUN}, feeling good?\n"
-	.string "I'm doing great!\p"
-	.string "I'd heard MOSSDEEP's GYM LEADER is\n"
-	.string "pretty strong, so I decided to come\l"
-	.string "take a look-see for myself.\p"
-	.string "But there's something wrong about\n"
-	.string "this town.\p"
-	.string "People are going on about a warning\n"
-	.string "letter and the SPACE CENTER…\p"
-	.string "I don't think it concerns me in any\n"
-	.string "way, though.$"
+	.i18n 3070
 
 MossdeepCity_Text_1E5581: @ 81E5581
-	.string "Ahh… It feels great letting the waves\n"
-	.string "wash over my feet…\p"
-	.string "Speaking of the waves, you know that\n"
-	.string "island city SOOTOPOLIS?\p"
-	.string "I think the GYM there had a new\n"
-	.string "LEADER come in.\p"
-	.string "People tell me the new LEADER once\n"
-	.string "mentored WALLACE.$"
+	.i18n 3071
 

@@ -28,27 +28,14 @@ PacifidlogTown_EventScript_1EBADE:: @ 81EBADE
 	end
 
 PacifidlogTown_Text_1EBAE7: @ 81EBAE7
-	.string "The sea between PACIFIDLOG and\n"
-	.string "SLATEPORT has a fast-running tide.\p"
-	.string "If you decide to SURF, you could end\n"
-	.string "up swept away somewhere else.$"
+	.i18n 3387
 
 PacifidlogTown_Text_1EBB6C: @ 81EBB6C
-	.string "See, isn't it neat?\n"
-	.string "These houses are on water!\p"
-	.string "I was born here!$"
+	.i18n 3388
 
 PacifidlogTown_Text_1EBBAC: @ 81EBBAC
-	.string "The SKY PILLAR?\p"
-	.string "…Oh, you must mean that tall, tall\n"
-	.string "tower a little further out.\p"
-	.string "If you asked me, I wouldn't climb it.\n"
-	.string "It's too scary to get up that high.\p"
-	.string "Life at sea level in PACIFIDLOG,\n"
-	.string "that suits me fine.$"
+	.i18n 3389
 
 PacifidlogTown_Text_1EBC7A: @ 81EBC7A
-	.string "PACIFIDLOG TOWN\p"
-	.string "“Where the morning sun smiles upon\n"
-	.string "the waters.”$"
+	.i18n 3390
 

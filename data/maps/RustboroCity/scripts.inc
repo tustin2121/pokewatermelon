@@ -1023,278 +1023,145 @@ RustboroCity_EventScript_1E1236:: @ 81E1236
 	end
 
 RustboroCity_Text_1E123F: @ 81E123F
-	.string "The DEVON CORPORATION…\n"
-	.string "We all just shorten it to DEVON.\p"
-	.string "That company makes all sorts of\n"
-	.string "convenient products.$"
+	.i18n 4079
 
 RustboroCity_Text_1E12AC: @ 81E12AC
-	.string "Hm? A sneaky-looking man?\p"
-	.string "Come to think of it, yes, a shady-\n"
-	.string "looking guy went around the corner.$"
+	.i18n 4080
 
 RustboroCity_Text_1E130D: @ 81E130D
-	.string "Have you taken the POKéMON GYM\n"
-	.string "challenge?\p"
-	.string "When you get that shiny GYM BADGE\n"
-	.string "in hand, I guess TRAINERS begin to\l"
-	.string "realize what is required of them.$"
+	.i18n 4081
 
 RustboroCity_Text_1E139E: @ 81E139E
-	.string "Hey, that's RUSTBORO's GYM BADGE!\p"
-	.string "Out of all the POKéMON GYM BADGES,\n"
-	.string "RUSTBORO's is the coolest, I'd say.$"
+	.i18n 4082
 
 RustboroCity_Text_1E1407: @ 81E1407
-	.string "Oh? Who might you be?\n"
-	.string "You're a new face around these parts.\p"
-	.string "Have you just transferred into the\n"
-	.string "POKéMON TRAINER'S SCHOOL?$"
+	.i18n 4083
 
 RustboroCity_Text_1E1480: @ 81E1480
-	.string "I challenged the GYM LEADER, but…\p"
-	.string "It's not going to be easy winning with\n"
-	.string "my FIRE-type POKéMON…\p"
-	.string "FIRE-type POKéMON don't match up\n"
-	.string "well against ROCK-type POKéMON…$"
+	.i18n 4084
 
 RustboroCity_Text_1E1520: @ 81E1520
-	.string "The old sailor MR. BRINEY lives in\n"
-	.string "a cottage by the sea.\p"
-	.string "He goes for walks in the tunnel every\n"
-	.string "so often.$"
+	.i18n 4085
 
 RustboroCity_Text_1E1589: @ 81E1589
-	.string "The old sailor MR. BRINEY lives in\n"
-	.string "a cottage by the sea.\p"
-	.string "He said he was going shopping in\n"
-	.string "SLATEPORT for his pet, PEEKO.\p"
-	.string "That old sea dog, he must really love\n"
-	.string "that PEEKO.$"
+	.i18n 4086
 
 RustboroCity_Text_1E1633: @ 81E1633
-	.string "Wow, you have POKéMON with you, too.\p"
-	.string "When I get bigger, I'm going to go\n"
-	.string "places with POKéMON, too.$"
+	.i18n 4087
 
 RustboroCity_Text_1E1695: @ 81E1695
-	.string "POKéMON TRAINER'S SCHOOL!\p"
-	.string "If I go to this school, will I be able\n"
-	.string "to catch rare POKéMON easily?$"
+	.i18n 4088
 
 RustboroCity_Text_1E16F4: @ 81E16F4
-	.string "If a POKéMON gains experience in\n"
-	.string "battles, it can sometimes change in\l"
-	.string "the way it looks.$"
+	.i18n 4089
 
 RustboroCity_Text_1E174B: @ 81E174B
-	.string "A POKéMON changes shape?\n"
-	.string "If one did that, I would be shocked!$"
+	.i18n 4090
 
 RustboroCity_Text_1E1789: @ 81E1789
-	.string "A POKéMON you get in a trade from\n"
-	.string "someone grows fast.\p"
-	.string "But if you don't have certain GYM\n"
-	.string "BADGES, it may not obey you…$"
+	.i18n 4091
 
 RustboroCity_Text_1E17FE: @ 81E17FE
-	.string "Get out!\n"
-	.string "Out of the way!$"
+	.i18n 4092
 
 RustboroCity_Text_1E1817: @ 81E1817
-	.string "Wait! Pleeeaaase!\p"
-	.string "Don't take my GOODS!$"
+	.i18n 4093
 
 RustboroCity_Text_1E183E: @ 81E183E
-	.string "Oh, it's you!\p"
-	.string "You're that fantastic TRAINER who\n"
-	.string "helped me in PETALBURG WOODS!\p"
-	.string "Help me! I was robbed by TEAM AQUA!\n"
-	.string "I have to get the DEVON GOODS back!\p"
-	.string "If I don't…\n"
-	.string "I'm going to be in serious trouble.$"
+	.i18n 4094
 
 RustboroCity_Text_1E1904: @ 81E1904
-	.string "That shady character, I think he took\n"
-	.string "off towards the tunnel over there.$"
+	.i18n 4095
 
 RustboroCity_Text_1E194D: @ 81E194D
-	.string "Oh! How did it go?\n"
-	.string "The DEVON GOODS?\p"
-	.string "You did!\n"
-	.string "You got them back!\p"
-	.string "You really are a great TRAINER!\p"
-	.string "I know! As my thanks, I'll give you\n"
-	.string "another GREAT BALL!$"
+	.i18n 4096
 
 RustboroCity_Text_1E19E5: @ 81E19E5
-	.string "You're loaded with items.\n"
-	.string "I can't give you this GREAT BALL.$"
+	.i18n 4097
 
 RustboroCity_Text_1E1A21: @ 81E1A21
-	.string "Excuse me, please!\n"
-	.string "Please come with me!$"
+	.i18n 4098
 
 RustboroCity_Text_1E1A49: @ 81E1A49
-	.string "MAY: Oh, hi, {PLAYER}{KUN}!\p"
-	.string "You had a MATCH CALL feature put\n"
-	.string "on your POKéNAV!\p"
-	.string "Let's register each other so we can\n"
-	.string "contact one another anytime!\p"
-	.string "… … … … … …$"
+	.i18n 4099
 
 RustboroCity_Text_1E1ADB: @ 81E1ADB
-	.string "Registered MAY\n"
-	.string "in the POKéNAV.$"
+	.i18n 4100
 
 RustboroCity_Text_1E1AFA: @ 81E1AFA
-	.string "MAY: Oh, by the way, I passed\n"
-	.string "MR. BRINEY in PETALBURG WOODS.\p"
-	.string "I guess he's on his way home to his\n"
-	.string "cottage by the sea.\p"
-	.string "How's your POKéDEX coming along,\n"
-	.string "{PLAYER}{KUN}? Mine's looking pretty decent!\p"
-	.string "So…\n"
-	.string "How about a little battle?$"
+	.i18n 4101
 
 RustboroCity_Text_1E1BD3: @ 81E1BD3
-	.string "MAY: Oh, what's the matter?\p"
-	.string "Haven't you caught or raised your\n"
-	.string "POKéMON very much?\p"
-	.string "That's not very good for a TRAINER!$"
+	.i18n 4102
 
 RustboroCity_Text_1E1C48: @ 81E1C48
-	.string "MAY: So, what do you think?\n"
-	.string "How about a little battle here?$"
+	.i18n 4103
 
 RustboroCity_Text_1E1C84: @ 81E1C84
-	.string "MAY: You just became a TRAINER,\n"
-	.string "{PLAYER}{KUN}. I'm not going to lose!$"
+	.i18n 4104
 
 RustboroCity_Text_1E1CC1: @ 81E1CC1
-	.string "Yikes!\n"
-	.string "You're better than I expected!$"
+	.i18n 4105
 
 RustboroCity_Text_1E1CE7: @ 81E1CE7
-	.string "MAY: Oh, by the way, MR. BRINEY, who\n"
-	.string "I just passed…\p"
-	.string "{PLAYER}{KUN}, you just moved here so you\n"
-	.string "might not know this, but MR. BRINEY\l"
-	.string "was once a revered seafarer.$"
+	.i18n 4106
 
 RustboroCity_Text_1E1D7D: @ 81E1D7D
-	.string "BRENDAN: Oh, hey, {PLAYER}!\p"
-	.string "You had a MATCH CALL feature put\n"
-	.string "on your POKéNAV! Cool!\p"
-	.string "Let's register each other so we can\n"
-	.string "get in touch anytime!\p"
-	.string "… … … … … …$"
+	.i18n 4107
 
 RustboroCity_Text_1E1E11: @ 81E1E11
-	.string "Registered BRENDAN\n"
-	.string "in the POKéNAV.$"
+	.i18n 4108
 
 RustboroCity_Text_1E1E34: @ 81E1E34
-	.string "BRENDAN: By the way, {PLAYER}, I walked\n"
-	.string "by MR. BRINEY in PETALBURG WOODS.\p"
-	.string "I bet he was on his way home to his\n"
-	.string "cottage by the sea.\p"
-	.string "{PLAYER}, how's your POKéDEX?\n"
-	.string "Have you filled in any pages yet?\p"
-	.string "Mine rules.\p"
-	.string "Want to have a battle to test how\n"
-	.string "far you've progressed?$"
+	.i18n 4109
 
 RustboroCity_Text_1E1F2F: @ 81E1F2F
-	.string "BRENDAN: What's the matter? Don't have\n"
-	.string "any confidence in your POKéMON?$"
+	.i18n 4110
 
 RustboroCity_Text_1E1F76: @ 81E1F76
-	.string "BRENDAN: What's up?\n"
-	.string "Want to have a battle with me?$"
+	.i18n 4111
 
 RustboroCity_Text_1E1FA9: @ 81E1FA9
-	.string "BRENDAN: I know you just became\n"
-	.string "a TRAINER, but I won't go easy!$"
+	.i18n 4112
 
 RustboroCity_Text_1E1FE9: @ 81E1FE9
-	.string "Hmm…\n"
-	.string "You're pretty good.$"
+	.i18n 4113
 
 RustboroCity_Text_1E2002: @ 81E2002
-	.string "BRENDAN: By the way, you know\n"
-	.string "MR. BRINEY? The guy I just passed?\p"
-	.string "I bet you didn't know this, since you\n"
-	.string "just moved here, {PLAYER}, but\l"
-	.string "MR. BRINEY was once a great sailor.$"
+	.i18n 4114
 
 RustboroCity_Text_1E20A6: @ 81E20A6
-	.string "“Timesaving tunnel nearing\n"
-	.string "completion!”\p"
-	.string "…Is what it says on the sign, but\n"
-	.string "there's also a big “X” splashed\l"
-	.string "across it in red paint…$"
+	.i18n 4115
 
 RustboroCity_Text_1E2128: @ 81E2128
-	.string "DEVON CORPORATION\p"
-	.string "“For all your living needs, we make\n"
-	.string "it all.”$"
+	.i18n 4116
 
 RustboroCity_Text_1E2167: @ 81E2167
-	.string "RUSTBORO CITY POKéMON GYM\n"
-	.string "LEADER: ROXANNE\p"
-	.string "“The ROCK-loving honors student!”$"
+	.i18n 4117
 
 RustboroCity_Text_1E21B3: @ 81E21B3
-	.string "DEVON CORP. BRANCH OFFICE\p"
-	.string "“Access limited to DEVON employees\n"
-	.string "and authorized personnel.”$"
+	.i18n 4118
 
 RustboroCity_Text_1E220B: @ 81E220B
-	.string "RUSTBORO CITY\p"
-	.string "“The city probing the integration of\n"
-	.string "nature and science.”$"
+	.i18n 4119
 
 RustboroCity_Text_1E2253: @ 81E2253
-	.string "POKéMON TRAINER'S SCHOOL\p"
-	.string "“We'll teach you anything about\n"
-	.string "POKéMON!”$"
+	.i18n 4120
 
 RustboroCity_Text_1E2296: @ 81E2296
-	.string "CUTTER'S HOUSE$"
+	.i18n 4121
 
 RustboroCity_Text_1E22A5: @ 81E22A5
-	.string "I've been developing an added feature\n"
-	.string "for the POKéNAV…\p"
-	.string "And it turned out great!\p"
-	.string "{PLAYER}, may I see that POKéNAV?\n"
-	.string "The one our PRESIDENT gave you?$"
+	.i18n 4122
 
 RustboroCity_Text_1E2331: @ 81E2331
-	.string "There you go, {PLAYER}!\p"
-	.string "I added a new feature named\n"
-	.string "MATCH CALL to your POKéNAV.\p"
-	.string "Using the MATCH CALL feature,\n"
-	.string "you can chat with people who have\l"
-	.string "been registered in your POKéNAV.\p"
-	.string "{PLAYER}, our PRESIDENT STONE should\n"
-	.string "be registered in your POKéNAV.\p"
-	.string "Test it out.\n"
-	.string "Please give our PRESIDENT a call.$"
+	.i18n 4123
 
 RustboroCity_Text_1E2449: @ 81E2449
-	.string "Please select the POKéNAV.$"
+	.i18n 4124
 
 RustboroCity_Text_1E2464: @ 81E2464
-	.string "Okay, I'd better get back to work.\n"
-	.string "Please take care, {PLAYER}!$"
+	.i18n 4125
 
 RustboroCity_Text_1E249D: @ 81E249D
-	.string "Did you know this?\p"
-	.string "You can have a 2-on-2 battle even\n"
-	.string "if you're not with another TRAINER.\p"
-	.string "If you catch the eyes of two TRAINERS\n"
-	.string "when you have two or more POKéMON,\l"
-	.string "they'll both challenge you.\p"
-	.string "Don't you think it'd be cool if you\n"
-	.string "could beat two TRAINERS by yourself?$"
+	.i18n 4126

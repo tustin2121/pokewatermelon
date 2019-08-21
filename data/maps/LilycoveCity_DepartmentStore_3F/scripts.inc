@@ -58,18 +58,11 @@ LilycoveCity_DepartmentStore_3F_EventScript_21FCC8:: @ 821FCC8
 	end
 
 LilycoveCity_DepartmentStore_3F_Text_21FCD1: @ 821FCD1
-	.string "For quickly toughening up POKéMON,\n"
-	.string "items are the best.\p"
-	.string "PROTEIN boosts ATTACK,\n"
-	.string "and CALCIUM raises SP. ATK.$"
+	.i18n 2578
 
 LilycoveCity_DepartmentStore_3F_Text_21FD3B: @ 821FD3B
-	.string "I want my POKéMON to have more\n"
-	.string "endurance.\p"
-	.string "I'm trying to decide whether to raise\n"
-	.string "DEFENSE with IRON, or SP. DEF with ZINC.$"
+	.i18n 2579
 
 LilycoveCity_DepartmentStore_3F_Text_21FDB4: @ 821FDB4
-	.string "I gave a CARBOS to my POKéMON,\n"
-	.string "and its SPEED went up.$"
+	.i18n 2580
 

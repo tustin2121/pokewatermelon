@@ -136,24 +136,17 @@ AbandonedShip_HiddenFloorCorridors_EventScript_238B1D:: @ 8238B1D
 	end
 
 AbandonedShip_HiddenFloorCorridors_Text_238B27: @ 8238B27
-	.string "The door is locked.\p"
-	.string "“RM. 1” is painted on the door.$"
+	.i18n 526
 
 AbandonedShip_HiddenFloorCorridors_Text_238B5B: @ 8238B5B
-	.string "The door is locked.\p"
-	.string "“RM. 2” is painted on the door.$"
+	.i18n 527
 
 AbandonedShip_HiddenFloorCorridors_Text_238B8F: @ 8238B8F
-	.string "The door is locked.\p"
-	.string "“RM. 4” is painted on the door.$"
+	.i18n 528
 
 AbandonedShip_HiddenFloorCorridors_Text_238BC3: @ 8238BC3
-	.string "The door is locked.\p"
-	.string "“RM. 6” is painted on the door.$"
+	.i18n 529
 
 AbandonedShip_HiddenFloorCorridors_Text_238BF7: @ 8238BF7
-	.string "{PLAYER} inserted and turned the\n"
-	.string "KEY.\p"
-	.string "The inserted KEY stuck fast,\n"
-	.string "but the door opened.$"
+	.i18n 530
 

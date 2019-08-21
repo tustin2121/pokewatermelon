@@ -178,606 +178,388 @@ BattleFrontier_BattlePyramidEmptySquare_EventScript_252C88:: @ 8252C88
 	goto BattleFrontier_BattlePyramidTop_EventScript_252B42
 
 BattleFacility_TrainerBattle_PlaceholderText: @ 8252C8D
-	.string "This is a sample message.$"
+	.i18n 1109
 
 gText_BattlePyramidConfirmRest:: @ 8252CA7
-	.string "Your BATTLE PYRAMID quest will be\n"
-	.string "saved so that you may quit for now.\l"
-	.string "Is that okay?$"
+	.i18n 1110
 
 gText_BattlePyramidConfirmRetire:: @ 8252CFB
-	.string "Are you sure you want to quit your\n"
-	.string "PYRAMID quest?$"
+	.i18n 1111
 
 BattlePyramid_ExitHintUp_Text1:: @ 8252D2D
-	.string "This floor's exit is in\n"
-	.string "that direction: {UP_ARROW}$"
+	.i18n 1112
 
 BattlePyramid_ExitHintLeft_Text1:: @ 8252D57
-	.string "This floor's exit is in\n"
-	.string "that direction: {LEFT_ARROW}$"
+	.i18n 1113
 
 BattlePyramid_ExitHintRight_Text1:: @ 8252D81
-	.string "This floor's exit is in\n"
-	.string "that direction: {RIGHT_ARROW}$"
+	.i18n 1114
 
 BattlePyramid_ExitHintDown_Text1:: @ 8252DAB
-	.string "This floor's exit is in\n"
-	.string "that direction: {DOWN_ARROW}$"
+	.i18n 1115
 
 BattlePyramid_ExitHintUp_Text2:: @ 8252DD5
-	.string "The exit on this floor is in\n"
-	.string "the {UP_ARROW} direction.$"
+	.i18n 1116
 
 BattlePyramid_ExitHintLeft_Text2:: @ 8252E03
-	.string "The exit on this floor is in\n"
-	.string "the {LEFT_ARROW} direction.$"
+	.i18n 1117
 
 BattlePyramid_ExitHintRight_Text2:: @ 8252E31
-	.string "The exit on this floor is in\n"
-	.string "the {RIGHT_ARROW} direction.$"
+	.i18n 1118
 
 BattlePyramid_ExitHintDown_Text2:: @ 8252E5F
-	.string "The exit on this floor is in\n"
-	.string "the {DOWN_ARROW} direction.$"
+	.i18n 1119
 
 BattlePyramid_ExitHintUp_Text3:: @ 8252E8D
-	.string "The exit is over\n"
-	.string "that {UP_ARROW} way.$"
+	.i18n 1120
 
 BattlePyramid_ExitHintLeft_Text3:: @ 8252EAA
-	.string "The exit is over\n"
-	.string "that {LEFT_ARROW} way.$"
+	.i18n 1121
 
 BattlePyramid_ExitHintRight_Text3:: @ 8252EC7
-	.string "The exit is over\n"
-	.string "that {RIGHT_ARROW} way.$"
+	.i18n 1122
 
 BattlePyramid_ExitHintDown_Text3:: @ 8252EE4
-	.string "The exit is over\n"
-	.string "that {DOWN_ARROW} way.$"
+	.i18n 1123
 
 BattlePyramid_ExitHintUp_Text4:: @ 8252F01
-	.string "On this floor, the exit is somewhere\n"
-	.string "in the {UP_ARROW} direction.$"
+	.i18n 1124
 
 BattlePyramid_ExitHintLeft_Text4:: @ 8252F3A
-	.string "On this floor, the exit is somewhere\n"
-	.string "in the {LEFT_ARROW} direction.$"
+	.i18n 1125
 
 BattlePyramid_ExitHintRight_Text4:: @ 8252F73
-	.string "On this floor, the exit is somewhere\n"
-	.string "in the {RIGHT_ARROW} direction.$"
+	.i18n 1126
 
 BattlePyramid_ExitHintDown_Text4:: @ 8252FAC
-	.string "On this floor, the exit is somewhere\n"
-	.string "in the {DOWN_ARROW} direction.$"
+	.i18n 1127
 
 BattlePyramid_ExitHintUp_Text5:: @ 8252FE5
-	.string "The exit?\n"
-	.string "It's that {UP_ARROW} way.$"
+	.i18n 1128
 
 BattlePyramid_ExitHintLeft_Text5:: @ 8253000
-	.string "The exit?\n"
-	.string "It's that {LEFT_ARROW} way.$"
+	.i18n 1129
 
 BattlePyramid_ExitHintRight_Text5:: @ 825301B
-	.string "The exit?\n"
-	.string "It's that {RIGHT_ARROW} way.$"
+	.i18n 1130
 
 BattlePyramid_ExitHintDown_Text5:: @ 8253036
-	.string "The exit?\n"
-	.string "It's that {DOWN_ARROW} way.$"
+	.i18n 1131
 
 BattlePyramid_ExitHintUp_Text6:: @ 8253051
-	.string "The exit happens to be in\n"
-	.string "the {UP_ARROW} direction.$"
+	.i18n 1132
 
 BattlePyramid_ExitHintLeft_Text6:: @ 825307C
-	.string "The exit happens to be in\n"
-	.string "the {LEFT_ARROW} direction.$"
+	.i18n 1133
 
 BattlePyramid_ExitHintRight_Text6:: @ 82530A7
-	.string "The exit happens to be in\n"
-	.string "the {RIGHT_ARROW} direction.$"
+	.i18n 1134
 
 BattlePyramid_ExitHintDown_Text6:: @ 82530D2
-	.string "The exit happens to be in\n"
-	.string "the {DOWN_ARROW} direction.$"
+	.i18n 1135
 
 BattlePyramid_EightItemsRemaining_Text1:: @ 82530FD
-	.string "Are you looking for items?\p"
-	.string "There are eight items left to\n"
-	.string "be found.$"
+	.i18n 1136
 
 BattlePyramid_SevenItemsRemaining_Text1:: @ 8253140
-	.string "Are you looking for items?\p"
-	.string "There are seven items left to\n"
-	.string "be found.$"
+	.i18n 1137
 
 BattlePyramid_SixItemsRemaining_Text1:: @ 8253183
-	.string "Are you looking for items?\p"
-	.string "There are six items left to\n"
-	.string "be found.$"
+	.i18n 1138
 
 BattlePyramid_FiveItemsRemaining_Text1:: @ 82531C4
-	.string "Are you looking for items?\p"
-	.string "There are five items left to\n"
-	.string "be found.$"
+	.i18n 1139
 
 BattlePyramid_FourItemsRemaining_Text1:: @ 8253206
-	.string "Are you looking for items?\p"
-	.string "There are four items left to\n"
-	.string "be found.$"
+	.i18n 1140
 
 BattlePyramid_ThreeItemsRemaining_Text1:: @ 8253248
-	.string "Are you looking for items?\p"
-	.string "There are three items left to\n"
-	.string "be found.$"
+	.i18n 1141
 
 BattlePyramid_TwoItemsRemaining_Text1:: @ 825328B
-	.string "Are you looking for items?\p"
-	.string "There are two items left to\n"
-	.string "be found.$"
+	.i18n 1142
 
 BattlePyramid_OneItemRemaining_Text1:: @ 82532CC
-	.string "Are you looking for items?\p"
-	.string "There is one item left to\n"
-	.string "be found.$"
+	.i18n 1143
 
 BattlePyramid_ZeroItemsRemaining_Text1:: @ 825330B
-	.string "Are you looking for items?\p"
-	.string "There isn't anything left to\n"
-	.string "be found!$"
+	.i18n 1144
 
 BattlePyramid_EightItemsRemaining_Text2:: @ 825334D
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There are eight items\n"
-	.string "lying around here.$"
+	.i18n 1145
 
 BattlePyramid_SevenItemsRemaining_Text2:: @ 82533A6
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There are seven items left\n"
-	.string "lying around here.$"
+	.i18n 1146
 
 BattlePyramid_SixItemsRemaining_Text2:: @ 8253404
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There are six items left\n"
-	.string "lying around here.$"
+	.i18n 1147
 
 BattlePyramid_FiveItemsRemaining_Text2:: @ 8253460
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There are five items left\n"
-	.string "lying around here.$"
+	.i18n 1148
 
 BattlePyramid_FourItemsRemaining_Text2:: @ 82534BD
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There are four items left\n"
-	.string "lying around here.$"
+	.i18n 1149
 
 BattlePyramid_ThreeItemsRemaining_Text2:: @ 825351A
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There are three items left\n"
-	.string "lying around here.$"
+	.i18n 1150
 
 BattlePyramid_TwoItemsRemaining_Text2:: @ 8253578
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There are two items left\n"
-	.string "lying around here.$"
+	.i18n 1151
 
 BattlePyramid_OneItemRemaining_Text2:: @ 82535D4
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There is just one item\n"
-	.string "lying around here.$"
+	.i18n 1152
 
 BattlePyramid_ZeroItemsRemaining_Text2:: @ 825362E
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There isn't anything left\n"
-	.string "lying around here.$"
+	.i18n 1153
 
 BattlePyramid_EightItemsRemaining_Text3:: @ 825368B
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there are eight items left\n"
-	.string "waiting to be found on this floor.$"
+	.i18n 1154
 
 BattlePyramid_SevenItemsRemaining_Text3:: @ 82536F8
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there are seven items left\n"
-	.string "waiting to be found on this floor.$"
+	.i18n 1155
 
 BattlePyramid_SixItemsRemaining_Text3:: @ 8253765
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there are six items left\n"
-	.string "waiting to be found on this floor.$"
+	.i18n 1156
 
 BattlePyramid_FiveItemsRemaining_Text3:: @ 82537D0
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there are five items left\n"
-	.string "waiting to be found on this floor.$"
+	.i18n 1157
 
 BattlePyramid_FourItemsRemaining_Text3:: @ 825383C
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there are four items left\n"
-	.string "waiting to be found on this floor.$"
+	.i18n 1158
 
 BattlePyramid_ThreeItemsRemaining_Text3:: @ 82538A8
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there are three items left\n"
-	.string "waiting to be found on this floor.$"
+	.i18n 1159
 
 BattlePyramid_TwoItemsRemaining_Text3:: @ 8253915
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there are two items left\n"
-	.string "waiting to be found on this floor.$"
+	.i18n 1160
 
 BattlePyramid_OneItemRemaining_Text3:: @ 8253980
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there's but one item left\n"
-	.string "waiting to be found on this floor.$"
+	.i18n 1161
 
 BattlePyramid_ZeroItemsRemaining_Text3:: @ 82539EC
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there are no more items\n"
-	.string "waiting to be found on this floor.\l"
-	.string "You take care now!$"
+	.i18n 1162
 
 BattlePyramid_EightItemsRemaining_Text4:: @ 8253A69
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appear to be eight more\n"
-	.string "items on the ground.$"
+	.i18n 1163
 
 BattlePyramid_SevenItemsRemaining_Text4:: @ 8253AC4
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appear to be seven more\n"
-	.string "items on the ground.$"
+	.i18n 1164
 
 BattlePyramid_SixItemsRemaining_Text4:: @ 8253B1F
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appear to be six more\n"
-	.string "items on the ground.$"
+	.i18n 1165
 
 BattlePyramid_FiveItemsRemaining_Text4:: @ 8253B78
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appear to be five more\n"
-	.string "items on the ground.$"
+	.i18n 1166
 
 BattlePyramid_FourItemsRemaining_Text4:: @ 8253BD2
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appear to be four more\n"
-	.string "items on the ground.$"
+	.i18n 1167
 
 BattlePyramid_ThreeItemsRemaining_Text4:: @ 8253C2C
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appear to be three more\n"
-	.string "items on the ground.$"
+	.i18n 1168
 
 BattlePyramid_TwoItemsRemaining_Text4:: @ 8253C87
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appear to be two more\n"
-	.string "items on the ground.$"
+	.i18n 1169
 
 BattlePyramid_OneItemRemaining_Text4:: @ 8253CE0
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appears to be only one more\n"
-	.string "item on the ground.$"
+	.i18n 1170
 
 BattlePyramid_ZeroItemsRemaining_Text4:: @ 8253D3E
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appear to be no more\n"
-	.string "items on the ground.$"
+	.i18n 1171
 
 BattlePyramid_EightItemsRemaining_Text5:: @ 8253D96
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are eight items…$"
+	.i18n 1172
 
 BattlePyramid_SevenItemsRemaining_Text5:: @ 8253DD2
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are seven items…$"
+	.i18n 1173
 
 BattlePyramid_SixItemsRemaining_Text5:: @ 8253E0E
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are six items…$"
+	.i18n 1174
 
 BattlePyramid_FiveItemsRemaining_Text5:: @ 8253E48
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are five items…$"
+	.i18n 1175
 
 BattlePyramid_FourItemsRemaining_Text5:: @ 8253E83
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are four items…$"
+	.i18n 1176
 
 BattlePyramid_ThreeItemsRemaining_Text5:: @ 8253EBE
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are three items…$"
+	.i18n 1177
 
 BattlePyramid_TwoItemsRemaining_Text5:: @ 8253EFA
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are two items…$"
+	.i18n 1178
 
 BattlePyramid_OneItemRemaining_Text5:: @ 8253F34
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there is one item…$"
+	.i18n 1179
 
 BattlePyramid_ZeroItemsRemaining_Text5:: @ 8253F6C
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are no items…$"
+	.i18n 1180
 
 BattlePyramid_EightItemsRemaining_Text6:: @ 8253FA5
-	.string "Have you collected any items?\p"
-	.string "I believe there are eight more\n"
-	.string "items on this floor.$"
+	.i18n 1181
 
 BattlePyramid_SevenItemsRemaining_Text6:: @ 8253FF7
-	.string "Have you collected any items?\p"
-	.string "I believe there are seven more\n"
-	.string "items on this floor.$"
+	.i18n 1182
 
 BattlePyramid_SixItemsRemaining_Text6:: @ 8254049
-	.string "Have you collected any items?\p"
-	.string "I believe there are six more\n"
-	.string "items on this floor.$"
+	.i18n 1183
 
 BattlePyramid_FiveItemsRemaining_Text6:: @ 8254099
-	.string "Have you collected any items?\p"
-	.string "I believe there are five more\n"
-	.string "items on this floor.$"
+	.i18n 1184
 
 BattlePyramid_FourItemsRemaining_Text6:: @ 82540EA
-	.string "Have you collected any items?\p"
-	.string "I believe there are four more\n"
-	.string "items on this floor.$"
+	.i18n 1185
 
 BattlePyramid_ThreeItemsRemaining_Text6:: @ 825413B
-	.string "Have you collected any items?\p"
-	.string "I believe there are three more\n"
-	.string "items on this floor.$"
+	.i18n 1186
 
 BattlePyramid_TwoItemsRemaining_Text6:: @ 825418D
-	.string "Have you collected any items?\p"
-	.string "I believe there are two more\n"
-	.string "items on this floor.$"
+	.i18n 1187
 
 BattlePyramid_OneItemRemaining_Text6:: @ 82541DD
-	.string "Have you collected any items?\p"
-	.string "I believe there is one more\n"
-	.string "item on this floor.$"
+	.i18n 1188
 
 BattlePyramid_ZeroItemsRemaining_Text6:: @ 825422B
-	.string "Have you collected any items?\p"
-	.string "I believe there are no more\n"
-	.string "items on this floor.$"
+	.i18n 1189
 
 BattlePyramid_SevenTrainersRemaining_Text1:: @ 825427A
-	.string "You were really awesome!\p"
-	.string "But there are still seven tough\n"
-	.string "TRAINERS other than me!$"
+	.i18n 1190
 
 BattlePyramid_SixTrainersRemaining_Text1:: @ 82542CB
-	.string "You were really awesome!\p"
-	.string "But there are still six tough\n"
-	.string "TRAINERS other than me!$"
+	.i18n 1191
 
 BattlePyramid_FiveTrainersRemaining_Text1:: @ 825431A
-	.string "You were really awesome!\p"
-	.string "But there are still five tough\n"
-	.string "TRAINERS other than me!$"
+	.i18n 1192
 
 BattlePyramid_FourTrainersRemaining_Text1:: @ 825436A
-	.string "You were really awesome!\p"
-	.string "But there are still four tough\n"
-	.string "TRAINERS other than me!$"
+	.i18n 1193
 
 BattlePyramid_ThreeTrainersRemaining_Text1:: @ 82543BA
-	.string "You were really awesome!\p"
-	.string "But there are still three tough\n"
-	.string "TRAINERS other than me!$"
+	.i18n 1194
 
 BattlePyramid_TwoTrainersRemaining_Text1:: @ 825440B
-	.string "You were really awesome!\p"
-	.string "But there are still two tough\n"
-	.string "TRAINERS other than me!$"
+	.i18n 1195
 
 BattlePyramid_OneTrainersRemaining_Text1:: @ 825445A
-	.string "You were really awesome!\p"
-	.string "But there's still one tough\n"
-	.string "TRAINER other than me!$"
+	.i18n 1196
 
 BattlePyramid_ZeroTrainersRemaining_Text1:: @ 82544A6
-	.string "You were really awesome!\p"
-	.string "There's no one left that\n"
-	.string "can beat you!$"
+	.i18n 1197
 
 BattlePyramid_SevenTrainersRemaining_Text2:: @ 82544E6
-	.string "This is so upsetting!\p"
-	.string "But there are seven TRAINERS left!\n"
-	.string "Someone will humble you!$"
+	.i18n 1198
 
 BattlePyramid_SixTrainersRemaining_Text2:: @ 8254538
-	.string "This is so upsetting!\p"
-	.string "But there are six TRAINERS left!\n"
-	.string "Someone will humble you!$"
+	.i18n 1199
 
 BattlePyramid_FiveTrainersRemaining_Text2:: @ 8254588
-	.string "This is so upsetting!\p"
-	.string "But there are five TRAINERS left!\n"
-	.string "Someone will humble you!$"
+	.i18n 1200
 
 BattlePyramid_FourTrainersRemaining_Text2:: @ 82545D9
-	.string "This is so upsetting!\p"
-	.string "But there are four TRAINERS left!\n"
-	.string "Someone will humble you!$"
+	.i18n 1201
 
 BattlePyramid_ThreeTrainersRemaining_Text2:: @ 825462A
-	.string "This is so upsetting!\p"
-	.string "But there are three TRAINERS left!\n"
-	.string "Someone will humble you!$"
+	.i18n 1202
 
 BattlePyramid_TwoTrainersRemaining_Text2:: @ 825467C
-	.string "This is so upsetting!\p"
-	.string "But there are two TRAINERS left!\n"
-	.string "Someone will humble you!$"
+	.i18n 1203
 
 BattlePyramid_OneTrainersRemaining_Text2:: @ 82546CC
-	.string "This is so upsetting!\p"
-	.string "But there's one TRAINER left!\n"
-	.string "I'm sure you will be humbled!$"
+	.i18n 1204
 
 BattlePyramid_ZeroTrainersRemaining_Text2:: @ 825471E
-	.string "This is so upsetting!\p"
-	.string "But there are no more TRAINERS\n"
-	.string "who can engage you!$"
+	.i18n 1205
 
 BattlePyramid_SevenTrainersRemaining_Text3:: @ 8254767
-	.string "That's pretty impressive!\p"
-	.string "But there are seven more TRAINERS\n"
-	.string "on this floor. Can you beat them all?$"
+	.i18n 1206
 
 BattlePyramid_SixTrainersRemaining_Text3:: @ 82547C9
-	.string "That's pretty impressive!\p"
-	.string "But there are six more TRAINERS\n"
-	.string "on this floor. Can you beat them all?$"
+	.i18n 1207
 
 BattlePyramid_FiveTrainersRemaining_Text3:: @ 8254829
-	.string "That's pretty impressive!\p"
-	.string "But there are five more TRAINERS\n"
-	.string "on this floor. Can you beat them all?$"
+	.i18n 1208
 
 BattlePyramid_FourTrainersRemaining_Text3:: @ 825488A
-	.string "That's pretty impressive!\p"
-	.string "But there are four more TRAINERS\n"
-	.string "on this floor. Can you beat them all?$"
+	.i18n 1209
 
 BattlePyramid_ThreeTrainersRemaining_Text3:: @ 82548EB
-	.string "That's pretty impressive!\p"
-	.string "But there are three more TRAINERS\n"
-	.string "on this floor. Can you beat them all?$"
+	.i18n 1210
 
 BattlePyramid_TwoTrainersRemaining_Text3:: @ 825494D
-	.string "That's pretty impressive!\p"
-	.string "But there are two more TRAINERS\n"
-	.string "on this floor. Can you beat them both?$"
+	.i18n 1211
 
 BattlePyramid_OneTrainersRemaining_Text3:: @ 82549AE
-	.string "That's pretty impressive!\p"
-	.string "But there's still one more TRAINER\n"
-	.string "on this floor. Can you prevail?$"
+	.i18n 1212
 
 BattlePyramid_ZeroTrainersRemaining_Text3:: @ 8254A0B
-	.string "That's pretty impressive!\p"
-	.string "You've gone through all the TRAINERS\n"
-	.string "on this floor.$"
+	.i18n 1213
 
 BattlePyramid_SevenTrainersRemaining_Text4:: @ 8254A59
-	.string "Maybe you could sweep through\n"
-	.string "the seven TRAINERS left on this floor.$"
+	.i18n 1214
 
 BattlePyramid_SixTrainersRemaining_Text4:: @ 8254A9E
-	.string "Maybe you could sweep through\n"
-	.string "the six TRAINERS left on this floor.$"
+	.i18n 1215
 
 BattlePyramid_FiveTrainersRemaining_Text4:: @ 8254AE1
-	.string "Maybe you could sweep through\n"
-	.string "the five TRAINERS left on this floor.$"
+	.i18n 1216
 
 BattlePyramid_FourTrainersRemaining_Text4:: @ 8254B25
-	.string "Maybe you could sweep through\n"
-	.string "the four TRAINERS left on this floor.$"
+	.i18n 1217
 
 BattlePyramid_ThreeTrainersRemaining_Text4:: @ 8254B69
-	.string "Maybe you could sweep through\n"
-	.string "the three TRAINERS left on this floor.$"
+	.i18n 1218
 
 BattlePyramid_TwoTrainersRemaining_Text4:: @ 8254BAE
-	.string "Maybe you could sweep through\n"
-	.string "the two TRAINERS left on this floor.$"
+	.i18n 1219
 
 BattlePyramid_OneTrainersRemaining_Text4:: @ 8254BF1
-	.string "Maybe you could complete your sweep\n"
-	.string "with the one TRAINER left on this floor.$"
+	.i18n 1220
 
 BattlePyramid_ZeroTrainersRemaining_Text4:: @ 8254C3E
-	.string "There isn't a single person left who\n"
-	.string "can defeat you now…$"
+	.i18n 1221
 
 BattlePyramid_SevenTrainersRemaining_Text5:: @ 8254C77
-	.string "You may have what it takes to beat\n"
-	.string "the seven expert TRAINERS who remain.$"
+	.i18n 1222
 
 BattlePyramid_SixTrainersRemaining_Text5:: @ 8254CC0
-	.string "You may have what it takes to beat\n"
-	.string "the six expert TRAINERS who remain.$"
+	.i18n 1223
 
 BattlePyramid_FiveTrainersRemaining_Text5:: @ 8254D07
-	.string "You may have what it takes to beat\n"
-	.string "the five expert TRAINERS who remain.$"
+	.i18n 1224
 
 BattlePyramid_FourTrainersRemaining_Text5:: @ 8254D4F
-	.string "You may have what it takes to beat\n"
-	.string "the four expert TRAINERS who remain.$"
+	.i18n 1225
 
 BattlePyramid_ThreeTrainersRemaining_Text5:: @ 8254D97
-	.string "You may have what it takes to beat\n"
-	.string "the three expert TRAINERS who remain.$"
+	.i18n 1226
 
 BattlePyramid_TwoTrainersRemaining_Text5:: @ 8254DE0
-	.string "You may have what it takes to beat\n"
-	.string "the two expert TRAINERS who remain.$"
+	.i18n 1227
 
 BattlePyramid_OneTrainersRemaining_Text5:: @ 8254E27
-	.string "You may have what it takes to beat\n"
-	.string "the one expert TRAINER who remains.$"
+	.i18n 1228
 
 BattlePyramid_ZeroTrainersRemaining_Text5:: @ 8254E6E
-	.string "Your skills are beyond reproach.\p"
-	.string "There are no more TRAINERS here\n"
-	.string "who have any chance of beating you.$"
+	.i18n 1229
 
 BattlePyramid_SevenTrainersRemaining_Text6:: @ 8254ED3
-	.string "Can you keep winning against\n"
-	.string "the seven remaining TRAINERS?$"
+	.i18n 1230
 
 BattlePyramid_SixTrainersRemaining_Text6:: @ 8254F0E
-	.string "Can you keep winning against\n"
-	.string "the six remaining TRAINERS?$"
+	.i18n 1231
 
 BattlePyramid_FiveTrainersRemaining_Text6:: @ 8254F47
-	.string "Can you keep winning against\n"
-	.string "the five remaining TRAINERS?$"
+	.i18n 1232
 
 BattlePyramid_FourTrainersRemaining_Text6:: @ 8254F81
-	.string "Can you keep winning against\n"
-	.string "the four remaining TRAINERS?$"
+	.i18n 1233
 
 BattlePyramid_ThreeTrainersRemaining_Text6:: @ 8254FBB
-	.string "Can you keep winning against\n"
-	.string "the three remaining TRAINERS?$"
+	.i18n 1234
 
 BattlePyramid_TwoTrainersRemaining_Text6:: @ 8254FF6
-	.string "Can you keep winning against\n"
-	.string "the two remaining TRAINERS?$"
+	.i18n 1235
 
 BattlePyramid_OneTrainersRemaining_Text6:: @ 825502F
-	.string "Can you keep winning against\n"
-	.string "the last remaining TRAINER?$"
+	.i18n 1236
 
 BattlePyramid_ZeroTrainersRemaining_Text6:: @ 8255068
-	.string "There aren't any TRAINERS left that\n"
-	.string "can take you on now…$"
+	.i18n 1237

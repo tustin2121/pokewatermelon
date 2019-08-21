@@ -64,6 +64,5 @@ BattleFrontier_BattlePikeCorridor_Movement_25C812: @ 825C812
 	step_end
 
 BattleFrontier_BattlePikeCorridor_Text_25C817: @ 825C817
-	.string "Your Battle Choice challenge\n"
-	.string "has now begun…$"
+	.i18n 943
 

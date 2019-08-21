@@ -317,44 +317,32 @@ Route110_TrickHousePuzzle3_EventScript_26C5F2:: @ 826C5F2
 	end
 
 Route110_TrickHousePuzzle3_Text_26C609: @ 826C609
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is coveted.”\n"
-	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.i18n 3766
 
 Route110_TrickHousePuzzle3_Text_26C676: @ 826C676
-	.string "I keep coming back to this same place!$"
+	.i18n 3767
 
 Route110_TrickHousePuzzle3_Text_26C69D: @ 826C69D
-	.string "I'm already having trouble, and then\n"
-	.string "you have to beat me? It's not fair!$"
+	.i18n 3768
 
 Route110_TrickHousePuzzle3_Text_26C6E6: @ 826C6E6
-	.string "It's full of doors here!\n"
-	.string "It's too small and dark in here! Help!$"
+	.i18n 3769
 
 Route110_TrickHousePuzzle3_Text_26C726: @ 826C726
-	.string "I don't know what's going on here.\n"
-	.string "I'm starting to feel sad…$"
+	.i18n 3770
 
 Route110_TrickHousePuzzle3_Text_26C763: @ 826C763
-	.string "You… You're awful!$"
+	.i18n 3771
 
 Route110_TrickHousePuzzle3_Text_26C776: @ 826C776
-	.string "I know I'm weak!\n"
-	.string "And, I have no sense of direction!$"
+	.i18n 3772
 
 Route110_TrickHousePuzzle3_Text_26C7AA: @ 826C7AA
-	.string "I don't get it. What would anyone want\n"
-	.string "with a house this bizarre?$"
+	.i18n 3773
 
 Route110_TrickHousePuzzle3_Text_26C7EC: @ 826C7EC
-	.string "I don't get it.\n"
-	.string "How did I lose?$"
+	.i18n 3774
 
 Route110_TrickHousePuzzle3_Text_26C80C: @ 826C80C
-	.string "I don't get it.\n"
-	.string "How many traps are in this house?\p"
-	.string "You may be the one to solve that.$"
+	.i18n 3775
 

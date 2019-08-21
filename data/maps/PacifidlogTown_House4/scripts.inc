@@ -30,26 +30,17 @@ PacifidlogTown_House4_EventScript_203F89:: @ 8203F89
 	end
 
 PacifidlogTown_House4_Text_203F93: @ 8203F93
-	.string "People were saying they saw a POKéMON\n"
-	.string "flying high above HOENN.\p"
-	.string "Is it flying around all the time?\n"
-	.string "Doesn't it need to rest somewhere?$"
+	.i18n 3410
 
 PacifidlogTown_House4_Text_204017: @ 8204017
-	.string "A sky POKéMON!\n"
-	.string "A sky POKéMON!$"
+	.i18n 3411
 
 PacifidlogTown_House4_Text_204035: @ 8204035
-	.string "Where did you come from?$"
+	.i18n 3412
 
 PacifidlogTown_House4_Text_20404E: @ 820404E
-	.string "Yes?\n"
-	.string "YES TOWN?\p"
-	.string "I've never heard of a place like that.$"
+	.i18n 3413
 
 PacifidlogTown_House4_Text_204084: @ 8204084
-	.string "No? That doesn't make any sense.\n"
-	.string "You have to come from somewhere.\p"
-	.string "Oh! Wait! You're not going to say you\n"
-	.string "were born at the bottom of the sea?$"
+	.i18n 3414
 

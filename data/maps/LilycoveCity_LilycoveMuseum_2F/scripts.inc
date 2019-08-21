@@ -216,114 +216,59 @@ LilycoveCity_LilycoveMuseum_2F_EventScript_2199DD:: @ 82199DD
 	end
 
 LilycoveCity_LilycoveMuseum_2F_Text_2199EB: @ 82199EB
-	.string "This is our special exhibit hall.$"
+	.i18n 2637
 
 LilycoveCity_LilycoveMuseum_2F_Text_219A0D: @ 8219A0D
-	.string "As you can plainly see, there is not\n"
-	.string "a single painting on exhibit.\p"
-	.string "Here, I don't wish to exhibit works of\n"
-	.string "so-called classical art.\p"
-	.string "Such classical works you can see on\n"
-	.string "our ground floor.\p"
-	.string "I wish to exhibit work that is far\n"
-	.string "different from the classics.\p"
-	.string "Art, after all, is not restricted to old,\n"
-	.string "famous works!\p"
-	.string "This exhibit hall, I wish to fill it with…\p"
-	.string "Modern and vibrant artworks of\n"
-	.string "POKéMON seemingly ready to spring\l"
-	.string "forth into glorious life!$"
+	.i18n 2638
 
 LilycoveCity_LilycoveMuseum_2F_Text_219BC4: @ 8219BC4
-	.string "I beg your pardon. I didn't intend\n"
-	.string "to monopolize the conversation.\p"
-	.string "Now, as you are young, and yet\n"
-	.string "obviously well traveled…\p"
-	.string "You must encounter lively POKéMON\n"
-	.string "and works of art depicting them.\p"
-	.string "If you were to come across such\n"
-	.string "a painting, may we ask you to obtain\l"
-	.string "the artist's permission to exhibit\l"
-	.string "it here?$"
+	.i18n 2639
 
 LilycoveCity_LilycoveMuseum_2F_Text_219CF3: @ 8219CF3
-	.string "I wish to fill this exhibit hall with\n"
-	.string "modern and vibrant paintings of\l"
-	.string "POKéMON.$"
+	.i18n 2640
 
 LilycoveCity_LilycoveMuseum_2F_Text_219D42: @ 8219D42
-	.string "Thanks to you, we've added a new\n"
-	.string "painting to our collection!\p"
-	.string "I've heard it depicts your POKéMON.\n"
-	.string "Truly magnificent!\p"
-	.string "Thank you so very, very much!$"
+	.i18n 2641
 
 LilycoveCity_LilycoveMuseum_2F_Text_219DD4: @ 8219DD4
-	.string "Ah! It's you!\n"
-	.string "{PLAYER}!$"
+	.i18n 2642
 
 LilycoveCity_LilycoveMuseum_2F_Text_219DE6: @ 8219DE6
-	.string "Isn't this marvelous?\n"
-	.string "This collection of paintings!\p"
-	.string "Each one of them flawless!\n"
-	.string "None better than another!\p"
-	.string "These paintings have attracted\n"
-	.string "more guests to our ART MUSEUM.\p"
-	.string "Sincerely, I thank you, {PLAYER}.\n"
-	.string "This is my dream come true!$"
+	.i18n 2643
 
 LilycoveCity_LilycoveMuseum_2F_Text_219EC5: @ 8219EC5
-	.string "This is merely a token of my gratitude.$"
+	.i18n 2644
 
 LilycoveCity_LilycoveMuseum_2F_Text_219EED: @ 8219EED
-	.string "I will keep this for you until we\n"
-	.string "meet again.$"
+	.i18n 2645
 
 LilycoveCity_LilycoveMuseum_2F_Text_219F1B: @ 8219F1B
-	.string "Ah, so good to see you, {PLAYER}!\p"
-	.string "It's an honor to have you visit us\n"
-	.string "on your busy journeys.\p"
-	.string "Please, relax and do enjoy your\n"
-	.string "visit with us.$"
+	.i18n 2646
 
 LilycoveCity_LilycoveMuseum_2F_Text_219FA0: @ 8219FA0
-	.string "It's a picture frame with pink-colored\n"
-	.string "adornments.$"
+	.i18n 2647
 
 LilycoveCity_LilycoveMuseum_2F_Text_219FD3: @ 8219FD3
-	.string "It's a picture frame with\n"
-	.string "yellow-colored adornments.$"
+	.i18n 2648
 
 LilycoveCity_LilycoveMuseum_2F_Text_21A008: @ 821A008
-	.string "It's a picture frame with\n"
-	.string "blue-colored adornments.$"
+	.i18n 2649
 
 LilycoveCity_LilycoveMuseum_2F_Text_21A03B: @ 821A03B
-	.string "It's a picture frame with\n"
-	.string "red-colored adornments.$"
+	.i18n 2650
 
 LilycoveCity_LilycoveMuseum_2F_Text_21A06D: @ 821A06D
-	.string "It's a picture frame with\n"
-	.string "green-colored adornments.$"
+	.i18n 2651
 
 LilycoveCity_LilycoveMuseum_2F_Text_21A0A1: @ 821A0A1
-	.string "It's a painting of POKéMON.$"
+	.i18n 2652
 
 LilycoveCity_LilycoveMuseum_2F_Text_21A0BD: @ 821A0BD
-	.string "I've been away awhile, so the new\n"
-	.string "paintings up here surprised me.\p"
-	.string "I wish someone would paint my POKéMON\n"
-	.string "this pretty.$"
+	.i18n 2653
 
 LilycoveCity_LilycoveMuseum_2F_Text_21A132: @ 821A132
-	.string "Well… So this is where they show\n"
-	.string "the topical POKéMON paintings.\p"
-	.string "I see, these new paintings are indeed\n"
-	.string "rather amusing.$"
+	.i18n 2654
 
 LilycoveCity_LilycoveMuseum_2F_Text_21A1A8: @ 821A1A8
-	.string "Wow, is that right?\n"
-	.string "These paintings are of your POKéMON.\p"
-	.string "Isn't that just the ultimate joy for\n"
-	.string "a TRAINER?$"
+	.i18n 2655
 

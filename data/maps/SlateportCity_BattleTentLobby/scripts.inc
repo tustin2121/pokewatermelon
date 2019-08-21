@@ -322,35 +322,17 @@ SlateportCity_BattleTentLobby_EventScript_208B4C:: @ 8208B4C
 	end
 
 SlateportCity_BattleTentLobby_Text_208B4E: @ 8208B4E
-	.string "So, like, I couldn't find myself any\n"
-	.string "POKéMON that were, like, for me.\p"
-	.string "So, I figured, like, hey, I should file\n"
-	.string "a complaint to the guy there?\p"
-	.string "And he wouldn't hear me out, like, hey!\n"
-	.string "So, like, total bummer, man!\p"
-	.string "Hey, like, you! Zip it, you know?\n"
-	.string "Just, you know, take this!$"
+	.i18n 4456
 
 SlateportCity_BattleTentLobby_Text_208C5C: @ 8208C5C
-	.string "That's, like, TM41, you know?\n"
-	.string "Hey, it's TORMENT, you hearing me?\p"
-	.string "Like, it won't let the other guy\n"
-	.string "use the same move twice in a row, see?\p"
-	.string "Hey, now, you listen here, like,\n"
-	.string "I'm not laying a torment on you!$"
+	.i18n 4457
 
 SlateportCity_BattleTentLobby_Text_208D27: @ 8208D27
-	.string "I don't really like BUG POKéMON,\n"
-	.string "but maybe I'll try using some for\l"
-	.string "a change of pace.\p"
-	.string "Who knows, I might even get to like\n"
-	.string "them!$"
+	.i18n 4458
 
 SlateportCity_BattleTentLobby_Text_208DA6: @ 8208DA6
-	.string "You can battle all you want here even\n"
-	.string "if you don't have any tough POKéMON.$"
+	.i18n 4459
 
 SlateportCity_BattleTentLobby_Text_208DF1: @ 8208DF1
-	.string "Wouldn't it be nice if they had more of\n"
-	.string "a selection?$"
+	.i18n 4460
 

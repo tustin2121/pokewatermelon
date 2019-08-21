@@ -941,435 +941,235 @@ SlateportCity_EventScript_1DD643:: @ 81DD643
 	end
 
 SlateportCity_Text_1DD64A: @ 81DD64A
-	.string "I'm the ENERGY GURU! I'll go for it and\n"
-	.string "sell you what you need!$"
+	.i18n 4363
 
 SlateportCity_Text_1DD68A: @ 81DD68A
-	.string "Oh?\n"
-	.string "Your {STR_VAR_1}…$"
+	.i18n 4364
 
 SlateportCity_Text_1DD697: @ 81DD697
-	.string "Went for it stupendously!\p"
-	.string "As its reward, please give it this\n"
-	.string "EFFORT RIBBON.$"
+	.i18n 4365
 
 SlateportCity_Text_1DD6E3: @ 81DD6E3
-	.string "{PLAYER} received the EFFORT RIBBON.$"
+	.i18n 4366
 
 SlateportCity_Text_1DD702: @ 81DD702
-	.string "{PLAYER} put the EFFORT RIBBON\n"
-	.string "on {STR_VAR_1}.$"
+	.i18n 4367
 
 SlateportCity_Text_1DD722: @ 81DD722
-	.string "You have to go for it a little harder.\p"
-	.string "If you do, I'll give your POKéMON\n"
-	.string "something nice.$"
+	.i18n 4368
 
 SlateportCity_Text_1DD77B: @ 81DD77B
-	.string "Oh! Your {STR_VAR_1}, that EFFORT\n"
-	.string "RIBBON looks good on it!$"
+	.i18n 4369
 
 SlateportCity_Text_1DD7AD: @ 81DD7AD
-	.string "The light of the lighthouse reaches\n"
-	.string "dozens of miles away.\p"
-	.string "I wonder if it doesn't startle POKéMON\n"
-	.string "in the sea.$"
+	.i18n 4370
 
 SlateportCity_Text_1DD81A: @ 81DD81A
-	.string "Ooh, look at this!\p"
-	.string "The seaweed you can get around these\n"
-	.string "parts is fresh and full of life.\p"
-	.string "Why, it looks like it can even rear up\n"
-	.string "and attack!$"
+	.i18n 4371
 
 SlateportCity_Text_1DD8A6: @ 81DD8A6
-	.string "Where the water is clean, the fruits\n"
-	.string "of bountiful harvest gather.\p"
-	.string "And where people gather, a market\n"
-	.string "soon starts.\p"
-	.string "That is how a town is born and grows.$"
+	.i18n 4372
 
 SlateportCity_Text_1DD93D: @ 81DD93D
-	.string "Shopping where you can breathe the\n"
-	.string "scent of the ocean…\p"
-	.string "SLATEPORT is such a wonderful place!$"
+	.i18n 4373
 
 SlateportCity_Text_1DD999: @ 81DD999
-	.string "If you put DOLLS or CUSHIONS on\n"
-	.string "the floor, they'll get dirty.\p"
-	.string "I'm going to buy some BRICKS so my\n"
-	.string "DOLLS and CUSHIONS won't get dirty\l"
-	.string "when I leave them out.$"
+	.i18n 4374
 
 SlateportCity_Text_1DDA34: @ 81DDA34
-	.string "Wroooar! I'm going to compete in\n"
-	.string "the BATTLE TENT, too!\p"
-	.string "But before that, I need to catch\n"
-	.string "some POKéMON!$"
+	.i18n 4375
 
 SlateportCity_Text_1DDA9A: @ 81DDA9A
-	.string "Whew… I'm just bushed…\p"
-	.string "I hiked over from MAUVILLE CITY.\n"
-	.string "But, boy, this city's huge.\p"
-	.string "If I'd known this, I would've ridden\n"
-	.string "my BIKE here.$"
+	.i18n 4376
 
 SlateportCity_Text_1DDB21: @ 81DDB21
-	.string "STERN, the fellow who built the\n"
-	.string "MUSEUM, also happens to be the leader\l"
-	.string "of an undersea exploration team.\p"
-	.string "So, everyone calls him CAPT. STERN.$"
+	.i18n 4377
 
 SlateportCity_Text_1DDBAC: @ 81DDBAC
-	.string "What is that over there?\n"
-	.string "That long line…$"
+	.i18n 4378
 
 SlateportCity_Text_1DDBD5: @ 81DDBD5
-	.string "When I was a child, I visited\n"
-	.string "the MUSEUM often.\p"
-	.string "I used to dream about the mysteries of\n"
-	.string "the sea after seeing the exhibits.$"
+	.i18n 4379
 
 SlateportCity_Text_1DDC4F: @ 81DDC4F
-	.string "Hey, there! Quit pushing!\n"
-	.string "This is the line, can't you see?$"
+	.i18n 4380
 
 SlateportCity_Text_1DDC8A: @ 81DDC8A
-	.string "TEAM AQUA has a policy of\n"
-	.string "assembling and dispersing at\l"
-	.string "the operation site.$"
+	.i18n 4381
 
 SlateportCity_Text_1DDCD5: @ 81DDCD5
-	.string "Our BOSS is brilliant.\p"
-	.string "What would he want to do with\n"
-	.string "a MUSEUM now?$"
+	.i18n 4382
 
 SlateportCity_Text_1DDD18: @ 81DDD18
-	.string "What's the new scheme, I wonder?\p"
-	.string "Our BOSS is scary when he's mad, so\n"
-	.string "I'd better not screw things up…$"
+	.i18n 4383
 
 SlateportCity_Text_1DDD7D: @ 81DDD7D
-	.string "If there's something we need in\n"
-	.string "the MUSEUM, we should take it all!$"
+	.i18n 4384
 
 SlateportCity_Text_1DDDC0: @ 81DDDC0
-	.string "Hey, you there!\n"
-	.string "Don't butt in!$"
+	.i18n 4385
 
 SlateportCity_Text_1DDDDF: @ 81DDDDF
-	.string "A long line, huh?\p"
-	.string "It reminds me of the times I lined up to\n"
-	.string "buy smash-hit games…$"
+	.i18n 4386
 
 SlateportCity_Text_1DDE2F: @ 81DDE2F
-	.string "Why are we even lining up and paying?\n"
-	.string "We should just march in!$"
+	.i18n 4387
 
 SlateportCity_Text_1DDE6E: @ 81DDE6E
-	.string "What?\n"
-	.string "What do you want?$"
+	.i18n 4388
 
 SlateportCity_Text_1DDE86: @ 81DDE86
-	.string "You want to read this sign?\n"
-	.string "I'll read it for you!$"
+	.i18n 4389
 
 SlateportCity_Text_1DDEB8: @ 81DDEB8
-	.string "Let's see…\p"
-	.string "Um… I think it says something like\n"
-	.string "“the life in the sea is endless.”\p"
-	.string "Yup, I'm pretty sure that's what\n"
-	.string "it says.$"
+	.i18n 4390
 
 SlateportCity_Text_1DDF32: @ 81DDF32
-	.string "Grumble…\p"
-	.string "I should've brought my Game Boy\n"
-	.string "Advance so I wouldn't get bored in line…\p"
-	.string "Grumble…$"
+	.i18n 4391
 
 SlateportCity_Text_1DDF8D: @ 81DDF8D
-	.string "When this operation's over, I'll take\n"
-	.string "you to a hot spring spa!\p"
-	.string "That's what our leader said.\n"
-	.string "I can't wait!$"
+	.i18n 4392
 
 SlateportCity_Text_1DDFF7: @ 81DDFF7
-	.string "The sea is just so vast…\p"
-	.string "Could the sea have been made by\n"
-	.string "the tears shed by POKéMON?$"
+	.i18n 4393
 
 SlateportCity_Text_1DE04B: @ 81DE04B
-	.string "Do you know what they do with old\n"
-	.string "ships that become too creaky to sail?\p"
-	.string "They sink them in the sea so they\n"
-	.string "become habitats for POKéMON.$"
+	.i18n 4394
 
 SlateportCity_Text_1DE0D2: @ 81DE0D2
-	.string "Whenever I visit here, I get carried\n"
-	.string "away and buy too much.$"
+	.i18n 4395
 
 SlateportCity_Text_1DE10E: @ 81DE10E
-	.string "If you want to change your POKéMON's\n"
-	.string "nickname, you'll have to get the NAME\l"
-	.string "RATER to help you.$"
+	.i18n 4396
 
 SlateportCity_Text_1DE16C: @ 81DE16C
-	.string "Any POKéMON you get in a trade,\n"
-	.string "you can't change its nickname.\p"
-	.string "The original TRAINER's love for that\n"
-	.string "POKéMON is in the nickname.$"
+	.i18n 4397
 
 SlateportCity_Text_1DE1EC: @ 81DE1EC
-	.string "Recently, a BATTLE TENT was built\n"
-	.string "in SLATEPORT.\p"
-	.string "GYMS are fun, but the BATTLE TENT's\n"
-	.string "awesome in its own way.\p"
-	.string "You should go find tough POKéMON\n"
-	.string "for the BATTLE TENT!$"
+	.i18n 4398
 
 SlateportCity_Text_1DE28E: @ 81DE28E
-	.string "I was hoping that it was a famous star\n"
-	.string "so I could get an autograph.\p"
-	.string "But who's that being interviewed?\n"
-	.string "Isn't that CAPT. STERN?$"
+	.i18n 4399
 
 SlateportCity_Text_1DE30C: @ 81DE30C
-	.string "That lady interviewer is so cool\n"
-	.string "and pretty.\p"
-	.string "When I grow up, I'm going to be\n"
-	.string "an international journalist!$"
+	.i18n 4400
 
 SlateportCity_Text_1DE376: @ 81DE376
-	.string "CAPT. STERN says they discovered\n"
-	.string "something at the bottom of the sea.\p"
-	.string "I wonder what it is?\n"
-	.string "What could it be?$"
+	.i18n 4401
 
 SlateportCity_Text_1DE3E2: @ 81DE3E2
-	.string "What's going on here?\p"
-	.string "Did the good CAPTAIN come back with\n"
-	.string "a big fish from the ocean floor?$"
+	.i18n 4402
 
 SlateportCity_Text_1DE43D: @ 81DE43D
-	.string "Hey! Are you watching?\n"
-	.string "Am I on TV?$"
+	.i18n 4403
 
 SlateportCity_Text_1DE460: @ 81DE460
-	.string "A TV interview! Here!\n"
-	.string "The CAPTAIN's a celebrity!$"
+	.i18n 4404
 
 SlateportCity_Text_1DE491: @ 81DE491
-	.string "TY: Okay, CAPT. STERN, a big smile\n"
-	.string "for the camera!$"
+	.i18n 4405
 
 SlateportCity_Text_1DE4C4: @ 81DE4C4
-	.string "GABBY: I see, I see. You've had a most\n"
-	.string "invaluable experience…$"
+	.i18n 4406
 
 SlateportCity_Text_1DE502: @ 81DE502
-	.string "CAPT. STERN: Yes, indeed. We intend to\n"
-	.string "move ahead with our exploration.$"
+	.i18n 4407
 
 SlateportCity_Text_1DE54A: @ 81DE54A
-	.string "GABBY: That's wonderful, CAPT. STERN!\n"
-	.string "Thank you for taking the time from\l"
-	.string "your busy schedule to talk to us.\p"
-	.string "We hope we can interview you again\n"
-	.string "with news of more discoveries!$"
+	.i18n 4408
 
 SlateportCity_Text_1DE5F7: @ 81DE5F7
-	.string "CAPT. STERN: Whew…\p"
-	.string "That was my first time to be filmed for\n"
-	.string "TV. That was nerve-wracking.$"
+	.i18n 4409
 
 SlateportCity_Text_1DE64F: @ 81DE64F
-	.string "Oh! {PLAYER}{KUN}!\n"
-	.string "You're looking great!\p"
-	.string "We made a huge discovery on our last\n"
-	.string "seafloor exploration.\p"
-	.string "We found an underwater cavern on\n"
-	.string "ROUTE 128.\p"
-	.string "We think it's the habitat of a POKéMON\n"
-	.string "that's said to have been long extinct.$"
+	.i18n 4410
 
 SlateportCity_Text_1DE724: @ 81DE724
-	.string "Fufufu…\n"
-	.string "CAPT. STERN, I presume.\p"
-	.string "We of TEAM AQUA will assume\n"
-	.string "control of your submarine!\p"
-	.string "Your objections are meaningless!\n"
-	.string "We expect your total cooperation!\p"
-	.string "Fufufu…\n"
-	.string "Just watch and learn what TEAM\l"
-	.string "AQUA has planned!$"
+	.i18n 4411
 
 SlateportCity_Text_1DE7F7: @ 81DE7F7
-	.string "CAPT. STERN: What was that all about?\p"
-	.string "It sounded like someone using\n"
-	.string "a megaphone…\p"
-	.string "Where did it come from?$"
+	.i18n 4412
 
 SlateportCity_Text_1DE860: @ 81DE860
-	.string "It's from the HARBOR!\p"
-	.string "The submarine!\n"
-	.string "They're trying to take it!$"
+	.i18n 4413
 
 SlateportCity_Text_1DE8A0: @ 81DE8A0
-	.string "{PLAYER}{KUN}!\n"
-	.string "Please, come with me!$"
+	.i18n 4414
 
 SlateportCity_Text_1DE8BC: @ 81DE8BC
-	.string "BATTLE TENT SLATEPORT SITE\n"
-	.string "“Find it! The ultimate POKéMON!”$"
+	.i18n 4415
 
 SlateportCity_Text_1DE8F8: @ 81DE8F8
-	.string "STERN'S SHIPYARD\p"
-	.string "“Wanted: A sailor capable of sailing\n"
-	.string "in all currents.”$"
+	.i18n 4416
 
 SlateportCity_Text_1DE940: @ 81DE940
-	.string "STERN'S SHIPYARD\p"
-	.string "“The ferry S.S. TIDAL nears\n"
-	.string "completion for serving the ports of\l"
-	.string "SLATEPORT and LILYCOVE.”$"
+	.i18n 4417
 
 SlateportCity_Text_1DE9AA: @ 81DE9AA
-	.string "STERN'S SHIPYARD\p"
-	.string "“Boarding of the SLATEPORT-LILYCOVE\n"
-	.string "ferry S.S. TIDAL is handled at the\l"
-	.string "HARBOR.”$"
+	.i18n 4418
 
 SlateportCity_Text_1DEA0B: @ 81DEA0B
-	.string "POKéMON FAN CLUB\n"
-	.string "“Calling all fans of POKéMON!”$"
+	.i18n 4419
 
 SlateportCity_Text_1DEA3B: @ 81DEA3B
-	.string "“The endless sea sustains\n"
-	.string "all life.”\p"
-	.string "OCEANIC MUSEUM$"
+	.i18n 4420
 
 SlateportCity_Text_1DEA6F: @ 81DEA6F
-	.string "SLATEPORT CITY\p"
-	.string "“The port where people and POKéMON\n"
-	.string "cross paths.”$"
+	.i18n 4421
 
 SlateportCity_Text_1DEAAF: @ 81DEAAF
-	.string "SLATEPORT MARKET\n"
-	.string "“Unique items found nowhere else!”$"
+	.i18n 4422
 
 SlateportCity_Text_1DEAE3: @ 81DEAE3
-	.string "SLATEPORT HARBOR\p"
-	.string "“The ferry S.S. TIDAL is under\n"
-	.string "construction in the SHIPYARD.\p"
-	.string "“Service is scheduled to begin\n"
-	.string "shortly.”$"
+	.i18n 4423
 
 SlateportCity_Text_1DEB5A: @ 81DEB5A
-	.string "SLATEPORT HARBOR\p"
-	.string "“Enjoy a delightful cruise on\n"
-	.string "the ferry S.S. TIDAL.”$"
+	.i18n 4424
 
 SlateportCity_Text_1DEBA0: @ 81DEBA0
-	.string "NAME RATER'S HOUSE\n"
-	.string "“POKéMON nicknames rated.”$"
+	.i18n 4425
 
 SlateportCity_Text_1DEBCE: @ 81DEBCE
-	.string "If a wild POKéMON gets hurt, it heals\n"
-	.string "itself by chewing on BERRIES.\p"
-	.string "Did you know that?\p"
-	.string "Somebody saw that and got the idea\n"
-	.string "of making medicine from BERRIES.\p"
-	.string "Did you know that?\p"
-	.string "To turn BERRIES into medicine,\n"
-	.string "they must be crushed into powder.\p"
-	.string "Did you know that?\p"
-	.string "You seem to have an interest\n"
-	.string "in BERRIES!\p"
-	.string "I've got something good for someone\n"
-	.string "like you.$"
+	.i18n 4426
 
 SlateportCity_Text_1DED27: @ 81DED27
-	.string "I recently had machines installed at\n"
-	.string "POKéMON CENTERS for crushing BERRIES.\p"
-	.string "The BERRY CRUSH machines are at\n"
-	.string "the DIRECT CORNER upstairs.\p"
-	.string "Did you know?\p"
-	.string "Could you make BERRY POWDER for\n"
-	.string "me using those machines?\p"
-	.string "I can make you all sorts of medicine\n"
-	.string "if you bring me lots of BERRY POWDER.$"
+	.i18n 4427
 
 SlateportCity_Text_1DEE40: @ 81DEE40
-	.string "Have you brought me some\n"
-	.string "BERRY POWDER?$"
+	.i18n 4428
 
 SlateportCity_Text_1DEE67: @ 81DEE67
-	.string "What would you like to exchange\n"
-	.string "it with?$"
+	.i18n 4429
 
 SlateportCity_Text_1DEE90: @ 81DEE90
-	.string "Okay, you want to exchange your\n"
-	.string "BERRY POWDER for one {STR_VAR_1}?$"
+	.i18n 4430
 
 SlateportCity_Text_1DEEC9: @ 81DEEC9
-	.string "Oh, dear. You don't have enough\n"
-	.string "BERRY POWDER.$"
+	.i18n 4431
 
 SlateportCity_Text_1DEEF7: @ 81DEEF7
-	.string "This is fine BERRY POWDER.\n"
-	.string "It will make excellent medicine.\p"
-	.string "Would you like to trade more of your\n"
-	.string "BERRY POWDER for something else?$"
+	.i18n 4432
 
 SlateportCity_Text_1DEF79: @ 81DEF79
-	.string "Okay! When you get some more\n"
-	.string "BERRY POWDER, bring it to me, please!$"
+	.i18n 4433
 
 SlateportCity_Text_1DEFBC: @ 81DEFBC
-	.string "Come back if you'd like to trade your\n"
-	.string "BERRY POWDER for some medicine.\p"
-	.string "I'm always running a bazaar here.\p"
-	.string "Did you know?$"
+	.i18n 4434
 
 SlateportCity_Text_1DF032: @ 81DF032
-	.string "SCOTT: Huh?\n"
-	.string "I'm sure I met you somewhere before.\p"
-	.string "Have I introduced myself to you?\n"
-	.string "If not, my name's SCOTT.\p"
-	.string "I just saw TEAM AQUA run away from\n"
-	.string "here like they were stung.\p"
-	.string "Let me guess--you drove them away?$"
+	.i18n 4435
 
 SlateportCity_Text_1DF0FE: @ 81DF0FE
-	.string "SCOTT: Hmm…\n"
-	.string "Maybe, just maybe, this TRAINER…$"
+	.i18n 4436
 
 SlateportCity_Text_1DF12B: @ 81DF12B
-	.string "SCOTT: All right! I think you're going\n"
-	.string "to become a good friend.\p"
-	.string "So, let's register each other in our\n"
-	.string "POKéNAVS.\p"
-	.string "… … … … … …$"
+	.i18n 4437
 
 SlateportCity_Text_1DF1A6: @ 81DF1A6
-	.string "Registered this SCOTT person\n"
-	.string "in the POKéNAV.$"
+	.i18n 4438
 
 SlateportCity_Text_1DF1D3: @ 81DF1D3
-	.string "SCOTT: What I'd like to do is tag along\n"
-	.string "with you, but I do want to keep an eye\l"
-	.string "on the talents of other people, too.\p"
-	.string "So, I'll be off to roam other towns\n"
-	.string "a bit more.\p"
-	.string "Be seeing you, {PLAYER}{KUN}!$"
+	.i18n 4439
 
 SlateportCity_Text_1DF28C: @ 81DF28C
-	.string "SCOTT: Oh, hey!\n"
-	.string "If it isn't {PLAYER}{KUN}!\p"
-	.string "{PLAYER}{KUN}, let me guess--you're going\n"
-	.string "to take the BATTLE TENT challenge?\p"
-	.string "Yeah! That's a good idea!\n"
-	.string "That's a really great idea!\p"
-	.string "After all, a tough TRAINER is\n"
-	.string "the perfect fit for the BATTLE TENT!\p"
-	.string "Give it your best effort!$"
+	.i18n 4440

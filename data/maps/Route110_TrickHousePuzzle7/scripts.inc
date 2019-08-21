@@ -309,78 +309,59 @@ Route110_TrickHousePuzzle7_EventScript_26E3FC:: @ 826E3FC
 	end
 
 Route110_TrickHousePuzzle7_EventScript_26E413:: @ 826E413
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is huggable.”\n"
-	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.i18n 3821
 
 Route110_TrickHousePuzzle7_Text_26E481: @ 826E481
-	.string "The TRICK MASTER always vanishes\n"
-	.string "like smoke. How does he do it?$"
+	.i18n 3822
 
 Route110_TrickHousePuzzle7_Text_26E4C1: @ 826E4C1
-	.string "Aiyeeeh! You're much too strong!\n"
-	.string "How do you do it?$"
+	.i18n 3823
 
 Route110_TrickHousePuzzle7_Text_26E4F4: @ 826E4F4
-	.string "I wish I could appear and disappear as\n"
-	.string "if I were smoke, too.$"
+	.i18n 3824
 
 Route110_TrickHousePuzzle7_Text_26E531: @ 826E531
-	.string "Going around the same spot…\n"
-	.string "It begets ill fortune…$"
+	.i18n 3825
 
 Route110_TrickHousePuzzle7_Text_26E564: @ 826E564
-	.string "Defeated!\n"
-	.string "It's a bad sign…$"
+	.i18n 3826
 
 Route110_TrickHousePuzzle7_Text_26E57F: @ 826E57F
-	.string "I've circled the same spot over ten\n"
-	.string "times now… It's ill fortune…$"
+	.i18n 3827
 
 Route110_TrickHousePuzzle7_Text_26E5C0: @ 826E5C0
-	.string "Whoever wins will get through here\n"
-	.string "first. That's the feeling I get.$"
+	.i18n 3828
 
 Route110_TrickHousePuzzle7_Text_26E604: @ 826E604
-	.string "Oh!\n"
-	.string "Well, go ahead, then!$"
+	.i18n 3829
 
 Route110_TrickHousePuzzle7_Text_26E61E: @ 826E61E
-	.string "You're solving all the puzzles in the\n"
-	.string "TRICK HOUSE. That's the feeling I get.$"
+	.i18n 3830
 
 Route110_TrickHousePuzzle7_Text_26E66B: @ 826E66B
-	.string "Nufufufu, here at last!\n"
-	.string "Let's get right with it!$"
+	.i18n 3831
 
 Route110_TrickHousePuzzle7_Text_26E69C: @ 826E69C
-	.string "You're so casual about winning!$"
+	.i18n 3832
 
 Route110_TrickHousePuzzle7_Text_26E6BC: @ 826E6BC
-	.string "Humph! I'm not upset!\n"
-	.string "Not me!$"
+	.i18n 3833
 
 Route110_TrickHousePuzzle7_Text_26E6DA: @ 826E6DA
-	.string "I ever so closely watched you coming!$"
+	.i18n 3834
 
 Route110_TrickHousePuzzle7_Text_26E700: @ 826E700
-	.string "This outcome I didn't see coming…$"
+	.i18n 3835
 
 Route110_TrickHousePuzzle7_Text_26E722: @ 826E722
-	.string "Well, anyway, we both picked a weird\n"
-	.string "place to get acquainted.\p"
-	.string "As one weirdo to another,\n"
-	.string "let's do our best!$"
+	.i18n 3836
 
 Route110_TrickHousePuzzle7_Text_26E78D: @ 826E78D
-	.string "It's awfully cramped in here…$"
+	.i18n 3837
 
 Route110_TrickHousePuzzle7_Text_26E7AB: @ 826E7AB
-	.string "Oh, yes, strong you are.$"
+	.i18n 3838
 
 Route110_TrickHousePuzzle7_Text_26E7C4: @ 826E7C4
-	.string "I was hoping to switch places with you\n"
-	.string "when I beat you, but…$"
+	.i18n 3839
 

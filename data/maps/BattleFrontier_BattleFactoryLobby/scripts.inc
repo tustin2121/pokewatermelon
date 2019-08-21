@@ -388,224 +388,111 @@ BattleFrontier_BattleFactoryLobby_EventScript_2588EC:: @ 82588EC
 	end
 
 BattleFrontier_BattleFactoryLobby_Text_2588EE: @ 82588EE
-	.string "Where the intelligence of TRAINERS\n"
-	.string "is put to the test!\p"
-	.string "Welcome to the BATTLE FACTORY!\p"
-	.string "I am your guide to the Battle Swap\n"
-	.string "Single Tournament.$"
+	.i18n 792
 
 BattleFrontier_BattleFactoryLobby_Text_25897A: @ 825897A
-	.string "Would you like to take the Battle\n"
-	.string "Swap Single challenge?$"
+	.i18n 793
 
 BattleFrontier_BattleFactoryLobby_Text_2589B3: @ 82589B3
-	.string "The Battle Swap Single Tournament\n"
-	.string "is a SINGLE BATTLE competition using\l"
-	.string "only rental POKéMON.\p"
-	.string "First, you will be loaned three\n"
-	.string "POKéMON specifically for this event.\p"
-	.string "Using the supplied rental POKéMON,\n"
-	.string "you must conduct a SINGLE BATTLE.\p"
-	.string "If you win, you are permitted to trade\n"
-	.string "one of your rental POKéMON.\p"
-	.string "Repeat this cycle of battling and\n"
-	.string "trading--if you win seven times in\l"
-	.string "a row, you will earn Battle Points.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, please save the game.\p"
-	.string "If you don't save, you will be\n"
-	.string "disqualified from your challenge.$"
+	.i18n 794
 
 BattleFrontier_BattleFactoryLobby_Text_258BC5: @ 8258BC5
-	.string "We look forward to your next visit.$"
+	.i18n 795
 
 BattleFrontier_BattleFactoryLobby_Text_258BE9: @ 8258BE9
-	.string "Which level do you wish to challenge?\n"
-	.string "Level 50 or Open Level?$"
+	.i18n 796
 
 BattleFrontier_BattleFactoryLobby_Text_258C27: @ 8258C27
-	.string "Before you begin your challenge,\n"
-	.string "I need to save the game. Is that okay?$"
+	.i18n 797
 
 BattleFrontier_BattleFactoryLobby_Text_258C6F: @ 8258C6F
-	.string "Okay, I will hold your POKéMON for\n"
-	.string "safekeeping while you compete.$"
+	.i18n 798
 
 BattleFrontier_BattleFactoryLobby_Text_258CB1: @ 8258CB1
-	.string "Please step this way.$"
+	.i18n 799
 
 BattleFrontier_BattleFactoryLobby_Text_258CC7: @ 8258CC7
-	.string "Thank you for participating!\p"
-	.string "I will return your POKéMON in exchange\n"
-	.string "for our rental POKéMON.\p"
-	.string "I must also save the event results.\n"
-	.string "Please wait.$"
+	.i18n 800
 
 BattleFrontier_BattleFactoryLobby_Text_258D54: @ 8258D54
-	.string "I will return your POKéMON in exchange\n"
-	.string "for our rental POKéMON.$"
+	.i18n 801
 
 BattleFrontier_BattleFactoryLobby_Text_258D93: @ 8258D93
-	.string "Congratulations! You've won seven\n"
-	.string "straight Battle Swap matches!$"
+	.i18n 802
 
 BattleFrontier_BattleFactoryLobby_Text_258DD3: @ 8258DD3
-	.string "In recognition of your 7-win streak,\n"
-	.string "we award you these Battle Point(s).$"
+	.i18n 803
 
 BattleFrontier_BattleFactoryLobby_Text_258E1C: @ 8258E1C
-	.string "Oh, oh, oh!\p"
-	.string "Your Battle Points are maxed.\p"
-	.string "Please come back after using\n"
-	.string "some Battle Points.$"
+	.i18n 804
 
 BattleFrontier_BattleFactoryLobby_Text_258E77: @ 8258E77
-	.string "We've been waiting for you!\p"
-	.string "Before we resume your challenge,\n"
-	.string "I must save the game.$"
+	.i18n 805
 
 BattleFrontier_BattleFactoryLobby_Text_258ECA: @ 8258ECA
-	.string "I'm sorry to say this, but you didn't\n"
-	.string "save before you quit playing last time.\p"
-	.string "As a result, you have been disqualified\n"
-	.string "from your challenge.$"
+	.i18n 806
 
 BattleFrontier_BattleFactoryLobby_Text_258F55: @ 8258F55
-	.string "We'll return your personal POKéMON.$"
+	.i18n 807
 
 BattleFrontier_BattleFactoryLobby_Text_258F79: @ 8258F79
-	.string "{PLAYER} received the prize\n"
-	.string "{STR_VAR_1}.$"
+	.i18n 808
 
 BattleFrontier_BattleFactoryLobby_Text_258F93: @ 8258F93
-	.string "Where the intelligence of TRAINERS\n"
-	.string "is put to the test!\p"
-	.string "Welcome to the BATTLE FACTORY!\p"
-	.string "I am your guide to the Battle Swap\n"
-	.string "Double Tournament.$"
+	.i18n 809
 
 BattleFrontier_BattleFactoryLobby_Text_25901F: @ 825901F
-	.string "Would you like to take the Battle\n"
-	.string "Swap Double challenge?$"
+	.i18n 810
 
 BattleFrontier_BattleFactoryLobby_Text_259058: @ 8259058
-	.string "The Battle Swap Double Tournament\n"
-	.string "is a DOUBLE BATTLE competition using\l"
-	.string "only rental POKéMON.\p"
-	.string "First, you will be loaned three\n"
-	.string "POKéMON specifically for this event.\p"
-	.string "Using the supplied rental POKéMON,\n"
-	.string "you must conduct a DOUBLE BATTLE.\p"
-	.string "If you win, you are permitted to trade\n"
-	.string "one of your rental POKéMON.\p"
-	.string "Repeat this cycle of battling and\n"
-	.string "trading--if you win seven times in\l"
-	.string "a row, you will earn Battle Points.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, please save the game.\p"
-	.string "If you don't save before interrupting,\n"
-	.string "you will be disqualified.$"
+	.i18n 811
 
 BattleFrontier_BattleFactoryLobby_Text_25926A: @ 825926A
-	.string "Congratulations for defeating\n"
-	.string "the FACTORY HEAD and winning\l"
-	.string "seven matches in a row!$"
+	.i18n 812
 
 BattleFrontier_BattleFactoryLobby_Text_2592BD: @ 82592BD
-	.string "In recognition of your wealth of\n"
-	.string "knowledge and keen intelligence,\l"
-	.string "we award you these Battle Point(s).$"
+	.i18n 813
 
 BattleFrontier_BattleFactoryLobby_Text_259323: @ 8259323
-	.string "Let me exchange your POKéMON\n"
-	.string "for our rental POKéMON.\p"
-	.string "I need to save the battle data,\n"
-	.string "so please wait.$"
+	.i18n 814
 
 BattleFrontier_BattleFactoryLobby_Text_259388: @ 8259388
-	.string "Would you like to record your last\n"
-	.string "BATTLE FACTORY match on your\l"
-	.string "FRONTIER PASS?$"
+	.i18n 815
 
 BattleFrontier_BattleFactoryLobby_Text_2593D7: @ 82593D7
-	.string "Hi!\n"
-	.string "You, there!\p"
-	.string "Are you thinking that the events here\n"
-	.string "are easy since you don't need to have\l"
-	.string "a raised team of POKéMON?\p"
-	.string "I wouldn't be too sure about winning\n"
-	.string "that easily.\p"
-	.string "If you don't have thorough knowledge\n"
-	.string "about POKéMON and their moves,\l"
-	.string "it will be tough to keep winning.$"
+	.i18n 816
 
 BattleFrontier_BattleFactoryLobby_Text_2594E5: @ 82594E5
-	.string "I swapped for a weak POKéMON…\n"
-	.string "I thought it was a good kind to have…\p"
-	.string "They wiped the floor with us…$"
+	.i18n 817
 
 BattleFrontier_BattleFactoryLobby_Text_259547: @ 8259547
-	.string "Things haven't been going my way\n"
-	.string "at all.\p"
-	.string "You need to check your opponent's\n"
-	.string "POKéMON during battle to see if\l"
-	.string "they're any good.$"
+	.i18n 818
 
 BattleFrontier_BattleFactoryLobby_Text_2595C4: @ 82595C4
-	.string "You know how the staff here give you\n"
-	.string "a few hints about your next opponent?\p"
-	.string "Well, I'm a full-grown man, but I have\n"
-	.string "trouble figuring out their hints.$"
+	.i18n 819
 
 BattleFrontier_BattleFactoryLobby_Text_259658: @ 8259658
-	.string "Like, I'm really tough, but I get bored\n"
-	.string "really easily, so I just kept swapping\l"
-	.string "and battling over and over.\p"
-	.string "So anyway, when I kept entering\n"
-	.string "Battle Swap events, I noticed they\l"
-	.string "varied the rental POKéMON.$"
+	.i18n 820
 
 BattleFrontier_BattleFactoryLobby_Text_259721: @ 8259721
 SlateportCity_BattleTentLobby_Text_259721: @ 8259721
-	.string "The Battle Swap rules are listed.$"
+	.i18n 821
 
 BattleFrontier_BattleFactoryLobby_Text_259743: @ 8259743
 SlateportCity_BattleTentLobby_Text_259743: @ 8259743
-	.string "Which heading do you want to read?$"
+	.i18n 822
 
 BattleFrontier_BattleFactoryLobby_Text_259766: @ 8259766
-	.string "In a Battle Swap event, you may use\n"
-	.string "only three POKéMON.\p"
-	.string "Whether you are renting or swapping,\n"
-	.string "your team may not have two or more\l"
-	.string "of the same POKéMON.$"
+	.i18n 823
 
 BattleFrontier_BattleFactoryLobby_Text_2597FB: @ 82597FB
-	.string "You may swap POKéMON only with\n"
-	.string "the TRAINER you have just defeated.\p"
-	.string "You may swap for only those POKéMON\n"
-	.string "used by the beaten TRAINER.$"
+	.i18n 824
 
 BattleFrontier_BattleFactoryLobby_Text_25987E: @ 825987E
-	.string "After every battle you win, you may\n"
-	.string "swap for one of your defeated\l"
-	.string "opponent's POKéMON.\p"
-	.string "You will not be able to swap POKéMON\n"
-	.string "with the seventh TRAINER in the event.$"
+	.i18n 825
 
 BattleFrontier_BattleFactoryLobby_Text_259920: @ 8259920
-	.string "There are two key points to be aware\n"
-	.string "of when swapping POKéMON.\p"
-	.string "First, when swapping, you can't check\n"
-	.string "the stats of the POKéMON you are\l"
-	.string "about to receive.\p"
-	.string "Second, the POKéMON on your team\n"
-	.string "are lined up in sequence, depending on\l"
-	.string "the order in which you rented them.\p"
-	.string "This sequence remains unchanged\n"
-	.string "even when swaps are made.$"
+	.i18n 826
 
 BattleFrontier_BattleFactoryLobby_Text_259A5E: @ 8259A5E
-	.string "In the Open Level, the rental POKéMON\n"
-	.string "and the opposing TRAINERS' POKéMON\l"
-	.string "are all Level 100.$"
+	.i18n 827

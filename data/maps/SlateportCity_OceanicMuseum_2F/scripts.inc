@@ -274,168 +274,80 @@ SlateportCity_OceanicMuseum_2F_EventScript_20BD76:: @ 820BD76
 	end
 
 SlateportCity_OceanicMuseum_2F_Text_20BD8D: @ 820BD8D
-	.string "Yes? If you're looking for STERN,\n"
-	.string "that would be me.\p"
-	.string "Ah! Those must be the parts I ordered\n"
-	.string "from MR. STONE of DEVON.\p"
-	.string "Thank you! That's great!\n"
-	.string "We can prepare for our expedition now.$"
+	.i18n 4526
 
 SlateportCity_OceanicMuseum_2F_Text_20BE40: @ 820BE40
-	.string "Hehehe, hold it!\n"
-	.string "We'll take those parts!$"
+	.i18n 4527
 
 SlateportCity_OceanicMuseum_2F_Text_20BE69: @ 820BE69
-	.string "CAPT. STERN: Wh-what?\n"
-	.string "Who are you people?$"
+	.i18n 4528
 
 SlateportCity_OceanicMuseum_2F_Text_20BE93: @ 820BE93
-	.string "We're TEAM AQUA!\p"
-	.string "Our BOSS wants those parts!\n"
-	.string "Shut your yap and fork them over!$"
+	.i18n 4529
 
 SlateportCity_OceanicMuseum_2F_Text_20BEE2: @ 820BEE2
-	.string "Awaaaah!\n"
-	.string "A kid beat me!$"
+	.i18n 4530
 
 SlateportCity_OceanicMuseum_2F_Text_20BEFA: @ 820BEFA
-	.string "Oh, man, what a disaster…\n"
-	.string "The BOSS is going to be furious…$"
+	.i18n 4531
 
 SlateportCity_OceanicMuseum_2F_Text_20BF35: @ 820BF35
-	.string "Humph, sniveling wimp!\n"
-	.string "Let me take care of this!$"
+	.i18n 4532
 
 SlateportCity_OceanicMuseum_2F_Text_20BF66: @ 820BF66
-	.string "What?!\n"
-	.string "I lost, too!$"
+	.i18n 4533
 
 SlateportCity_OceanicMuseum_2F_Text_20BF7A: @ 820BF7A
-	.string "Now what? If we don't get the parts,\n"
-	.string "we're in for it!\p"
-	.string "Arrgh, I didn't count on being meddled\n"
-	.string "with by some meddling kid!$"
+	.i18n 4534
 
 SlateportCity_OceanicMuseum_2F_Text_20BFF2: @ 820BFF2
-	.string "I came to see what was taking so\n"
-	.string "long to snatch some parts, and you\l"
-	.string "simps are held up by a mere child?$"
+	.i18n 4535
 
 SlateportCity_OceanicMuseum_2F_Text_20C059: @ 820C059
-	.string "We are TEAM AQUA,\n"
-	.string "and we love the sea!\p"
-	.string "And I am TEAM AQUA's leader,\n"
-	.string "ARCHIE!\p"
-	.string "What makes you interfere with us?\p"
-	.string "…No! You can't be!\n"
-	.string "You're not one of TEAM MAGMA?\p"
-	.string "Wait, that can't be right.\n"
-	.string "You're not dressed for the part.\p"
-	.string "… … … … … …\n"
-	.string "… … … … … …\p"
-	.string "POKéMON, people… All life depends on\n"
-	.string "the sea.\p"
-	.string "So, TEAM AQUA is dedicated to\n"
-	.string "the expansion of the sea.\p"
-	.string "Don't you agree? What we are doing\n"
-	.string "is a magnificent undertaking.\p"
-	.string "Ah, fine…\n"
-	.string "You're still too young to understand\l"
-	.string "our noble objective.\p"
-	.string "But, I warn you, don't even consider\n"
-	.string "interfering with our plans again.\p"
-	.string "The consequences will cost you\n"
-	.string "dearly!\p"
-	.string "And don't you forget it!$"
+	.i18n 4536
 
 SlateportCity_OceanicMuseum_2F_Text_20C2BE: @ 820C2BE
-	.string "CAPT. STERN: You're…\n"
-	.string "Ah, okay, you're {PLAYER}{KUN}…\p"
-	.string "Anyway, that was a tense situation!\n"
-	.string "Thank you for saving us!\p"
-	.string "Oh, yes, I almost forgot that you\n"
-	.string "even brought the parts from DEVON!$"
+	.i18n 4537
 
 SlateportCity_OceanicMuseum_2F_Text_20C36C: @ 820C36C
-	.string "CAPT. STERN: Whoops!\n"
-	.string "There's no time to lose!\p"
-	.string "We have to set out on our ocean-floor\n"
-	.string "expedition really soon.\p"
-	.string "Thanks again, but now I've got\n"
-	.string "to go!\p"
-	.string "Feel free to wander around and check\n"
-	.string "out our facilities, though.$"
+	.i18n 4538
 
 SlateportCity_OceanicMuseum_2F_Text_20C43F: @ 820C43F
-	.string "I saw a model of a ship here.\p"
-	.string "It reminded me of the ABANDONED SHIP\n"
-	.string "near DEWFORD TOWN…$"
+	.i18n 4539
 
 SlateportCity_OceanicMuseum_2F_Text_20C495: @ 820C495
-	.string "Don't you dare run around inside\n"
-	.string "the MUSEUM!$"
+	.i18n 4540
 
 SlateportCity_OceanicMuseum_2F_Text_20C4C2: @ 820C4C2
-	.string "Wow, the submarine's awesome!\n"
-	.string "I want to go for a ride!$"
+	.i18n 4541
 
 SlateportCity_OceanicMuseum_2F_Text_20C4F9: @ 820C4F9
-	.string "“WATER QUALITY SAMPLE 1,” the\n"
-	.string "label says.\p"
-	.string "The sea is all connected, but the\n"
-	.string "water seems to differ by region.$"
+	.i18n 4542
 
 SlateportCity_OceanicMuseum_2F_Text_20C566: @ 820C566
-	.string "“WATER QUALITY SAMPLE 2,” the\n"
-	.string "label says.\p"
-	.string "Does the saltiness of seawater differ\n"
-	.string "by region, too?$"
+	.i18n 4543
 
 SlateportCity_OceanicMuseum_2F_Text_20C5C6: @ 820C5C6
-	.string "A rubber ball is expanding and\n"
-	.string "shrinking.\p"
-	.string "“In the sea, the weight of water itself\n"
-	.string "exerts pressure.\p"
-	.string "“In shallow water, the pressure is not\n"
-	.string "very heavy.\p"
-	.string "“However, in extremely deep water,\n"
-	.string "the pressure can reach even tens of\l"
-	.string "thousands of tons on a small area.”$"
+	.i18n 4544
 
 SlateportCity_OceanicMuseum_2F_Text_20C6C7: @ 820C6C7
-	.string "“MODEL OF HOENN REGION”\p"
-	.string "It's a miniature diorama of the\n"
-	.string "HOENN region.\p"
-	.string "Where is LITTLEROOT TOWN on this?$"
+	.i18n 4545
 
 SlateportCity_OceanicMuseum_2F_Text_20C72F: @ 820C72F
-	.string "It's a display on the flow of seawater.\p"
-	.string "“Near the bottom of the sea, water\n"
-	.string "flows due to differences in such\l"
-	.string "factors as temperature and salinity.”$"
+	.i18n 4546
 
 SlateportCity_OceanicMuseum_2F_Text_20C7C1: @ 820C7C1
-	.string "It's a display on the flow of seawater.\p"
-	.string "“Toward the surface, seawater flows\n"
-	.string "as currents driven by the winds.”$"
+	.i18n 4547
 
 SlateportCity_OceanicMuseum_2F_Text_20C82F: @ 820C82F
-	.string "“THE FERRY S.S. TIDAL\p"
-	.string "“A scale replica of the ship under\n"
-	.string "construction at STERN'S SHIPYARD.”$"
+	.i18n 4548
 
 SlateportCity_OceanicMuseum_2F_Text_20C88B: @ 820C88B
-	.string "“SUBMARINE EXPLORER 1\p"
-	.string "“A replica of the high-performance\n"
-	.string "ocean floor exploration submarine.”$"
+	.i18n 4549
 
 SlateportCity_OceanicMuseum_2F_Text_20C8E8: @ 820C8E8
-	.string "“SUBMERSIBLE POD\p"
-	.string "“A replica of a compact, unmanned\n"
-	.string "pod for seafloor exploration.”$"
+	.i18n 4550
 
 SlateportCity_OceanicMuseum_2F_Text_20C93A: @ 820C93A
-	.string "“S.S. ANNE\p"
-	.string "“A replica of the luxury liner that\n"
-	.string "circles the globe.”$"
+	.i18n 4551
 

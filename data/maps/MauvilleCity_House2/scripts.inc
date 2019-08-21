@@ -44,25 +44,17 @@ MauvilleCity_House2_EventScript_210CE4:: @ 8210CE4
 	end
 
 MauvilleCity_House2_Text_210CEE: @ 8210CEE
-	.string "If I had a BIKE, it'd be easy to cycle to\n"
-	.string "SLATEPORT for some shopping.\p"
-	.string "I'd be able to buy HARBOR MAIL at the\n"
-	.string "POKéMON MART in SLATEPORT…$"
+	.i18n 3001
 
 MauvilleCity_House2_Text_210D76: @ 8210D76
-	.string "Oh! You have HARBOR MAIL?\n"
-	.string "Will you trade it for a COIN CASE?$"
+	.i18n 3002
 
 MauvilleCity_House2_Text_210DB3: @ 8210DB3
-	.string "Oh, I'm so happy!\n"
-	.string "Okay, I'll trade you a COIN CASE!$"
+	.i18n 3003
 
 MauvilleCity_House2_Text_210DE7: @ 8210DE7
-	.string "That COIN CASE can be used\n"
-	.string "at the GAME CORNER.$"
+	.i18n 3004
 
 MauvilleCity_House2_Text_210E16: @ 8210E16
-	.string "Oh, that's disappointing.\p"
-	.string "A COIN CASE is needed for the\n"
-	.string "GAME CORNER.$"
+	.i18n 3005
 

@@ -102,34 +102,23 @@ BattleFrontier_RankingHall_EventScript_25E573:: @ 825E573
 	end
 
 BattleFrontier_RankingHall_Text_25E57C: @ 825E57C
-	.string "This is the RANKING HALL.\p"
-	.string "This is where we recognize the immortal\n"
-	.string "TRAINERS who left great records in\l"
-	.string "BATTLE FRONTIER events.$"
+	.i18n 2018
 
 BattleFrontier_RankingHall_Text_25E5F9: @ 825E5F9
-	.string "BATTLE DOME, BATTLE PIKE,\n"
-	.string "and BATTLE FACTORY Records$"
+	.i18n 2019
 
 BattleFrontier_RankingHall_Text_25E62E: @ 825E62E
-	.string "BATTLE PALACE, BATTLE ARENA,\n"
-	.string "and BATTLE PYRAMID Records$"
+	.i18n 2020
 
 BattleFrontier_RankingHall_Text_25E666: @ 825E666
-	.string "Hi, is your name on this list?$"
+	.i18n 2021
 
 BattleFrontier_RankingHall_Text_25E685: @ 825E685
-	.string "Wow, that's super!\n"
-	.string "I'll have to try harder, too!$"
+	.i18n 2022
 
 BattleFrontier_RankingHall_Text_25E6B6: @ 825E6B6
-	.string "Oh, is that right?\p"
-	.string "If you saw your friend's name up here,\n"
-	.string "I bet it would make you work harder!$"
+	.i18n 2023
 
 BattleFrontier_RankingHall_Text_25E715: @ 825E715
-	.string "Hmm…\n"
-	.string "My name's not up there…\p"
-	.string "Well, it's only natural since I haven't\n"
-	.string "taken any challenges yet.$"
+	.i18n 2024
 

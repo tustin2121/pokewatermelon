@@ -10,12 +10,8 @@ RustboroCity_House2_EventScript_215EBD:: @ 8215EBD
 	end
 
 RustboroCity_House2_Text_215EC6: @ 8215EC6
-	.string "The TRAINER'S SCHOOL is excellent.\p"
-	.string "If you study there, you could even\n"
-	.string "become a GYM LEADER.$"
+	.i18n 4226
 
 RustboroCity_House2_Text_215F21: @ 8215F21
-	.string "ROXANNE, the GYM LEADER, really knows\n"
-	.string "a lot about POKéMON.\p"
-	.string "She's really strong, too!$"
+	.i18n 4227
 

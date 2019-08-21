@@ -396,161 +396,80 @@ SlateportCity_Harbor_EventScript_20CE11:: @ 820CE11
 	end
 
 SlateportCity_Harbor_Text_20CE20: @ 820CE20
-	.string "I beg your pardon?\n"
-	.string "You're looking for a ship?\p"
-	.string "I'm sorry, the ferry service isn't\n"
-	.string "available at present…$"
+	.i18n 4461
 
 SlateportCity_Harbor_Text_20CE87: @ 820CE87
-	.string "Hello, are you here for the ferry?\n"
-	.string "May I see your TICKET?$"
+	.i18n 4462
 
 
 SlateportCity_Harbor_Text_20CEC1: @ 820CEC1
-	.string "{PLAYER} doesn't have the TICKET…\p"
-	.string "I'm terribly sorry.\p"
-	.string "You must have a TICKET to board\n"
-	.string "the ferry.$"
+	.i18n 4463
 
 SlateportCity_Harbor_Text_20CF1C: @ 820CF1C
-	.string "{PLAYER} flashed the TICKET.\p"
-	.string "Perfect! That's all you need!\p"
-	.string "And where would you like to go?$"
+	.i18n 4464
 
 SlateportCity_Harbor_Text_20CF71: @ 820CF71
-	.string "Please sail with us another time!$"
+	.i18n 4465
 
 SlateportCity_Harbor_Text_20CF93: @ 820CF93
-	.string "LILYCOVE CITY it is, then!$"
+	.i18n 4466
 
 SlateportCity_Harbor_Text_20CFAE: @ 820CFAE
-	.string "BATTLE FRONTIER it is, then!$"
+	.i18n 4467
 
 SlateportCity_Harbor_Text_20CFCB: @ 820CFCB
-	.string "Please board the ferry and wait for\n"
-	.string "departure.$"
+	.i18n 4468
 
 SlateportCity_Harbor_Text_20CFFA: @ 820CFFA
-	.string "Then, where would you like to go?$"
+	.i18n 4469
 
 SlateportCity_Harbor_Text_20D01C: @ 820D01C
-	.string "A journey to the bottom of the sea…\n"
-	.string "I wonder what it'd be like?\p"
-	.string "I'd love to go deep underwater like\n"
-	.string "that someday.$"
+	.i18n 4470
 
 SlateportCity_Harbor_Text_20D08E: @ 820D08E
-	.string "For a ship to sail safely, we need to\n"
-	.string "know about the weather!\p"
-	.string "Speaking of weather, I heard something\n"
-	.string "from a guy at the WEATHER INSTITUTE.\p"
-	.string "He was saying abnormal weather has\n"
-	.string "been reported all over the place!\p"
-	.string "You should visit the WEATHER INSTITUTE\n"
-	.string "and ask around!$"
+	.i18n 4471
 
 SlateportCity_Harbor_Text_20D194: @ 820D194
-	.string "I wanted to go with CAPT. STERN on\n"
-	.string "the ocean floor exploration.\p"
-	.string "But the sub's too small for me.\p"
-	.string "If I squeezed in, there wouldn't be\n"
-	.string "any room for the CAPTAIN…$"
+	.i18n 4472
 
 SlateportCity_Harbor_Text_20D232: @ 820D232
-	.string "CAPT. STERN: Those thugs…\p"
-	.string "They're the same lot who tried to rob\n"
-	.string "the DEVON GOODS at the MUSEUM.$"
+	.i18n 4473
 
 SlateportCity_Harbor_Text_20D291: @ 820D291
-	.string "ARCHIE: Oh?\n"
-	.string "Not you again…\p"
-	.string "You are tenacious to track us here,\n"
-	.string "that much I will give you.\p"
-	.string "But now…\n"
-	.string "No one can stop us! No one!\p"
-	.string "Or, will you follow us back to our\n"
-	.string "HIDEOUT in LILYCOVE CITY?\p"
-	.string "Fwahahahaha…$"
+	.i18n 4474
 
 SlateportCity_Harbor_Text_20D35A: @ 820D35A
-	.string "CAPT. STERN: Why…\p"
-	.string "Why would TEAM AQUA steal my\n"
-	.string "SUBMARINE EXPLORER 1?\p"
-	.string "They can't be after the slumbering\n"
-	.string "POKéMON at the bottom of the sea…\p"
-	.string "But even if I were to chase them,\n"
-	.string "I don't stand a chance against them…$"
+	.i18n 4475
 
 SlateportCity_Harbor_Text_20D42B: @ 820D42B
-	.string "CAPT. STERN: Oh, {PLAYER}{KUN}…\p"
-	.string "Okay… So TEAM AQUA left before you\n"
-	.string "could stop them…\p"
-	.string "Oh, no, don't blame yourself.\n"
-	.string "You're not responsible for this.\p"
-	.string "Trying to catch a submarine…\n"
-	.string "It's impossible for most people.\p"
-	.string "You would need a POKéMON that knows\n"
-	.string "how to DIVE…\p"
-	.string "Perhaps if you went out to\n"
-	.string "MOSSDEEP CITY…\p"
-	.string "A lot of divers live out there, so\n"
-	.string "someone might teach you…$"
+	.i18n 4476
 
 SlateportCity_Harbor_Text_20D58A: @ 820D58A
-	.string "CAPT. STERN: Trying to catch a\n"
-	.string "submarine… It's impossible.\p"
-	.string "You would need a POKéMON that knows\n"
-	.string "how to DIVE…\p"
-	.string "Perhaps if you went out to\n"
-	.string "MOSSDEEP CITY…\p"
-	.string "A lot of divers live out there, so\n"
-	.string "someone might teach you…$"
+	.i18n 4477
 
 SlateportCity_Harbor_Text_20D65C: @ 820D65C
-	.string "CAPT. STERN: Oh, yes.\n"
-	.string "MR. BRINEY came to our SHIPYARD.\p"
-	.string "It won't be long now before we finish\n"
-	.string "making the ferry!$"
+	.i18n 4478
 
 SlateportCity_Harbor_Text_20D6CB: @ 820D6CB
-	.string "CAPT. STERN: {PLAYER}{KUN}!\p"
-	.string "We finally finished making the ferry\n"
-	.string "S.S. TIDAL!\p"
-	.string "We couldn't have done it without\n"
-	.string "your friend MR. BRINEY.\p"
-	.string "Please go for a short cruise on it!$"
+	.i18n 4479
 
 SlateportCity_Harbor_Text_20D76C: @ 820D76C
-	.string "CAPT. STERN: Oh?\n"
-	.string "{PLAYER}{KUN}, that item you have…\p"
-	.string "That's a SCANNER! That would sure\n"
-	.string "help us on our explorations.\p"
-	.string "{PLAYER}{KUN}, would you trade your\n"
-	.string "SCANNER for something?\p"
-	.string "Like, say, a DEEPSEATOOTH or\n"
-	.string "a DEEPSEASCALE that I have?$"
+	.i18n 4480
 
 SlateportCity_Harbor_Text_20D841: @ 820D841
-	.string "CAPT. STERN: Are you certain?\n"
-	.string "It's useless to you, {PLAYER}{KUN}…\p"
-	.string "Well, okay, then. If you want to trade\n"
-	.string "your SCANNER, let me know.$"
+	.i18n 4481
 
 SlateportCity_Harbor_Text_20D8BC: @ 820D8BC
-	.string "CAPT. STERN: So you'll trade it for\n"
-	.string "my DEEPSEATOOTH?$"
+	.i18n 4482
 
 SlateportCity_Harbor_Text_20D8F1: @ 820D8F1
-	.string "CAPT. STERN: So you'll trade it for\n"
-	.string "my DEEPSEASCALE?$"
+	.i18n 4483
 
 SlateportCity_Harbor_Text_20D926: @ 820D926
-	.string "CAPT. STERN: Which one do you want?$"
+	.i18n 4484
 
 SlateportCity_Harbor_Text_20D94A: @ 820D94A
-	.string "{PLAYER} handed the SCANNER to\n"
-	.string "CAPT. STERN.$"
+	.i18n 4485
 
 SlateportCity_Harbor_Text_20D970: @ 820D970
-	.string "CAPT. STERN: Thanks, {PLAYER}{KUN}!\n"
-	.string "This will help our research a lot!$"
+	.i18n 4486

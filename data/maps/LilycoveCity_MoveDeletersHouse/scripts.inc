@@ -72,40 +72,29 @@ LilycoveCity_MoveDeletersHouse_EventScript_21EAF0:: @ 821EAF0
 	end
 
 LilycoveCity_MoveDeletersHouse_Text_21EAFD: @ 821EAFD
-	.string "Uh…\n"
-	.string "Oh, yes, I'm the MOVE DELETER.\p"
-	.string "I can make POKéMON forget their moves.\p"
-	.string "Would you like me to do that?$"
+	.i18n 2656
 
 LilycoveCity_MoveDeletersHouse_Text_21EB65: @ 821EB65
-	.string "Which POKéMON should forget a move?$"
+	.i18n 2657
 
 LilycoveCity_MoveDeletersHouse_Text_21EB89: @ 821EB89
-	.string "Which move should be forgotten?$"
+	.i18n 2658
 
 LilycoveCity_MoveDeletersHouse_Text_21EBA9: @ 821EBA9
-	.string "{STR_VAR_1} knows only one move\n"
-	.string "so it can't be forgotten…$"
+	.i18n 2659
 
 LilycoveCity_MoveDeletersHouse_Text_21EBDA: @ 821EBDA
-	.string "Hm! {STR_VAR_1}'s {STR_VAR_2}?\n"
-	.string "That move should be forgotten?$"
+	.i18n 2660
 
 LilycoveCity_MoveDeletersHouse_Text_21EC06: @ 821EC06
-	.string "It worked to perfection!\p"
-	.string "{STR_VAR_1} has forgotten\n"
-	.string "{STR_VAR_2} completely.$"
+	.i18n 2661
 
 LilycoveCity_MoveDeletersHouse_Text_21EC3F: @ 821EC3F
-	.string "Come again if there are moves that\n"
-	.string "need to be forgotten.$"
+	.i18n 2662
 
 LilycoveCity_MoveDeletersHouse_Text_21EC78: @ 821EC78
-	.string "What?\n"
-	.string "No EGG should know any moves.$"
+	.i18n 2663
 
 LilycoveCity_MoveDeletersHouse_Text_21EC9C: @ 821EC9C
-	.string "Hm!\p"
-	.string "Your {STR_VAR_1} doesn't seem willing\n"
-	.string "to forget SURF.$"
+	.i18n 2664
 

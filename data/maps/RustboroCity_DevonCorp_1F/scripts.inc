@@ -79,66 +79,32 @@ RustboroCity_DevonCorp_1F_EventScript_211312:: @ 8211312
 	end
 
 RustboroCity_DevonCorp_1F_Text_21131B: @ 821131B
-	.string "Hello and welcome to the DEVON\n"
-	.string "CORPORATION.\p"
-	.string "We're proud producers of items and\n"
-	.string "medicine that enhance your life.$"
+	.i18n 4130
 
 RustboroCity_DevonCorp_1F_Text_21138B: @ 821138B
-	.string "One of our research staff stupidly\n"
-	.string "got robbed of an important parcel.$"
+	.i18n 4131
 
 RustboroCity_DevonCorp_1F_Text_2113D1: @ 82113D1
-	.string "Hey, those RUNNING SHOES!\n"
-	.string "They're one of our products!\p"
-	.string "It makes me happy when I see someone\n"
-	.string "using something we made.$"
+	.i18n 4132
 
 RustboroCity_DevonCorp_1F_Text_211446: @ 8211446
-	.string "That stolen parcel…\p"
-	.string "Well, sure it's important, but it's not\n"
-	.string "anything that anyone can use.\p"
-	.string "In my estimation, that robber must not\n"
-	.string "have been very bright.$"
+	.i18n 4133
 
 RustboroCity_DevonCorp_1F_Text_2114DE: @ 82114DE
-	.string "It sounds like they've recovered\n"
-	.string "the ripped-off DEVON GOODS.$"
+	.i18n 4134
 
 RustboroCity_DevonCorp_1F_Text_21151B: @ 821151B
-	.string "I'm sorry, only authorized people\n"
-	.string "are allowed to enter here.$"
+	.i18n 4135
 
 RustboroCity_DevonCorp_1F_Text_211558: @ 8211558
-	.string "It's beyond stupid.\n"
-	.string "How could we get robbed?$"
+	.i18n 4136
 
 RustboroCity_DevonCorp_1F_Text_211585: @ 8211585
-	.string "Hi, there!\n"
-	.string "You're always welcome here!$"
+	.i18n 4137
 
 RustboroCity_DevonCorp_1F_Text_2115AC: @ 82115AC
-	.string "Samples of rocks and metal are\n"
-	.string "displayed in the glass case.\p"
-	.string "There's a panel with some writing\n"
-	.string "on it…\p"
-	.string "“DEVON CORPORATION got its start as\n"
-	.string "a producer of stones from quarries.\p"
-	.string "“The company also produced iron from\n"
-	.string "filings in the sand.\p"
-	.string "“From that humble start as a producer\n"
-	.string "of raw materials, DEVON developed.\p"
-	.string "“DEVON is now a manufacturer of a wide\n"
-	.string "range of industrial products.”$"
+	.i18n 4138
 
 RustboroCity_DevonCorp_1F_Text_211722: @ 8211722
-	.string "Prototypes and test products fill\n"
-	.string "the glass display case.\p"
-	.string "There's a panel with a description…\p"
-	.string "“In addition to industrial products,\n"
-	.string "DEVON now markets sundries and\l"
-	.string "pharmaceuticals for better lifestyles.\p"
-	.string "“Recently, DEVON has begun marketing\n"
-	.string "tools for POKéMON TRAINERS, including\l"
-	.string "POKé BALLS and POKéNAV systems.”$"
+	.i18n 4139
 

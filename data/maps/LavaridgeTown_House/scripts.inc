@@ -16,11 +16,8 @@ LavaridgeTown_House_EventScript_1FF91B:: @ 81FF91B
 	end
 
 LavaridgeTown_House_Text_1FF92E: @ 81FF92E
-	.string "My wife's warming an EGG in the hot\n"
-	.string "springs. This is what she told me.\p"
-	.string "She left two POKéMON with the DAY CARE.\n"
-	.string "And they discovered that EGG!$"
+	.i18n 2429
 
 LavaridgeTown_House_Text_1FF9BB: @ 81FF9BB
-	.string "ZIGZAGOON: Pshoo!$"
+	.i18n 2430
 

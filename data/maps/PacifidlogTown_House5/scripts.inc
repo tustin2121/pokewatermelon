@@ -21,17 +21,11 @@ PacifidlogTown_House5_EventScript_204137:: @ 8204137
 	end
 
 PacifidlogTown_House5_Text_204140: @ 8204140
-	.string "I can't see MIRAGE ISLAND today…$"
+	.i18n 3415
 
 PacifidlogTown_House5_Text_204161: @ 8204161
-	.string "Oh! Oh my!\n"
-	.string "I can see MIRAGE ISLAND today!$"
+	.i18n 3416
 
 PacifidlogTown_House5_Text_20418B: @ 820418B
-	.string "MIRAGE ISLAND…\p"
-	.string "It must become visible and invisible\n"
-	.string "depending on the weather conditions\l"
-	.string "that make mirages appear.\p"
-	.string "Or is it really appearing and\n"
-	.string "disappearing?$"
+	.i18n 3417
 

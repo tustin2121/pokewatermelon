@@ -151,19 +151,13 @@ LilycoveCity_DepartmentStore_5F_EventScript_2200BC:: @ 82200BC
 	end
 
 LilycoveCity_DepartmentStore_5F_Text_2200C5: @ 82200C5
-	.string "This place is full of cute DOLLS.\p"
-	.string "I should buy some for me, instead of\n"
-	.string "just for my children.$"
+	.i18n 2584
 
 LilycoveCity_DepartmentStore_5F_Text_220122: @ 8220122
-	.string "I'm not big enough to raise POKéMON,\n"
-	.string "so I'm getting a cute DOLL instead.$"
+	.i18n 2585
 
 LilycoveCity_DepartmentStore_5F_Text_22016B: @ 822016B
-	.string "They sell many cute MATS here.\p"
-	.string "I wonder which one I should get?\n"
-	.string "Maybe I'll buy them all…$"
+	.i18n 2586
 
 LilycoveCity_DepartmentStore_5F_Text_2201C4: @ 82201C4
-	.string "I think they closed the rooftop\n"
-	.string "because the weather is wild today.$"
+	.i18n 2587

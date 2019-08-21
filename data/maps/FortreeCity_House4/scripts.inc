@@ -64,33 +64,20 @@ FortreeCity_House4_EventScript_217D20:: @ 8217D20
 	end
 
 FortreeCity_House4_Text_217D33: @ 8217D33
-	.string "By being together with POKéMON,\n"
-	.string "people make more and more friends.\p"
-	.string "And that brings the world closer\n"
-	.string "together. I think it's wonderful!$"
+	.i18n 2316
 
 FortreeCity_House4_Text_217DB9: @ 8217DB9
-	.string "There!\n"
-	.string "Go, BIRD POKéMON!$"
+	.i18n 2317
 
 FortreeCity_House4_Text_217DD2: @ 8217DD2
-	.string "Heheh, I asked my WINGULL to run\n"
-	.string "an errand for me.$"
+	.i18n 2318
 
 FortreeCity_House4_Text_217E05: @ 8217E05
-	.string "Good!\n"
-	.string "Welcome back, WINGULL!\p"
-	.string "Huh? What is this?\n"
-	.string "What is it holding?\p"
-	.string "A MENTAL HERB?\n"
-	.string "It must have picked it up somewhere.\p"
-	.string "But I'm not a TRAINER, so you can\n"
-	.string "have it.$"
+	.i18n 2319
 
 FortreeCity_House4_Text_217EA8: @ 8217EA8
-	.string "Thanks to my WINGULL, I have friends\n"
-	.string "who live far away.$"
+	.i18n 2320
 
 FortreeCity_House4_Text_217EE0: @ 8217EE0
-	.string "WINGULL: Pihyoh!$"
+	.i18n 2321
 

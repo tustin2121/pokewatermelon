@@ -76,36 +76,22 @@ Route102_EventScript_1EC1E1:: @ 81EC1E1
 	end
 
 PetalburgCity_Text_1EC1F8: @ 81EC1F8
-	.string "WALLY: {PLAYER}…\n"
-	.string "POKéMON hide in tall grass like this,\l"
-	.string "don't they?\p"
-	.string "Please watch me and see if I can\n"
-	.string "catch one properly.\p"
-	.string "…Whoa!$"
+	.i18n 3562
 
 PetalburgCity_Text_1EC271: @ 81EC271
-	.string "WALLY: I did it… It's my…\n"
-	.string "My POKéMON!$"
+	.i18n 3563
 
 PetalburgCity_Text_1EC297: @ 81EC297
-	.string "{PLAYER}, thank you!\n"
-	.string "Let's go back to the GYM!$"
+	.i18n 3564
 
 Route102_Text_1EC2C0: @ 81EC2C0
-	.string "I'm…not very tall, so I sink right\n"
-	.string "into tall grass.\p"
-	.string "The grass goes up my nose and…\n"
-	.string "Fwafwafwafwafwa…\p"
-	.string "Fwatchoo!$"
+	.i18n 3565
 
 Route102_Text_1EC32E: @ 81EC32E
-	.string "I'm going to catch a whole bunch of\n"
-	.string "POKéMON!$"
+	.i18n 3566
 
 Route102_Text_1EC35B: @ 81EC35B
-	.string "ROUTE 102\n"
-	.string "{RIGHT_ARROW} OLDALE TOWN$"
+	.i18n 3567
 
 Route102_Text_1EC373: @ 81EC373
-	.string "ROUTE 102\n"
-	.string "{LEFT_ARROW} PETALBURG CITY$"
+	.i18n 3568

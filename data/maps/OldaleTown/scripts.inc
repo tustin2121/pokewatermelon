@@ -345,58 +345,32 @@ OldaleTown_Movement_1E918B: @ 81E918B
 	step_end
 
 OldaleTown_Text_1E918E: @ 81E918E
-	.string "I want to take a rest, so I'm saving my\n"
-	.string "progress.$"
+	.i18n 3367
 
 OldaleTown_Text_1E91C0: @ 81E91C0
-	.string "Hi!\n"
-	.string "I work at a POKéMON MART.\p"
-	.string "Can I get you to come with me?$"
+	.i18n 3368
 
 OldaleTown_Text_1E91FD: @ 81E91FD
-	.string "This is a POKéMON MART.\n"
-	.string "Just look for our blue roof.\p"
-	.string "We sell a variety of goods including\n"
-	.string "POKé BALLS for catching POKéMON.\p"
-	.string "Here, I'd like you to have this as\n"
-	.string "a promotional item.$"
+	.i18n 3369
 
 OldaleTown_Text_1E92AF: @ 81E92AF
-	.string "A POTION can be used anytime, so it's\n"
-	.string "even more useful than a POKéMON CENTER\l"
-	.string "in certain situations.$"
+	.i18n 3370
 
 OldaleTown_Text_1E9313: @ 81E9313
-	.string "Aaaaah! Wait!\n"
-	.string "Please don't come in here.\p"
-	.string "I just discovered the footprints of\n"
-	.string "a rare POKéMON!\p"
-	.string "Wait until I finish sketching\n"
-	.string "them, okay?$"
+	.i18n 3371
 
 OldaleTown_Text_1E939A: @ 81E939A
-	.string "I just discovered the footprints of\n"
-	.string "a rare POKéMON!\p"
-	.string "Wait until I finish sketching\n"
-	.string "them, okay?$"
+	.i18n 3372
 
 OldaleTown_Text_1E93F8: @ 81E93F8
-	.string "I finished sketching the footprints of\n"
-	.string "a rare POKéMON.\p"
-	.string "But it turns out they were only my\n"
-	.string "own footprints…$"
+	.i18n 3373
 
 OldaleTown_Text_1E9462: @ 81E9462
-	.string "MAY: {PLAYER}{KUN}!\n"
-	.string "Over here!\l"
-	.string "Let's hurry home!$"
+	.i18n 3374
 
 OldaleTown_Text_1E948A: @ 81E948A
-	.string "BRENDAN: I'm heading back to my dad's\n"
-	.string "LAB now.\l"
-	.string "{PLAYER}, you should hustle back, too.$"
+	.i18n 3375
 
 OldaleTown_Text_1E94DA: @ 81E94DA
-	.string "OLDALE TOWN\n"
-	.string "“Where things start off scarce.”$"
+	.i18n 3376
 

@@ -200,4 +200,4 @@ FarawayIsland_Interior_EventScript_267EDB:: @ 8267EDB
 	end
 
 FarawayIsland_Interior_Text_267EF1: @ 8267EF1
-	.string "The feeling of being watched faded…$"
+	.i18n 2252

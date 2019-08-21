@@ -38,22 +38,14 @@ BattleFrontier_PokemonCenter_1F_EventScript_267931:: @ 8267931
 	end
 
 BattleFrontier_PokemonCenter_1F_Text_267944: @ 8267944
-	.string "There was someone here using a \n"
-	.string "POKéMON I've never seen before.\p"
-	.string "I never learned about it at\n"
-	.string "TRAINER'S SCHOOL at least.\p"
-	.string "I wonder where you can catch POKéMON\n"
-	.string "like that.$"
+	.i18n 2014
 
 BattleFrontier_PokemonCenter_1F_Text_2679EB: @ 82679EB
-	.string "Okay! Next stop, the BATTLE ARENA!\n"
-	.string "I'd better get the right POKéMON from\l"
-	.string "the PC Storage System.$"
+	.i18n 2015
 
 BattleFrontier_PokemonCenter_1F_Text_267A4B: @ 8267A4B
-	.string "Giggle… I'm going to go through every\n"
-	.string "challenge with just this baby!$"
+	.i18n 2016
 
 BattleFrontier_PokemonCenter_1F_Text_267A90: @ 8267A90
-	.string "SKITTY: Mya myaaah!$"
+	.i18n 2017
 

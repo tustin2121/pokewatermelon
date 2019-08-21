@@ -520,207 +520,154 @@ BattleFrontier_BattleFactoryPreBattleRoom_Movement_25A1C3: @ 825A1C3
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25A1C8: @ 825A1C8
 SlateportCity_BattleTentCorridor_Text_25A1C8: @ 825A1C8
-	.string "First, we will hold your POKéMON for\n"
-	.string "safekeeping.\p"
-	.string "You may then choose from our\n"
-	.string "selection of POKéMON.$"
+	.i18n 828
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25A22D: @ 825A22D
 SlateportCity_BattleTentCorridor_Text_25A22D: @ 825A22D
-	.string "Thank you for competing!\n"
-	.string "Let us restore your POKéMON!$"
+	.i18n 829
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25A263: @ 825A263
 SlateportCity_BattleTentCorridor_Text_25A263: @ 825A263
-	.string "The 2nd match is next!\n"
-	.string "Are you ready?$"
+	.i18n 830
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25A289: @ 825A289
 SlateportCity_BattleTentCorridor_Text_25A289: @ 825A289
-	.string "The 3rd match is next!\n"
-	.string "Are you ready?$"
+	.i18n 831
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25A2AF: @ 825A2AF
-	.string "The 4th match is next!\n"
-	.string "Are you ready?$"
+	.i18n 832
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25A2D5: @ 825A2D5
-	.string "The 5th match is next!\n"
-	.string "Are you ready?$"
+	.i18n 833
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25A2FB: @ 825A2FB
-	.string "The 6th match is next!\n"
-	.string "Are you ready?$"
+	.i18n 834
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25A321: @ 825A321
-	.string "Finally, the 7th match is next!\n"
-	.string "Are you ready?$"
+	.i18n 835
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25A350: @ 825A350
 SlateportCity_BattleTentCorridor_Text_25A350: @ 825A350
-	.string "Would you like to save and quit\n"
-	.string "the game?$"
+	.i18n 836
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25A37A: @ 825A37A
 SlateportCity_BattleTentCorridor_Text_25A37A: @ 825A37A
-	.string "Would you like to retire from your\n"
-	.string "Battle Swap challenge?$"
+	.i18n 837
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25A3B4: @ 825A3B4
-	.string "I've conducted a little investigation\n"
-	.string "about your upcoming opponent.$"
+	.i18n 838
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25A3F8: @ 825A3F8
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the NORMAL type.$"
+	.i18n 839
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25A43E: @ 825A43E
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the FIRE type.$"
+	.i18n 840
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25A482: @ 825A482
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the WATER type.$"
+	.i18n 841
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25A4C7: @ 825A4C7
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the ELECTRIC type.$"
+	.i18n 842
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25A50F: @ 825A50F
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the GRASS type.$"
+	.i18n 843
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25A554: @ 825A554
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the ICE type.$"
+	.i18n 844
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25A597: @ 825A597
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the FIGHTING type.$"
+	.i18n 845
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25A5DF: @ 825A5DF
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the POISON type.$"
+	.i18n 846
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25A625: @ 825A625
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the GROUND type.$"
+	.i18n 847
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25A66B: @ 825A66B
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the FLYING type.$"
+	.i18n 848
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25A6B1: @ 825A6B1
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the PSYCHIC type.$"
+	.i18n 849
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25A6F8: @ 825A6F8
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the BUG type.$"
+	.i18n 850
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25A73B: @ 825A73B
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the ROCK type.$"
+	.i18n 851
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25A77F: @ 825A77F
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the GHOST type.$"
+	.i18n 852
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25A7C4: @ 825A7C4
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the DRAGON type.$"
+	.i18n 853
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25A80A: @ 825A80A
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the DARK type.$"
+	.i18n 854
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25A84E: @ 825A84E
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the STEEL type.$"
+	.i18n 855
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25A893: @ 825A893
-	.string "The TRAINER appears to have no clear\n"
-	.string "favorites when it comes to type.$"
+	.i18n 856
 
 Text_StyleSlowAndSteady: @ 825A8D9
-	.string "The favorite battle style appears to\n"
-	.string "be slow and steady.$"
+	.i18n 857
 
 Text_StyleEndurance: @ 825A912
-	.string "The favorite battle style appears to\n"
-	.string "be one of endurance.$"
+	.i18n 858
 
 Text_StyleHighRisk: @ 825A94C
-	.string "The favorite battle style appears to\n"
-	.string "be high risk, high return.$"
+	.i18n 859
 
 Text_StyleDependsOnFlow: @ 825A98C
-	.string "The favorite battle style appears to\n"
-	.string "depend on the battle's flow.$"
+	.i18n 860
 
 Text_StyleTotalPreparation: @ 825A9CE
-	.string "The favorite battle style appears to\n"
-	.string "be one based on total preparation.$"
+	.i18n 861
 
 Text_StyleWeakenFoe: @ 825AA16
-	.string "The favorite battle style appears\n"
-	.string "to be weakening the foe to start.$"
+	.i18n 862
 
 Text_StyleFlexible: @ 825AA5A
-	.string "The favorite battle style appears to\n"
-	.string "be flexibly adaptable to the situation.$"
+	.i18n 863
 
 Text_StyleImpossibleToPredict: @ 825AAA7
-	.string "The favorite battle style appears to\n"
-	.string "be impossible to predict.$"
+	.i18n 864
 
 Text_StyleUnrestrained: @ 825AAE6
-	.string "The favorite battle style appears to\n"
-	.string "be free-spirited and unrestrained.$"
+	.i18n 865
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25AB2E: @ 825AB2E
 SlateportCity_BattleTentCorridor_Text_25AB2E: @ 825AB2E
-	.string "Before starting the battle, would you\n"
-	.string "like to swap a POKéMON?$"
+	.i18n 866
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25AB6C: @ 825AB6C
 SlateportCity_BattleTentCorridor_Text_25AB6C: @ 825AB6C
-	.string "Thank you!\n"
-	.string "Your POKéMON swap is complete.$"
+	.i18n 867
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25AB96: @ 825AB96
 SlateportCity_BattleTentCorridor_Text_25AB96: @ 825AB96
-	.string "Right this way, please!$"
+	.i18n 868
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25ABAE: @ 825ABAE
 SlateportCity_BattleTentCorridor_Text_25ABAE: @ 825ABAE
-	.string "I am saving your data.\n"
-	.string "Please wait.$"
+	.i18n 869
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25ABD2: @ 825ABD2
-	.string "Would you like to record your latest\n"
-	.string "battle on your FRONTIER PASS?$"
+	.i18n 870
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25AC15: @ 825AC15
-	.string "Excuse me! Excuse me, please!\n"
-	.string "May I get you to wait a few moments?$"
+	.i18n 871
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25AC58: @ 825AC58
-	.string "…Uh-huh? What?! …Whoa!\n"
-	.string "Understood, sir! Will do!$"
+	.i18n 872
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25AC89: @ 825AC89
-	.string "Oh, my…\n"
-	.string "Sorry to keep you waiting!\p"
-	.string "I have a message from this facility's\n"
-	.string "boss, the FACTORY HEAD.\p"
-	.string "He says, “We're going to do it!\n"
-	.string "Come here right now!”$"
+	.i18n 873
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25AD20: @ 825AD20
-	.string "The FACTORY HEAD is demanding you.\n"
-	.string "Are you prepared to face him?$"
+	.i18n 874
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_25AD61: @ 825AD61
-	.string "I'm terribly sorry, but I can't tell you\n"
-	.string "anything about the FACTORY HEAD.$"
+	.i18n 875

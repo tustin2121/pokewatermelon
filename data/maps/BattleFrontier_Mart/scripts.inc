@@ -47,21 +47,11 @@ BattleFrontier_Mart_EventScript_267B20:: @ 8267B20
 	end
 
 BattleFrontier_Mart_Text_267B29: @ 8267B29
-	.string "We came here to chaperon our\n"
-	.string "grandson.\p"
-	.string "But since we're here, we thought\n"
-	.string "we should get some souvenirs.$"
+	.i18n 1942
 
 BattleFrontier_Mart_Text_267B8F: @ 8267B8F
-	.string "Dear, what do you think of this?\n"
-	.string "Wouldn't this make a nice gift?\p"
-	.string "It's…PRO…TE…IN?\n"
-	.string "It sounds delicious, doesn't it?$"
+	.i18n 1943
 
 BattleFrontier_Mart_Text_267C01: @ 8267C01
-	.string "A lot of the BATTLE FRONTIER's\n"
-	.string "facilities don't allow the use of items\l"
-	.string "during battles.\p"
-	.string "That rule makes things tougher than\n"
-	.string "they already are!$"
+	.i18n 1944
 

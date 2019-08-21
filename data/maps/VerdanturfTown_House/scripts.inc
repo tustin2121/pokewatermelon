@@ -10,16 +10,8 @@ VerdanturfTown_House_EventScript_203368:: @ 8203368
 	end
 
 VerdanturfTown_House_Text_203371: @ 8203371
-	.string "Far away, deep in EVER GRANDE CITY,\n"
-	.string "is the POKéMON LEAGUE.\p"
-	.string "The TRAINERS who gather there are\n"
-	.string "all frighteningly well skilled.$"
+	.i18n 4800
 
 VerdanturfTown_House_Text_2033EE: @ 82033EE
-	.string "In the POKéMON LEAGUE, I think the\n"
-	.string "rules say that you have to battle the\l"
-	.string "ELITE FOUR all in a row.\p"
-	.string "If you lose to any of them, you have\n"
-	.string "to begin your challenge again from the\l"
-	.string "first one.$"
+	.i18n 4801
 

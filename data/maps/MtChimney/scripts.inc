@@ -546,313 +546,182 @@ MtChimney_EventScript_22F253:: @ 822F253
 	end
 
 MtChimney_Text_22F26A: @ 822F26A
-	.string "The power contained in the METEORITE…\p"
-	.string "By amplifying its power with this\n"
-	.string "machine, MT. CHIMNEY's volcanic\l"
-	.string "activity will instantly intensify…\p"
-	.string "Its energy will grow deep inside\n"
-	.string "the crater and…\l"
-	.string "Fufufu…$"
+	.i18n 3222
 
 MtChimney_Text_22F32E: @ 822F32E
-	.string "MAXIE: Hm?\n"
-	.string "Who are you?\p"
-	.string "… … … … … …\n"
-	.string "… … … … … …\p"
-	.string "I'd heard ARCHIE bemoaning a child\n"
-	.string "who's been meddling in TEAM AQUA's\l"
-	.string "affairs.\p"
-	.string "It must be you he meant.\p"
-	.string "Humph! So you're thinking of\n"
-	.string "interfering with us, TEAM MAGMA?\p"
-	.string "Now you listen.\n"
-	.string "Long ago, living things used the\l"
-	.string "land to live and grow.\p"
-	.string "That is why land is all important!\n"
-	.string "It is the cradle of all!\p"
-	.string "That is why TEAM MAGMA is dedicated\n"
-	.string "to the expansion of the land mass.\p"
-	.string "It is for further advancement of\n"
-	.string "humankind and POKéMON!\p"
-	.string "And for that, we need the power of\n"
-	.string "what sleeps within this mountain…\p"
-	.string "Oh! There was no need for you to\n"
-	.string "learn that much.\p"
-	.string "But, no matter!\n"
-	.string "I'll teach you the consequences of\l"
-	.string "meddling in our grand design!$"
+	.i18n 3223
 
 MtChimney_Text_22F5CF: @ 822F5CF
-	.string "What?!\p"
-	.string "I, MAXIE, was caught off guard?!$"
+	.i18n 3224
 
 MtChimney_Text_22F5F7: @ 822F5F7
-	.string "MAXIE: But, enough.\n"
-	.string "I will back off this time.\p"
-	.string "But don't think that this is the last\n"
-	.string "you've seen of TEAM MAGMA.\p"
-	.string "Fufufu…\p"
-	.string "Even without the METEORITE, if we\n"
-	.string "obtain that ORB… Fufufu…$"
+	.i18n 3225
 
 MtChimney_Text_22F6AA: @ 822F6AA
-	.string "Hehehe!\p"
-	.string "So you've come all the way here!\p"
-	.string "But you're too late!\n"
-	.string "I've already delivered the METEORITE\l"
-	.string "from METEOR FALLS to the BOSS!$"
+	.i18n 3226
 
 MtChimney_Text_22F72C: @ 822F72C
-	.string "Hehehe…\p"
-	.string "Even though I've lost, if our leader\n"
-	.string "awakens that thing…$"
+	.i18n 3227
 
 MtChimney_Text_22F76D: @ 822F76D
-	.string "BOSS, hurry!\n"
-	.string "Give it the METEORITE's energy!\p"
-	.string "Hehehe…$"
+	.i18n 3228
 
 MtChimney_Text_22F7A2: @ 822F7A2
-	.string "We of TEAM MAGMA are working hard for\n"
-	.string "everyone's sake.\p"
-	.string "Like, if that thing's power made more\n"
-	.string "land, there'd be more places to live.\p"
-	.string "Everyone'd be happy!$"
+	.i18n 3229
 
 MtChimney_Text_22F83A: @ 822F83A
-	.string "Hunh?\n"
-	.string "What do you mean I lost?$"
+	.i18n 3230
 
 MtChimney_Text_22F859: @ 822F859
-	.string "Our BOSS says, “It will make everyone\n"
-	.string "happy.”\p"
-	.string "But why does everyone keep getting\n"
-	.string "in our way?$"
+	.i18n 3231
 
 MtChimney_Text_22F8B6: @ 822F8B6
-	.string "If there were more land, I'd be able\n"
-	.string "to get a big house of my own!\p"
-	.string "I'm going to build it on hardened lava!$"
+	.i18n 3232
 
 MtChimney_Text_22F921: @ 822F921
-	.string "My dream of a big house…$"
+	.i18n 3233
 
 MtChimney_Text_22F93A: @ 822F93A
-	.string "A kid like you, you ought to be\n"
-	.string "splashing about in the waves!$"
+	.i18n 3234
 
 MtChimney_Text_22F978: @ 822F978
-	.string "That annoying TEAM AQUA…\n"
-	.string "They always mess with our plans!$"
+	.i18n 3235
 
 MtChimney_Text_22F9B2: @ 822F9B2
-	.string "METEORITES pack amazing power!$"
+	.i18n 3236
 
 MtChimney_Text_22F9D1: @ 822F9D1
-	.string "You'd better not mess with us!\p"
-	.string "We're trying to awaken that thing\n"
-	.string "for the benefit of everyone!$"
+	.i18n 3237
 
 MtChimney_Text_22FA2F: @ 822FA2F
-	.string "We're TEAM MAGMA!\p"
-	.string "They're TEAM AQUA!\p"
-	.string "It totally annoys me that they'd\n"
-	.string "use a name like ours!$"
+	.i18n 3238
 
 MtChimney_Text_22FA8B: @ 822FA8B
-	.string "Yeah!\n"
-	.string "Douse them in fire!$"
+	.i18n 3239
 
 MtChimney_Text_22FAA5: @ 822FAA5
-	.string "We're going to keep making more land!$"
+	.i18n 3240
 
 MtChimney_Text_22FACB: @ 822FACB
-	.string "Bufoh!$"
+	.i18n 3241
 
 MtChimney_Text_22FAD2: @ 822FAD2
-	.string "ARCHIE: Grr, {PLAYER}!\n"
-	.string "I should've guessed you'd show up!\p"
-	.string "See for yourself what the fanatics\n"
-	.string "of TEAM MAGMA are up to!\p"
-	.string "They're trying to inject the stolen\n"
-	.string "METEORITE's power into the volcano!\p"
-	.string "Doing something like that will cause\n"
-	.string "the volcano's eruption!$"
+	.i18n 3242
 
 MtChimney_Text_22FBC7: @ 822FBC7
-	.string "ARCHIE: Grrr…\p"
-	.string "I want to stop that MAXIE,\n"
-	.string "but I can't!\p"
-	.string "Not when I have my hands full battling\n"
-	.string "three opponents at once!$"
+	.i18n 3243
 
 MtChimney_Text_22FC3D: @ 822FC3D
-	.string "ARCHIE: {PLAYER}!\n"
-	.string "Thank you!\p"
-	.string "With your help, we thwarted TEAM\n"
-	.string "MAGMA's destructive plan!\p"
-	.string "But… You…\n"
-	.string "Whose side are you on?\p"
-	.string "Ah, it doesn't matter.\p"
-	.string "We will remain vigilant and keep up\n"
-	.string "our pursuit of TEAM MAGMA.\p"
-	.string "{PLAYER}, we shall meet again!$"
+	.i18n 3244
 
 MtChimney_Text_22FD1F: @ 822FD1F
-	.string "Darn… TEAM MAGMA outnumbers us!\n"
-	.string "We can't keep up with them!$"
+	.i18n 3245
 
 MtChimney_Text_22FD5B: @ 822FD5B
-	.string "If they expand the land, there'll be\n"
-	.string "less habitats for WATER POKéMON!$"
+	.i18n 3246
 
 MtChimney_Text_22FDA1: @ 822FDA1
-	.string "We're TEAM AQUA!\p"
-	.string "They're TEAM MAGMA!\p"
-	.string "It burns me up that they'd use such\n"
-	.string "a confusing name!$"
+	.i18n 3247
 
 MtChimney_Text_22FDFC: @ 822FDFC
-	.string "Bushaa!$"
+	.i18n 3248
 
 MtChimney_Text_22FE04: @ 822FE04
-	.string "LAVA COOKIES are MT. CHIMNEY's local\n"
-	.string "specialty.\p"
-	.string "Try one. It's just ¥200.$"
+	.i18n 3249
 
 MtChimney_Text_22FE4D: @ 822FE4D
-	.string "Thank you, dear!$"
+	.i18n 3250
 
 MtChimney_Text_22FE5E: @ 822FE5E
-	.string "Oh, dear. You can't buy a thing if\n"
-	.string "you've not got the money.$"
+	.i18n 3251
 
 MtChimney_Text_22FE9B: @ 822FE9B
-	.string "Oh, fine then.$"
+	.i18n 3252
 
 MtChimney_Text_22FEAA: @ 822FEAA
-	.string "A METEORITE is fitted on a mysterious\n"
-	.string "machine…\p"
-	.string "The machine seems to be storing\n"
-	.string "energy in the METEORITE.$"
+	.i18n 3253
 
 MtChimney_Text_22FF12: @ 822FF12
-	.string "A METEORITE is fitted on a mysterious\n"
-	.string "machine…\p"
-	.string "Do you want to remove the METEORITE?$"
+	.i18n 3254
 
 MtChimney_Text_22FF66: @ 822FF66
-	.string "{PLAYER} removed the METEORITE from\n"
-	.string "the mysterious machine.$"
+	.i18n 3255
 
 MtChimney_Text_22FF9C: @ 822FF9C
-	.string "{PLAYER} left the METEORITE where\n"
-	.string "it was.$"
+	.i18n 3256
 
 MtChimney_Text_22FFC0: @ 822FFC0
-	.string "This mysterious machine…\n"
-	.string "It makes no response whatsoever.$"
+	.i18n 3257
 
 MtChimney_Text_22FFFA: @ 822FFFA
-	.string "{DOWN_ARROW} JAGGED PATH\n"
-	.string "LAVARIDGE TOWN AHEAD$"
+	.i18n 3258
 
 MtChimney_Text_23001D: @ 823001D
-	.string "I've been to the hot springs and\n"
-	.string "refreshed my tired bones.\l"
-	.string "Right now I'm feeling strong!$"
+	.i18n 3259
 
 MtChimney_Text_230076: @ 8230076
-	.string "Oh, my goodness.\n"
-	.string "Now, aren't you something!$"
+	.i18n 3260
 
 MtChimney_Text_2300A2: @ 82300A2
-	.string "Well, well, I've lost. I can't call\n"
-	.string "myself an EXPERT now, can I?$"
+	.i18n 3261
 
 MtChimney_Text_2300E3: @ 82300E3
-	.string "Thank you, child. It was fun, as if\n"
-	.string "I were battling my own grandchild.\p"
-	.string "Please, come see me again for\n"
-	.string "a rematch.$"
+	.i18n 3262
 
 MtChimney_Text_230153: @ 8230153
-	.string "If you can mesh your heart with those\n"
-	.string "of your POKéMON, why, you should be\l"
-	.string "able to achieve great things.$"
+	.i18n 3263
 
 MtChimney_Text_2301BB: @ 82301BB
-	.string "Oh, my goodness.\n"
-	.string "Now, aren't you something!$"
+	.i18n 3264
 
 MtChimney_Text_2301E7: @ 82301E7
-	.string "Perhaps your heart has become one\n"
-	.string "with the hearts of your POKéMON.$"
+	.i18n 3265
 
 MtChimney_Text_23022A: @ 823022A
-	.string "I've got the fire in me, baby.\n"
-	.string "I can't stand it! I have to battle!$"
+	.i18n 3266
 
 MtChimney_Text_23026D: @ 823026D
-	.string "Ooh, that was a scorching-hot match!$"
+	.i18n 3267
 
 MtChimney_Text_230292: @ 8230292
-	.string "The heat of MT. CHIMNEY warms\n"
-	.string "me up, baby!$"
+	.i18n 3268
 
 MtChimney_Text_2302BD: @ 82302BD
-	.string "I've finally made it to MT. CHIMNEY.\n"
-	.string "I want to make my POKéMON battle!$"
+	.i18n 3269
 
 MtChimney_Text_230304: @ 8230304
-	.string "The way you battle…\n"
-	.string "It's like a MT. CHIMNEY eruption!$"
+	.i18n 3270
 
 MtChimney_Text_23033A: @ 823033A
-	.string "Like I said, I've finally made it to\n"
-	.string "MT. CHIMNEY. It would be a shame if\l"
-	.string "I only do a little sightseeing…\p"
-	.string "I want to get in some battles and buy\n"
-	.string "COOKIES as souvenirs.$"
+	.i18n 3271
 
 MtChimney_Text_2303DF: @ 82303DF
-	.string "Since I bathed in the hot springs,\n"
-	.string "I've been feeling great!\l"
-	.string "I'm sure I'm going to win!$"
+	.i18n 3272
 
 MtChimney_Text_230436: @ 8230436
-	.string "Yowch!\n"
-	.string "I'm getting a chill out of the water.$"
+	.i18n 3273
 
 MtChimney_Text_230463: @ 8230463
-	.string "I'll have to take another dip in the\n"
-	.string "hot springs. Want to join me?\p"
-	.string "Just joking!$"
+	.i18n 3274
 
 MtChimney_Text_2304B3: @ 82304B3
-	.string "This is one fine mountain! Plenty of\n"
-	.string "hot people around for company!$"
+	.i18n 3275
 
 MtChimney_Text_2304F7: @ 82304F7
-	.string "Oh, you're a real firebrand, too!$"
+	.i18n 3276
 
 MtChimney_Text_230519: @ 8230519
-	.string "I think I need a dip in LAVARIDGE\n"
-	.string "HOT SPRING with the locals!$"
+	.i18n 3277
 
 MtChimney_Text_230557: @ 8230557
-	.string "I like little fireballs like you.\n"
-	.string "Let me register you in my POKéNAV.$"
+	.i18n 3278
 
 MtChimney_Text_23059C: @ 823059C
-	.string "I'm happily surrounded by hot people\n"
-	.string "around these parts. I won't lose!$"
+	.i18n 3279
 
 MtChimney_Text_2305E3: @ 82305E3
-	.string "Gosh, you're still the same\n"
-	.string "firebrand as before!$"
+	.i18n 3280
 
 MtChimney_Text_230614: @ 8230614
-	.string "Actually, it really is hot here.\n"
-	.string "I'm overdressed for these parts.$"
+	.i18n 3281
 

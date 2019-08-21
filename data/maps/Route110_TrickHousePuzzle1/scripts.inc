@@ -39,41 +39,32 @@ Route110_TrickHousePuzzle1_EventScript_26B976:: @ 826B976
 	end
 
 Route110_TrickHousePuzzle1_Text_26B98D:: @ 826B98D
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is fabulous.”\n"
-	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.i18n 3746
 
 Route110_TrickHousePuzzle1_Text_26B9FB: @ 826B9FB
-	.string "I'll hack and slash my way to victory\n"
-	.string "with the CUT we just learned!$"
+	.i18n 3747
 
 Route110_TrickHousePuzzle1_Text_26BA3F: @ 826BA3F
-	.string "Why are you so serious?$"
+	.i18n 3748
 
 Route110_TrickHousePuzzle1_Text_26BA57: @ 826BA57
-	.string "I never get tired of hacking\n"
-	.string "and slashing!$"
+	.i18n 3749
 
 Route110_TrickHousePuzzle1_Text_26BA82: @ 826BA82
-	.string "I wandered into this weird house\n"
-	.string "by accident…$"
+	.i18n 3750
 
 Route110_TrickHousePuzzle1_Text_26BAB0: @ 826BAB0
-	.string "And now I've lost…$"
+	.i18n 3751
 
 Route110_TrickHousePuzzle1_Text_26BAC3: @ 826BAC3
-	.string "I lost my way, I lost a battle, and I'm\n"
-	.string "now even more lost… I can't get out…$"
+	.i18n 3752
 
 Route110_TrickHousePuzzle1_Text_26BB10: @ 826BB10
-	.string "Just who is the TRICK MASTER?$"
+	.i18n 3753
 
 Route110_TrickHousePuzzle1_Text_26BB2E: @ 826BB2E
-	.string "I lost while I was lost in thought!$"
+	.i18n 3754
 
 Route110_TrickHousePuzzle1_Text_26BB52: @ 826BB52
-	.string "You're strong!\n"
-	.string "Just who are you?$"
+	.i18n 3755
 

@@ -714,63 +714,37 @@ PetalburgCity_EventScript_1DC82E:: @ 81DC82E
 	end
 
 PetalburgCity_Text_1DC837: @ 81DC837
-	.string "Where has our WALLY gone?\p"
-	.string "We have to leave for VERDANTURF TOWN\n"
-	.string "very soon…$"
+	.i18n 3421
 
 PetalburgCity_Text_1DC881: @ 81DC881
-	.string "Hiya! Are you maybe…\n"
-	.string "A rookie TRAINER?\p"
-	.string "Do you know what POKéMON TRAINERS\n"
-	.string "do when they reach a new town?\p"
-	.string "They first check what kind of GYM\n"
-	.string "is in the town.$"
+	.i18n 3422
 
 PetalburgCity_Text_1DC91B: @ 81DC91B
-	.string "See? This is PETALBURG CITY's GYM.$"
+	.i18n 3423
 
 PetalburgCity_Text_1DC93E: @ 81DC93E
-	.string "This is the GYM's sign. Look for it\n"
-	.string "whenever you're looking for a GYM.$"
+	.i18n 3424
 
 PetalburgCity_Text_1DC985: @ 81DC985
-	.string "My face is reflected in the water.\p"
-	.string "It's a shining grin full of hope…\p"
-	.string "Or it could be a look of somber silence\n"
-	.string "struggling with fear…\p"
-	.string "What do you see reflected in your face?$"
+	.i18n 3425
 
 PetalburgCity_Text_1DCA30: @ 81DCA30
-	.string "Let's say you have six POKéMON.\n"
-	.string "If you catch another one…\p"
-	.string "It is automatically sent to a STORAGE\n"
-	.string "BOX over a PC connection.$"
+	.i18n 3426
 
 PetalburgCity_Text_1DCAAA: @ 81DCAAA
-	.string "PETALBURG CITY POKéMON GYM\n"
-	.string "LEADER: NORMAN\l"
-	.string "“A man in pursuit of power!”$"
+	.i18n 3427
 
 PetalburgCity_Text_1DCAF1: @ 81DCAF1
-	.string "PETALBURG CITY\n"
-	.string "“Where people mingle with nature.”$"
+	.i18n 3428
 
 PetalburgCity_Text_1DCB23: @ 81DCB23
-	.string "WALLY'S HOUSE$"
+	.i18n 3429
 
 PetalburgCity_Text_1DCB31: @ 81DCB31
-	.string "Excuse me!\p"
-	.string "Let me guess, from the way you're\n"
-	.string "dressed, are you a POKéMON TRAINER?$"
+	.i18n 3430
 
 PetalburgCity_Text_1DCB82: @ 81DCB82
-	.string "… … … … … …\p"
-	.string "Well, maybe not.\n"
-	.string "Your clothes aren't all that dirty.\p"
-	.string "You're either a rookie TRAINER,\n"
-	.string "or maybe you're just an ordinary kid.$"
+	.i18n 3431
 
 PetalburgCity_Text_1DCC09: @ 81DCC09
-	.string "I'm roaming the land in search of\n"
-	.string "talented TRAINERS.\p"
-	.string "I'm sorry to have taken your time.$"
+	.i18n 3432

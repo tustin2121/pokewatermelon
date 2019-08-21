@@ -261,109 +261,53 @@ Route110_TrickHouseEnd_Movement_26B08B: @ 826B08B
 	step_end
 
 Route110_TrickHouseEnd_Text_26B08D: @ 826B08D
-	.string "Aak!\n"
-	.string "You've made it to me?\l"
-	.string "Hmmm… You're sharp!$"
+	.i18n 3704
 
 Route110_TrickHouseEnd_Text_26B0BC: @ 826B0BC
-	.string "It took me all night to plant all those\n"
-	.string "trees…\p"
-	.string "You're almost my equal in greatness by\n"
-	.string "one, two, three, four, five, six places!$"
+	.i18n 3705
 
 Route110_TrickHouseEnd_Text_26B13B: @ 826B13B
-	.string "It took me all night to make the maze…\p"
-	.string "You're almost my equal in greatness by\n"
-	.string "one, two, three, four, five places!$"
+	.i18n 3706
 
 Route110_TrickHouseEnd_Text_26B1AD: @ 826B1AD
-	.string "It took me all night to prepare\n"
-	.string "the wall panels…\p"
-	.string "You're almost my equal in greatness by\n"
-	.string "one, two, three, four places!$"
+	.i18n 3707
 
 Route110_TrickHouseEnd_Text_26B223: @ 826B223
-	.string "It took me all night to shove in those\n"
-	.string "boulders…\p"
-	.string "You're almost my equal in greatness by\n"
-	.string "one, two, three places!$"
+	.i18n 3708
 
 Route110_TrickHouseEnd_Text_26B293: @ 826B293
-	.string "It took me all night to make MECHADOLLS\n"
-	.string "and another to think up the quiz…\p"
-	.string "You're almost my equal in greatness by\n"
-	.string "one, two places!$"
+	.i18n 3709
 
 Route110_TrickHouseEnd_Text_26B315: @ 826B315
-	.string "It took me all night to install\n"
-	.string "the doors…\p"
-	.string "You're almost my equal in greatness!$"
+	.i18n 3710
 
 Route110_TrickHouseEnd_Text_26B365: @ 826B365
-	.string "It took me all night setting up arrows…\p"
-	.string "You're my equal in greatness!$"
+	.i18n 3711
 
 Route110_TrickHouseEnd_Text_26B3AB: @ 826B3AB
-	.string "It took me all night polishing floors…\p"
-	.string "You're above me in greatness!\n"
-	.string "Possibly…$"
+	.i18n 3712
 
 Route110_TrickHouseEnd_Text_26B3FA: @ 826B3FA
-	.string "Wh-what should I do?\n"
-	.string "My fountain of ideas for tricks has\l"
-	.string "run dry…\p"
-	.string "Perhaps it is time I toured the country\n"
-	.string "on a quest to devise new tricks…$"
+	.i18n 3713
 
 Route110_TrickHouseEnd_Text_26B485: @ 826B485
-	.string "I hate to admit defeat, but you have\n"
-	.string "bested me!\p"
-	.string "Still, you must have been reeled in by\n"
-	.string "my charisma for you to visit me again\l"
-	.string "and again. Yes, you must have!\p"
-	.string "But that has nothing to do with my\n"
-	.string "losing!\p"
-	.string "In recognition of the friendship\n"
-	.string "between you, the driven, and the genius\l"
-	.string "that is myself, I demand that you take\l"
-	.string "this keepsake!\p"
-	.string "Actually there are two--\n"
-	.string "a RED TENT and a BLUE TENT.\l"
-	.string "Which do you prefer?$"
+	.i18n 3714
 
 Route110_TrickHouseEnd_Text_26B615: @ 826B615
-	.string "What? No room in your PC?\n"
-	.string "What am I to make of that?\p"
-	.string "I wish I could say that, but I am much\n"
-	.string "too kind and caring, so come back later!$"
+	.i18n 3715
 
 Route110_TrickHouseEnd_Text_26B69A: @ 826B69A
-	.string "… … … … … …\p"
-	.string "I am leaving on a journey of discovery.\n"
-	.string "A quest in search of new tricks.\p"
-	.string "I wish that you will one day visit and\n"
-	.string "entertain me again.\p"
-	.string "And now, farewell!$"
+	.i18n 3716
 
 Route110_TrickHouseEnd_Text_26B73D: @ 826B73D
-	.string "Fine!\n"
-	.string "You have earned this reward!$"
+	.i18n 3717
 
 Route110_TrickHouseEnd_Text_26B760: @ 826B760
-	.string "What? Have you no room for this?\n"
-	.string "What manner of items do you carry?\p"
-	.string "But fine, since you've reached me,\n"
-	.string "your reward will be with me till later.$"
+	.i18n 3718
 
 Route110_TrickHouseEnd_Text_26B7EF: @ 826B7EF
-	.string "Scrub that smug smirk from your face!\n"
-	.string "It's much too early to think you've won!\p"
-	.string "I'll make new tricks to stump you, I will.\n"
-	.string "You may mock me only when you're done.\p"
-	.string "Come back for the next exciting\n"
-	.string "installment!$"
+	.i18n 3719
 
 Route110_TrickHouseEnd_Text_26B8BD: @ 826B8BD
-	.string "Now, now! You're ignoring me now?\n"
-	.string "Now that, I consider heartbreaking!$"
+	.i18n 3720
 

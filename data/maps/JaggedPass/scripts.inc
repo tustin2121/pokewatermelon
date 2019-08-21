@@ -154,119 +154,83 @@ JaggedPass_EventScript_230871:: @ 8230871
 	end
 
 JaggedPass_Text_230888: @ 8230888
-	.string "MT. CHIMNEY's JAGGED PASS…\p"
-	.string "Now this is what I've always wanted\n"
-	.string "in a mountain.\p"
-	.string "This jagged bumpiness…\n"
-	.string "It rocks my soul!$"
+	.i18n 2340
 
 JaggedPass_Text_2308FF: @ 82308FF
-	.string "Losing left me bitter!$"
+	.i18n 2341
 
 JaggedPass_Text_230916: @ 8230916
-	.string "Yes, I did lose at POKéMON…\p"
-	.string "But, when it comes to the love of\n"
-	.string "the mountains, I have you beat!$"
+	.i18n 2342
 
 JaggedPass_Text_230974: @ 8230974
-	.string "This place isn't your casual hike.\n"
-	.string "It's not suited for a picnic.$"
+	.i18n 2343
 
 JaggedPass_Text_2309B5: @ 82309B5
-	.string "Ohhh, no!\n"
-	.string "The ground is too bumpy…$"
+	.i18n 2344
 
 JaggedPass_Text_2309D8: @ 82309D8
-	.string "Did you know?\p"
-	.string "Some people cleverly ride their\n"
-	.string "bicycles up this horribly bumpy pass.$"
+	.i18n 2345
 
 JaggedPass_Text_230A2C: @ 8230A2C
-	.string "Will you ever be back in this area?\n"
-	.string "If you do return, I'd like a rematch.$"
+	.i18n 2346
 
 JaggedPass_Text_230A76: @ 8230A76
-	.string "Picnics are fun wherever you go.\n"
-	.string "Just like POKéMON!$"
+	.i18n 2347
 
 JaggedPass_Text_230AAA: @ 8230AAA
-	.string "I only lost because the ground is\n"
-	.string "too bumpy!$"
+	.i18n 2348
 
 JaggedPass_Text_230AD7: @ 8230AD7
-	.string "I'll forget about losing and just\n"
-	.string "enjoy this bumpy hike.$"
+	.i18n 2349
 
 JaggedPass_Text_230B10: @ 8230B10
-	.string "JAGGED PASS is hard to walk on.\n"
-	.string "It's a good place for training.$"
+	.i18n 2350
 
 JaggedPass_Text_230B50: @ 8230B50
-	.string "It was all over while we were still\n"
-	.string "trying to find a good footing…$"
+	.i18n 2351
 
 JaggedPass_Text_230B93: @ 8230B93
-	.string "If I had an ACRO BIKE, I'd be able to\n"
-	.string "jump ledges.$"
+	.i18n 2352
 
 JaggedPass_Text_230BC6: @ 8230BC6
-	.string "When I get more used to this bumpiness,\n"
-	.string "I'll be sure to win!\p"
-	.string "Can you register me in your POKéNAV?$"
+	.i18n 2353
 
 JaggedPass_Text_230C28: @ 8230C28
-	.string "I got used to this bumpiness.\n"
-	.string "I sing while I climb now.$"
+	.i18n 2354
 
 JaggedPass_Text_230C60: @ 8230C60
-	.string "It's still not easy to battle on this\n"
-	.string "bumpy ground…$"
+	.i18n 2355
 
 JaggedPass_Text_230C94: @ 8230C94
-	.string "I should get an ACRO BIKE from RYDEL\n"
-	.string "in MAUVILLE CITY…$"
+	.i18n 2356
 
 JaggedPass_Text_230CCB: @ 8230CCB
-	.string "Wah!\n"
-	.string "What are you doing here?\p"
-	.string "What am I doing in a place like this?\p"
-	.string "What business is it of yours?$"
+	.i18n 2357
 
 JaggedPass_Text_230D2D: @ 8230D2D
-	.string "Urrrgh…\p"
-	.string "I should've ducked into our HIDEOUT\n"
-	.string "right away…$"
+	.i18n 2358
 
 JaggedPass_Text_230D65: @ 8230D65
-	.string "Okay, oh-kay!\n"
-	.string "I admit it--you're strong!\p"
-	.string "Don't worry about me.\n"
-	.string "Go wherever you want!$"
+	.i18n 2359
 
 JaggedPass_Text_230DBA: @ 8230DBA
-	.string "Oh! This boulder is shaking in response\n"
-	.string "to the MAGMA EMBLEM!$"
+	.i18n 2360
 
 JaggedPass_Text_230DF7: @ 8230DF7
-	.string "Aiyeeh! It's awfully scary to shoot\n"
-	.string "down the mountain in one go!$"
+	.i18n 2361
 
 JaggedPass_Text_230E38: @ 8230E38
-	.string "I feel like I'm falling apart…$"
+	.i18n 2362
 
 JaggedPass_Text_230E57: @ 8230E57
-	.string "My bicycle bounced around so much,\n"
-	.string "my rear end's sore…$"
+	.i18n 2363
 
 JaggedPass_Text_230E8E: @ 8230E8E
-	.string "I climb this hill every day.\n"
-	.string "I have confidence in my strength!$"
+	.i18n 2364
 
 JaggedPass_Text_230ECD: @ 8230ECD
-	.string "Hmm…\n"
-	.string "What went wrong?$"
+	.i18n 2365
 
 JaggedPass_Text_230EE3: @ 8230EE3
-	.string "What is that odd rock protrusion\n"
-	.string "a little up the hill from here?$"
+	.i18n 2366
 

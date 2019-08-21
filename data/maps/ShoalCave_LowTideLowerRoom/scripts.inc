@@ -49,12 +49,8 @@ ShoalCave_LowTideLowerRoom_EventScript_2371E1:: @ 82371E1
 	end
 
 ShoalCave_LowTideLowerRoom_Text_2371EB: @ 82371EB
-	.string "The penetrating cold around these\n"
-	.string "parts is an impediment to training.\p"
-	.string "But with focus, one can overcome!\p"
-	.string "With this FOCUS BAND, buckle down and\n"
-	.string "withstand the cold!$"
+	.i18n 4355
 
 ShoalCave_LowTideLowerRoom_Text_23728D: @ 823728D
-	.string "Everything starts with focus!$"
+	.i18n 4356
 

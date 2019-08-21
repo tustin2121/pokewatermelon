@@ -43,7 +43,5 @@ Route106_EventScript_1EE523:: @ 81EE523
 	end
 
 Route106_Text_1EE53A: @ 81EE53A
-	.string "TRAINER TIPS\p"
-	.string "Advice on catching POKéMON with a ROD:\n"
-	.string "Press the A Button if you get a bite.$"
+	.i18n 3623
 

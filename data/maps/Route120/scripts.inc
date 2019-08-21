@@ -384,71 +384,38 @@ Route120_EventScript_1F5981:: @ 81F5981
 	end
 
 Route120_Text_1F5998: @ 81F5998
-	.string "STEVEN: Hm? {PLAYER}{KUN}, hi.\n"
-	.string "It's been a while.\p"
-	.string "There's something here that you can't\n"
-	.string "see, right?\p"
-	.string "Now, if I were to use this device on\n"
-	.string "the invisible obstacle…\p"
-	.string "No, no. Rather than describing it,\n"
-	.string "I should just show you.\l"
-	.string "That would be more fun.\p"
-	.string "{PLAYER}{KUN}, are your POKéMON ready for\n"
-	.string "battle?$"
+	.i18n 4037
 
 Route120_Text_1F5AAC: @ 81F5AAC
-	.string "STEVEN: No?\p"
-	.string "I'll wait here, so you can get ready.$"
+	.i18n 4038
 
 Route120_Text_1F5ADE: @ 81F5ADE
-	.string "STEVEN: {PLAYER}{KUN}, are your POKéMON\n"
-	.string "ready for battle?$"
+	.i18n 4039
 
 Route120_Text_1F5B0F: @ 81F5B0F
-	.string "STEVEN: {PLAYER}{KUN}, show me your true\n"
-	.string "power as a TRAINER!$"
+	.i18n 4040
 
 Route120_Text_1F5B43: @ 81F5B43
-	.string "STEVEN used the DEVON SCOPE.\p"
-	.string "An invisible POKéMON became completely\n"
-	.string "visible!\p"
-	.string "The startled POKéMON attacked!$"
+	.i18n 4041
 
 Route120_Text_1F5BAF: @ 81F5BAF
-	.string "STEVEN: I see…\n"
-	.string "Your battle style is intriguing.\p"
-	.string "Your POKéMON have obviously grown\n"
-	.string "since I first met you in DEWFORD.\p"
-	.string "I'd like you to have this\n"
-	.string "DEVON SCOPE.\p"
-	.string "Who knows, there may be other\n"
-	.string "concealed POKéMON.$"
+	.i18n 4042
 
 Route120_Text_1F5C7B: @ 81F5C7B
-	.string "STEVEN: {PLAYER}{KUN}.\p"
-	.string "I enjoy seeing POKéMON and TRAINERS\n"
-	.string "who strive together.\p"
-	.string "I think you're doing great.\p"
-	.string "Well, let's meet again somewhere.$"
+	.i18n 4043
 
 Route119_Text_1F5D00: @ 81F5D00
 Route120_Text_1F5D00: @ 81F5D00
-	.string "Something unseeable is in the way.$"
+	.i18n 4044
 
 Route119_Text_1F5D23: @ 81F5D23
-	.string "Something unseeable is in the way.\p"
-	.string "Want to use the DEVON SCOPE?$"
+	.i18n 4045
 
 Route119_Text_1F5D63: @ 81F5D63
-	.string "{PLAYER} used the DEVON SCOPE.\p"
-	.string "An invisible POKéMON became completely\n"
-	.string "visible!\p"
-	.string "The startled POKéMON attacked!$"
+	.i18n 4046
 
 Route120_Text_1F5DCB: @ 81F5DCB
-	.string "ROUTE 120\n"
-	.string "{LEFT_ARROW} FORTREE CITY$"
+	.i18n 4047
 
 Route120_Text_1F5DE4: @ 81F5DE4
-	.string "{RIGHT_ARROW} ROUTE 121\n"
-	.string "{LEFT_ARROW} ROUTE 120$"
+	.i18n 4048

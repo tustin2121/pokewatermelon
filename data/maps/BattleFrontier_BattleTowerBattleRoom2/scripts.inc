@@ -483,57 +483,43 @@ BattleFrontier_BattleTowerBattleRoom2_Movement_249545: @ 8249545
 	step_end
 
 BattleFrontier_BattleTowerBattleRoom2_Text_249547: @ 8249547
-	.string "The 2nd set of opponents is next.\n"
-	.string "Are you ready?$"
+	.i18n 1344
 
 BattleFrontier_BattleTowerBattleRoom2_Text_249578: @ 8249578
-	.string "The 3rd set of opponents is next.\n"
-	.string "Are you ready?$"
+	.i18n 1345
 
 BattleFrontier_BattleTowerBattleRoom2_Text_2495A9: @ 82495A9
-	.string "The 4th set of opponents is next.\n"
-	.string "Are you ready?$"
+	.i18n 1346
 
 BattleFrontier_BattleTowerBattleRoom2_Text_2495DA: @ 82495DA
-	.string "The 5th set of opponents is next.\n"
-	.string "Are you ready?$"
+	.i18n 1347
 
 BattleFrontier_BattleTowerBattleRoom2_Text_24960B: @ 824960B
-	.string "The 6th set of opponents is next.\n"
-	.string "Are you ready?$"
+	.i18n 1348
 
 BattleFrontier_BattleTowerBattleRoom2_Text_24963C: @ 824963C
-	.string "The 7th set of opponents is next.\n"
-	.string "Are you ready?$"
+	.i18n 1349
 
 BattleFrontier_BattleTowerBattleRoom2_Text_24966D: @ 824966D
-	.string "The 2nd set of opponents is next.\n"
-	.string "Do your best!$"
+	.i18n 1350
 
 BattleFrontier_BattleTowerBattleRoom2_Text_24969D: @ 824969D
-	.string "The 3rd set of opponents is next.\n"
-	.string "Do your best!$"
+	.i18n 1351
 
 BattleFrontier_BattleTowerBattleRoom2_Text_2496CD: @ 82496CD
-	.string "The 4th set of opponents is next.\n"
-	.string "Do your best!$"
+	.i18n 1352
 
 BattleFrontier_BattleTowerBattleRoom2_Text_2496FD: @ 82496FD
-	.string "The 5th set of opponents is next.\n"
-	.string "Do your best!$"
+	.i18n 1353
 
 BattleFrontier_BattleTowerBattleRoom2_Text_24972D: @ 824972D
-	.string "The 6th set of opponents is next.\n"
-	.string "Do your best!$"
+	.i18n 1354
 
 BattleFrontier_BattleTowerBattleRoom2_Text_24975D: @ 824975D
-	.string "The 7th set of opponents is next.\n"
-	.string "Do your best!$"
+	.i18n 1355
 
 gText_LinkStandby3:: @ 824978D
-	.string "Link standby…$"
+	.i18n 1356
 
 gText_YourPartnerHasRetired:: @ 824979B
-	.string "Your partner has retired.\p"
-	.string "Your BATTLE ROOM challenge\n"
-	.string "will be canceled.$"
+	.i18n 1357

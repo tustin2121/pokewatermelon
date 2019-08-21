@@ -21,16 +21,11 @@ SootopolisCity_House2_EventScript_226AA2:: @ 8226AA2
 	return
 
 SootopolisCity_House2_Text_226AAB: @ 8226AAB
-	.string "MT. PYRE…\p"
-	.string "At its peak are two orbs placed side\n"
-	.string "by side. Did you know?$"
+	.i18n 4685
 
 SootopolisCity_House2_Text_226AF1: @ 8226AF1
-	.string "Yes, two orbs side by side…\p"
-	.string "The sight of them together…\n"
-	.string "It is somehow soothing…$"
+	.i18n 4686
 
 SootopolisCity_House2_Text_226B41: @ 8226B41
-	.string "Is that so?\n"
-	.string "Perhaps you ought to visit and see…$"
+	.i18n 4687
 

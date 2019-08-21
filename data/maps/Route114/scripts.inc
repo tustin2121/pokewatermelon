@@ -186,26 +186,20 @@ Route114_EventScript_1F27F2:: @ 81F27F2
 	end
 
 Route114_Text_1F2809: @ 81F2809
-	.string "All my POKéMON does is ROAR…\n"
-	.string "No one dares to come near me…\p"
-	.string "Sigh… If you would, please take\n"
-	.string "this TM away…$"
+	.i18n 3922
 
 Route114_Text_1F2872: @ 81F2872
-	.string "TM05 contains ROAR.\n"
-	.string "A ROAR sends POKéMON scurrying.$"
+	.i18n 3923
 
 Route114_Text_1F28A6: @ 81F28A6
-	.string "Bow! Bowwow!$"
+	.i18n 3924
 
 Route114_Text_1F28B3: @ 81F28B3
-	.string "METEOR FALLS\n"
-	.string "RUSTBORO CITY THROUGH HERE$"
+	.i18n 3925
 
 Route114_Text_1F28DB: @ 81F28DB
-	.string "FOSSIL MANIAC'S HOUSE\n"
-	.string "“Fossils gratefully accepted!”$"
+	.i18n 3926
 
 Route114_Text_1F2910: @ 81F2910
-	.string "LANETTE'S HOUSE$"
+	.i18n 3927
 

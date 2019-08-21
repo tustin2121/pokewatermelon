@@ -288,192 +288,97 @@ BattleFrontier_Lounge7_EventScript_2656E4:: @ 82656E4
 	end
 
 BattleFrontier_Lounge7_Text_2656ED: @ 82656ED
-	.string "Buhahaha!\p"
-	.string "You couldn't tell it from looking now,\n"
-	.string "but I used to be one tough TRAINER.\p"
-	.string "I had a reputation as the toughest\n"
-	.string "BEAUTY around, I tell you!\p"
-	.string "… … … … … …\p"
-	.string "What is it now?\n"
-	.string "You don't believe me.\p"
-	.string "I'm not like that blowhard woman over\n"
-	.string "there. I'm actually talented!\p"
-	.string "Let me prove it to you.\n"
-	.string "I can teach your POKéMON special and\l"
-	.string "yet cute moves.\p"
-	.string "But my lessons don't come free.\n"
-	.string "How about paying for the moves I teach\l"
-	.string "with a wee bit of Battle Points?$"
+	.i18n 1907
 
 BattleFrontier_Lounge7_Text_2658AB: @ 82658AB
-	.string "Buhahaha!\p"
-	.string "Are you back to learn special and\n"
-	.string "yet cute POKéMON moves?$"
+	.i18n 1908
 
 BattleFrontier_Lounge7_Text_2658EF: @ 82658EF
-	.string "Fine, fine, look here!\n"
-	.string "Which move should I teach?$"
+	.i18n 1909
 
 BattleFrontier_Lounge7_Text_265921: @ 8265921
-	.string "The move {STR_VAR_1}, is it?\n"
-	.string "That will be {STR_VAR_2} Battle Points, okay?$"
+	.i18n 1910
 
 BattleFrontier_Lounge7_Text_26595A: @ 826595A
-	.string "Fine, fine, now pick the POKéMON\n"
-	.string "I should teach the move to.$"
+	.i18n 1911
 
 BattleFrontier_Lounge7_Text_265997: @ 8265997
-	.string "What the…\n"
-	.string "You haven't got enough Battle Points!$"
+	.i18n 1912
 
 BattleFrontier_Lounge7_Text_2659C7: @ 82659C7
-	.string "Do you see how skilled I am now?\n"
-	.string "I'll take your Battle Points, thanks!$"
+	.i18n 1913
 
 BattleFrontier_Lounge7_Text_265A0E: @ 8265A0E
-	.string "What's that?\n"
-	.string "You don't want to…\p"
-	.string "If you want to see how skilled I am,\n"
-	.string "you come see me anytime!$"
+	.i18n 1914
 
 BattleFrontier_Lounge7_Text_265A6C: @ 8265A6C
-	.string "Ihihihi!\p"
-	.string "I know it's hard to see now, but I used\n"
-	.string "to be one fantastic TRAINER.\p"
-	.string "I had a reputation as the most\n"
-	.string "invincible SWIMMER around, I tell you!\p"
-	.string "… … … … … …\p"
-	.string "What's wrong?\n"
-	.string "You don't believe me.\p"
-	.string "I'm not like that buffoonish woman over\n"
-	.string "there. I'm actually experienced!\p"
-	.string "I can prove it to you.\n"
-	.string "I can teach your POKéMON hard and\l"
-	.string "yet pretty moves.\p"
-	.string "But my lessons don't come free.\n"
-	.string "How about paying for the moves I teach\l"
-	.string "with a wee bit of Battle Points?$"
+	.i18n 1915
 
 BattleFrontier_Lounge7_Text_265C2C: @ 8265C2C
-	.string "Ihihihi!\p"
-	.string "Have you come to learn hard and\n"
-	.string "yet pretty POKéMON moves?$"
+	.i18n 1916
 
 BattleFrontier_Lounge7_Text_265C6F: @ 8265C6F
-	.string "Those ladies, the way they bad-mouth\n"
-	.string "each other, you probably think that\l"
-	.string "they don't get along.\p"
-	.string "But if that were true, they wouldn't\n"
-	.string "stay out here together, would they?$"
+	.i18n 1917
 
 BattleFrontier_Lounge7_Text_265D17: @ 8265D17
-	.string "When I was just a wee YOUNGSTER,\n"
-	.string "those ladies were strong and beautiful.\p"
-	.string "They were idols among us TRAINERS.\p"
-	.string "Even now, age hasn't dulled their\n"
-	.string "abilities.\p"
-	.string "In fact, their POKéMON moves have\n"
-	.string "grown even more polished.\p"
-	.string "But… For some reason, I can't help\n"
-	.string "but feel this…\p"
-	.string "Time is so cruel…$"
+	.i18n 1918
 
 BattleFrontier_Lounge7_Text_265E30:: @ 8265E30
-	.string "Recovers up to\n"
-	.string "half the user's\n"
-	.string "maximum HP.$"
+	.i18n 1919
 
 BattleFrontier_Lounge7_Text_265E5B:: @ 8265E5B
-	.string "Inflicts damage\n"
-	.string "identical to the\n"
-	.string "user's level.$"
+	.i18n 1920
 
 BattleFrontier_Lounge7_Text_265E8A:: @ 8265E8A
-	.string "Recovers half the\n"
-	.string "damage inflicted\n"
-	.string "on a sleeping foe.$"
+	.i18n 1921
 
 BattleFrontier_Lounge7_Text_265EC0:: @ 8265EC0
-	.string "A strong punch\n"
-	.string "thrown with\n"
-	.string "incredible power.$"
+	.i18n 1922
 
 BattleFrontier_Lounge7_Text_265EED:: @ 8265EED
-	.string "An extremely\n"
-	.string "powerful kick with\n"
-	.string "intense force.$"
+	.i18n 1923
 
 BattleFrontier_Lounge7_Text_265F1C:: @ 8265F1C
-	.string "A full-body slam\n"
-	.string "that may cause\n"
-	.string "paralysis.$"
+	.i18n 1924
 
 BattleFrontier_Lounge7_Text_265F47:: @ 8265F47
-	.string "Large boulders\n"
-	.string "are hurled. May\n"
-	.string "cause flinching.$"
+	.i18n 1925
 
 BattleFrontier_Lounge7_Text_265F77:: @ 8265F77
-	.string "Retaliates any\n"
-	.string "physical hit with\n"
-	.string "double the power.$"
+	.i18n 1926
 
 BattleFrontier_Lounge7_Text_265FAA:: @ 8265FAA
-	.string "A weak jolt of\n"
-	.string "electricity that\n"
-	.string "paralyzes the foe.$"
+	.i18n 1927
 
 BattleFrontier_Lounge7_Text_265FDD:: @ 8265FDD
-	.string "A fighting dance\n"
-	.string "that sharply\n"
-	.string "raises ATTACK.$"
+	.i18n 1928
 
 BattleFrontier_Lounge7_Text_26600A:: @ 826600A
-	.string "Curls up to con-\n"
-	.string "ceal weak spots\n"
-	.string "and raise DEFENSE.$"
+	.i18n 1929
 
 BattleFrontier_Lounge7_Text_26603E:: @ 826603E
-	.string "A loud attack\n"
-	.string "that can be used\n"
-	.string "only while asleep.$"
+	.i18n 1930
 
 BattleFrontier_Lounge7_Text_266070:: @ 8266070
-	.string "Hurls mud in the\n"
-	.string "foe's face to re-\n"
-	.string "duce its accuracy.$"
+	.i18n 1931
 
 BattleFrontier_Lounge7_Text_2660A6:: @ 82660A6
-	.string "Sprays star-\n"
-	.string "shaped rays\n"
-	.string "that never miss.$"
+	.i18n 1932
 
 BattleFrontier_Lounge7_Text_2660D0:: @ 82660D0
-	.string "A chilling attack\n"
-	.string "that lowers the\n"
-	.string "foe's SPEED.$"
+	.i18n 1933
 
 BattleFrontier_Lounge7_Text_2660FF:: @ 82660FF
-	.string "Endures any at-\n"
-	.string "tack for 1 turn,\n"
-	.string "leaving 1HP.$"
+	.i18n 1934
 
 BattleFrontier_Lounge7_Text_26612D:: @ 826612D
-	.string "Copies the foe's\n"
-	.string "effect(s) and\n"
-	.string "gives to the user.$"
+	.i18n 1935
 
 BattleFrontier_Lounge7_Text_26615F:: @ 826615F
-	.string "An icy punch\n"
-	.string "that may\n"
-	.string "freeze the foe.$"
+	.i18n 1936
 
 BattleFrontier_Lounge7_Text_266185:: @ 8266185
-	.string "An electrified\n"
-	.string "punch that may\n"
-	.string "paralyze the foe.$"
+	.i18n 1937
 
 BattleFrontier_Lounge7_Text_2661B5:: @ 82661B5
-	.string "A fiery punch\n"
-	.string "that may burn\n"
-	.string "the foe.$"
+	.i18n 1938

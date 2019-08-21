@@ -34,67 +34,41 @@ MtPyre_3F_EventScript_2317CC:: @ 82317CC
 	end
 
 MtPyre_3F_Text_2317E3: @ 82317E3
-	.string "The rich atmosphere of the mountain\n"
-	.string "has elevated my psychic power!\p"
-	.string "A mere child like you…\n"
-	.string "You dream of winning?$"
+	.i18n 3308
 
 MtPyre_3F_Text_231853: @ 8231853
-	.string "I drown in self-pity…$"
+	.i18n 3309
 
 MtPyre_3F_Text_231869: @ 8231869
-	.string "My psychic powers have surely\n"
-	.string "grown several times, but…$"
+	.i18n 3310
 
 MtPyre_3F_Text_2318A1: @ 82318A1
-	.string "Ahahahaha!\p"
-	.string "This is no place for children, least\n"
-	.string "of all you!$"
+	.i18n 3311
 
 MtPyre_3F_Text_2318DD: @ 82318DD
-	.string "I lost that cleanly…$"
+	.i18n 3312
 
 MtPyre_3F_Text_2318F2: @ 82318F2
-	.string "This means my training is still not\n"
-	.string "enough…\p"
-	.string "I've got to keep working toward the\n"
-	.string "summit…\p"
-	.string "Go, me!$"
+	.i18n 3313
 
 MtPyre_3F_Text_231952: @ 8231952
-	.string "Why have you come here?$"
+	.i18n 3314
 
 MtPyre_3F_Text_23196A: @ 823196A
-	.string "That was amazing!\n"
-	.string "You're a very special TRAINER.$"
+	.i18n 3315
 
 MtPyre_3F_Text_23199B: @ 823199B
-	.string "POKéMON no longer of this world.\n"
-	.string "POKéMON that are with you now.\p"
-	.string "And the POKéMON that you will meet\n"
-	.string "in the future…\p"
-	.string "They are all to be equally cherished.\n"
-	.string "Please remember that.$"
+	.i18n 3316
 
 MtPyre_3F_Text_231A49: @ 8231A49
-	.string "I would like to see your POKéMON\n"
-	.string "when they grow up some more…\p"
-	.string "Please, I need to see your POKéNAV.$"
+	.i18n 3317
 
 MtPyre_3F_Text_231AAB: @ 8231AAB
-	.string "Oh, it's you…\p"
-	.string "Have you come to show me your grown\n"
-	.string "POKéMON?$"
+	.i18n 3318
 
 MtPyre_3F_Text_231AE6: @ 8231AE6
-	.string "How amazing!\n"
-	.string "You are a special person.$"
+	.i18n 3319
 
 MtPyre_3F_Text_231B0D: @ 8231B0D
-	.string "POKéMON no longer of this world.\n"
-	.string "POKéMON that are with you now.\p"
-	.string "And the POKéMON that you will meet\n"
-	.string "in the future…\p"
-	.string "They are all to be equally cherished.\n"
-	.string "I see that you've remembered that.$"
+	.i18n 3320
 

@@ -447,283 +447,119 @@ BattleFrontier_BattlePalaceLobby_EventScript_24DD59:: @ 824DD59
 	end
 
 BattleFrontier_BattlePalaceLobby_Text_24DD5B: @ 824DD5B
-	.string "Where the hearts of TRAINERS\n"
-	.string "are put to the test.\p"
-	.string "I welcome you to the BATTLE PALACE.\p"
-	.string "I accept challenges to the SINGLE\n"
-	.string "BATTLE HALLS.$"
+	.i18n 907
 
 BattleFrontier_BattlePalaceLobby_Text_24DDE1: @ 824DDE1
-	.string "Do you wish to take\n"
-	.string "the SINGLE BATTLE HALL challenge?$"
+	.i18n 908
 
 BattleFrontier_BattlePalaceLobby_Text_24DE17: @ 824DE17
-	.string "In the BATTLE PALACE, there are\n"
-	.string "several auditoriums for SINGLE BATTLES\l"
-	.string "that are named SINGLE BATTLE HALLS.\p"
-	.string "The SINGLE BATTLES are conducted in\n"
-	.string "the usual way, except with one crucial\l"
-	.string "rule that must be obeyed.\p"
-	.string "TRAINERS are permitted only to switch\n"
-	.string "their POKéMON in and out.\p"
-	.string "TRAINERS are otherwise forbidden to\n"
-	.string "command their POKéMON.\p"
-	.string "The POKéMON are to behave according\n"
-	.string "to their nature and battle on their own.\p"
-	.string "You must put your trust in your\n"
-	.string "POKéMON and watch over them.\p"
-	.string "If you achieve the honor of beating\n"
-	.string "seven TRAINERS in succession,\l"
-	.string "we will present you with Battle Points.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, you must save the game.\p"
-	.string "If you don't save before interrupting,\n"
-	.string "you will be disqualified.$"
+	.i18n 909
 
 BattleFrontier_BattlePalaceLobby_Text_24E0D8: @ 824E0D8
-	.string "When you have fortified your heart\n"
-	.string "and POKéMON, you must return.$"
+	.i18n 910
 
 BattleFrontier_BattlePalaceLobby_Text_24E119: @ 824E119
-	.string "There are two BATTLE HALLS,\n"
-	.string "Level 50 and Open Level.\l"
-	.string "Which is your choice of a challenge?$"
+	.i18n 911
 
 BattleFrontier_BattlePalaceLobby_Text_24E173: @ 824E173
-	.string "Sigh…\p"
-	.string "You do not have the three POKéMON\n"
-	.string "required for the challenge.\p"
-	.string "To enter, you must provide three\n"
-	.string "different kinds of POKéMON.\p"
-	.string "These POKéMON must all be of\n"
-	.string "Level 50 or lower.\p"
-	.string "They also must not be holding\n"
-	.string "the same kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "Come back when you have made\n"
-	.string "your preparations.$"
+	.i18n 912
 
 BattleFrontier_BattlePalaceLobby_Text_24E29E: @ 824E29E
-	.string "Sigh…\p"
-	.string "You do not have the three POKéMON\n"
-	.string "required for the challenge.\p"
-	.string "To enter, you must provide three\n"
-	.string "different kinds of POKéMON.\p"
-	.string "They also must not be holding\n"
-	.string "the same kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "Come back when you have made\n"
-	.string "your preparations.$"
+	.i18n 913
 
 BattleFrontier_BattlePalaceLobby_Text_24E399: @ 824E399
-	.string "Good. Now, you must select your\n"
-	.string "three POKéMON.$"
+	.i18n 914
 
 BattleFrontier_BattlePalaceLobby_Text_24E3C8: @ 824E3C8
-	.string "I must save before I show you to\n"
-	.string "the BATTLE HALL. Is that okay?$"
+	.i18n 915
 
 BattleFrontier_BattlePalaceLobby_Text_24E408: @ 824E408
-	.string "Good.\n"
-	.string "Now, follow me.$"
+	.i18n 916
 
 BattleFrontier_BattlePalaceLobby_Text_24E41E: @ 824E41E
-	.string "I feel privileged for having seen\n"
-	.string "your POKéMON's exploits.\p"
-	.string "The results will be recorded.\n"
-	.string "I must ask you to briefly wait.$"
+	.i18n 917
 
 BattleFrontier_BattlePalaceLobby_Text_24E497: @ 824E497
-	.string "To achieve a 7-win streak…\p"
-	.string "The bonds that bind your heart with\n"
-	.string "your POKéMON seem firm and true.$"
+	.i18n 918
 
 BattleFrontier_BattlePalaceLobby_Text_24E4F7: @ 824E4F7
-	.string "Your feat will be recorded.\n"
-	.string "I must ask you to briefly wait.$"
+	.i18n 919
 
 BattleFrontier_BattlePalaceLobby_Text_24E533: @ 824E5333
-    .string "For the feat of your 7-win streak,\n"
-    .string "we present you with Battle Point(s).$"
+    .i18n 920
 
 VerdanturfTown_BattleTentLobby_Text_24E57B: @ 824E57B
-	.string "You seem to have no space for\n"
-	.string "our prize.\p"
-	.string "You should return when you have\n"
-	.string "organized your BAG.$"
+	.i18n 921
 
 BattleFrontier_BattlePalaceLobby_Text_24E5D8: @ 824E5D8
 VerdanturfTown_BattleTentLobby_Text_24E5D8: @ 824E5D8
-	.string "We have been waiting for you…$"
+	.i18n 922
 
 BattleFrontier_BattlePalaceLobby_Text_24E5F6: @ 824E5F6
 VerdanturfTown_BattleTentLobby_Text_24E5F6: @ 824E5F6
-	.string "I must save before I show you to\n"
-	.string "the BATTLE HALL. Is that okay?$"
+	.i18n 923
 
 BattleFrontier_BattlePalaceLobby_Text_24E636: @ 824E636
 VerdanturfTown_BattleTentLobby_Text_24E636: @ 824E636
-	.string "Sigh…\p"
-	.string "You failed to save before you ended\n"
-	.string "your challenge the last time.\p"
-	.string "As a result, your challenge has been\n"
-	.string "disqualified. It is most unfortunate.$"
+	.i18n 924
 
 BattleFrontier_BattlePalaceLobby_Text_24E6C9: @ 824E6C9
-	.string "{PLAYER} received the prize\n"
-	.string "{STR_VAR_1}.$"
+	.i18n 925
 
 BattleFrontier_BattlePalaceLobby_Text_24E6E3: @ 824E6E3
-	.string "For a hardy fellow like me,\n"
-	.string "hardy POKéMON are the best.\p"
-	.string "Offense is the best defense!\n"
-	.string "A relentless attack is the ultimate!\p"
-	.string "But that's not what I wanted to chat\n"
-	.string "about.\p"
-	.string "Every so often a really cute lady\n"
-	.string "swings by here.\p"
-	.string "She says that she can tell what\n"
-	.string "POKéMON are thinking.\p"
-	.string "I don't know about that part,\n"
-	.string "but she is really cute.\p"
-	.string "Huh?\n"
-	.string "Why are you looking at me like that?$"
+	.i18n 926
 
 BattleFrontier_BattlePalaceLobby_Text_24E851: @ 824E851
-	.string "Hmm…\p"
-	.string "It appears that the nature of POKéMON\n"
-	.string "and the moves that they have been\l"
-	.string "taught are the keys to battle here.\p"
-	.string "To be more precise, it's how well\n"
-	.string "the moves match the nature of\l"
-	.string "the POKéMON.\p"
-	.string "If your POKéMON is in trouble and\n"
-	.string "unable to live up to its potential,\l"
-	.string "you may need to examine how well\l"
-	.string "its moves match its nature.$"
+	.i18n 927
 
 BattleFrontier_BattlePalaceLobby_Text_24E992: @ 824E992
-	.string "My POKéMON is usually very docile.\p"
-	.string "But when it's in a BATTLE HALL,\n"
-	.string "it sometimes seems to become\l"
-	.string "transformed into something wicked!\p"
-	.string "It becomes totally intimidating.\n"
-	.string "It's shocking, even.$"
+	.i18n 928
 
 BattleFrontier_BattlePalaceLobby_Text_24EA4B: @ 824EA4B
-	.string "I wonder what sort of nature a POKéMON\n"
-	.string "would have if it favored enfeebling its\l"
-	.string "opponents and chipping away slowly.\p"
-	.string "I'd be surprised if it was a LAX nature.\p"
-	.string "But, nah, that can't be right.$"
+	.i18n 929
 
 BattleFrontier_BattlePalaceLobby_Text_24EB06: @ 824EB06
-	.string "Where the hearts of TRAINERS\n"
-	.string "are put to the test.\p"
-	.string "I welcome you to the BATTLE PALACE.\p"
-	.string "I accept challenges to the DOUBLE\n"
-	.string "BATTLE HALLS.$"
+	.i18n 930
 
 BattleFrontier_BattlePalaceLobby_Text_24EB8C: @ 824EB8C
-	.string "Do you wish to take\n"
-	.string "the DOUBLE BATTLE HALL challenge?$"
+	.i18n 931
 
 BattleFrontier_BattlePalaceLobby_Text_24EBC2: @ 824EBC2
-	.string "In the BATTLE PALACE, there are\n"
-	.string "several auditoriums for DOUBLE BATTLES\l"
-	.string "that are named DOUBLE BATTLE HALLS.\p"
-	.string "The DOUBLE BATTLES are conducted in\n"
-	.string "the usual way, except with one crucial\l"
-	.string "rule that must be obeyed.\p"
-	.string "TRAINERS are permitted only to switch\n"
-	.string "their POKéMON in and out.\p"
-	.string "TRAINERS are otherwise forbidden to\n"
-	.string "command their POKéMON.\p"
-	.string "The POKéMON are to behave according\n"
-	.string "to their nature and battle on their own.\p"
-	.string "You must put your trust in your\n"
-	.string "POKéMON and watch over them.\p"
-	.string "If you achieve the honor of beating\n"
-	.string "seven TRAINERS in succession,\l"
-	.string "we will present you with Battle Points.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, please save the game.\p"
-	.string "If you don't save before interrupting,\n"
-	.string "you will be disqualified.$"
+	.i18n 932
 
 BattleFrontier_BattlePalaceLobby_Text_24EE81: @ 824EE81
-	.string "To defeat the PALACE MAVEN\n"
-	.string "and seven TRAINERS in a row…$"
+	.i18n 933
 
 BattleFrontier_BattlePalaceLobby_Text_24EEB9: @ 824EEB9
-	.string "In honor of the bond you share with\n"
-	.string "your POKéMON, we present you with\l"
-	.string "these Battle Point(s).$"
+	.i18n 934
 
 BattleFrontier_BattlePalaceLobby_Text_24EF16: @ 824EF16
-	.string "Would you like to record your latest\n"
-	.string "BATTLE PALACE match on your\l"
-	.string "FRONTIER PASS?$"
+	.i18n 935
 
 BattleFrontier_BattlePalaceLobby_Text_24EF66: @ 824EF66
-	.string "The BATTLE HALL rules are listed.$"
+	.i18n 936
 
 BattleFrontier_BattlePalaceLobby_Text_24EF88: @ 824EF88
 VerdanturfTown_BattleTentLobby_Text_24EF88: @ 824EF88
-	.string "Which heading do you want to read?$"
+	.i18n 937
 
 BattleFrontier_BattlePalaceLobby_Text_24EFAB: @ 824EFAB
 VerdanturfTown_BattleTentLobby_Text_24EFAB: @ 824EFAB
-	.string "Here, POKéMON are required to think\n"
-	.string "and battle by themselves.\p"
-	.string "Unlike in the wild, POKéMON that live\n"
-	.string "with people behave differently\l"
-	.string "depending on their nature.$"
+	.i18n 938
 
 BattleFrontier_BattlePalaceLobby_Text_24F049: @ 824F049
 VerdanturfTown_BattleTentLobby_Text_24F049: @ 824F049
-	.string "Depending on its nature, a POKéMON\n"
-	.string "may prefer to attack no matter what.\p"
-	.string "Another POKéMON may prefer to protect\n"
-	.string "itself from any harm.\p"
-	.string "Yet another may enjoy vexing or\n"
-	.string "confounding its foes.\p"
-	.string "Due to its nature, a POKéMON\n"
-	.string "will have favorite moves that it is good\l"
-	.string "at using.\p"
-	.string "It may also dislike certain moves that\n"
-	.string "it has trouble using.$"
+	.i18n 939
 
 BattleFrontier_BattlePalaceLobby_Text_24F190: @ 824F190
 VerdanturfTown_BattleTentLobby_Text_24F190: @ 824F190
-	.string "There are offensive moves that inflict\n"
-	.string "direct damage on the foe.\p"
-	.string "There are defensive moves that are\n"
-	.string "used to prepare for enemy attacks or\l"
-	.string "used to heal HP and so on.\p"
-	.string "There are also other somewhat-odd\n"
-	.string "moves that may enfeeble the foes with\l"
-	.string "stat problems including poison and \l"
-	.string "paralysis.\p"
-	.string "POKéMON will consider using moves in\n"
-	.string "these three categories.$"
+	.i18n 940
 
 BattleFrontier_BattlePalaceLobby_Text_24F2E8: @ 824F2E8
 VerdanturfTown_BattleTentLobby_Text_24F2E8: @ 824F2E8
-	.string "When not under command by its TRAINER,\n"
-	.string "a POKéMON may be unable to effectively\l"
-	.string "use certain moves.\p"
-	.string "A POKéMON is not good at using any\n"
-	.string "move that it dislikes.\p"
-	.string "If a POKéMON only knows moves that\n"
-	.string "do not match its nature, it will often\l"
-	.string "be unable to live up to its potential.$"
+	.i18n 941
 
 BattleFrontier_BattlePalaceLobby_Text_24F3F4: @ 824F3F4
 VerdanturfTown_BattleTentLobby_Text_24F3F4: @ 824F3F4
-	.string "Depending on its nature, a POKéMON may\n"
-	.string "start using moves that don't match its\l"
-	.string "nature when it is in trouble.\p"
-	.string "If a POKéMON begins behaving oddly\n"
-	.string "in a pinch, watch it carefully.$"
+	.i18n 942
 

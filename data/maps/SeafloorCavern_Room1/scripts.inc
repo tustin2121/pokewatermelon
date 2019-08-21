@@ -12,25 +12,20 @@ SeafloorCavern_Room1_EventScript_234803:: @ 8234803
 	end
 
 SeafloorCavern_Room1_Text_23481A: @ 823481A
-	.string "We don't need a kid around!\n"
-	.string "Go on home already!$"
+	.i18n 4322
 
 SeafloorCavern_Room1_Text_23484A: @ 823484A
-	.string "I want to go home…$"
+	.i18n 4323
 
 SeafloorCavern_Room1_Text_23485D: @ 823485D
-	.string "I want to get a promotion so I can\n"
-	.string "boss around the GRUNTS…$"
+	.i18n 4324
 
 SeafloorCavern_Room1_Text_234898: @ 8234898
-	.string "That submarine… It's tiny inside.\n"
-	.string "I'm sore all over!$"
+	.i18n 4325
 
 SeafloorCavern_Room1_Text_2348CD: @ 82348CD
-	.string "Losing makes me sore!$"
+	.i18n 4326
 
 SeafloorCavern_Room1_Text_2348E3: @ 82348E3
-	.string "That submarine we jacked, man,\n"
-	.string "it's brutal as a ride.\l"
-	.string "It's way too tight in there!$"
+	.i18n 4327
 

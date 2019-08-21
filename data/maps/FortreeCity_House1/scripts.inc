@@ -64,38 +64,23 @@ FortreeCity_House1_EventScript_216368:: @ 8216368
 	end
 
 FortreeCity_House1_Text_21637B: @ 821637B
-	.string "Wrooooaaar! I need it!\n"
-	.string "I have to get me a {STR_VAR_1}!\l"
-	.string "I'll do anything for it!\p"
-	.string "…Uh… Did you hear that?\n"
-	.string "My shout from the bottom of my heart?\p"
-	.string "Having heard that, you will trade\n"
-	.string "your {STR_VAR_1} for my {STR_VAR_2},\l"
-	.string "won't you?$"
+	.i18n 2300
 
 FortreeCity_House1_Text_216440: @ 8216440
-	.string "Oh, yeah, right on!\p"
-	.string "{STR_VAR_1}, welcome!\n"
-	.string "{STR_VAR_2}, you take care!$"
+	.i18n 2301
 
 FortreeCity_House1_Text_216474: @ 8216474
-	.string "Uh, no, I don't think so.\n"
-	.string "That isn't a {STR_VAR_1}.$"
+	.i18n 2302
 
 FortreeCity_House1_Text_21649F: @ 821649F
-	.string "No? You won't trade me?\n"
-	.string "Even after I bared my heart to you?$"
+	.i18n 2303
 
 FortreeCity_House1_Text_2164DB: @ 82164DB
-	.string "I'm going to make VOLBEAT super\n"
-	.string "strong from this moment on!\p"
-	.string "I hope you do the same with PLUSLE!$"
+	.i18n 2304
 
 FortreeCity_House1_Text_21653B: @ 821653B
-	.string "Trading POKéMON with others…\p"
-	.string "It's as if you're trading your own\n"
-	.string "memories with other people.$"
+	.i18n 2305
 
 FortreeCity_House1_Text_216597: @ 8216597
-	.string "ZIGZAGOON: Gumomoh?$"
+	.i18n 2306
 

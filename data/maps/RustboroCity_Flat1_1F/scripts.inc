@@ -10,9 +10,8 @@ RustboroCity_Flat1_1F_EventScript_2150D7:: @ 82150D7
 	end
 
 RustboroCity_Flat1_1F_Text_2150E0: @ 82150E0
-	.string "Every POKéMON has a special ability\n"
-	.string "that it can use.$"
+	.i18n 4172
 
 RustboroCity_Flat1_1F_Text_215115: @ 8215115
-	.string "POKéMON are such strange creatures.$"
+	.i18n 4173
 

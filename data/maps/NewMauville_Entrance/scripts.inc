@@ -50,12 +50,11 @@ NewMauville_Entrance_EventScript_237380:: @ 8237380
 	end
 
 NewMauville_Entrance_Text_237382: @ 8237382
-	.string "The door is locked.$"
+	.i18n 3361
 
 NewMauville_Entrance_Text_237396: @ 8237396
-	.string "Use the BASEMENT KEY?$"
+	.i18n 3362
 
 NewMauville_Entrance_Text_2373AC: @ 82373AC
-	.string "{PLAYER} used the BASEMENT KEY.\p"
-	.string "The door opened!$"
+	.i18n 3363
 

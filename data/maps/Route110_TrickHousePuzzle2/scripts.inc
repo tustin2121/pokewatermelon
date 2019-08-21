@@ -105,42 +105,32 @@ Route110_TrickHousePuzzle2_EventScript_26BCA3:: @ 826BCA3
 	end
 
 Route110_TrickHousePuzzle2_Text_26BCBA: @ 826BCBA
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is smart.”\n"
-	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.i18n 3756
 
 Route110_TrickHousePuzzle2_Text_26BD25: @ 826BD25
-	.string "Which switch closes which hole?$"
+	.i18n 3757
 
 Route110_TrickHousePuzzle2_Text_26BD45: @ 826BD45
-	.string "After that battle, I'm even more\n"
-	.string "confused!$"
+	.i18n 3758
 
 Route110_TrickHousePuzzle2_Text_26BD70: @ 826BD70
-	.string "Can I get you to push all the buttons\n"
-	.string "for me?$"
+	.i18n 3759
 
 Route110_TrickHousePuzzle2_Text_26BD9E: @ 826BD9E
-	.string "Oh! You're on your second TRICK HOUSE\n"
-	.string "challenge!$"
+	.i18n 3760
 
 Route110_TrickHousePuzzle2_Text_26BDCF: @ 826BDCF
-	.string "You're good at battling too?$"
+	.i18n 3761
 
 Route110_TrickHousePuzzle2_Text_26BDEC: @ 826BDEC
-	.string "The TRICK MASTER rigged all the tricks\n"
-	.string "in this house all by himself.$"
+	.i18n 3762
 
 Route110_TrickHousePuzzle2_Text_26BE31: @ 826BE31
-	.string "I want to make my own GYM one day.\n"
-	.string "So, I'm studying how to set traps.$"
+	.i18n 3763
 
 Route110_TrickHousePuzzle2_Text_26BE77: @ 826BE77
-	.string "I didn't study battling enough!$"
+	.i18n 3764
 
 Route110_TrickHousePuzzle2_Text_26BE97: @ 826BE97
-	.string "You're strong, aren't you?\n"
-	.string "Maybe even enough to be a GYM LEADER!$"
+	.i18n 3765
 

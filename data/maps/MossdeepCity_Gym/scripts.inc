@@ -362,284 +362,157 @@ MossdeepCity_Gym_EventScript_220CBF:: @ 8220CBF
 	end
 
 MossdeepCity_Gym_Text_220CD5: @ 8220CD5
-	.string "Yo, how's it going, CHAMPION-bound\n"
-	.string "{PLAYER}?\p"
-	.string "The GYM LEADERS here use\n"
-	.string "PSYCHIC-type POKéMON.\p"
-	.string "If you go up against them with\n"
-	.string "FIGHTING- or POISON-type POKéMON,\l"
-	.string "they'll inflict horrible damage!\p"
-	.string "Plus, they'll come at you with\n"
-	.string "outstanding combination attacks.\p"
-	.string "If you want to win, you'll need to show\n"
-	.string "them how tight you are with your\l"
-	.string "POKéMON. Go for it!$"
+	.i18n 3082
 
 MossdeepCity_Gym_Text_220E2A: @ 8220E2A
-	.string "Wow, you're astounding!\n"
-	.string "You're one great TRAINER!$"
+	.i18n 3083
 
 MossdeepCity_Gym_Text_220E5C: @ 8220E5C
-	.string "Battles hinge on the strength of your\n"
-	.string "spirit! The weak-spirited will never win!$"
+	.i18n 3084
 
 MossdeepCity_Gym_Text_220EAC: @ 8220EAC
-	.string "I lost!\n"
-	.string "I must temper my spirit again!$"
+	.i18n 3085
 
 MossdeepCity_Gym_Text_220ED3: @ 8220ED3
-	.string "The indecisive lose.\n"
-	.string "That's my warning to you.$"
+	.i18n 3086
 
 MossdeepCity_Gym_Text_220F02: @ 8220F02
-	.string "Let me see your talent!$"
+	.i18n 3087
 
 MossdeepCity_Gym_Text_220F1A: @ 8220F1A
-	.string "You possess spectacular talent!$"
+	.i18n 3088
 
 MossdeepCity_Gym_Text_220F3A: @ 8220F3A
-	.string "If there are prodigies in the world,\n"
-	.string "then our GYM LEADERS are them!\p"
-	.string "However, you may be even more talented\n"
-	.string "than them…$"
+	.i18n 3089
 
 MossdeepCity_Gym_Text_220FB0: @ 8220FB0
-	.string "Fufufufu… Watch me levitate a POKé\n"
-	.string "BALL telekinetically!\p"
-	.string "Wrooooooooaaaar!\n"
-	.string "… … … … … … …\p"
-	.string "Sometimes, I'm out of sync…$"
+	.i18n 3090
 
 MossdeepCity_Gym_Text_221024: @ 8221024
-	.string "My POKéMON battling skills are out\n"
-	.string "of sync, too!$"
+	.i18n 3091
 
 MossdeepCity_Gym_Text_221055: @ 8221055
-	.string "A POKé BALL was too heavy to lift\n"
-	.string "psychically. But this dust bunny…\p"
-	.string "Whoooooooooooooooh!\n"
-	.string "… … … … … …\p"
-	.string "No, I'm not cheating!\n"
-	.string "I didn't blow on it! Honestly!$"
+	.i18n 3092
 
 MossdeepCity_Gym_Text_2210EE: @ 82210EE
-	.string "When you lose to me, don't be too hard\n"
-	.string "on yourself.\p"
-	.string "It's not that you're weak--I'm just\n"
-	.string "too strong!$"
+	.i18n 3093
 
 MossdeepCity_Gym_Text_221152: @ 8221152
-	.string "You're just too strong!$"
+	.i18n 3094
 
 MossdeepCity_Gym_Text_22116A: @ 822116A
-	.string "I'm not going to get down on myself for\n"
-	.string "losing. I just need to train harder.\p"
-	.string "Positive thinking--that's my strong\n"
-	.string "point!$"
+	.i18n 3095
 
 MossdeepCity_Gym_Text_2211E2: @ 82211E2
-	.string "I see it…\n"
-	.string "I see your future…\p"
-	.string "If you can beat me, I will tell you\n"
-	.string "your future!$"
+	.i18n 3096
 
 MossdeepCity_Gym_Text_221230: @ 8221230
-	.string "I surrender!$"
+	.i18n 3097
 
 MossdeepCity_Gym_Text_22123D: @ 822123D
-	.string "You will wage a terrifically intense\n"
-	.string "battle with our GYM LEADERS…\p"
-	.string "The result…\n"
-	.string "You won't hear it from me!$"
+	.i18n 3098
 
 MossdeepCity_Gym_Text_2212A6: @ 82212A6
-	.string "The roads you have traveled…\n"
-	.string "What you have experienced…\p"
-	.string "Come at me with everything you've\n"
-	.string "learned!$"
+	.i18n 3099
 
 MossdeepCity_Gym_Text_221309: @ 8221309
-	.string "You've traveled a path of greatness!$"
+	.i18n 3100
 
 MossdeepCity_Gym_Text_22132E: @ 822132E
-	.string "A bright future awaits those who have\n"
-	.string "worked diligently.\p"
-	.string "For those who lazed idly, there is\n"
-	.string "only despair at the end.\p"
-	.string "What goes around comes around…$"
+	.i18n 3101
 
 MossdeepCity_Gym_Text_2213C2: @ 82213C2
-	.string "Even at the risk of life, I will win\n"
-	.string "this battle!$"
+	.i18n 3102
 
 MossdeepCity_Gym_Text_2213F4: @ 82213F4
-	.string "What you do…\n"
-	.string "It horrifies me…$"
+	.i18n 3103
 
 MossdeepCity_Gym_Text_221412: @ 8221412
-	.string "How dare you beat me…\p"
-	.string "It won't be my fault if something\n"
-	.string "horrible befalls you…$"
+	.i18n 3104
 
 MossdeepCity_Gym_Text_221460: @ 8221460
-	.string "Hohoho.\p"
-	.string "You need me to show you how tenacious\n"
-	.string "the PSYCHIC type can be.$"
+	.i18n 3105
 
 MossdeepCity_Gym_Text_2214A7: @ 82214A7
-	.string "Oh! My, my!\n"
-	.string "Your battle style is fantastic!$"
+	.i18n 3106
 
 MossdeepCity_Gym_Text_2214D3: @ 82214D3
-	.string "I… I don't let defeat rattle m-me,\n"
-	.string "however b-badly.$"
+	.i18n 3107
 
 MossdeepCity_Gym_Text_221507: @ 8221507
-	.string "Let me show you a perfectly awful,\n"
-	.string "horrifying time!$"
+	.i18n 3108
 
 MossdeepCity_Gym_Text_22153B: @ 822153B
-	.string "N-nooooo!$"
+	.i18n 3109
 
 MossdeepCity_Gym_Text_221545: @ 8221545
-	.string "Your vitality is contagious!\n"
-	.string "Get away from me quickly!$"
+	.i18n 3110
 
 MossdeepCity_Gym_Text_22157C: @ 822157C
-	.string "I may be past my prime, but I suggest\n"
-	.string "you not patronize me.$"
+	.i18n 3111
 
 MossdeepCity_Gym_Text_2215B8: @ 82215B8
-	.string "Ah, you overflow with the power\n"
-	.string "of youth!$"
+	.i18n 3112
 
 MossdeepCity_Gym_Text_2215E2: @ 82215E2
-	.string "It seems that I could not overcome\n"
-	.string "your youthful energy.$"
+	.i18n 3113
 
 MossdeepCity_Gym_Text_22161B: @ 822161B
-	.string "You're not getting through to the end!\n"
-	.string "Not if I can help it!$"
+	.i18n 3114
 
 MossdeepCity_Gym_Text_221658: @ 8221658
-	.string "How could you be so ludicrously\n"
-	.string "strong?$"
+	.i18n 3115
 
 MossdeepCity_Gym_Text_221680: @ 8221680
-	.string "Humph! You may be strong, but you're\n"
-	.string "not suitable for the PSYCHIC type!\p"
-	.string "The way you battle is somehow brutal!$"
+	.i18n 3116
 
 MossdeepCity_Gym_Text_2216EE: @ 82216EE
-	.string "Wroooar! Have a taste of my super\n"
-	.string "POKéMON hard-battling power!$"
+	.i18n 3117
 
 MossdeepCity_Gym_Text_22172D: @ 822172D
-	.string "Oh!\n"
-	.string "Done in!$"
+	.i18n 3118
 
 MossdeepCity_Gym_Text_22173A: @ 822173A
-	.string "All right! I think I'll develop a special\n"
-	.string "invincible POKéMON power next.$"
+	.i18n 3119
 
 MossdeepCity_Gym_Text_221783: @ 8221783
-	.string "TATE: Hehehe… Were you surprised?\p"
-	.string "LIZA: Fufufu… Were you surprised?\p"
-	.string "TATE: That there are two GYM LEADERS?\n"
-	.string "LIZA: That there are two GYM LEADERS?\p"
-	.string "TATE: We're twins!\n"
-	.string "LIZA: We're twins!\p"
-	.string "TATE: We don't need to talk because…\n"
-	.string "LIZA: We can each determine what…\p"
-	.string "TATE: The other is thinking…\n"
-	.string "LIZA: All in our minds!\p"
-	.string "TATE: This combination of ours…\n"
-	.string "LIZA: Can you beat it?$"
+	.i18n 3120
 
 MossdeepCity_Gym_Text_2218EC: @ 82218EC
-	.string "TATE: What?! Our combination…\n"
-	.string "LIZA: Was shattered!\p"
-	.string "TATE: It can't be helped. You've won…\n"
-	.string "LIZA: So, in recognition, take this.$"
+	.i18n 3121
 
 MossdeepCity_Gym_Text_22196A: @ 822196A
-	.string "{PLAYER} received the MIND BADGE\n"
-	.string "from TATE and LIZA.$"
+	.i18n 3122
 
 MossdeepCity_Gym_Text_221999: @ 8221999
-	.string "TATE: The MIND BADGE enhances the\n"
-	.string "SP. ATK and SP. DEF of POKéMON.\p"
-	.string "LIZA: It also lets you use the HM move\n"
-	.string "DIVE outside of battle.\p"
-	.string "TATE: You should also take this, too.$"
+	.i18n 3123
 
 MossdeepCity_Gym_Text_221A40: @ 8221A40
-	.string "TATE: That TM04 contains…\n"
-	.string "LIZA: CALM MIND!\p"
-	.string "TATE: It raises SP. ATK and…\n"
-	.string "LIZA: It raises SP. DEF!\p"
-	.string "TATE: It's a move that's perfect…\n"
-	.string "LIZA: For PSYCHIC POKéMON!\p"
-	.string "… … … … … …$"
+	.i18n 3124
 
 MossdeepCity_Gym_Text_221AEA: @ 8221AEA
-	.string "Registered GYM LEADERS TATE & LIZA\n"
-	.string "in the POKéNAV.$"
+	.i18n 3125
 
 MossdeepCity_Gym_Text_221B1D: @ 8221B1D
-	.string "TATE: Looks like the bond between you\n"
-	.string "and your POKéMON is far stronger than\l"
-	.string "the bond that we share as twins.\p"
-	.string "LIZA: You will become even stronger!\n"
-	.string "We've battled you, so we know.$"
+	.i18n 3126
 
 MossdeepCity_Gym_Text_221BCE: @ 8221BCE
-	.string "TATE: Hehehe… Were you surprised?\p"
-	.string "LIZA: That there are two GYM LEADERS?\p"
-	.string "TATE: Oops, you have only one…\n"
-	.string "LIZA: POKéMON that can battle.\p"
-	.string "TATE: We can't battle that way!\p"
-	.string "LIZA: If you want to challenge us,\n"
-	.string "bring some more POKéMON.$"
+	.i18n 3127
 
 MossdeepCity_Gym_Text_221CB0: @ 8221CB0
-	.string "MOSSDEEP CITY POKéMON GYM$"
+	.i18n 3128
 
 MossdeepCity_Gym_Text_221CCA: @ 8221CCA
-	.string "MOSSDEEP CITY POKéMON GYM\p"
-	.string "LIZA AND TATE'S CERTIFIED TRAINERS:\n"
-	.string "{PLAYER}$"
+	.i18n 3129
 
 MossdeepCity_Gym_Text_221D0B: @ 8221D0B
-	.string "TATE: POKéMON…\n"
-	.string "LIZA: POKéMON…\p"
-	.string "TATE: By changing the party's mix…\n"
-	.string "LIZA: The battle style changes.\p"
-	.string "TATE: But me…\n"
-	.string "LIZA: But me…\p"
-	.string "TATE: I'll always be with LIZA!\n"
-	.string "LIZA: I'll always be with TATE!\p"
-	.string "TATE: Our combination…\n"
-	.string "LIZA: We'll show you again and again!$"
+	.i18n 3130
 
 MossdeepCity_Gym_Text_221E05: @ 8221E05
-	.string "TATE: You and your POKéMON…\n"
-	.string "LIZA: It's as if you were siblings!$"
+	.i18n 3131
 
 MossdeepCity_Gym_Text_221E45: @ 8221E45
-	.string "TATE: You can knock us down,\n"
-	.string "but we'll never stay down!\p"
-	.string "LIZA: Because the two of us,\n"
-	.string "we always support each other!$"
+	.i18n 3132
 
 MossdeepCity_Gym_Text_221EB8: @ 8221EB8
-	.string "TATE: You're back again…\n"
-	.string "LIZA: You're back again…\p"
-	.string "TATE: To give us a rematch.\n"
-	.string "LIZA: To give us a rematch.\p"
-	.string "TATE: But…\n"
-	.string "LIZA: For our match…\p"
-	.string "TATE: You brought just one POKéMON!\n"
-	.string "LIZA: You brought just one POKéMON!\p"
-	.string "TATE: We need you to bring at least…\n"
-	.string "LIZA: Two POKéMON when you come back.$"
+	.i18n 3133

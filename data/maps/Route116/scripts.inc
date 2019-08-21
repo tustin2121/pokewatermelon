@@ -370,122 +370,56 @@ Route116_EventScript_1F3086:: @ 81F3086
 	end
 
 Route116_Text_1F309D: @ 81F309D
-	.string "Ohhh, what am I to do?\p"
-	.string "We were on our walk, PEEKO and I, when\n"
-	.string "we were jumped by an odd thug…\p"
-	.string "The scoundrel made off with my\n"
-	.string "darling PEEKO!\p"
-	.string "Wrrrooooooaaaar! PEEKO!$"
+	.i18n 3946
 
 Route116_Text_1F3140: @ 81F3140
-	.string "Nnn… Roar!\p"
-	.string "I want to dig that tunnel!$"
+	.i18n 3947
 
 Route116_Text_1F3166: @ 81F3166
-	.string "Nnn… Roar!\n"
-	.string "What's going on?\p"
-	.string "I was digging the tunnel without any\n"
-	.string "tools when some goon ordered me out!\p"
-	.string "That tunnel's filled with POKéMON\n"
-	.string "that react badly to loud noises.\l"
-	.string "They could cause an uproar.\p"
-	.string "That's why we stopped using heavy\n"
-	.string "equipment for tunneling…\p"
-	.string "I'm worried that the goon will do\n"
-	.string "something stupid and startle the\l"
-	.string "POKéMON into an uproar.$"
+	.i18n 3948
 
 Route116_Text_1F32C1: @ 81F32C1
-	.string "Nnn… Roar!\p"
-	.string "That goofy goon hightailed it out of\n"
-	.string "the tunnel! I can go back to digging!$"
+	.i18n 3949
 
 Route116_Text_1F3317: @ 81F3317
-	.string "Oh! It's you!\p"
-	.string "You're that person who not only helped\n"
-	.string "me in PETALBURG WOODS, but also got\l"
-	.string "back my stolen package and then even\l"
-	.string "graciously delivered it to SLATEPORT!\p"
-	.string "CAPT. STERN informed us that the\n"
-	.string "package arrived, too!\p"
-	.string "I thank you very, very much!\p"
-	.string "Why, if I were a rain cloud, I would\n"
-	.string "shower you with gratitude and hail\l"
-	.string "you as a hero!\p"
-	.string "For you, the most wonderful TRAINER,\n"
-	.string "I bear good news!\p"
-	.string "Recently, our company developed\n"
-	.string "a new kind of POKé BALL.\p"
-	.string "As a token of our appreciation, this\n"
-	.string "is our gift to our wonderful TRAINER!$"
+	.i18n 3950
 
 Route116_Text_1F3521: @ 81F3521
-	.string "Our new POKé BALL will be available\n"
-	.string "at the POKéMON MART in RUSTBORO.\p"
-	.string "Please do try it out!\n"
-	.string "Thank you and bye-bye!$"
+	.i18n 3951
 
 Route116_Text_1F3593: @ 81F3593
-	.string "Your BAG is jam-packed.\n"
-	.string "I can't give you this REPEAT BALL.$"
+	.i18n 3952
 
 Route116_Text_1F35CE: @ 81F35CE
-	.string "As a token of our appreciation for\n"
-	.string "your delivering our package, I have\l"
-	.string "a gift of a new kind of POKé BALL\l"
-	.string "for our most wonderful TRAINER!$"
+	.i18n 3953
 
 Route116_Text_1F3657: @ 81F3657
-	.string "I dropped my glasses…\n"
-	.string "Can you help me find them?$"
+	.i18n 3954
 
 Route116_Text_1F3688: @ 81F3688
-	.string "Those glasses!\n"
-	.string "May I see them for a second?$"
+	.i18n 3955
 
 Route116_Text_1F36B4: @ 81F36B4
-	.string "Hmm…\n"
-	.string "These are BLACKGLASSES.\l"
-	.string "They're not what I'm looking for…\p"
-	.string "Maybe my glasses aren't around\n"
-	.string "here…$"
+	.i18n 3956
 
 Route116_Text_1F3718: @ 81F3718
-	.string "Hmm…\n"
-	.string "I can't find my glasses anywhere…\l"
-	.string "Maybe they're not around here…$"
+	.i18n 3957
 
 Route116_Text_1F375E: @ 81F375E
-	.string "Hmm…\n"
-	.string "These are BLACKGLASSES.\l"
-	.string "They're not what I'm looking for…$"
+	.i18n 3958
 
 Route116_Text_1F379D: @ 81F379D
-	.string "ROUTE 116\n"
-	.string "{LEFT_ARROW} RUSTBORO CITY$"
+	.i18n 3959
 
 Route116_Text_1F37B7: @ 81F37B7
-	.string "RUSTURF TUNNEL\n"
-	.string "“Linking RUSTBORO and VERDANTURF\p"
-	.string "“The tunnel project has been\n"
-	.string "canceled.”$"
+	.i18n 3960
 
 Route116_Text_1F380F: @ 81F380F
-	.string "TUNNELER'S REST HOUSE$"
+	.i18n 3961
 
 Route116_Text_1F3825: @ 81F3825
-	.string "TRAINER TIPS\p"
-	.string "If you want to stop a POKéMON from\n"
-	.string "evolving, press the B Button while it\l"
-	.string "is trying to evolve.\l"
-	.string "The startled POKéMON will stop.\p"
-	.string "This is called an evolution cancel.$"
+	.i18n 3962
 
 Route116_Text_1F38D4: @ 81F38D4
-	.string "TRAINER TIPS\p"
-	.string "Your BAG has several POCKETS.\p"
-	.string "Items you obtain are automatically\n"
-	.string "placed in the appropriate POCKETS.\p"
-	.string "No TRAINER can afford to be without\n"
-	.string "a BAG of their own.$"
+	.i18n 3963
 

@@ -1450,323 +1450,149 @@ SootopolisCity_Movement_1E656D:: @ 81E656D
 	step_end
 
 SootopolisCity_Text_1E656F: @ 81E656F
-	.string "SOOTOPOLIS CITY POKéMON GYM\n"
-	.string "LEADER: JUAN\p"
-	.string "“The GYM LEADER with the beauty\n"
-	.string "of pure water!”$"
+	.i18n 4587
 
 SootopolisCity_Text_1E65C8: @ 81E65C8
-	.string "SOOTOPOLIS CITY\p"
-	.string "“The mystical city where history\n"
-	.string "slumbers.”$"
+	.i18n 4588
 
 
 SootopolisCity_Text_1E6604: @ 81E6604
-	.string "The door is closed.$"
+	.i18n 4589
 
 SootopolisCity_Text_1E6618: @ 81E6618
-	.string "Diving in the sea. Climbing up and\n"
-	.string "down stairs all the time…\p"
-	.string "If you live in this town, you end up\n"
-	.string "getting physically fit.$"
+	.i18n 4590
 
 SootopolisCity_Text_1E6692: @ 81E6692
-	.string "These giant POKéMON suddenly appeared\n"
-	.string "in the middle of the city!\p"
-	.string "And, I've never seen them before!\p"
-	.string "Why are they smashing into each\n"
-	.string "other like that?\p"
-	.string "Why can't they be friends, those\n"
-	.string "POKéMON?$"
+	.i18n 4591
 
 SootopolisCity_Text_1E6750: @ 81E6750
-	.string "What? What? What?\n"
-	.string "What is that green POKéMON?!$"
+	.i18n 4592
 
 SootopolisCity_Text_1E677F: @ 81E677F
-	.string "GROUDON and KYOGRE…\n"
-	.string "Where did they go?\p"
-	.string "Will they cause droughts or downpours\n"
-	.string "somewhere else?$"
+	.i18n 4593
 
 SootopolisCity_Text_1E67DC: @ 81E67DC
-	.string "I just get this sense somehow that\n"
-	.string "the two POKéMON aren't angry.\p"
-	.string "I think… They probably can't control\n"
-	.string "their own power…$"
+	.i18n 4594
 
 SootopolisCity_Text_1E6853: @ 81E6853
-	.string "That flying POKéMON came down from\n"
-	.string "the sky and stopped the rampaging\l"
-	.string "POKéMON…$"
+	.i18n 4595
 
 SootopolisCity_Text_1E68A1: @ 81E68A1
-	.string "I… I've never been out of this city.\p"
-	.string "I wonder what the world is like on\n"
-	.string "the other side of this round sky?$"
+	.i18n 4596
 
 SootopolisCity_Text_1E690B: @ 81E690B
-	.string "Wow!\n"
-	.string "This is wicked!$"
+	.i18n 4597
 
 SootopolisCity_Text_1E6920: @ 81E6920
-	.string "Wow!\n"
-	.string "That was wicked!$"
+	.i18n 4598
 
 SootopolisCity_Text_1E6936: @ 81E6936
-	.string "Go for it, red POKéMON!\n"
-	.string "Don't back off, blue POKéMON!$"
+	.i18n 4599
 
 SootopolisCity_Text_1E696C: @ 81E696C
-	.string "… … … … … …\p"
-	.string "Hi, do you know the names of those\n"
-	.string "POKéMON fighting over there?$"
+	.i18n 4600
 
 SootopolisCity_Text_1E69B8: @ 81E69B8
-	.string "I was wondering which one would win,\n"
-	.string "the red one or the blue one, but, oh no,\l"
-	.string "it's the green one that settles things!\p"
-	.string "Talk about a huge turn of events!$"
+	.i18n 4601
 
 SootopolisCity_Text_1E6A50: @ 81E6A50
-	.string "There's an ancient legend that claims\n"
-	.string "the land and sea were shaped by\l"
-	.string "a colossal battle between POKéMON.\p"
-	.string "Well, I'm seeing that happen with\n"
-	.string "my very own eyes!\p"
-	.string "Whoa! I never expected to be\n"
-	.string "witness to something this huge!$"
+	.i18n 4602
 
 SootopolisCity_Text_1E6B2A: @ 81E6B2A
-	.string "There's an ancient legend that claims\n"
-	.string "the land and sea were shaped by\l"
-	.string "a colossal battle between POKéMON.\p"
-	.string "Well, I saw that happen with\n"
-	.string "my very own eyes!\p"
-	.string "Whoa! I never expected to be\n"
-	.string "witness to something this huge!$"
+	.i18n 4603
 
 SootopolisCity_Text_1E6BFF: @ 81E6BFF
-	.string "A big POKéMON is fighting with\n"
-	.string "another big POKéMON!\p"
-	.string "Please, someone make them stop!$"
+	.i18n 4604
 
 SootopolisCity_Text_1E6C53: @ 81E6C53
-	.string "A pretty POKéMON came down from\n"
-	.string "the sky…$"
+	.i18n 4605
 
 SootopolisCity_Text_1E6C7C: @ 81E6C7C
-	.string "Oh, no!\n"
-	.string "SOOTOPOLIS CITY will get wrecked!$"
+	.i18n 4606
 
 SootopolisCity_Text_1E6CA6: @ 81E6CA6
-	.string "SOOTOPOLIS CITY didn't get wrecked!$"
+	.i18n 4607
 
 SootopolisCity_Text_1E6CCA: @ 81E6CCA
-	.string "Hm!\n"
-	.string "You've come all the way to SOOTOPOLIS?\l"
-	.string "You're no ordinary tourist.\p"
-	.string "But I suppose that doesn't make you\n"
-	.string "an extraordinary tourist, either.$"
+	.i18n 4608
 
 SootopolisCity_Text_1E6D57: @ 81E6D57
-	.string "The city has regained its calm…$"
+	.i18n 4609
 
 SootopolisCity_Text_1E6D77: @ 81E6D77
-	.string "Who might you be?\p"
-	.string "This is the CAVE OF ORIGIN.\p"
-	.string "The spirits of POKéMON, becalmed at\n"
-	.string "MT. PYRE, are said to be revived here.\p"
-	.string "Please leave.$"
+	.i18n 4610
 
 SootopolisCity_Text_1E6DFE: @ 81E6DFE
-	.string "A person with a strong will and\n"
-	.string "superior talent…\p"
-	.string "A TRAINER who has knowledge and\n"
-	.string "experience of many kinds of POKéMON…\p"
-	.string "If such a person were to appear, I was\n"
-	.string "instructed by WALLACE to lead that\l"
-	.string "TRAINER to this CAVE.$"
+	.i18n 4611
 
 SootopolisCity_Text_1E6ED4: @ 81E6ED4
-	.string "Oh, my…\p"
-	.string "The clash between the two awakened\n"
-	.string "POKéMON was quelled by the awakening\l"
-	.string "of a third POKéMON…$"
+	.i18n 4612
 
 SootopolisCity_Text_1E6F38: @ 81E6F38
-	.string "This is the CAVE OF ORIGIN…\p"
-	.string "With the passing of the crisis,\n"
-	.string "the cave, too, shall sleep…$"
+	.i18n 4613
 
 SootopolisCity_Text_1E6F90: @ 81E6F90
-	.string "SOOTOPOLIS sprang up as a town in\n"
-	.string "the crater of a volcano.\p"
-	.string "If you look up at the sky, the lip of\n"
-	.string "the crater is also visible.\l"
-	.string "So, all you see is the sky in a circle.\p"
-	.string "But that's what makes the sky above\n"
-	.string "SOOTOPOLIS the most beautiful.$"
+	.i18n 4614
 
 SootopolisCity_Text_1E7078: @ 81E7078
-	.string "When two POKéMON that gigantic\n"
-	.string "are fighting that savagely, there's\l"
-	.string "not much that we can do.$"
+	.i18n 4615
 
 SootopolisCity_Text_1E70D4: @ 81E70D4
-	.string "When that third POKéMON flew down,\n"
-	.string "I feared the worst.$"
+	.i18n 4616
 
 SootopolisCity_Text_1E710B: @ 81E710B
-	.string "A circle of a night sky framed by\n"
-	.string "the crater of a volcano…\p"
-	.string "And in that ring, stars flicker and\n"
-	.string "blink as if they were alive…\l"
-	.string "It's my favorite scenery.$"
+	.i18n 4617
 
 SootopolisCity_Text_1E71A1: @ 81E71A1
-	.string "The weather was clear this morning,\n"
-	.string "but…\p"
-	.string "All of a sudden, dark clouds brewed up,\n"
-	.string "rain started falling in sheets, and\l"
-	.string "there was thunder and lightning, too.\p"
-	.string "The weather just went completely\n"
-	.string "wild!\p"
-	.string "Is all of this because of those\n"
-	.string "POKéMON?$"
+	.i18n 4618
 
 SootopolisCity_Text_1E728C: @ 81E728C
-	.string "Oh?\p"
-	.string "It was you who brought that flying\n"
-	.string "POKéMON here?\p"
-	.string "Well, aren't you amazing!$"
+	.i18n 4619
 
 SootopolisCity_Text_1E72DB: @ 81E72DB
-	.string "MAXIE: G… GROUDON…\n"
-	.string "Please! Stop what you're doing!\p"
-	.string "I know the extent of your power now!\p"
-	.string "If you keep going, all HOENN, not just\n"
-	.string "SOOTOPOLIS, will be utterly ruined!$"
+	.i18n 4620
 
 SootopolisCity_Text_1E737E: @ 81E737E
-	.string "MAXIE: So the super-ancient POKéMON\n"
-	.string "weren't only GROUDON and KYOGRE…\p"
-	.string "After all our fruitless scheming and\n"
-	.string "frantic efforts, that one POKéMON's\l"
-	.string "simple action puts everything right\l"
-	.string "again as if nothing had happened…\p"
-	.string "Fu…\n"
-	.string "Fuhahaha…$"
+	.i18n 4621
 
 SootopolisCity_Text_1E7460: @ 81E7460
-	.string "ARCHIE: KYOGRE! What's wrong?!\n"
-	.string "Look over here! It's the RED ORB!\l"
-	.string "Calm down! KYOGRE!\p"
-	.string "… … … … … …\n"
-	.string "… … … … … …\p"
-	.string "It's no good!\n"
-	.string "It's not responding at all!$"
+	.i18n 4622
 
 SootopolisCity_Text_1E74F6: @ 81E74F6
-	.string "ARCHIE: KYOGRE and GROUDON both\n"
-	.string "flew off to who knows where.\p"
-	.string "The weather in HOENN has returned\n"
-	.string "to its normal state…\p"
-	.string "Haha…\n"
-	.string "Hahaha…\p"
-	.string "Maybe what we were trying to do was\n"
-	.string "something small, even meaningless,\l"
-	.string "to POKéMON…$"
+	.i18n 4623
 
 SootopolisCity_Text_1E75CB: @ 81E75CB
-	.string "STEVEN: Those POKéMON fighting…\n"
-	.string "GROUDON… And KYOGRE…\p"
-	.string "The two super-ancient POKéMON\n"
-	.string "were awakened from a long sleep…\p"
-	.string "And now they are smashing each other\n"
-	.string "with their uncontrollable energy…\p"
-	.string "…{PLAYER}{KUN}.\p"
-	.string "You being here now I'll take to mean\n"
-	.string "that you're prepared to become\l"
-	.string "involved in this crisis.\p"
-	.string "Well, then, there's someone that\n"
-	.string "I'd like you to meet.\p"
-	.string "Come with me, please.$"
+	.i18n 4624
 
 SootopolisCity_Text_1E7737: @ 81E7737
-	.string "STEVEN: Listen, {PLAYER}{KUN}.\p"
-	.string "Does seeing GROUDON and KYOGRE make\n"
-	.string "you think POKéMON are to be feared?\p"
-	.string "But that's not true.\n"
-	.string "POKéMON are really more…\p"
-	.string "…Why am I asking you this?\n"
-	.string "You already know.$"
+	.i18n 4625
 
 SootopolisCity_Text_1E77F0: @ 81E77F0
-	.string "STEVEN: Okay, here we are!\p"
-	.string "Inside here you'll find someone named\n"
-	.string "WALLACE.\p"
-	.string "I think you have what's needed to\n"
-	.string "help him…$"
+	.i18n 4626
 
 SootopolisCity_Text_1E7866: @ 81E7866
-	.string "STEVEN: I think you have what's\n"
-	.string "needed to help him…$"
+	.i18n 4627
 
 SootopolisCity_Text_1E789A: @ 81E789A
-	.string "STEVEN: The SKY PILLAR…\p"
-	.string "I've never been there.\n"
-	.string "I wonder where it could be?$"
+	.i18n 4628
 
 SootopolisCity_Text_1E78E5: @ 81E78E5
-	.string "STEVEN: So that's RAYQUAZA…\p"
-	.string "It's incredible how the two rampaging\n"
-	.string "POKéMON would flee from it in fear…$"
+	.i18n 4629
 
 SootopolisCity_Text_1E794B: @ 81E794B
-	.string "STEVEN: It looks like both MAXIE and\n"
-	.string "ARCHIE have gone away somewhere.\p"
-	.string "Perhaps they've gone to MT. PYRE to\n"
-	.string "return those ORBS…$"
+	.i18n 4630
 
 SootopolisCity_Text_1E79C8: @ 81E79C8
-	.string "WALLACE: Oh?\n"
-	.string "{PLAYER}{KUN}?\p"
-	.string "Haven't you scaled the SKY PILLAR\n"
-	.string "yet?\p"
-	.string "I'm sure that you can make it to\n"
-	.string "the top of the SKY PILLAR…$"
+	.i18n 4631
 
 SootopolisCity_Text_1E7A3E: @ 81E7A3E
-	.string "WALLACE: {PLAYER}{KUN}…\p"
-	.string "The leaders of TEAM MAGMA and AQUA,\n"
-	.string "I don't think they meant harm.\p"
-	.string "It wouldn't hurt to hear what they\n"
-	.string "have to say for themselves.$"
+	.i18n 4632
 
 SootopolisCity_Text_1E7ACF: @ 81E7ACF
-	.string "WALLACE: {PLAYER}{KUN}…\n"
-	.string "My eyes didn't deceive me.\p"
-	.string "Thanks to your help, SOOTOPOLIS…\n"
-	.string "No, all of HOENN was saved.\p"
-	.string "On behalf of the people, I thank you.\p"
-	.string "This is a gift from me.\n"
-	.string "Please accept it.$"
+	.i18n 4633
 
 SootopolisCity_Text_1E7B86: @ 81E7B86
-	.string "That HIDDEN MACHINE contains\n"
-	.string "WATERFALL.\p"
-	.string "If you have the RAIN BADGE, a POKéMON\n"
-	.string "that has learned that HM move can\l"
-	.string "force its way up waterfalls.\p"
-	.string "And where does one get the RAIN BADGE?\n"
-	.string "You know, don't you?\p"
-	.string "That's right! You have to beat\n"
-	.string "the SOOTOPOLIS GYM LEADER.\p"
-	.string "When you're all set to go, step through\n"
-	.string "that door.$"
+	.i18n 4634
 
 SootopolisCity_Text_1E7CBC: @ 81E7CBC
-	.string "WALLACE: I'm sure that you will be\n"
-	.string "dazzled by my mentor's breathtakingly\l"
-	.string "elegant battle style.$"
+	.i18n 4635

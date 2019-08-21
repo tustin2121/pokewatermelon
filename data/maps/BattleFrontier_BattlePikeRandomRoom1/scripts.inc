@@ -699,197 +699,131 @@ BattleFrontier_BattlePikeRandomRoom1_Movement_25D9B3: @ 825D9B3
 	step_end
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25D9B6: @ 825D9B6
-	.string "Welcome…\n"
-	.string "You must be commended for your luck…\p"
-	.string "Your POKéMON shall be restored\n"
-	.string "to full health…$"
+	.i18n 971
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25DA13: @ 825DA13
-	.string "I urge you to enjoy the rest of your\n"
-	.string "Battle Choice challenge…$"
+	.i18n 972
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25DA51: @ 825DA51
-	.string "Ah, you're a lucky one.\n"
-	.string "I'm in somewhat-good spirits now.\p"
-	.string "I will restore one of your POKéMON\n"
-	.string "to full health.$"
+	.i18n 973
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25DABE: @ 825DABE
-	.string "The best of luck to you.\n"
-	.string "Farewell.$"
+	.i18n 974
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25DAE1: @ 825DAE1
-	.string "Excuse me…\p"
-	.string "Would you care for a battle?\n"
-	.string "I'll restore your POKéMON if you win.$"
+	.i18n 975
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25DB2F: @ 825DB2F
-	.string "Very well…\n"
-	.string "Now, shall we?$"
+	.i18n 976
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25DB49: @ 825DB49
-	.string "I see…\n"
-	.string "How unsporting of you…$"
+	.i18n 977
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25DB67: @ 825DB67
-	.string "Magnificent…\p"
-	.string "As promised, I shall restore your\n"
-	.string "POKéMON to full health.$"
+	.i18n 978
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25DBAE: @ 825DBAE
-	.string "The best of luck to you.\n"
-	.string "Farewell.$"
+	.i18n 979
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25DBD1: @ 825DBD1
-	.string "Oh, my!\p"
-	.string "Watch out!$"
+	.i18n 980
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25DBE4: @ 825DBE4
-	.string "Now, now!\n"
-	.string "KIRLIA, stop that!$"
+	.i18n 981
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25DC01: @ 825DC01
-	.string "Now, now!\n"
-	.string "DUSCLOPS, stop that!$"
+	.i18n 982
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25DC20: @ 825DC20
-	.string "KIRLIA used TOXIC!$"
+	.i18n 983
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25DC33: @ 825DC33
-	.string "KIRLIA used HYPNOSIS!$"
+	.i18n 984
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25DC49: @ 825DC49
-	.string "KIRLIA used THUNDER WAVE!$"
+	.i18n 985
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25DC63: @ 825DC63
-	.string "KIRLIA used WILL-O-WISP!$"
+	.i18n 986
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25DC7C: @ 825DC7C
-	.string "DUSCLOPS used WILL-O-WISP!$"
+	.i18n 987
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25DC97: @ 825DC97
-	.string "DUSCLOPS used ICE BEAM!$"
+	.i18n 988
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25DCAF: @ 825DCAF
-	.string "Look here!\n"
-	.string "That's quite enough!$"
+	.i18n 989
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25DCCF: @ 825DCCF
-	.string "I must apologize to you…\p"
-	.string "My KIRLIA has a TIMID nature…$"
+	.i18n 990
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25DD06: @ 825DD06
-	.string "I must apologize to you…\p"
-	.string "My DUSCLOPS has a TIMID nature…$"
+	.i18n 991
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25DD3F: @ 825DD3F
-	.string "It attacks without warning if it is\n"
-	.string "startled by another person…\p"
-	.string "Are you and your POKéMON all right?$"
+	.i18n 992
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25DDA3: @ 825DDA3
-	.string "I do apologize for what happened…\n"
-	.string "I do hope your POKéMON are fine.$"
+	.i18n 993
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25DDE6: @ 825DDE6
-	.string "… … … … … …\n"
-	.string "… … … … … …$"
+	.i18n 994
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25DDFE: @ 825DDFE
-	.string "Welcome…\p"
-	.string "Here, we will have you battle\n"
-	.string "a somewhat-tough TRAINER…$"
+	.i18n 995
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25DE3F: @ 825DE3F
-	.string "How wonderful…\p"
-	.string "To honor your victory, your POKéMON\n"
-	.string "shall be restored to full health…$"
+	.i18n 996
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25DE94: @ 825DE94
-	.string "I urge you to enjoy the rest of your\n"
-	.string "Battle Choice challenge…$"
+	.i18n 997
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25DED2: @ 825DED2
-	.string "I am LUCY…\n"
-	.string "I am the law here…\l"
-	.string "For I am the PIKE QUEEN…\p"
-	.string "You already know it, but to advance,\n"
-	.string "you must defeat me…\p"
-	.string "…I'm not one for idle chatter.\n"
-	.string "Hurry. Come on…$"
+	.i18n 998
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25DF71: @ 825DF71
-	.string "Your luck…\n"
-	.string "I hope you didn't use it all up here…$"
+	.i18n 999
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25DFA2: @ 825DFA2
-	.string "LUCY: … … … … … …\n"
-	.string "Show me your FRONTIER PASS…$"
+	.i18n 1000
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25DFD0: @ 825DFD0
-	.string "The Luck Symbol was embossed on\n"
-	.string "the FRONTIER PASS!$"
+	.i18n 1001
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25E003: @ 825E003
-	.string "…That's all there is…\n"
-	.string "Disappear already…$"
+	.i18n 1002
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25E02C: @ 825E02C
-	.string "LUCY: …You again…\p"
-	.string "… … … … … …\p"
-	.string "…I've trampled flowers and braved\n"
-	.string "storms to get to where I am…\p"
-	.string "I don't feel any compulsion to keep\n"
-	.string "losing to the same opponent…\p"
-	.string "… … … … … …\n"
-	.string "Fine… I'll do it…$"
+	.i18n 1003
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25E0E8: @ 825E0E8
-	.string "Now!\n"
-	.string "Come on!$"
+	.i18n 1004
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25E0F6: @ 825E0F6
-	.string "LUCY: … … … … … …\p"
-	.string "…FRONTIER PASS…$"
+	.i18n 1005
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25E118: @ 825E118
-	.string "The Luck Symbol took on\n"
-	.string "a golden shine!$"
+	.i18n 1006
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25E140: @ 825E140
-	.string "…You, I won't forget…\n"
-	.string "…Ever…$"
+	.i18n 1007
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25E15D: @ 825E15D
-	.string "I welcome you…\p"
-	.string "Giggle…\n"
-	.string "You seem to be bereft of luck…\p"
-	.string "If only you hadn't chosen this room,\n"
-	.string "your POKéMON could have been healed…$"
+	.i18n 1008
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25E1DD: @ 825E1DD
-	.string "I welcome you…\p"
-	.string "Since you have chosen this room, I will\n"
-	.string "restore one POKéMON to full health…$"
+	.i18n 1009
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25E238: @ 825E238
-	.string "I welcome you…\p"
-	.string "Since you have chosen this room, I will\n"
-	.string "restore two POKéMON to full health…$"
+	.i18n 1010
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25E293: @ 825E293
-	.string "I welcome you…\p"
-	.string "Giggle…\n"
-	.string "You should thank your lucky stars…\p"
-	.string "Since you have chosen this room,\n"
-	.string "all your POKéMON will be restored…$"
+	.i18n 1011
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25E311: @ 825E311
-	.string "I shall go fetch our master…$"
+	.i18n 1012
 
 BattleFrontier_BattlePikeRandomRoom1_Text_25E32E: @ 825E32E
-	.string "Ah, you're a lucky one!\n"
-	.string "I'm in good spirits now.\p"
-	.string "I will restore two of your POKéMON\n"
-	.string "to full health!$"
+	.i18n 1013
 

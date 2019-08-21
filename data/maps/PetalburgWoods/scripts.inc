@@ -320,158 +320,89 @@ PetalburgWoods_EventScript_22E31B:: @ 822E31B
 	end
 
 PetalburgWoods_Text_22E332: @ 822E332
-	.string "Hmmm…\n"
-	.string "Not a one to be found…$"
+	.i18n 3526
 
 PetalburgWoods_Text_22E34F: @ 822E34F
-	.string "Hello, have you seen any POKéMON\n"
-	.string "called SHROOMISH around here?\p"
-	.string "I really love that POKéMON.$"
+	.i18n 3527
 
 PetalburgWoods_Text_22E3AA: @ 822E3AA
-	.string "I was going to ambush you, but you\n"
-	.string "had to dawdle in PETALBURG WOODS\l"
-	.string "forever, didn't you?\p"
-	.string "I got sick of waiting, so here I am!$"
+	.i18n 3528
 
 PetalburgWoods_Text_22E428: @ 822E428
-	.string "You! DEVON RESEARCHER!\p"
-	.string "Hand over those papers!$"
+	.i18n 3529
 
 PetalburgWoods_Text_22E457: @ 822E457
-	.string "Aiyeeeh!\p"
-	.string "You're a POKéMON TRAINER, aren't you?\n"
-	.string "You've got to help me, please!$"
+	.i18n 3530
 
 PetalburgWoods_Text_22E4A5: @ 822E4A5
-	.string "Hunh? What do you think you're doing?\n"
-	.string "What, you're going to protect him?\p"
-	.string "No one who crosses TEAM AQUA\n"
-	.string "gets any mercy, not even a kid!\p"
-	.string "Come on and battle me!$"
+	.i18n 3531
 
 PetalburgWoods_Text_22E542: @ 822E542
-	.string "You're kidding me! You're tough!$"
+	.i18n 3532
 
 PetalburgWoods_Text_22E563: @ 822E563
-	.string "Grrr… You've got some nerve\n"
-	.string "meddling with TEAM AQUA!\l"
-	.string "Come on and battle me again!\p"
-	.string "I wish I could say that, but I'm out of\n"
-	.string "POKéMON…\p"
-	.string "And, hey, we of TEAM AQUA are also\n"
-	.string "after something in RUSTBORO.\p"
-	.string "I'll let you go today!$"
+	.i18n 3533
 
 PetalburgWoods_Text_22E63D: @ 822E63D
-	.string "Whew…\n"
-	.string "That was awfully close!\p"
-	.string "Thanks to you, he didn't rob me of\n"
-	.string "these important papers.\p"
-	.string "I know, I'll give you a GREAT BALL as\n"
-	.string "my thanks!$"
+	.i18n 3534
 
 PetalburgWoods_Text_22E6C7: @ 822E6C7
-	.string "Didn't that TEAM AQUA thug say\n"
-	.string "they were after something in\l"
-	.string "RUSTBORO, too?$"
+	.i18n 3535
 
 PetalburgWoods_Text_22E712: @ 822E712
-	.string "Uh-oh! It's a crisis!\n"
-	.string "I can't be wasting time!$"
+	.i18n 3536
 
 PetalburgWoods_Text_22E741: @ 822E741
-	.string "You're loaded with items.\n"
-	.string "I can't give you this GREAT BALL.$"
+	.i18n 3537
 
 PetalburgWoods_Text_22E77D: @ 822E77D
-	.string "I caught a whole bunch of POKéMON!\p"
-	.string "Go, go, go!\n"
-	.string "My BUG POKéMON team!$"
+	.i18n 3538
 
 PetalburgWoods_Text_22E7C1: @ 822E7C1
-	.string "I have all these POKéMON,\n"
-	.string "but I couldn't win…$"
+	.i18n 3539
 
 PetalburgWoods_Text_22E7EF: @ 822E7EF
-	.string "I caught a bunch of POKéMON.\n"
-	.string "Now I'm out of POKé BALLS.$"
+	.i18n 3540
 
 PetalburgWoods_Text_22E827: @ 822E827
-	.string "If you take BUG POKéMON to school,\n"
-	.string "you get to be instantly popular!$"
+	.i18n 3541
 
 PetalburgWoods_Text_22E86B: @ 822E86B
-	.string "I can't be popular if I lose.$"
+	.i18n 3542
 
 PetalburgWoods_Text_22E889: @ 822E889
-	.string "If you have a big BUG POKéMON,\n"
-	.string "people respect you for it.$"
+	.i18n 3543
 
 PetalburgWoods_Text_22E8C3: @ 822E8C3
-	.string "I want a rematch when my BUG\n"
-	.string "POKéMON grow up!\p"
-	.string "I'm registering you in my POKéNAV!$"
+	.i18n 3544
 
 PetalburgWoods_Text_22E914: @ 822E914
-	.string "I want a rematch when my BUG \n"
-	.string "POKéMON grow up!\p"
-	.string "I'm registering you in my POKéNAV!$"
+	.i18n 3545
 
 PetalburgWoods_Text_22E966: @ 822E966
-	.string "My BUG POKéMON have grown.\n"
-	.string "I'll be popular again.$"
+	.i18n 3546
 
 PetalburgWoods_Text_22E998: @ 822E998
-	.string "I can't be popular if I lose.$"
+	.i18n 3547
 
 PetalburgWoods_Text_22E9B6: @ 822E9B6
-	.string "You get to be popular if you have\n"
-	.string "strong POKéMON, right?\l"
-	.string "So, I've been training hard.$"
+	.i18n 3548
 
 PetalburgWoods_Text_22EA0C: @ 822EA0C
-	.string "Yo, there!\n"
-	.string "Your POKéMON doing okay?\p"
-	.string "If your POKéMON are weak and you want\n"
-	.string "to avoid battles, you should stay out\l"
-	.string "of tall grass.$"
+	.i18n 3549
 
 PetalburgWoods_Text_22EA8B: @ 822EA8B
-	.string "Sometimes, there are things on the\n"
-	.string "ground even if you can't see them.\p"
-	.string "That's why I always check where I'm\n"
-	.string "walking.$"
+	.i18n 3550
 
 PetalburgWoods_Text_22EAFE: @ 822EAFE
-	.string "Oh, neat!\n"
-	.string "That's the BADGE from RUSTBORO GYM!\p"
-	.string "You must be a TRAINER.\n"
-	.string "You should try using this item.$"
+	.i18n 3551
 
 PetalburgWoods_Text_22EB63: @ 822EB63
-	.string "It's a MIRACLE SEED.\n"
-	.string "If a POKéMON holds that item, its\l"
-	.string "GRASS-type moves become stronger.\p"
-	.string "Besides MIRACLE SEED, I think there are\n"
-	.string "other convenient items for POKéMON\l"
-	.string "to hold.$"
+	.i18n 3552
 
 PetalburgWoods_Text_22EC10: @ 822EC10
-	.string "TRAINER TIPS\p"
-	.string "Any POKéMON that appears even once\n"
-	.string "in a battle is awarded EXP Points.\p"
-	.string "To raise a weak POKéMON, put it at the\n"
-	.string "left of the team list.\p"
-	.string "As soon as a battle starts, switch it\n"
-	.string "out. It will earn EXP Points without\l"
-	.string "being exposed to any harm.$"
+	.i18n 3553
 
 PetalburgWoods_Text_22ED07: @ 822ED07
-	.string "TRAINER TIPS\p"
-	.string "In addition to Hit Points (HP), POKéMON\n"
-	.string "have Power Points (PP) that are used to\l"
-	.string "make moves during battle.\p"
-	.string "If a POKéMON runs out of PP, it must be\n"
-	.string "taken to a POKéMON CENTER.$"
+	.i18n 3554
 

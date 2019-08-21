@@ -965,127 +965,76 @@ Route110_TrickHousePuzzle5_Movement_26D632: @ 826D632
 	step_end
 
 Route110_TrickHousePuzzle5_Text_26D660: @ 826D660
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is a genius.”\n"
-	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.i18n 3786
 
 Route110_TrickHousePuzzle5_Text_26D6CE: @ 826D6CE
-	.string "CLICKETY-CLACK…\n"
-	.string "MECHADOLL 1 AM I!\p"
-	.string "IF YOU ANSWER QUIZZES CORRECTLY,\n"
-	.string "THEN YOU WILL GO TO MECHADOLL 5.\l"
-	.string "THEN YOU CAN OBTAIN THE SECRET CODE.$"
+	.i18n 3787
 
 Route110_TrickHousePuzzle5_Text_26D757: @ 826D757
-	.string "MECHADOLL 1 QUIZ.\p"
-	.string "One of these POKéMON is not found\n"
-	.string "on ROUTE 110. Which one is it?$"
+	.i18n 3788
 
 Route110_TrickHousePuzzle5_Text_26D7AA: @ 826D7AA
-	.string "MECHADOLL 1 QUIZ.\p"
-	.string "One of these POKéMON is not of the\n"
-	.string "WATER type. Which one is it?$"
+	.i18n 3789
 
 Route110_TrickHousePuzzle5_Text_26D7FC: @ 826D7FC
-	.string "MECHADOLL 1 QUIZ.\p"
-	.string "One of these POKéMON does not use\n"
-	.string "LEECH LIFE. Which one is it?$"
+	.i18n 3790
 
 Route110_TrickHousePuzzle5_Text_26D84D: @ 826D84D
-	.string "CONGRATULATIONS. CORRECT YOU ARE.\n"
-	.string "GO THROUGH. PLEASE.$"
+	.i18n 3791
 
 Route110_TrickHousePuzzle5_Text_26D883: @ 826D883
-	.string "BZZZT. DISAPPOINTMENT.\n"
-	.string "ERROR.$"
+	.i18n 3792
 
 Route110_TrickHousePuzzle5_Text_26D8A1: @ 826D8A1
-	.string "WAHAHAHAHA! WAHAHAHAHA!\n"
-	.string "CLICKETY-CLACK!$"
+	.i18n 3793
 
 Route110_TrickHousePuzzle5_Text_26D8C9: @ 826D8C9
-	.string "YOUR NEXT CHALLENGE WE WAIT FOR.$"
+	.i18n 3794
 
 Route110_TrickHousePuzzle5_Text_26D8EA: @ 826D8EA
-	.string "CLICKETY-CLACK…\n"
-	.string "MECHADOLL 2 AM I!\p"
-	.string "MECHADOLL 1'S QUIZ DIFFICULTY LEVEL\n"
-	.string "IS SET TOO LOW.$"
+	.i18n 3795
 
 Route110_TrickHousePuzzle5_Text_26D940: @ 826D940
-	.string "MECHADOLL 2 QUIZ.\p"
-	.string "Which of these POKéMON did WALLY\n"
-	.string "borrow from your father?$"
+	.i18n 3796
 
 Route110_TrickHousePuzzle5_Text_26D98C: @ 826D98C
-	.string "MECHADOLL 2 QUIZ.\p"
-	.string "Which of these POKéMON was chasing\n"
-	.string "PROF. BIRCH?$"
+	.i18n 3797
 
 Route110_TrickHousePuzzle5_Text_26D9CE: @ 826D9CE
-	.string "MECHADOLL 2 QUIZ.\p"
-	.string "Which of these POKéMON did TEAM AQUA\n"
-	.string "use in PETALBURG FOREST?$"
+	.i18n 3798
 
 Route110_TrickHousePuzzle5_Text_26DA1E: @ 826DA1E
-	.string "CLICKETY-CLACK…\n"
-	.string "MECHADOLL 3 AM I!\p"
-	.string "MATTERS OF MONEY ARE MY SOLE FOCUS.$"
+	.i18n 3799
 
 Route110_TrickHousePuzzle5_Text_26DA64: @ 826DA64
-	.string "MECHADOLL 3 QUIZ.\p"
-	.string "Which costs more?\n"
-	.string "Three HARBOR MAILS or one BURN HEAL?$"
+	.i18n 3800
 
 Route110_TrickHousePuzzle5_Text_26DAAD: @ 826DAAD
-	.string "MECHADOLL 3 QUIZ.\p"
-	.string "Sell one GREAT BALL and buy\n"
-	.string "one POTION. How much money remains?$"
+	.i18n 3801
 
 Route110_TrickHousePuzzle5_Text_26DAFF: @ 826DAFF
-	.string "MECHADOLL 3 QUIZ.\p"
-	.string "Do one REPEL and SODA POP cost\n"
-	.string "more than one SUPER POTION?$"
+	.i18n 3802
 
 Route110_TrickHousePuzzle5_Text_26DB4C: @ 826DB4C
-	.string "CLICKETY-CLACK…\n"
-	.string "MECHADOLL 4 THAT IS ME!\p"
-	.string "MY QUIZ IS AN OBJECT OF BEAUTY.$"
+	.i18n 3803
 
 Route110_TrickHousePuzzle5_Text_26DB94: @ 826DB94
-	.string "MECHADOLL 4 QUIZ.\p"
-	.string "In SEASHORE HOUSE, were there more men\n"
-	.string "or women?$"
+	.i18n 3804
 
 Route110_TrickHousePuzzle5_Text_26DBD7: @ 826DBD7
-	.string "MECHADOLL 4 QUIZ.\p"
-	.string "In LAVARIDGE TOWN, were there more\n"
-	.string "elderly men or elderly women?$"
+	.i18n 3805
 
 Route110_TrickHousePuzzle5_Text_26DC2A: @ 826DC2A
-	.string "MECHADOLL 4 QUIZ.\p"
-	.string "In the TRAINER'S SCHOOL, how many\n"
-	.string "girl students were there?$"
+	.i18n 3806
 
 Route110_TrickHousePuzzle5_Text_26DC78: @ 826DC78
-	.string "CLICKETY-CLACK…\n"
-	.string "MECHADOLL 5 AM I!\p"
-	.string "THE MASTER'S BEST AND PROUDEST\n"
-	.string "ACHIEVEMENT AM I.$"
+	.i18n 3807
 
 Route110_TrickHousePuzzle5_Text_26DCCB: @ 826DCCB
-	.string "MECHADOLL 5 QUIZ.\p"
-	.string "In SLATEPORT's POKéMON FAN CLUB,\n"
-	.string "how many POKéMON were there?$"
+	.i18n 3808
 
 Route110_TrickHousePuzzle5_Text_26DD1B: @ 826DD1B
-	.string "MECHADOLL 5 QUIZ.\p"
-	.string "In FORTREE CITY, how many\n"
-	.string "tree houses were there?$"
+	.i18n 3809
 
 Route110_TrickHousePuzzle5_Text_26DD5F: @ 826DD5F
-	.string "MECHADOLL 5 QUIZ.\p"
-	.string "On the CYCLING ROAD, how many\n"
-	.string "TRIATHLETES were there?$"
+	.i18n 3810

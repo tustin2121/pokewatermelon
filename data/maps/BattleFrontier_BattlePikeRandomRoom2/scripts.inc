@@ -38,6 +38,5 @@ BattleFrontier_BattlePikeRandomRoom2_EventScript_25E3E8:: @ 825E3E8
 	end
 
 BattleFrontier_BattlePikeRandomRoom2_Text_25E3F2: @ 825E3F2
-	.string "Congratulations…\n"
-	.string "Now, this way, please…$"
+	.i18n 1014
 

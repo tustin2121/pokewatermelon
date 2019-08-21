@@ -62,41 +62,26 @@ FallarborTown_House2_EventScript_201452:: @ 8201452
 	end
 
 FallarborTown_House2_Text_20145C: @ 820145C
-	.string "I'm the MOVE TUTOR.\p"
-	.string "I know all the moves that POKéMON\n"
-	.string "learn--every one of them--and I can\l"
-	.string "teach POKéMON those moves.\p"
-	.string "I can teach a move to a POKéMON\n"
-	.string "of yours if you'd like.\p"
-	.string "I'll do it for a HEART SCALE.\n"
-	.string "I'm collecting those now.$"
+	.i18n 2238
 
 FallarborTown_House2_Text_201541: @ 8201541
-	.string "Oh! That's it! That's an honest to\n"
-	.string "goodness HEART SCALE!\p"
-	.string "Let me guess, you want me to teach\n"
-	.string "a move?$"
+	.i18n 2239
 
 FallarborTown_House2_Text_2015A5: @ 82015A5
-	.string "Which POKéMON needs tutoring?$"
+	.i18n 2240
 
 FallarborTown_House2_Text_2015C3: @ 82015C3
-	.string "Which move should I teach?$"
+	.i18n 2241
 
 FallarborTown_House2_Text_2015DE: @ 82015DE
-	.string "Sorry…\p"
-	.string "It doesn't appear as if I have any move\n"
-	.string "I can teach that POKéMON.$"
+	.i18n 2242
 
 FallarborTown_House2_Text_201627: @ 8201627
-	.string "{PLAYER} handed over one HEART SCALE\n"
-	.string "in exchange.$"
+	.i18n 2243
 
 FallarborTown_House2_Text_201653: @ 8201653
-	.string "If your POKéMON need to learn a move,\n"
-	.string "come back with a HEART SCALE.$"
+	.i18n 2244
 
 FallarborTown_House2_Text_201697: @ 8201697
-	.string "Hunh? There isn't a single move that\n"
-	.string "I can teach an EGG.$"
+	.i18n 2245
 

@@ -267,186 +267,80 @@ DewfordTown_Hall_EventScript_1FD80E:: @ 81FD80E
 	end
 
 DewfordTown_Hall_Text_1FD818: @ 81FD818
-	.string "What's in vogue? Why, it has to be\n"
-	.string "“{STR_VAR_1}”!\p"
-	.string "I can't imagine what life would be like\n"
-	.string "without “{STR_VAR_1}”!$"
+	.i18n 2141
 
 DewfordTown_Hall_Text_1FD877: @ 81FD877
-	.string "What's in vogue? Why, it has to be\n"
-	.string "“{STR_VAR_1}”!\p"
-	.string "But I'm getting kind of bored with it.\p"
-	.string "I should look for the next big thing.$"
+	.i18n 2142
 
 DewfordTown_Hall_Text_1FD8ED: @ 81FD8ED
-	.string "I'm teaching my POKéMON about\n"
-	.string "“{STR_VAR_1},”\l"
-	.string "but it's not going well.\p"
-	.string "It's a bit too much, I think.$"
+	.i18n 2143
 
 DewfordTown_Hall_Text_1FD948: @ 81FD948
-	.string "I'm studying up on the hip and trendy\n"
-	.string "“{STR_VAR_1}” now.\p"
-	.string "Is it true that there's a deep link\n"
-	.string "between “{STR_VAR_1}”\l"
-	.string "and “{STR_VAR_2}”?$"
+	.i18n 2144
 
 DewfordTown_Hall_Text_1FD9B3: @ 81FD9B3
-	.string "Oh!\n"
-	.string "So, my hunch was right!\p"
-	.string "I'm one step closer to being hip and\n"
-	.string "happening, yowza!$"
+	.i18n 2145
 
 DewfordTown_Hall_Text_1FDA06: @ 81FDA06
-	.string "What?!\n"
-	.string "Is that so?!\p"
-	.string "It's not easy for an older fellow like\n"
-	.string "me to keep up with trends!$"
+	.i18n 2146
 
 DewfordTown_Hall_Text_1FDA5C: @ 81FDA5C
-	.string "This whole business about\n"
-	.string "“{STR_VAR_1}”…\l"
-	.string "Isn't there a TV show on it?$"
+	.i18n 2147
 
 DewfordTown_Hall_Text_1FDA99: @ 81FDA99
-	.string "Across the sea…\p"
-	.string "Is “{STR_VAR_1}”\n"
-	.string "even more popular?$"
+	.i18n 2148
 
 DewfordTown_Hall_Text_1FDAC4: @ 81FDAC4
-	.string "I collect official\n"
-	.string "“{STR_VAR_1}”\l"
-	.string "licensed merchandise.\p"
-	.string "I have official\n"
-	.string "“{STR_VAR_1}” DOLLS…\p"
-	.string "Official “{STR_VAR_1}”\n"
-	.string "brand clothing…\p"
-	.string "And officially licensed\n"
-	.string "“{STR_VAR_1}”\l"
-	.string "picture books.\p"
-	.string "Heheh, I own!\n"
-	.string "I'm not sharing anything with you!$"
+	.i18n 2149
 
 DewfordTown_Hall_Text_1FDB89: @ 81FDB89
-	.string "IDENTIFYING GOOD\n"
-	.string "“{STR_VAR_1}” &\l"
-	.string "BAD “{STR_VAR_1}”…\p"
-	.string "THE LINK BETWEEN\n"
-	.string "“{STR_VAR_1}” AND\l"
-	.string "POKéMON…\p"
-	.string "USEFUL\n"
-	.string "“{STR_VAR_1}”…\p"
-	.string "It's neatly jammed with books about\n"
-	.string "“{STR_VAR_1}.”$"
+	.i18n 2150
 
 DewfordTown_Hall_Text_1FDC05: @ 81FDC05
-	.string "“{STR_VAR_1}'S\n"
-	.string "SCREAM” is the title.$"
+	.i18n 2151
 
 DewfordTown_Hall_Text_1FDC21: @ 81FDC21
-	.string "“{STR_VAR_1}'S\n"
-	.string "SMILE” is the title.$"
+	.i18n 2152
 
 DewfordTown_Hall_Text_1FDC3C: @ 81FDC3C
-	.string "It's titled “THE LAST\n"
-	.string "{STR_VAR_1}”.$"
+	.i18n 2153
 
 DewfordTown_Hall_Text_1FDC57: @ 81FDC57
-	.string "It's titled “THE BIRTH OF\n"
-	.string "{STR_VAR_1}”.$"
+	.i18n 2154
 
 DewfordTown_Hall_Text_1FDC76: @ 81FDC76
-	.string "I saw “{STR_VAR_1}”!\n"
-	.string "Cool, huh?\p"
-	.string "It's, like, the coolest thing going!\p"
-	.string "It was awesome!\n"
-	.string "It was the real thing, oh yeah!$"
+	.i18n 2155
 
 DewfordTown_Hall_Text_1FDCE2: @ 81FDCE2
-	.string "Oh, no, no, no.\p"
-	.string "That alleged\n"
-	.string "“{STR_VAR_1}”\l"
-	.string "you claim to have seen--it's not.\p"
-	.string "The authentic article is much…\n"
-	.string "How should I say it?\l"
-	.string "Sharper, yet more mellow!\p"
-	.string "Ah, no matter. It's astonishing!$"
+	.i18n 2156
 
 DewfordTown_Hall_Text_1FDD95: @ 81FDD95
-	.string "Hey, listen, I composed a theme song\n"
-	.string "for “{STR_VAR_1}.”\p"
-	.string "“{STR_VAR_1}”\n"
-	.string "is really popular right now.\p"
-	.string "Okay, listen!\n"
-	.string "… …\p"
-	.string "Oh!\n"
-	.string "{STR_VAR_1}!\p"
-	.string "Wonderful\n"
-	.string "{STR_VAR_1}!$"
+	.i18n 2157
 
 DewfordTown_Hall_Text_1FDE0E: @ 81FDE0E
-	.string "… …\p"
-	.string "I dare say, chap, it would pay for you\n"
-	.string "to work on your singing before you\l"
-	.string "trifle yourself with\l"
-	.string "“{STR_VAR_1}.”$"
+	.i18n 2158
 
 DewfordTown_Hall_Text_1FDE77: @ 81FDE77
-	.string "Anyway, as I was saying earlier, we\n"
-	.string "should get together and organize a\l"
-	.string "“{STR_VAR_1}” party\l"
-	.string "on the island.$"
+	.i18n 2159
 
 DewfordTown_Hall_Text_1FDED8: @ 81FDED8
-	.string "Oh, a smashing good idea!\p"
-	.string "It will settle once and for all\n"
-	.string "who is the best at\l"
-	.string "“{STR_VAR_1}.”\l"
-	.string "Brilliant, indeed!\p"
-	.string "Starting today, our lives will revolve\n"
-	.string "around “{STR_VAR_1}”!$"
+	.i18n 2160
 
 DewfordTown_Hall_Text_1FDF72: @ 81FDF72
-	.string "I was thinking, though…\p"
-	.string "Wouldn't you agree that\n"
-	.string "“{STR_VAR_1}” has\l"
-	.string "grown from being something trendy to\l"
-	.string "being a part of our daily lives?$"
+	.i18n 2161
 
 DewfordTown_Hall_Text_1FDFF1: @ 81FDFF1
-	.string "Beg pardon?\n"
-	.string "That much, what?\p"
-	.string "However, it's true that\n"
-	.string "“{STR_VAR_1}”\l"
-	.string "weighs heavily on your mind, whether\l"
-	.string "you're awake or asleep.\p"
-	.string "Absolutely, you're the\n"
-	.string "“{STR_VAR_1}”\l"
-	.string "PROFESSOR, old sport!$"
+	.i18n 2162
 
 DewfordTown_Hall_Text_1FE09A: @ 81FE09A
-	.string "If you and me team up as a combo,\n"
-	.string "we'll be invincible when it comes to all\l"
-	.string "things “{STR_VAR_1}”!$"
+	.i18n 2163
 
 DewfordTown_Hall_Text_1FE0F2: @ 81FE0F2
-	.string "Spot on, my friend!\p"
-	.string "We shall be the\n"
-	.string "“{STR_VAR_1}” DUO!\p"
-	.string "Isn't that a ripe image?\n"
-	.string "Hahahah!$"
+	.i18n 2164
 
 DewfordTown_Hall_Text_1FE142: @ 81FE142
-	.string "For me, SLUDGE BOMB is at the peak\n"
-	.string "of popularity. It's the one.\p"
-	.string "Hunh? You're telling me that you don't\n"
-	.string "know about SLUDGE BOMB?\p"
-	.string "That's outright pitiful.\n"
-	.string "I'll give you one.$"
+	.i18n 2165
 
 DewfordTown_Hall_Text_1FE1ED: @ 81FE1ED
-	.string "I love SLUDGE BOMB.\p"
-	.string "But POKéMON with the move\n"
-	.string "“{STR_VAR_1}”\l"
-	.string "are in, too.$"
+	.i18n 2166
 

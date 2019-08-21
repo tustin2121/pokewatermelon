@@ -16,9 +16,8 @@ RustboroCity_Flat2_1F_EventScript_215F80:: @ 8215F80
 	end
 
 RustboroCity_Flat2_1F_Text_215F93: @ 8215F93
-	.string "DEVON CORPORATION's workers live in\n"
-	.string "this building.$"
+	.i18n 4188
 
 RustboroCity_Flat2_1F_Text_215FC6: @ 8215FC6
-	.string "SKITTY: Gyaaaah!$"
+	.i18n 4189
 

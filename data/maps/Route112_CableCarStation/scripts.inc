@@ -88,12 +88,11 @@ Route112_CableCarStation_Movement_22AB80: @ 822AB80
 	step_end
 
 Route112_CableCarStation_Text_22AB85: @ 822AB85
-	.string "The CABLE CAR is ready to go up.\n"
-	.string "Would you like to be on it?$"
+	.i18n 3898
 
 Route112_CableCarStation_Text_22ABC2: @ 822ABC2
-	.string "Please step this way.$"
+	.i18n 3899
 
 Route112_CableCarStation_Text_22ABD8: @ 822ABD8
-	.string "Please ride with us another time.$"
+	.i18n 3900
 

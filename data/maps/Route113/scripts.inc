@@ -138,33 +138,20 @@ Route113_EventScript_1F2344:: @ 81F2344
 	end
 
 Route113_Text_1F235B: @ 81F235B
-	.string "Wahahaha! Today's technology is a\n"
-	.string "wondrous thing!\p"
-	.string "Take this volcanic ash here.\n"
-	.string "It can be fashioned into glass.$"
+	.i18n 3901
 
 Route113_Text_1F23CA: @ 81F23CA
-	.string "It's fun walking through the volcano's\n"
-	.string "ashes on the ground and grass.\p"
-	.string "You can see where you walked--it's\n"
-	.string "really neat!$"
+	.i18n 3902
 
 Route113_Text_1F2440: @ 81F2440
-	.string "ROUTE 113\n"
-	.string "{RIGHT_ARROW} ROUTE 111$"
+	.i18n 3903
 
 Route113_Text_1F2456: @ 81F2456
-	.string "ROUTE 113\n"
-	.string "{LEFT_ARROW} FALLARBOR TOWN$"
+	.i18n 3904
 
 Route113_Text_1F2471: @ 81F2471
-	.string "TRAINER TIPS\p"
-	.string "You may register one of the KEY ITEMS\n"
-	.string "in your BAG as SELECT.\p"
-	.string "Simply press SELECT to use\n"
-	.string "the registered item conveniently.$"
+	.i18n 3905
 
 Route113_Text_1F24F8: @ 81F24F8
-	.string "GLASS WORKSHOP\n"
-	.string "“Turning Volcanic Ash into Glass Items”$"
+	.i18n 3906
 

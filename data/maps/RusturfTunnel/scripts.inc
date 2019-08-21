@@ -430,109 +430,50 @@ RusturfTunnel_EventScript_22D1B1:: @ 822D1B1
 	end
 
 RusturfTunnel_Text_22D1C8: @ 822D1C8
-	.string "What, are you coming?\n"
-	.string "Come and get some, then!$"
+	.i18n 4256
 
 RusturfTunnel_Text_22D1F7: @ 822D1F7
-	.string "PEEKO: Pii pihyoh!$"
+	.i18n 4257
 
 RusturfTunnel_Text_22D20A: @ 822D20A
-	.string "Grah, keelhaul it all!\p"
-	.string "That hostage POKéMON turned out to\n"
-	.string "be worthless!\p"
-	.string "And to think I made a getaway…\n"
-	.string "In this tunnel to nowhere!\p"
-	.string "Hey! You!\n"
-	.string "So you want to battle me?$"
+	.i18n 4258
 
 RusturfTunnel_Text_22D2B0: @ 822D2B0
-	.string "Urrrggh! My career in crime comes to\n"
-	.string "a dead end!$"
+	.i18n 4259
 
 RusturfTunnel_Text_22D2E1: @ 822D2E1
-	.string "This is plain not right…\p"
-	.string "The BOSS told me this would be a\n"
-	.string "slick-and-easy job to pull.\p"
-	.string "All I had to do was steal some package\n"
-	.string "from DEVON.\p"
-	.string "Tch!\n"
-	.string "You want it back that badly, take it!$"
+	.i18n 4260
 
 RusturfTunnel_Text_22D395: @ 822D395
-	.string "PEEKO!\n"
-	.string "Am I glad to see you're safe!$"
+	.i18n 4261
 
 RusturfTunnel_Text_22D3BA: @ 822D3BA
-	.string "PEEKO owes her life to you!\p"
-	.string "They call me MR. BRINEY.\n"
-	.string "And, you are?\p"
-	.string "… … … … … … … …\n"
-	.string "… … … … … … … …\p"
-	.string "Ah, so you are {PLAYER}{KUN}!\n"
-	.string "I sincerely thank you!\p"
-	.string "Now, if there's anything that troubles\n"
-	.string "you, don't hesitate to tell me!\p"
-	.string "You can usually find me in my cottage\n"
-	.string "by the sea near PETALBURG WOODS.\p"
-	.string "Come, PEEKO, we should make our way\n"
-	.string "home.\p"
-	.string "PEEKO: Pihyoh!$"
+	.i18n 4262
 
 RusturfTunnel_Text_22D510: @ 822D510
-	.string "… …\p"
-	.string "Why can't they keep digging?\n"
-	.string "Is the bedrock too hard?\p"
-	.string "My beloved awaits me in VERDANTURF\n"
-	.string "TOWN just beyond here…\p"
-	.string "If RUSTBORO and VERDANTURF were\n"
-	.string "joined by this tunnel, I could visit\l"
-	.string "her every day…\p"
-	.string "But this…\n"
-	.string "What am I to do?$"
+	.i18n 4263
 
 RusturfTunnel_Text_22D5F3: @ 822D5F3
-	.string "To get from RUSTBORO to VERDANTURF,\n"
-	.string "you need to go to DEWFORD, then pass\l"
-	.string "through SLATEPORT and MAUVILLE…$"
+	.i18n 4264
 
 RusturfTunnel_Text_22D65C: @ 822D65C
-	.string "Wow! You shattered that boulder\n"
-	.string "blocking the way.\p"
-	.string "To show you how much I appreciate it,\n"
-	.string "I'd like you to have this HM.$"
+	.i18n 4265
 
 RusturfTunnel_Text_22D6D2: @ 822D6D2
-	.string "That HM contains STRENGTH.\p"
-	.string "If a muscular POKéMON were to learn\n"
-	.string "that, it would be able to move even\l"
-	.string "large boulders.$"
+	.i18n 4266
 
 RusturfTunnel_Text_22D745: @ 822D745
-	.string "WANDA!\n"
-	.string "Now I can see you anytime!\p"
-	.string "WANDA: That's…wonderful.\p"
-	.string "Please, take some rest at my home.$"
+	.i18n 4267
 
 RusturfTunnel_Text_22D7A3: @ 822D7A3
-	.string "On the other side of this rock…\n"
-	.string "My boyfriend is there.\p"
-	.string "He… He's not just digging the tunnel\n"
-	.string "to come see me.\p"
-	.string "He works his hands raw and rough\n"
-	.string "for the benefit of everyone.$"
+	.i18n 4268
 
 RusturfTunnel_Text_22D84D: @ 822D84D
-	.string "What do you call a wild man up in the\n"
-	.string "mountains? A mountain man, right?\p"
-	.string "So why don't they call a POKéMON in\n"
-	.string "the mountains a mountain POKéMON?$"
+	.i18n 4269
 
 RusturfTunnel_Text_22D8DB: @ 822D8DB
-	.string "My POKéMON…\n"
-	.string "Ran out of power…$"
+	.i18n 4270
 
 RusturfTunnel_Text_22D8F9: @ 822D8F9
-	.string "They halted development here to\n"
-	.string "protect POKéMON, right?\l"
-	.string "There's a feel-good story!$"
+	.i18n 4271
 

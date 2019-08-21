@@ -625,17 +625,16 @@ EventScript_23B6D7:: @ 823B6D7
 	end
 
 gText_23B6E0:: @ 823B6E0
-	.string "There's a small indent in the wall.$"
+	.i18n 1
 
 gText_23B704:: @ 823B704
-	.string "There's a small indent in the wall.\p"
-	.string "Use the SECRET POWER?$"
+	.i18n 2
 
 gText_23B73E:: @ 823B73E
-	.string "Discovered a small cavern!$"
+	.i18n 3
 
 SecretBase_RedCave1_Text_23B759: @ 823B759
-	.string "Want to make your SECRET BASE here?$"
+	.i18n 4
 
 	.include "data/maps/SingleBattleColosseum/scripts.inc"
 	.include "data/maps/TradeCenter/scripts.inc"
@@ -2495,220 +2494,219 @@ EventScript_Blueprint:: @ 8272604
 	end
 
 Text_WouldYouLikeToMixRecords: @ 827260D
-	.string "Would you like to mix records with\n"
-	.string "other TRAINERS?$"
+	.i18n 5
 
 Text_WouldNotLikeToMixRecords: @ 8272640
-	.string "We hope to see you again!$"
+	.i18n 6
 
 Text_BootUpPC: @ 827265A
-	.string "{PLAYER} booted up the PC.$"
+	.i18n 7
 
 gText_WhichPCShouldBeAccessed:: @ 827266F
-	.string "Which PC should be accessed?$"
+	.i18n 8
 
 gText_AccessedSomeonesPC:: @ 827268C
-	.string "Accessed SOMEONE'S PC.$"
+	.i18n 9
 
 gText_StorageSystemOpened:: @ 82726A3
-	.string "POKéMON Storage System opened.$"
+	.i18n 10
 
 gText_AccessedPlayersPC:: @ 82726C2
-	.string "Accessed {PLAYER}'s PC.$"
+	.i18n 11
 
 gText_AccessedLanettesPC:: @ 82726D4
-	.string "Accessed LANETTE's PC.$"
+	.i18n 12
 
 gUnknown_082726EB:: @ 82726EB
-	.string "Hello, and welcome to\nthe POKéMON CENTER.\pWe restore your tired POKéMON\nto full health.\pWould you like to rest your POKéMON?$"
+	.i18n 13
 
 gUnknown_08272768:: @ 8272768
-	.string "Okay, I'll take your POKéMON\nfor a few seconds.$"
+	.i18n 14
 
 gUnknown_08272798:: @ 8272798
-	.string "Thank you for waiting.\pWe've restored your POKéMON\nto full health.$"
+	.i18n 15
 
 gUnknown_082727DB:: @ 82727DB
-	.string "We hope to see you again!$"
+	.i18n 16
 
 gUnknown_082727F5:: @ 82727F5
-	.string "Hello, and welcome to\nthe POKéMON CENTER.\pWe restore your tired POKéMON\nto full health.\pWould you like to…$"
+	.i18n 17
 
 gUnknown_08272860:: @ 8272860
-	.string "Th-that card…\nCould it be… The GOLD CARD?!\pOh, the gold color is brilliant!\nThe four stars seem to sparkle!\pI've seen several TRAINERS with\na SILVER CARD before, but, {PLAYER},\lyou're the first TRAINER I've ever\lseen with a GOLD CARD!\pOkay, {PLAYER}, please allow me\nthe honor of resting your POKéMON!$"
+	.i18n 18
 
 gUnknown_08272982:: @ 8272982
-	.string "I'm delighted to see you, {PLAYER}!\nYou want the usual, am I right?$"
+	.i18n 19
 
 gUnknown_082729C0:: @ 82729C0
-	.string "Okay, I'll take your POKéMON\nfor a few seconds.$"
+	.i18n 20
 
 gUnknown_082729F0:: @ 82729F0
-	.string "Thank you for waiting.$"
+	.i18n 21
 
 gUnknown_08272A07:: @ 8272A07
-	.string "We hope to see you again!$"
+	.i18n 22
 
 gUnknown_08272A21:: @ 8272A21
-	.string "Welcome!\pHow may I serve you?$"
+	.i18n 23
 
 gUnknown_08272A3F:: @ 8272A3F
-	.string "Please come again!$"
+	.i18n 24
 
 gUnknown_08272A52:: @ 8272A52
-	.string "{PLAYER}{STRING 5}, welcome!\pWhat can I do for you?$"
+	.i18n 25
 
 gUnknown_08272A78:: @ 8272A78
-	.string "Obtained the {STR_VAR_2}!$"
+	.i18n 26
 
 gUnknown_08272A89:: @ 8272A89
-	.string "The BAG is full…$"
+	.i18n 27
 
 gText_PutItemInPocket:: @ 8272A9A
-	.string "{PLAYER} put away the {STR_VAR_2}\nin the {STR_VAR_3} POCKET.$"
+	.i18n 28
 
 gText_PlayerFoundOneItem:: @ 8272ABF
-	.string "{PLAYER} found one {STR_VAR_2}!$"
+	.i18n 29
 
 gText_TooBadBagIsFull:: @ 8272AD0
-	.string "Too bad!\nThe BAG is full…$"
+	.i18n 30
 
 gText_PlayerPutItemInBag:: @ 8272AEA
-	.string "{PLAYER} put away the {STR_VAR_2}\nin the BAG.$"
+	.i18n 31
 
 gUnknown_08272B09:: @ 8272B09
-	.string "Obtained the {STR_VAR_2}!$"
+	.i18n 32
 
 gText_NoRoomLeftForAnother:: @ 8272B1A
-	.string "Too bad! There's no room left for\nanother {STR_VAR_2}…$"
+	.i18n 33
 
 gUnknown_08272B48:: @ 8272B48
-	.string "The {STR_VAR_2} was transferred\nto the PC.$"
+	.i18n 34
 
 gText_PokemartSign:: @ 8272B6A
-	.string "“Selected items for your convenience!”\nPOKéMON MART$"
+	.i18n 35
 
 gText_PokemonCenterSign:: @ 8272B9E
-	.string "“Rejuvenate your tired partners!”\nPOKéMON CENTER$"
+	.i18n 36
 
 gUnknown_08272BCF:: @ 8272BCF
-	.string "{STR_VAR_1} might like this program.\n… … … … … … … … … … … … … … … …\pBetter get going!$"
+	.i18n 37
 
 gUnknown_08272C1D:: @ 8272C1D
-	.string "Welcome to LILYCOVE DEPARTMENT STORE.\pWhich floor would you like?$"
+	.i18n 38
 
 gUnknown_08272C5F:: @ 8272C5F
-	.string "The sandstorm is vicious.\nIt's impossible to keep going.$"
+	.i18n 39
 
 gText_SelectWithoutRegisteredItem:: @ 8272C98
-	.string "An item in the BAG can be\nregistered to SELECT for easy use.$"
+	.i18n 40
 
 gUnknown_08272CD5:: @ 8272CD5
-	.string "There's an e-mail from POKéMON TRAINER\nSCHOOL.\p… … … … … …\pA POKéMON may learn up to four moves.\pA TRAINER's expertise is tested on the\nmove sets chosen for POKéMON.\p… … … … … …$"
+	.i18n 41
 
 gText_PlayerHouseBootPC:: @ 8272D87
-	.string "{PLAYER} booted up the PC.$"
+	.i18n 42
 
 gUnknown_08272D9C:: @ 8272D9C
-	.string "The link was canceled.$"
+	.i18n 43
 
 gUnknown_08272DB3:: @ 8272DB3
-	.string "Want to give a nickname to\nthe {STR_VAR_2} you received?$"
+	.i18n 44
 
 gUnknown_08272DE3:: @ 8272DE3
-	.string "{PLAYER} is out of usable\nPOKéMON!\p{PLAYER} whited out!$"
+	.i18n 45
 
 gText_RegisteredTrainerinPokeNav:: @ 8272E0F
-	.string "Registered {STR_VAR_1} {STR_VAR_2}\nin the POKéNAV.$"
+	.i18n 46
 
 gUnknown_08272E30:: @ 8272E30
-	.string "Do you know the TM SECRET POWER?\pOur group, we love the TM SECRET\nPOWER.\pOne of our members will give it to you.\nCome back and show me if you get it.\pWe'll accept you as a member and sell\nyou good stuff in secrecy.$"
+	.i18n 47
 
 gText_PokerusExplanation:: @ 8272F07
-	.string "Your POKéMON may be infected with\nPOKéRUS.\pLittle is known about the POKéRUS\nexcept that they are microscopic life-\lforms that attach to POKéMON.\pWhile infected, POKéMON are said to\ngrow exceptionally well.$"
+	.i18n 48
 
 	.include "data/text/surf.inc"
 
 gUnknown_0827301B:: @ 827301B
-	.string "It sounded as if a door opened\nsomewhere far away.$"
+	.i18n 49
 
 gUnknown_0827304E:: @ 827304E
-	.string "There is a big hole in the wall.$"
+	.i18n 50
 
 gUnknown_0827306F:: @ 827306F
-	.string "I'm terribly sorry.\nThe POKéMON WIRELESS CLUB is\lundergoing adjustments now.$"
+	.i18n 51
 
 gUnknown_082730BC:: @ 82730BC
-	.string "It appears to be undergoing\nadjustments…$"
+	.i18n 52
 
 gUnknown_082730E5:: @ 82730E5
-	.string "I'm terribly sorry. The TRADE CENTER\nis undergoing inspections.$"
+	.i18n 53
 
 gUnknown_08273125:: @ 8273125
-	.string "I'm terribly sorry. The RECORD CORNER\nis under preparation.$"
+	.i18n 54
 
 gUnknown_08273161:: @ 8273161
-	.string "{PLAYER} handed over the\n{STR_VAR_1}.$"
+	.i18n 55
 
 gUnknown_08273178:: @ 8273178
-	.string "Thank you for accessing the\nMYSTERY GIFT System.$"
+	.i18n 56
 
 gText_PlayerFoundOneItemTwoLines:: @ 82731A9
-	.string "{PLAYER} found one {STR_VAR_1}\n{STR_VAR_2}!$"
+	.i18n 57
 
 gText_Sudowoodo_Attacked:: @ 82731BD
-	.string "The weird tree doesn't like the\nWAILMER PAIL!\pThe weird tree attacked!$"
+	.i18n 58
 
 gText_LegendaryFlewAway:: @ 8273204
-	.string "The {STR_VAR_1} flew away!$"
+	.i18n 59
 
 gText_PkmnTransferredSomeonesPC:: @ 8273216
-	.string "{STR_VAR_2} was transferred to\nSOMEONE'S PC.\pIt was placed in \nBOX “{STR_VAR_1}.”$"
+	.i18n 60
 
 gText_PkmnTransferredLanettesPC:: @ 8273256
-	.string "{STR_VAR_2} was transferred to\nLANETTE'S PC.\pIt was placed in \nBOX “{STR_VAR_1}.”$"
+	.i18n 61
 
 gText_PkmnBoxSomeonesPCFull:: @ 8273296
-	.string "BOX “{STR_VAR_3}” on\nSOMEONE'S PC was full.\p{STR_VAR_2} was transferred to\nBOX “{STR_VAR_1}.”$"
+	.i18n 62
 
 gText_PkmnBoxLanettesPCFull:: @ 82732D9
-	.string "BOX “{STR_VAR_3}” on\nLANETTE'S PC was full.\p{STR_VAR_2} was transferred to\nBOX “{STR_VAR_1}.”$"
+	.i18n 63
 
 gUnknown_0827331C:: @ 827331C
-	.string "There's no more room for POKéMON!\pThe POKéMON BOXES are full and\ncan't accept any more!$"
+	.i18n 64
 
 gText_NicknameThisPokemon:: @ 8273374
-	.string "Do you want to give a nickname to\nthis {STR_VAR_1}?$"
+	.i18n 65
 
 gUnknown_0827339F:: @ 827339F
-	.string "There is a questionnaire.\nWould you like to fill it out?$"
+	.i18n 66
 
 gUnknown_082733D8:: @ 82733D8
-	.string "Thank you for taking the time to\nfill out our questionnaire.\pYour feedback will be used for\nfuture reference.$"
+	.i18n 67
 
 gUnknown_08273446:: @ 8273446
-	.string "Oh, hello!\nYou know those words?\pThat means you must know about\nthe MYSTERY GIFT.\pFrom now on, you should be\nreceiving MYSTERY GIFTS!$"
+	.i18n 68
 
 gUnknown_082734CC:: @ 82734CC
-	.string "Once you save your game, you can\naccess the MYSTERY GIFT.$"
+	.i18n 69
 
 gUnknown_08273506:: @ 8273506
-	.string "Oh, hello!\nYou know those words?\pThat means you must know about\nthe MYSTERY EVENT.$"
+	.i18n 70
 
 gUnknown_08273559:: @ 8273559
-	.string "Once you save your game, you can\naccess the MYSTERY EVENT.$"
+	.i18n 71
 
 gUnknown_08273594:: @ 8273594
-	.string "Thank you for using the MYSTERY\nEVENT System.\pYou must be {PLAYER}.\nThere is a ticket here for you.$"
+	.i18n 72
 
 gUnknown_082735F2:: @ 82735F2
-	.string "It appears to be for use at\nthe LILYCOVE CITY port.\pWhy not give it a try and see what\nit is about?$"
+	.i18n 73
 
 gText_UnusualWeatherEnded_Rain:: @ 8273656
-	.string "The massive downpour appears to\nhave stopped…$"
+	.i18n 74
 
 gText_UnusualWeatherEnded_Sun:: @ 8273684
-	.string "The intense sunshine appears to\nhave subsided…$"
+	.i18n 75
 
 EventScript_SelectWithoutRegisteredItem:: @ 82736B3
 	msgbox gText_SelectWithoutRegisteredItem, MSGBOX_SIGN
@@ -3461,272 +3459,253 @@ EventScript_GotoTrainerScript:: @ 82742F6
 	.include "data/text/contest_strings.inc"
 
 gUnknown_0827E8CE:: @ 827E8CE
-	.string "Missed turn$"
+	.i18n 76
 
 gText_LinkStandby4:: @ 827E8DA
-	.string "Link standby!$"
+	.i18n 77
 
 gUnknown_0827E8E8:: @ 827E8E8
-	.string "The winner is {STR_VAR_1}'s {STR_VAR_2}!\n"
-	.string "Congratulations!$"
+	.i18n 78
 
 gUnknown_0827E910:: @ 827E910
-	.string "The winner is {STR_VAR_1}'s {STR_VAR_2}!{PAUSE_UNTIL_PRESS}$"
+	.i18n 79
 
 gUnknown_0827E929:: @ 827E929
-	.string "Primary judging: No. {STR_VAR_1}{PAUSE_UNTIL_PRESS}$"
+	.i18n 80
 
 gUnknown_0827E943:: @ 827E943
-	.string "Secondary judging: No. {STR_VAR_1}{PAUSE_UNTIL_PRESS}$"
+	.i18n 81
 
 gUnknown_0827E95F:: @ 827E95F
-	.string "Set event: No. {STR_VAR_1}{PAUSE_UNTIL_PRESS}$"
+	.i18n 82
 
 gUnknown_0827E973:: @ 827E973
-	.string "The move used most often:\n"
-	.string "{STR_VAR_1}{PAUSE_UNTIL_PRESS}$"
+	.i18n 83
 
 gUnknown_0827E992:: @ 827E992
-	.string "The most impressive POKéMON:\n"
-	.string "{STR_VAR_1}'s {STR_VAR_2}{PAUSE_UNTIL_PRESS}$"
+	.i18n 84
 
 gUnknown_0827E9B9:: @ 827E9B9
-	.string "Set event: No. {STR_VAR_1}{PAUSE_UNTIL_PRESS}$"
+	.i18n 85
 
 gUnknown_0827E9CD:: @ 827E9CD
-	.string "A link TV program will not be made\n"
-	.string "because the TRAINER lost.{PAUSE_UNTIL_PRESS}$"
+	.i18n 86
 
 gUnknown_0827EA0C:: @ 827EA0C
-	.string "{STR_VAR_1}\n"
-	.string "{STR_VAR_2}'s {STR_VAR_3}$"
+	.i18n 87
 
 gUnknown_0827EA17:: @ 827EA17
-	.string "CONTEST$"
+	.i18n 88
 
 gContestRankNormal::
-	.string "NORMAL RANK$"
+	.i18n 89
 
 gContestRankSuper::
-	.string "SUPER RANK$"
+	.i18n 90
 
 gContestRankHyper::
-	.string "HYPER RANK$"
+	.i18n 91
 
 gContestRankMaster::
-	.string "MASTER RANK$"
+	.i18n 92
 
 gContestLink::
-	.string "LINK$"
+	.i18n 93
 
 gContestCoolness::
-	.string "COOLNESS$"
+	.i18n 94
 
 gContestBeauty::
-	.string "BEAUTY$"
+	.i18n 95
 
 gContestCuteness::
-	.string "CUTENESS$"
+	.i18n 96
 
 gContestSmartness::
-	.string "SMARTNESS$"
+	.i18n 97
 
 gContestToughness::
-	.string "TOUGHNESS$"
+	.i18n 98
 
 gContestPaintingCool1::
-	.string "Nonstop supercool--\n"
-	.string "the inestimable {STR_VAR_1}$"
+	.i18n 99
 
 gContestPaintingCool2::
-	.string "Hey, there!\n"
-	.string "The good-looking POKéMON {STR_VAR_1}$"
+	.i18n 100
 
 gContestPaintingCool3::
-	.string "The marvelous, wonderful, and\n"
-	.string "very great {STR_VAR_1}$"
+	.i18n 101
 
 gContestPaintingBeauty1::
-	.string "This century's last Venus--\n"
-	.string "the beautiful {STR_VAR_1}$"
+	.i18n 102
 
 gContestPaintingBeauty2::
-	.string "{STR_VAR_1}'s dazzling,\n"
-	.string "glittering smile$"
+	.i18n 103
 
 gContestPaintingBeauty3::
-	.string "POKéMON CENTER's super idol--\n"
-	.string "the incomparable {STR_VAR_1}$"
+	.i18n 104
 
 gContestPaintingCute1::
-	.string "The lovely and sweet {STR_VAR_1}$"
+	.i18n 105
 
 gContestPaintingCute2::
-	.string "The pretty {STR_VAR_1}'s\n"
-	.string "winning portrait$"
+	.i18n 106
 
 gContestPaintingCute3::
-	.string "Give us a wink!\n"
-	.string "The cutie POKéMON {STR_VAR_1}$"
+	.i18n 107
 
 gContestPaintingSmart1::
-	.string "The smartness maestro--\n"
-	.string "the wise POKéMON {STR_VAR_1}$"
+	.i18n 108
 
 gContestPaintingSmart2::
-	.string "{STR_VAR_1}--the one chosen\n"
-	.string "above all POKéMON$"
+	.i18n 109
 
 gContestPaintingSmart3::
-	.string "The excellent {STR_VAR_1}'s\n"
-	.string "moment of elegance$"
+	.i18n 110
 
 gContestPaintingTough1::
-	.string "The powerfully muscular\n"
-	.string "speedster {STR_VAR_1}$"
+	.i18n 111
 
 gContestPaintingTough2::
-	.string "The strong, stronger, and\n"
-	.string "strongest {STR_VAR_1}$"
+	.i18n 112
 
 gContestPaintingTough3::
-	.string "The mighty tough\n"
-	.string "hyper POKéMON {STR_VAR_1}$"
+	.i18n 113
 
 gUnknown_0827ECBC:: @ 27ECBC
-	.string "ODDISH$"
+	.i18n 114
 
 gUnknown_0827ECC3:: @ 27ECC3
-	.string "POOCHYENA$"
+	.i18n 115
 
 gUnknown_0827ECCD:: @ 27ECCD
-	.string "TAILLOW$"
+	.i18n 116
 
 gUnknown_0827ECD5:: @ 27ECD5
-	.string "AZURILL$"
+	.i18n 117
 
 gUnknown_0827ECDD:: @ 27ECDD
-	.string "LOTAD$"
+	.i18n 118
 
 gUnknown_0827ECE3:: @ 27ECE3
-	.string "WINGULL$"
+	.i18n 119
 
 gUnknown_0827ECEB:: @ 27ECEB
-	.string "DUSTOX$"
+	.i18n 120
 
 gUnknown_0827ECF2:: @ 27ECF2
-	.string "ZUBAT$"
+	.i18n 121
 
 gUnknown_0827ECF8:: @ 27ECF8
-	.string "NINCADA$"
+	.i18n 122
 
 gUnknown_0827ED00:: @ 27ED00
-	.string "RALTS$"
+	.i18n 123
 
 gUnknown_0827ED06:: @ 27ED06
-	.string "ZIGZAGOON$"
+	.i18n 124
 
 gUnknown_0827ED10:: @ 27ED10
-	.string "SLAKOTH$"
+	.i18n 125
 
 gUnknown_0827ED18:: @ 27ED18
-	.string "POOCHYENA$"
+	.i18n 126
 
 gUnknown_0827ED22:: @ 27ED22
-	.string "SHROOMISH$"
+	.i18n 127
 
 gUnknown_0827ED2C:: @ 27ED2C
-	.string "ZIGZAGOON$"
+	.i18n 128
 
 gUnknown_0827ED36:: @ 27ED36
-	.string "POOCHYENA$"
+	.i18n 129
 
 gUnknown_0827ED40:: @ 27ED40
-	.string "ZUBAT$"
+	.i18n 130
 
 gUnknown_0827ED46:: @ 27ED46
-	.string "CARVANHA$"
+	.i18n 131
 
 gUnknown_0827ED4F:: @ 27ED4F
-	.string "BURN HEAL$"
+	.i18n 132
 
 gUnknown_0827ED59:: @ 27ED59
-	.string "HARBOR MAIL$"
+	.i18n 133
 
 gUnknown_0827ED65:: @ 27ED65
-	.string "Same price$"
+	.i18n 134
 
 gUnknown_0827ED70:: @ 27ED70
-	.string "¥60$"
+	.i18n 135
 
 gUnknown_0827ED74:: @ 27ED74
-	.string "¥55$"
+	.i18n 136
 
 gUnknown_0827ED78:: @ 27ED78
-	.string "Nothing$"
+	.i18n 137
 
 gUnknown_0827ED80:: @ 27ED80
-	.string "They will cost more.$"
+	.i18n 138
 
 gUnknown_0827ED95:: @ 27ED95
-	.string "They will cost less.$"
+	.i18n 139
 
 gUnknown_0827EDAA:: @ 27EDAA
-	.string "Same price$"
+	.i18n 140
 
 gUnknown_0827EDB5:: @ 27EDB5
-	.string "Male$"
+	.i18n 141
 
 gUnknown_0827EDBA:: @ 27EDBA
-	.string "Female$"
+	.i18n 142
 
 gUnknown_0827EDC1:: @ 27EDC1
-	.string "Neither$"
+	.i18n 143
 
 gUnknown_0827EDC9:: @ 27EDC9
-	.string "Elderly men$"
+	.i18n 144
 
 gUnknown_0827EDD5:: @ 27EDD5
-	.string "Elderly ladies$"
+	.i18n 145
 
 gUnknown_0827EDE4:: @ 27EDE4
-	.string "Same number$"
+	.i18n 146
 
 gUnknown_0827EDF0:: @ 27EDF0
-	.string "None$"
+	.i18n 147
 
 gUnknown_0827EDF5:: @ 27EDF5
-	.string "1$"
+	.i18n 148
 
 gUnknown_0827EDF7:: @ 27EDF7
-	.string "2$"
+	.i18n 149
 
 gUnknown_0827EDF9:: @ 27EDF9
-	.string "2$"
+	.i18n 150
 
 gUnknown_0827EDFB:: @ 27EDFB
-	.string "3$"
+	.i18n 151
 
 gUnknown_0827EDFD:: @ 27EDFD
-	.string "4$"
+	.i18n 152
 
 gUnknown_0827EDFF:: @ 27EDFF
-	.string "6$"
+	.i18n 153
 
 gUnknown_0827EE01:: @ 27EE01
-	.string "7$"
+	.i18n 154
 
 gUnknown_0827EE03:: @ 27EE03
-	.string "8$"
+	.i18n 155
 
 gUnknown_0827EE05:: @ 27EE05
-	.string "6$"
+	.i18n 156
 
 gUnknown_0827EE07:: @ 27EE07
-	.string "7$"
+	.i18n 157
 
 gUnknown_0827EE09:: @ 27EE09
-	.string "8$"
+	.i18n 158
 
 	.include "data/scripts/tv.inc"
 	.include "data/text/tv.inc"
@@ -4100,67 +4079,58 @@ EventScript_RunningShoesManual:: @ 8292DE5
 	.include "data/scripts/pokeblocks.inc"
 
 gText_SoPretty:: @ 8294295
-	.string " so pretty!$"
+	.i18n 159
 
 gText_SoDarling:: @ 82942A1
-	.string " so darling!$"
+	.i18n 160
 
 gText_SoRelaxed:: @ 82942AE
-	.string " so relaxed!$"
+	.i18n 161
 
 gText_SoSunny:: @ 82942BB
-	.string " so sunny!$"
+	.i18n 162
 
 gText_SoDesirable:: @ 82942C6
-	.string " so desirable!$"
+	.i18n 163
 
 gText_SoExciting:: @ 82942D5
-	.string " so exciting!$"
+	.i18n 164
 
 gText_SoAmusing:: @ 82942E3
-	.string " so amusing!$"
+	.i18n 165
 
 gText_SoMagical:: @ 82942F0
-	.string " so magical!$"
+	.i18n 166
 
 gOtherText_Is:: @ 82942FD
-	.string " is$"
+	.i18n 167
 
 gOtherText_DontYouAgree:: @ 8294301
-	.string "\n"
-	.string "Don't you agree?$"
+	.i18n 168
 
 gMauvilleManText_ISoWantToGoOnAVacation:: @ 8294313
-	.string "I so want to go on a vacation.\n"
-	.string "Would you happen to know a nice place?$"
+	.i18n 169
 
 gMauvilleManText_IBoughtCrayonsWith120Colors:: @ 8294359
-	.string "I bought crayons with 120 colors!\n"
-	.string "Don't you think that's nice?$"
+	.i18n 170
 
 gMauvilleManText_WouldntItBeNiceIfWeCouldFloat:: @ 8294398
-	.string "Wouldn't it be nice if we could float\n"
-	.string "away on a cloud of bubbles?$"
+	.i18n 171
 
 gMauvilleManText_WhenYouWriteOnASandyBeach:: @ 82943DA
-	.string "When you write on a sandy beach,\n"
-	.string "they wash away. It makes me sad.$"
+	.i18n 172
 
 gMauvilleManText_WhatsTheBottomOfTheSeaLike:: @ 829441C
-	.string "What's the bottom of the sea like?\n"
-	.string "Just once I would so love to go!$"
+	.i18n 173
 
 gMauvilleManText_WhenYouSeeTheSettingSunDoesIt:: @ 8294460
-	.string "When you see the setting sun, does it\n"
-	.string "make you want to go home?$"
+	.i18n 174
 
 gMauvilleManText_LyingBackInTheGreenGrass:: @ 82944A0
-	.string "Lying back in the green grass…\n"
-	.string "Oh, it's so, so nice!$"
+	.i18n 175
 
 gMauvilleManText_SecretBasesAreSoWonderful:: @ 82944D5
-	.string "SECRET BASES are so wonderful!\n"
-	.string "Can't you feel the excitement?$"
+	.i18n 176
 
 	.include "data/text/trainers.inc"
 
@@ -4169,7 +4139,7 @@ EventScript_RepelWoreOff:: @ 82A4B2A
 	end
 
 Text_RepelWoreOff: @ 82A4B33
-	.string "REPEL's effect wore off…$"
+	.i18n 177
 
 	.include "data/scripts/safari_zone.inc"
 
@@ -4211,32 +4181,25 @@ MauvilleCity_GameCorner_EventScript_2A5B0D:: @ 82A5B0D
 	.include "data/text/shoal_cave.inc"
 
 Text_PictureBookShelf: @ 82A81E5
-	.string "There's a set of POKéMON picture books.$"
+	.i18n 178
 
 Text_BookShelf: @ 82A820D
-	.string "It's filled with all sorts of books.$"
+	.i18n 179
 
 Text_PokemonCenterBookShelf: @ 82A8232
-	.string "POKéMON magazines!\n"
-	.string "POKéMON PAL…\p"
-	.string "POKéMON HANDBOOK…\n"
-	.string "ADORABLE POKéMON…$"
+	.i18n 180
 
 Text_Vase: @ 82A8276
-	.string "This vase looks expensive…\n"
-	.string "Peered inside…\p"
-	.string "But, it was empty.$"
+	.i18n 181
 
 Text_EmptyTrashCan: @ 82A82B3
-	.string "It's empty.$"
+	.i18n 182
 
 Text_ShopShelf: @ 82A82BF
-	.string "The shelves brim with all sorts of\n"
-	.string "POKéMON merchandise.$"
+	.i18n 183
 
 Text_Blueprint: @ 82A82F7
-	.string "A blueprint of some sort?\n"
-	.string "It's too complicated!$"
+	.i18n 184
 
 GraniteCave_B1F_MapScript2_2A8327: @ 82A8327
 MirageTower_2F_MapScript2_2A8327: @ 82A8327
@@ -4876,607 +4839,505 @@ LilycoveCity_PokemonCenter_1F_EventScript_2A8A56:: @ 82A8A56
 	end
 
 LilycoveCity_PokemonCenter_1F_Text_2A8A69: @ 82A8A69
-	.string "I'm the FAVOR LADY…$"
+	.i18n 185
 
 LilycoveCity_PokemonCenter_1F_Text_2A8A7D: @ 82A8A7D
-	.string "I've recently developed an obsession\n"
-	.string "for {STR_VAR_1} things…$"
+	.i18n 186
 
 LilycoveCity_PokemonCenter_1F_Text_2A8AB1: @ 82A8AB1
-	.string "Oh…\n"
-	.string "Thank you for last time…$"
+	.i18n 187
 
 LilycoveCity_PokemonCenter_1F_Text_2A8ACE: @ 82A8ACE
-	.string "Before, I think it was {STR_VAR_3}…\p"
-	.string "{STR_VAR_3} gave me one {STR_VAR_2},\n"
-	.string "saying it was {STR_VAR_1}.\p"
-	.string "But it wasn't {STR_VAR_1}.\n"
-	.string "Not in the least bit.$"
+	.i18n 188
 
 LilycoveCity_PokemonCenter_1F_Text_2A8B36: @ 82A8B36
-	.string "Before, {STR_VAR_3} gave me a very\n"
-	.string "{STR_VAR_1} {STR_VAR_2}.\p"
-	.string "I cherish it now.$"
+	.i18n 189
 
 LilycoveCity_PokemonCenter_1F_Text_2A8B69: @ 82A8B69
-	.string "Listen, if you have anything that\n"
-	.string "is {STR_VAR_1}, will you share it\l"
-	.string "with me?$"
+	.i18n 190
 
 LilycoveCity_PokemonCenter_1F_Text_2A8BAD: @ 82A8BAD
-	.string "…Really?\n"
-	.string "What will you give me?$"
+	.i18n 191
 
 LilycoveCity_PokemonCenter_1F_Text_2A8BCD: @ 82A8BCD
-	.string "Is that so?\n"
-	.string "Then, it's good-bye…$"
+	.i18n 192
 
 LilycoveCity_PokemonCenter_1F_Text_2A8BEE: @ 82A8BEE
-	.string "Oh…\n"
-	.string "You're not willing to share?$"
+	.i18n 193
 
 LilycoveCity_PokemonCenter_1F_Text_2A8C0F: @ 82A8C0F
-	.string "Oh?\n"
-	.string "That {STR_VAR_2} is {STR_VAR_1}?\p"
-	.string "…Oh, is that right?\p"
-	.string "Well, I owe you a thanks anyway.\n"
-	.string "I'll try to cherish it…$"
+	.i18n 194
 
 LilycoveCity_PokemonCenter_1F_Text_2A8C6F: @ 82A8C6F
-	.string "Oh…\p"
-	.string "That's a quite {STR_VAR_1}\n"
-	.string "{STR_VAR_2}…\p"
-	.string "Isn't it nice?\n"
-	.string "It's so dreamy…\p"
-	.string "Thank you…\n"
-	.string "I will cherish this…$"
+	.i18n 195
 
 LilycoveCity_PokemonCenter_1F_Text_2A8CC8: @ 82A8CC8
-	.string "…Oh, oh, oh…\p"
-	.string "This is amazing!\n"
-	.string "This really is {STR_VAR_1}!\p"
-	.string "I never knew that one {STR_VAR_2}\n"
-	.string "could be this {STR_VAR_1}!\p"
-	.string "Thank you!\p"
-	.string "I will treasure this for the rest\n"
-	.string "of my life!$"
+	.i18n 196
 
 LilycoveCity_PokemonCenter_1F_Text_2A8D5D: @ 82A8D5D
-	.string "I'll give you this wonderful item in\n"
-	.string "return for your fabulous gift.\p"
-	.string "I hope you will cherish it…$"
+	.i18n 197
 
 LilycoveCity_PokemonCenter_1F_Text_2A8DBD: @ 82A8DBD
-	.string "Oh, you can't have it if you don't have\n"
-	.string "the space for it.\p"
-	.string "Please come see me when you get\n"
-	.string "your BAG organized…$"
+	.i18n 198
 
 LilycoveCity_PokemonCenter_1F_Text_2A8E2B: @ 82A8E2B
-	.string "I'm the QUIZ LADY!\n"
-	.string "I love quizzes!$"
+	.i18n 199
 
 LilycoveCity_PokemonCenter_1F_Text_2A8E4E: @ 82A8E4E
-	.string "Oh?\p"
-	.string "I'm waiting for a challenger to answer\n"
-	.string "the quiz you made.\p"
-	.string "We can chat another time, okay?$"
+	.i18n 200
 
 LilycoveCity_PokemonCenter_1F_Text_2A8EAC: @ 82A8EAC
-	.string "I'm waiting for someone to challenge\n"
-	.string "a quiz this {STR_VAR_1} thought up!$"
+	.i18n 201
 
 LilycoveCity_PokemonCenter_1F_Text_2A8EEC: @ 82A8EEC
-	.string "If you answer correctly, you can win\n"
-	.string "fabulous prizes!\p"
-	.string "Would you like to take the quiz\n"
-	.string "challenge?$"
+	.i18n 202
 
 LilycoveCity_PokemonCenter_1F_Text_2A8F4D: @ 82A8F4D
-	.string "… … … … … …\n"
-	.string "… … … … … …$"
+	.i18n 203
 
 LilycoveCity_PokemonCenter_1F_Text_2A8F65: @ 82A8F65
-	.string "Oh, how boring!\n"
-	.string "Bye-bye!$"
+	.i18n 204
 
 LilycoveCity_PokemonCenter_1F_Text_2A8F7E: @ 82A8F7E
-	.string "Awww!\n"
-	.string "You're going to quit?$"
+	.i18n 205
 
 LilycoveCity_PokemonCenter_1F_Text_2A8F9A: @ 82A8F9A
-	.string "Please take the quiz challenge\n"
-	.string "another time!$"
+	.i18n 206
 
 LilycoveCity_PokemonCenter_1F_Text_2A8FC7: @ 82A8FC7
-	.string "You're amazing! You've got it right!\n"
-	.string "You're one sharp customer!$"
+	.i18n 207
 
 LilycoveCity_PokemonCenter_1F_Text_2A9007: @ 82A9007
-	.string "Congratulations!\n"
-	.string "You've got the quiz right!\p"
-	.string "You've won a prize provided by\n"
-	.string "{STR_VAR_1}!$"
+	.i18n 208
 
 LilycoveCity_PokemonCenter_1F_Text_2A9056: @ 82A9056
-	.string "{STR_VAR_1} received\n"
-	.string "one {STR_VAR_2}!$"
+	.i18n 209
 
 LilycoveCity_PokemonCenter_1F_Text_2A906A: @ 82A906A
-	.string "Oh? Your BAG is filled up!\n"
-	.string "Come see me when you have room.$"
+	.i18n 210
 
 LilycoveCity_PokemonCenter_1F_Text_2A90A5: @ 82A90A5
-	.string "Hmm… Wrong!\n"
-	.string "The correct answer is “{STR_VAR_3}”!$"
+	.i18n 211
 
 LilycoveCity_PokemonCenter_1F_Text_2A90CD: @ 82A90CD
-	.string "Too bad!\p"
-	.string "I get to keep the quiz prize\n"
-	.string "{STR_VAR_1} now!$"
+	.i18n 212
 
 LilycoveCity_PokemonCenter_1F_Text_2A90FB: @ 82A90FB
-	.string "Listen, listen!\n"
-	.string "Would you like to make your own quiz?$"
+	.i18n 213
 
 LilycoveCity_PokemonCenter_1F_Text_2A9131: @ 82A9131
-	.string "Oh, I see…\n"
-	.string "Well, maybe next time!$"
+	.i18n 214
 
 LilycoveCity_PokemonCenter_1F_Text_2A9153: @ 82A9153
-	.string "Okay, the first thing you have to do\n"
-	.string "is pick the prize for the person that\l"
-	.string "answers your quiz correctly.\p"
-	.string "But beware, if the person taking\n"
-	.string "the quiz can't get it right, I get to\l"
-	.string "keep the prize!$"
+	.i18n 215
 
 LilycoveCity_PokemonCenter_1F_Text_2A9212: @ 82A9212
-	.string "If you don't choose a prize,\n"
-	.string "your quiz can't be made.\p"
-	.string "Are you going to quit making\n"
-	.string "your quiz?$"
+	.i18n 216
 
 LilycoveCity_PokemonCenter_1F_Text_2A9270: @ 82A9270
-	.string "Oh, how nice!\n"
-	.string "That's a wonderful prize!\p"
-	.string "Next, you need to write your quiz\n"
-	.string "question and its answer.$"
+	.i18n 217
 
 LilycoveCity_PokemonCenter_1F_Text_2A92D3: @ 82A92D3
-	.string "Are you going to quit writing\n"
-	.string "your quiz question?$"
+	.i18n 218
 
 LilycoveCity_PokemonCenter_1F_Text_2A9305: @ 82A9305
-	.string "Are you going to quit choosing\n"
-	.string "your quiz answer?$"
+	.i18n 219
 
 LilycoveCity_PokemonCenter_1F_Text_2A9336: @ 82A9336
-	.string "Thank you!\n"
-	.string "You've put together a nice quiz.\p"
-	.string "I'll go look for someone who'll take\n"
-	.string "your quiz challenge right away.$"
+	.i18n 220
 
 LilycoveCity_PokemonCenter_1F_Text_2A93A7: @ 82A93A7
-	.string "I'm the CONTEST LADY!\n"
-	.string "I sure do love CONTESTS!$"
+	.i18n 221
 
 LilycoveCity_PokemonCenter_1F_Text_2A93D6: @ 82A93D6
-	.string "Thanks for your {POKEBLOCK} before!$"
+	.i18n 222
 
 LilycoveCity_PokemonCenter_1F_Text_2A93F4: @ 82A93F4
-	.string "This is my friend {STR_VAR_1}!\n"
-	.string "It's the epitome of {STR_VAR_2}!\p"
-	.string "But I think that it will display\n"
-	.string "even more {STR_VAR_2}!$"
+	.i18n 223
 
 LilycoveCity_PokemonCenter_1F_Text_2A9451: @ 82A9451
-	.string "So, I need your help!\p"
-	.string "Please, may I have one {POKEBLOCK}?\n"
-	.string "All I'm asking for is one!\p"
-	.string "…Oh, but…\n"
-	.string "Don't you have a {POKEBLOCK} CASE?\l"
-	.string "That's no good. Next time, then!$"
+	.i18n 224
 
 LilycoveCity_PokemonCenter_1F_Text_2A94E8: @ 82A94E8
-	.string "So, I need your help!\p"
-	.string "Please, may I have one {POKEBLOCK}?\n"
-	.string "All I'm asking for is one!$"
+	.i18n 225
 
 LilycoveCity_PokemonCenter_1F_Text_2A9537: @ 82A9537
-	.string "Awww!\n"
-	.string "I can't have one {POKEBLOCK}?!$"
+	.i18n 226
 
 LilycoveCity_PokemonCenter_1F_Text_2A9556: @ 82A9556
-	.string "Sheesh!\n"
-	.string "What a cheapskate!$"
+	.i18n 227
 
 LilycoveCity_PokemonCenter_1F_Text_2A9571: @ 82A9571
-	.string "Yay!\n"
-	.string "Thank you!\p"
-	.string "I'll feed my POKéMON your {POKEBLOCK}\n"
-	.string "right away.$"
+	.i18n 228
 
 LilycoveCity_PokemonCenter_1F_Text_2A95AD: @ 82A95AD
-	.string "…It doesn't seem to have changed\n"
-	.string "in any way at all…\p"
-	.string "Hmm…\p"
-	.string "Oh, well!\n"
-	.string "Thank you very much!$"
+	.i18n 229
 
 LilycoveCity_PokemonCenter_1F_Text_2A9605: @ 82A9605
-	.string "Oh, yay!\n"
-	.string "It's really delighted!\p"
-	.string "I think it really improved {STR_VAR_1}'s\n"
-	.string "{STR_VAR_2} quality, too.\p"
-	.string "Thank you so much!$"
+	.i18n 230
 
 LilycoveCity_PokemonCenter_1F_Text_2A9669: @ 82A9669
-	.string "Hmm…\p"
-	.string "I think we may be ready to enter\n"
-	.string "some CONTESTS.\p"
-	.string "If you see us in one somewhere,\n"
-	.string "I hope you'll cheer for us.$"
+	.i18n 231
 
 LilycoveCity_PokemonCenter_1F_Text_2A96DA: @ 82A96DA
-	.string "{STR_VAR_1}: Guguuh!$"
+	.i18n 232
 
 LilycoveCity_PokemonCenter_1F_Text_2A96E6: @ 82A96E6
-	.string "{STR_VAR_1}: Igigigiiih!$"
+	.i18n 233
 
 LilycoveCity_PokemonCenter_1F_Text_2A96F6: @ 82A96F6
-	.string "{STR_VAR_1}: Baaarun…$"
+	.i18n 234
 
 LilycoveCity_PokemonCenter_1F_Text_2A9703: @ 82A9703
-	.string "{STR_VAR_1}: Pikka!$"
+	.i18n 235
 
 LilycoveCity_PokemonCenter_1F_Text_2A970E: @ 82A970E
-	.string "{STR_VAR_1}: Umyaaaan!$"
+	.i18n 236
 
 	.include "data/text/match_call.inc"
 	.include "data/scripts/apprentice.inc"
 
 gBattleDomeOpponentPotentialText1::
-	.string "The best candidate to be a champ!$"
+	.i18n 237
 
 gBattleDomeOpponentPotentialText2::
-	.string "A sure-finalist team.$"
+	.i18n 238
 
 gBattleDomeOpponentPotentialText3::
-	.string "A likely top-three finisher.$"
+	.i18n 239
 
 gBattleDomeOpponentPotentialText4::
-	.string "A candidate to finish first.$"
+	.i18n 240
 
 gBattleDomeOpponentPotentialText5::
-	.string "A team with top-class potential.$"
+	.i18n 241
 
 gBattleDomeOpponentPotentialText6::
-	.string "The dark horse team this tournament.$"
+	.i18n 242
 
 gBattleDomeOpponentPotentialText7::
-	.string "A better-than-average team.$"
+	.i18n 243
 
 gBattleDomeOpponentPotentialText8::
-	.string "This tournament's average team.$"
+	.i18n 244
 
 gBattleDomeOpponentPotentialText9::
-	.string "A team with average potential.$"
+	.i18n 245
 
 gBattleDomeOpponentPotentialText10::
-	.string "A weaker-than-average team.$"
+	.i18n 246
 
 gBattleDomeOpponentPotentialText11::
-	.string "A team looking for its first win.$"
+	.i18n 247
 
 gBattleDomeOpponentPotentialText12::
-	.string "One win will make this team proud.$"
+	.i18n 248
 
 gBattleDomeOpponentPotentialText13::
-	.string "Overall, a weak team.$"
+	.i18n 249
 
 gBattleDomeOpponentPotentialText14::
-	.string "A team with very low potential.$"
+	.i18n 250
 
 gBattleDomeOpponentPotentialText15::
-	.string "A team unlikely to win the tournament.$"
+	.i18n 251
 
 gBattleDomeOpponentPotentialText16::
-	.string "The team most unlikely to win.$"
+	.i18n 252
 
 gBattleDomeOpponentPotentialText17::
-	.string "The perfect, invincible superstar!$"
+	.i18n 253
 
 gBattleDomeOpponentStyleText1::
-	.string "Willing to risk total disaster at times.$"
+	.i18n 254
 
 gBattleDomeOpponentStyleText2::
-	.string "Skilled at enduring long battles.$"
+	.i18n 255
 
 gBattleDomeOpponentStyleText3::
-	.string "Varies tactics to suit the opponent.$"
+	.i18n 256
 
 gBattleDomeOpponentStyleText4::
-	.string "Has a tough winning pattern.$"
+	.i18n 257
 
 gBattleDomeOpponentStyleText5::
-	.string "Occasionally uses a very rare move.$"
+	.i18n 258
 
 gBattleDomeOpponentStyleText6::
-	.string "Uses startling and disruptive moves.$"
+	.i18n 259
 
 gBattleDomeOpponentStyleText7::
-	.string "Constantly watches HP in battle.$"
+	.i18n 260
 
 gBattleDomeOpponentStyleText8::
-	.string "Good at storing then loosing power.$"
+	.i18n 261
 
 gBattleDomeOpponentStyleText9::
-	.string "Skilled at enfeebling foes.$"
+	.i18n 262
 
 gBattleDomeOpponentStyleText10::
-	.string "Prefers tactics that rely on luck.$"
+	.i18n 263
 
 gBattleDomeOpponentStyleText11::
-	.string "Attacks with a regal atmosphere.$"
+	.i18n 264
 
 gBattleDomeOpponentStyleText12::
-	.string "Attacks with powerful, low-PP moves.$"
+	.i18n 265
 
 gBattleDomeOpponentStyleText13::
-	.string "Skilled at enfeebling, then attacking.$"
+	.i18n 266
 
 gBattleDomeOpponentStyleText14::
-	.string "Battles while enduring all attacks.$"
+	.i18n 267
 
 gBattleDomeOpponentStyleText15::
-	.string "Skilled at upsetting foes emotionally.$"
+	.i18n 268
 
 gBattleDomeOpponentStyleText16::
-	.string "Uses strong and straightforward moves.$"
+	.i18n 269
 
 gBattleDomeOpponentStyleText17::
-	.string "Aggressively uses strong moves.$"
+	.i18n 270
 
 gBattleDomeOpponentStyleText18::
-	.string "Battles while cleverly dodging attacks.$"
+	.i18n 271
 
 gBattleDomeOpponentStyleText19::
-	.string "Skilled at using upsetting attacks.$"
+	.i18n 272
 
 gBattleDomeOpponentStyleText20::
-	.string "Uses many popular moves.$"
+	.i18n 273
 
 gBattleDomeOpponentStyleText21::
-	.string "Has moves for powerful combinations.$"
+	.i18n 274
 
 gBattleDomeOpponentStyleText22::
-	.string "Uses high-probability attacks.$"
+	.i18n 275
 
 gBattleDomeOpponentStyleText23::
-	.string "Aggressively uses spectacular moves.$"
+	.i18n 276
 
 gBattleDomeOpponentStyleText24::
-	.string "Emphasizes offense over defense.$"
+	.i18n 277
 
 gBattleDomeOpponentStyleText25::
-	.string "Emphasizes defense over offense.$"
+	.i18n 278
 
 gBattleDomeOpponentStyleText26::
-	.string "Attacks quickly with strong moves.$"
+	.i18n 279
 
 gBattleDomeOpponentStyleText27::
-	.string "Often uses moves with added effects.$"
+	.i18n 280
 
 gBattleDomeOpponentStyleText28::
-	.string "Uses a well-balanced mix of moves.$"
+	.i18n 281
 
 gBattleDomeOpponentStyleTextUnused1::
-	.string "This is sample message 1.$"
+	.i18n 282
 
 gBattleDomeOpponentStyleTextUnused2::
-	.string "This is sample message 2.$"
+	.i18n 283
 
 gBattleDomeOpponentStyleTextUnused3::
-	.string "This is sample message 3.$"
+	.i18n 284
 
 gBattleDomeOpponentStyleTextUnused4::
-	.string "This is sample message 4.$"
+	.i18n 285
 
 gBattleDomeOpponentStatsText1::
-	.string "Emphasizes HP and ATTACK.$"
+	.i18n 286
 
 gBattleDomeOpponentStatsText2::
-	.string "Emphasizes HP and DEFENSE.$"
+	.i18n 287
 
 gBattleDomeOpponentStatsText3::
-	.string "Emphasizes HP and SPEED.$"
+	.i18n 288
 
 gBattleDomeOpponentStatsText4::
-	.string "Emphasizes HP and SP. ATTACK.$"
+	.i18n 289
 
 gBattleDomeOpponentStatsText5::
-	.string "Emphasizes HP and SP. DEFENSE.$"
+	.i18n 290
 
 gBattleDomeOpponentStatsText6::
-	.string "Emphasizes ATTACK and DEFENSE.$"
+	.i18n 291
 
 gBattleDomeOpponentStatsText7::
-	.string "Emphasizes ATTACK and SPEED.$"
+	.i18n 292
 
 gBattleDomeOpponentStatsText8::
-	.string "Emphasizes ATTACK and SP. ATTACK.$"
+	.i18n 293
 
 gBattleDomeOpponentStatsText9::
-	.string "Emphasizes ATTACK and SP. DEFENSE.$"
+	.i18n 294
 
 gBattleDomeOpponentStatsText10::
-	.string "Emphasizes DEFENSE and SPEED.$"
+	.i18n 295
 
 gBattleDomeOpponentStatsText11::
-	.string "Emphasizes DEFENSE and SP. ATTACK.$"
+	.i18n 296
 
 gBattleDomeOpponentStatsText12::
-	.string "Emphasizes DEFENSE and SP. DEFENSE.$"
+	.i18n 297
 
 gBattleDomeOpponentStatsText13::
-	.string "Emphasizes SPEED and SP. ATTACK.$"
+	.i18n 298
 
 gBattleDomeOpponentStatsText14::
-	.string "Emphasizes SPEED and SP. DEFENSE.$"
+	.i18n 299
 
 gBattleDomeOpponentStatsText15::
-	.string "Emphasizes SP. ATTACK and SP. DEFENSE.$"
+	.i18n 300
 
 gBattleDomeOpponentStatsText16::
-	.string "Emphasizes HP.$"
+	.i18n 301
 
 gBattleDomeOpponentStatsText17::
-	.string "Emphasizes ATTACK.$"
+	.i18n 302
 
 gBattleDomeOpponentStatsText18::
-	.string "Emphasizes DEFENSE.$"
+	.i18n 303
 
 gBattleDomeOpponentStatsText19::
-	.string "Emphasizes SPEED.$"
+	.i18n 304
 
 gBattleDomeOpponentStatsText20::
-	.string "Emphasizes SP. ATTACK.$"
+	.i18n 305
 
 gBattleDomeOpponentStatsText21::
-	.string "Emphasizes SP. DEFENSE.$"
+	.i18n 306
 
 gBattleDomeOpponentStatsText22::
-	.string "Neglects HP and ATTACK.$"
+	.i18n 307
 
 gBattleDomeOpponentStatsText23::
-	.string "Neglects HP and DEFENSE.$"
+	.i18n 308
 
 gBattleDomeOpponentStatsText24::
-	.string "Neglects HP and SPEED.$"
+	.i18n 309
 
 gBattleDomeOpponentStatsText25::
-	.string "Neglects HP and SP. ATTACK.$"
+	.i18n 310
 
 gBattleDomeOpponentStatsText26::
-	.string "Neglects HP and SP. DEFENSE.$"
+	.i18n 311
 
 gBattleDomeOpponentStatsText27::
-	.string "Neglects ATTACK and DEFENSE.$"
+	.i18n 312
 
 gBattleDomeOpponentStatsText28::
-	.string "Neglects ATTACK and SPEED.$"
+	.i18n 313
 
 gBattleDomeOpponentStatsText29::
-	.string "Neglects ATTACK and SP. ATTACK.$"
+	.i18n 314
 
 gBattleDomeOpponentStatsText30::
-	.string "Neglects ATTACK and SP. DEFENSE.$"
+	.i18n 315
 
 gBattleDomeOpponentStatsText31::
-	.string "Neglects DEFENSE and SPEED.$"
+	.i18n 316
 
 gBattleDomeOpponentStatsText32::
-	.string "Neglects DEFENSE and SP. ATTACK.$"
+	.i18n 317
 
 gBattleDomeOpponentStatsText33::
-	.string "Neglects DEFENSE and SP. DEFENSE.$"
+	.i18n 318
 
 gBattleDomeOpponentStatsText34::
-	.string "Neglects SPEED and SP. ATTACK.$"
+	.i18n 319
 
 gBattleDomeOpponentStatsText35::
-	.string "Neglects SPEED and SP. DEFENSE.$"
+	.i18n 320
 
 gBattleDomeOpponentStatsText36::
-	.string "Neglects SP. ATTACK and SP. DEFENSE.$"
+	.i18n 321
 
 gBattleDomeOpponentStatsText37::
-	.string "Neglects HP.$"
+	.i18n 322
 
 gBattleDomeOpponentStatsText38::
-	.string "Neglects ATTACK.$"
+	.i18n 323
 
 gBattleDomeOpponentStatsText39::
-	.string "Neglects DEFENSE.$"
+	.i18n 324
 
 gBattleDomeOpponentStatsText40::
-	.string "Neglects SPEED.$"
+	.i18n 325
 
 gBattleDomeOpponentStatsText41::
-	.string "Neglects SP. ATTACK.$"
+	.i18n 326
 
 gBattleDomeOpponentStatsText42::
-	.string "Neglects SP. DEFENSE.$"
+	.i18n 327
 
 gBattleDomeOpponentStatsText43::
-	.string "Raises POKéMON in a well-balanced way.$"
+	.i18n 328
 
 gBattleDomeWinText1::
-	.string "Let the battle begin!$"
+	.i18n 329
 
 gBattleDomeWinText2::
-	.string "{STR_VAR_1} won using {STR_VAR_2}!$"
+	.i18n 330
 
 gBattleDomeWinText3::
-	.string "{STR_VAR_1} became the champ!$"
+	.i18n 331
 
 gBattleDomeWinText4::
-	.string "{STR_VAR_1} won by default!$"
+	.i18n 332
 
 gBattleDomeWinText5::
-	.string "{STR_VAR_1} won outright by default!$"
+	.i18n 333
 
 gBattleDomeWinText6::
-	.string "{STR_VAR_1} won without using a move!$"
+	.i18n 334
 
 gBattleDomeWinText7::
-	.string "{STR_VAR_1} won outright with no moves!$"
+	.i18n 335
 
 gBattleDomeMatchNumberText1::
-	.string "Round 1, Match 1$"
+	.i18n 336
 
 gBattleDomeMatchNumberText2::
-	.string "Round 1, Match 2$"
+	.i18n 337
 
 gBattleDomeMatchNumberText3::
-	.string "Round 1, Match 3$"
+	.i18n 338
 
 gBattleDomeMatchNumberText4::
-	.string "Round 1, Match 4$"
+	.i18n 339
 
 gBattleDomeMatchNumberText5::
-	.string "Round 1, Match 5$"
+	.i18n 340
 
 gBattleDomeMatchNumberText6::
-	.string "Round 1, Match 6$"
+	.i18n 341
 
 gBattleDomeMatchNumberText7::
-	.string "Round 1, Match 7$"
+	.i18n 342
 
 gBattleDomeMatchNumberText8::
-	.string "Round 1, Match 8$"
+	.i18n 343
 
 gBattleDomeMatchNumberText9::
-	.string "Round 2, Match 1$"
+	.i18n 344
 
 gBattleDomeMatchNumberText10::
-	.string "Round 2, Match 2$"
+	.i18n 345
 
 gBattleDomeMatchNumberText11::
-	.string "Round 2, Match 3$"
+	.i18n 346
 
 gBattleDomeMatchNumberText12::
-	.string "Round 2, Match 4$"
+	.i18n 347
 
 gBattleDomeMatchNumberText13::
-	.string "Semifinal Match 1$"
+	.i18n 348
 
 gBattleDomeMatchNumberText14::
-	.string "Semifinal Match 2$"
+	.i18n 349
 
 gBattleDomeMatchNumberText15::
-	.string "Final Match$"
+	.i18n 350
 
 BattleFrontier_BattlePikeRandomRoom1_MapScripts_2C3E1B: @ 82C3E1B
 	map_script MAP_SCRIPT_ON_TRANSITION, BattleFrontier_BattlePikeRandomRoom1_MapScript1_2C3E25
@@ -5792,819 +5653,401 @@ BattleFrontier_BattlePikeThreePathRoom_Movement_2C427A: @ 82C427A
 	step_end
 
 LilycoveCity_ContestLobby_Text_2C427C: @ 82C427C
-	.string "BLEND MASTER: Indeed I am!\n"
-	.string "The BLEND MASTER am I!\p"
-	.string "Blend with me, and you shall witness\n"
-	.string "the mastery I bring to blending!$"
+	.i18n 351
 
 LilycoveCity_ContestLobby_Text_2C42F4: @ 82C42F4
-	.string "BLEND MASTER: Hmmm! So, you wish to\n"
-	.string "see my mastery in action?$"
+	.i18n 352
 
 LilycoveCity_ContestLobby_Text_2C4332: @ 82C4332
-	.string "Hmmm!\p"
-	.string "So, you are too busy now, I see!\p"
-	.string "But fear not!\n"
-	.string "I shall be here all day!\l"
-	.string "Hurry back from your errand!$"
+	.i18n 353
 
 LilycoveCity_ContestLobby_Text_2C439D: @ 82C439D
-	.string "Hmmm!\p"
-	.string "You haven't got a single BERRY!\p"
-	.string "I shall be here all day!\n"
-	.string "Hurry back with some BERRIES!$"
+	.i18n 354
 
 LilycoveCity_ContestLobby_Text_2C43FA: @ 82C43FA
-	.string "Of course!\n"
-	.string "Of course!\p"
-	.string "Incidentally…\n"
-	.string "You do know how to blend {POKEBLOCK}S\l"
-	.string "from BERRIES?$"
+	.i18n 355
 
 LilycoveCity_ContestLobby_Text_2C444C: @ 82C444C
-	.string "Hmmm!\p"
-	.string "Ah, but it is a simple process!\p"
-	.string "When the BLENDER's arrow comes to\n"
-	.string "your marker, just press the A Button.\p"
-	.string "That's all you have to do.\p"
-	.string "When you see how precisely I press\n"
-	.string "the A Button, you will understand.$"
+	.i18n 356
 
 LilycoveCity_ContestLobby_Text_2C451B: @ 82C451B
-	.string "Fine!\p"
-	.string "Let's get started, then!\p"
-	.string "All together with the BLEND MASTER,\n"
-	.string "let's BERRY BLENDER!$"
+	.i18n 357
 
 LilycoveCity_ContestLobby_Text_2C4573: @ 82C4573
-	.string "Hmmm!\p"
-	.string "You don't appear to have gotten\n"
-	.string "the {POKEBLOCK} CASE!\p"
-	.string "I shall be here all day!\n"
-	.string "Obtain the {POKEBLOCK} CASE and hurry back!$"
+	.i18n 358
 
 LilycoveCity_ContestLobby_Text_2C45E8: @ 82C45E8
-	.string "Hmmm!\p"
-	.string "Your {POKEBLOCK} CASE appears to be full!\p"
-	.string "I shall be here all day!\n"
-	.string "Use some {POKEBLOCK}S and hurry back!$"
+	.i18n 359
 
 LilycoveCity_ContestLobby_Text_2C464B: @ 82C464B
-	.string "Whoa!\n"
-	.string "Awesome!$"
+	.i18n 360
 
 LilycoveCity_ContestLobby_Text_2C465A: @ 82C465A
-	.string "Wickedly fast!$"
+	.i18n 361
 
 LilycoveCity_ContestLobby_Text_2C4669: @ 82C4669
-	.string "What an expert!$"
+	.i18n 362
 
 LilycoveCity_ContestLobby_Text_2C4679: @ 82C4679
-	.string "When I blended with the MASTER,\n"
-	.string "we made amazing {POKEBLOCK}S!$"
+	.i18n 363
 
 LilycoveCity_ContestLobby_Text_2C46B1: @ 82C46B1
-	.string "Eyes that track the arrow with\n"
-	.string "machinelike intensity…\p"
-	.string "A hand that taps the A Button\n"
-	.string "with clockwork-like precision…\p"
-	.string "Possessing these qualities makes\n"
-	.string "the BLEND MASTER truly great.$"
+	.i18n 364
 
 LilycoveCity_ContestLobby_Text_2C4763: @ 82C4763
-	.string "The BLEND MASTER's supposed to work\n"
-	.string "on his skills deep in the mountains.\p"
-	.string "Sometimes, he comes to LILYCOVE\n"
-	.string "to blend BERRIES all day long.$"
+	.i18n 365
 
 FallarborTown_BattleTentLobby_Text_2C47EB: @ 82C47EB
-	.string "I welcome you to the BATTLE TENT\n"
-	.string "FALLARBOR SITE!\p"
-	.string "I am your guide to the Set KO Tourney!$"
+	.i18n 366
 
 FallarborTown_BattleTentLobby_Text_2C4843: @ 82C4843
-	.string "Now, do you wish to take the challenge\n"
-	.string "of a Set KO Tourney?$"
+	.i18n 367
 
 FallarborTown_BattleTentLobby_Text_2C487F: @ 82C487F
-	.string "We await your challenge on\n"
-	.string "another occasion!$"
+	.i18n 368
 
 FallarborTown_BattleTentLobby_Text_2C48AC: @ 82C48AC
-	.string "In the FALLARBOR BATTLE TENT,\n"
-	.string "we undertake the Set KO Tourney.\p"
-	.string "All participants enter with a team of\n"
-	.string "three POKéMON.\p"
-	.string "The three POKéMON must be lined up\n"
-	.string "in the order that they are to appear in.\p"
-	.string "During battle, the POKéMON will appear\n"
-	.string "one at a time in the preset order.\p"
-	.string "Once a POKéMON enters battle, it must\n"
-	.string "remain out until the match is decided.\p"
-	.string "If a match remains undecided in\n"
-	.string "three turns, it goes to judging.\p"
-	.string "If you wish to interrupt your challenge,\n"
-	.string "please save the game.\p"
-	.string "If you don't save, you will not be able\n"
-	.string "to continue with your challenge.\p"
-	.string "If you pull off the feat of beating\n"
-	.string "three TRAINERS in succession,\l"
-	.string "we will present you with a fine prize.$"
+	.i18n 369
 
 FallarborTown_BattleTentLobby_Text_2C4B35: @ 82C4B35
-	.string "Before showing you to the BATTLE\n"
-	.string "TENT, I must save. Is that okay?$"
+	.i18n 370
 
 FallarborTown_BattleTentLobby_Text_2C4B77: @ 82C4B77
-	.string "We offer two levels of challenge,\n"
-	.string "Level 50 and Open Level.\l"
-	.string "Which is your choice?$"
+	.i18n 371
 
 FallarborTown_BattleTentLobby_Text_2C4BC8: @ 82C4BC8
-	.string "Very well, now select your\n"
-	.string "three POKéMON, please.$"
+	.i18n 372
 
 FallarborTown_BattleTentLobby_Text_2C4BFA: @ 82C4BFA
-	.string "My dear challenger!\p"
-	.string "You do not have the three POKéMON\n"
-	.string "required for entry.\p"
-	.string "They also must not hold the same\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "When you have made your preparations,\n"
-	.string "please do return.$"
+	.i18n 373
 
 FallarborTown_BattleTentLobby_Text_2C4CC0: @ 82C4CC0
-	.string "My dear challenger!\p"
-	.string "You do not have the three POKéMON\n"
-	.string "required for entry.\p"
-	.string "To qualify, you must bring three\n"
-	.string "different kinds of POKéMON.\p"
-	.string "They also must not hold the same\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "When you have made your preparations,\n"
-	.string "please do return.$"
+	.i18n 374
 
 FallarborTown_BattleTentLobby_Text_2C4DC3: @ 82C4DC3
-	.string "I shall now guide you to\n"
-	.string "the BATTLE TENT.$"
+	.i18n 375
 
 FallarborTown_BattleTentLobby_Text_2C4DED: @ 82C4DED
-	.string "My dear challenger!\p"
-	.string "You did not save the game before\n"
-	.string "shutting down, did you?\p"
-	.string "It is unfortunate, but that has\n"
-	.string "resulted in your disqualification\l"
-	.string "from your challenge.\p"
-	.string "You may, of course, start with a fresh\n"
-	.string "challenge.$"
+	.i18n 376
 
 FallarborTown_BattleTentLobby_Text_2C4EC3: @ 82C4EC3
-	.string "How splendid! You have beaten\n"
-	.string "three TRAINERS in succession!$"
+	.i18n 377
 
 FallarborTown_BattleTentLobby_Text_2C4EFF: @ 82C4EFF
-	.string "Please wait while I save the game.$"
+	.i18n 378
 
 FallarborTown_BattleTentLobby_Text_2C4F22: @ 82C4F22
-	.string "In commemoration of your 3-win streak,\n"
-	.string "we present you with this prize.$"
+	.i18n 379
 
 FallarborTown_BattleTentLobby_Text_2C4F69: @ 82C4F69
-	.string "{PLAYER} received the prize\n"
-	.string "{STR_VAR_1}.$"
+	.i18n 380
 
 FallarborTown_BattleTentLobby_Text_2C4F83: @ 82C4F83
-	.string "Oh?\n"
-	.string "Your BAG seems to be full.\p"
-	.string "I urge you to clear space and\n"
-	.string "return for your prize.$"
+	.i18n 381
 
 FallarborTown_BattleTentLobby_Text_2C4FD7: @ 82C4FD7
-	.string "Thank you so much for participating!\p"
-	.string "Please wait while I save the game.$"
+	.i18n 382
 
 FallarborTown_BattleTentLobby_Text_2C501F: @ 82C501F
-	.string "We await your challenge on\n"
-	.string "another occasion!$"
+	.i18n 383
 
 FallarborTown_BattleTentLobby_Text_2C504C: @ 82C504C
-	.string "We have been looking forward to\n"
-	.string "your arrival.\p"
-	.string "Before I show you to the BATTLE TENT,\n"
-	.string "I must save the game. Please wait.$"
+	.i18n 384
 
 VerdanturfTown_BattleTentLobby_Text_2C50C3: @ 82C50C3
-	.string "I welcome you to the BATTLE TENT\n"
-	.string "VERDANTURF SITE!\p"
-	.string "Here, the TRAINER's trust toward\n"
-	.string "POKéMON is tested.$"
+	.i18n 385
 
 VerdanturfTown_BattleTentLobby_Text_2C5129: @ 82C5129
-	.string "Do you wish to take the VERDANTURF\n"
-	.string "BATTLE TENT challenge?$"
+	.i18n 386
 
 VerdanturfTown_BattleTentLobby_Text_2C5163: @ 82C5163
-	.string "In the VERDANTURF BATTLE TENT,\n"
-	.string "there is one crucial rule that must\l"
-	.string "be obeyed.\p"
-	.string "TRAINERS are permitted only to switch\n"
-	.string "their POKéMON in and out.\p"
-	.string "TRAINERS are otherwise forbidden to\n"
-	.string "command their POKéMON.\p"
-	.string "The POKéMON are to behave according\n"
-	.string "to their nature and battle on their own.\p"
-	.string "You must put your trust in your\n"
-	.string "POKéMON and watch over them.\p"
-	.string "If you achieve the honor of beating\n"
-	.string "three TRAINERS in succession,\l"
-	.string "we will present you with a prize.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, please save the game.\p"
-	.string "If you don't save before interrupting,\n"
-	.string "you will be disqualified.$"
+	.i18n 387
 
 VerdanturfTown_BattleTentLobby_Text_2C539A: @ 82C539A
-	.string "When you have fortified your heart\n"
-	.string "and POKéMON, you must return.$"
+	.i18n 388
 
 VerdanturfTown_BattleTentLobby_Text_2C53DB: @ 82C53DB
-	.string "There are two levels of difficulty,\n"
-	.string "Level 50 and Open Level.\l"
-	.string "Which is your choice of a challenge?$"
+	.i18n 389
 
 VerdanturfTown_BattleTentLobby_Text_2C543D: @ 82C543D
-	.string "Sigh…\p"
-	.string "You do not have the three POKéMON\n"
-	.string "required for the challenge.\p"
-	.string "To enter, you must provide three\n"
-	.string "different kinds of POKéMON.\p"
-	.string "They also must not be holding\n"
-	.string "the same kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "Come back when you have made\n"
-	.string "your preparations.$"
+	.i18n 390
 
 VerdanturfTown_BattleTentLobby_Text_2C5538: @ 82C5538
-	.string "Sigh…\p"
-	.string "You do not have the three POKéMON\n"
-	.string "required for the challenge.\p"
-	.string "To enter, you must provide three\n"
-	.string "different kinds of POKéMON.\p"
-	.string "They also must not be holding\n"
-	.string "the same kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "Come back when you have made\n"
-	.string "your preparations.$"
+	.i18n 391
 
 VerdanturfTown_BattleTentLobby_Text_2C5633: @ 82C5633
-	.string "Good. Now, you must select your\n"
-	.string "three POKéMON.$"
+	.i18n 392
 
 VerdanturfTown_BattleTentLobby_Text_2C5662: @ 82C5662
-	.string "I must save before I show you to\n"
-	.string "the BATTLE TENT. Is that okay?$"
+	.i18n 393
 
 VerdanturfTown_BattleTentLobby_Text_2C56A2: @ 82C56A2
-	.string "Good.\n"
-	.string "Now, follow me.$"
+	.i18n 394
 
 VerdanturfTown_BattleTentLobby_Text_2C56B8: @ 82C56B8
-	.string "I feel privileged for having seen\n"
-	.string "your POKéMON's exploits.\p"
-	.string "The results will be recorded.\n"
-	.string "I must ask you to briefly wait.$"
+	.i18n 395
 
 VerdanturfTown_BattleTentLobby_Text_2C5731: @ 82C5731
-	.string "To achieve a 3-win streak…\p"
-	.string "The bonds that bind your heart with\n"
-	.string "your POKéMON seem firm and true.$"
+	.i18n 396
 
 VerdanturfTown_BattleTentLobby_Text_2C5791: @ 82C5791
-	.string "Your feat will be recorded.\n"
-	.string "I must ask you to briefly wait.$"
+	.i18n 397
 
 VerdanturfTown_BattleTentLobby_Text_2C57CD: @ 82C57CD
-	.string "For the feat of your 3-win streak,\n"
-	.string "we present you with this prize.$"
+	.i18n 398
 
 SlateportCity_BattleTentLobby_Text_2C5810: @ 82C5810
-	.string "Welcome to the BATTLE TENT\n"
-	.string "SLATEPORT SITE!\p"
-	.string "I am your guide to the Battle Swap\n"
-	.string "Tournament.$"
+	.i18n 399
 
 SlateportCity_BattleTentLobby_Text_2C586A: @ 82C586A
-	.string "Would you like to take the Battle\n"
-	.string "Swap challenge?$"
+	.i18n 400
 
 SlateportCity_BattleTentLobby_Text_2C589C: @ 82C589C
-	.string "Here at the SLATEPORT BATTLE TENT,\n"
-	.string "we hold Battle Swap events\l"
-	.string "using rental POKéMON.\p"
-	.string "First, you will be loaned three\n"
-	.string "POKéMON specifically for this event.\p"
-	.string "Using the supplied rental POKéMON,\n"
-	.string "you must conduct a SINGLE BATTLE.\p"
-	.string "If you win, you are permitted to trade\n"
-	.string "one of your rental POKéMON.\p"
-	.string "Repeat this cycle of battling and\n"
-	.string "trading--if you win three times in\l"
-	.string "a row, you will earn a fine prize.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, please save the game.\p"
-	.string "If you don't save before interrupting,\n"
-	.string "you will be disqualified.$"
+	.i18n 401
 
 SlateportCity_BattleTentLobby_Text_2C5AA5: @ 82C5AA5
-	.string "We look forward to your next visit.$"
+	.i18n 402
 
 SlateportCity_BattleTentLobby_Text_2C5AC9: @ 82C5AC9
-	.string "Which level do you wish to challenge?\n"
-	.string "Level 50 or Level 100?$"
+	.i18n 403
 
 SlateportCity_BattleTentLobby_Text_2C5B06: @ 82C5B06
-	.string "Before you begin your challenge,\n"
-	.string "I need to save data. Is that okay?$"
+	.i18n 404
 
 SlateportCity_BattleTentLobby_Text_2C5B4A: @ 82C5B4A
-	.string "Okay, I will hold your POKéMON for\n"
-	.string "safekeeping while you compete.$"
+	.i18n 405
 
 SlateportCity_BattleTentLobby_Text_2C5B8C: @ 82C5B8C
-	.string "Please step this way.$"
+	.i18n 406
 
 SlateportCity_BattleTentLobby_Text_2C5BA2: @ 82C5BA2
-	.string "Thank you for participating!\p"
-	.string "I will return your POKéMON in exchange\n"
-	.string "for our rental POKéMON.\p"
-	.string "I must also save your event results.\n"
-	.string "Please wait.$"
+	.i18n 407
 
 SlateportCity_BattleTentLobby_Text_2C5C30: @ 82C5C30
-	.string "I will return your POKéMON in exchange\n"
-	.string "for our rental POKéMON.$"
+	.i18n 408
 
 SlateportCity_BattleTentLobby_Text_2C5C6F: @ 82C5C6F
-	.string "Congratulations!\n"
-	.string "You've won three straight matches!\p"
-	.string "I will return your POKéMON in exchange\n"
-	.string "for our rental POKéMON.\p"
-	.string "I must also save your event results.\n"
-	.string "Please wait.$"
+	.i18n 409
 
 SlateportCity_BattleTentLobby_Text_2C5D14: @ 82C5D14
-	.string "In recognition of your 3-win streak,\n"
-	.string "we award you this prize.$"
+	.i18n 410
 
 SlateportCity_BattleTentLobby_Text_2C5D52: @ 82C5D52
-	.string "Oh?\n"
-	.string "You seem to have no room for this.\p"
-	.string "Please make room in your BAG and\n"
-	.string "let me know.$"
+	.i18n 411
 
 SlateportCity_BattleTentLobby_Text_2C5DA7: @ 82C5DA7
-	.string "We've been waiting for you!\p"
-	.string "Before we resume your challenge,\n"
-	.string "I must save the game.$"
+	.i18n 412
 
 SlateportCity_BattleTentLobby_Text_2C5DFA: @ 82C5DFA
-	.string "I'm sorry to say this, but you didn't\n"
-	.string "save before you quit playing last time.\p"
-	.string "As a result, you have been disqualified\n"
-	.string "from your challenge.$"
+	.i18n 413
 
 SlateportCity_BattleTentLobby_Text_2C5E85: @ 82C5E85
-	.string "We'll return your personal POKéMON.$"
+	.i18n 414
 
 SlateportCity_BattleTentLobby_Text_2C5EA9: @ 82C5EA9
-	.string "{PLAYER} received the prize\n"
-	.string "{STR_VAR_1}.$"
+	.i18n 415
 
 SlateportCity_BattleTentLobby_Text_2C5EC3: @ 82C5EC3
-	.string "The Battle Swap rules are listed.$"
+	.i18n 416
 
 SlateportCity_BattleTentLobby_Text_2C5EE5: @ 82C5EE5
-	.string "Which heading do you want to read?$"
+	.i18n 417
 
 SlateportCity_BattleTentLobby_Text_2C5F08: @ 82C5F08
-	.string "In a Battle Swap event, you may use\n"
-	.string "only three POKéMON.\p"
-	.string "Whether you are renting or swapping,\n"
-	.string "your team may not have two or more\l"
-	.string "of the same POKéMON.$"
+	.i18n 418
 
 SlateportCity_BattleTentLobby_Text_2C5F9D: @ 82C5F9D
-	.string "You may swap POKéMON only with\n"
-	.string "the TRAINER you have just defeated.\p"
-	.string "You may swap for only those POKéMON\n"
-	.string "used by the beaten TRAINER.$"
+	.i18n 419
 
 SlateportCity_BattleTentLobby_Text_2C6020: @ 82C6020
-	.string "After every battle you win, you may\n"
-	.string "swap for one of your defeated\l"
-	.string "opponent's POKéMON.\p"
-	.string "You will not be able to swap POKéMON\n"
-	.string "with the third TRAINER in the event.$"
+	.i18n 420
 
 SlateportCity_BattleTentLobby_Text_2C60C0: @ 82C60C0
-	.string "There are two key points to be aware\n"
-	.string "of when swapping POKéMON.\p"
-	.string "First, when swapping, you can't check\n"
-	.string "the stats of the POKéMON you are\l"
-	.string "about to receive.\p"
-	.string "Second, the POKéMON on your team\n"
-	.string "are lined up in sequence, depending on\l"
-	.string "the order in which you rented them.\p"
-	.string "This sequence remains unchanged\n"
-	.string "even when swaps are made.$"
+	.i18n 421
 
 SlateportCity_BattleTentLobby_Text_2C61FE: @ 82C61FE
-	.string "The POKéMON of the SLATEPORT\n"
-	.string "BATTLE TENT are all rentals.\p"
-	.string "All rental POKéMON are kept at\n"
-	.string "Level 30.$"
+	.i18n 422
 
 VerdanturfTown_BattleTentLobby_Text_2C6261: @ 82C6261
-	.string "The VERDANTURF BATTLE TENT\n"
-	.string "rules are listed.$"
+	.i18n 423
 
 VerdanturfTown_BattleTentLobby_Text_2C628E: @ 82C628E
-	.string "Which heading do you want to read?$"
+	.i18n 424
 
 VerdanturfTown_BattleTentLobby_Text_2C62B1: @ 82C62B1
-	.string "Here at the VERDANTURF BATTLE TENT,\n"
-	.string "POKéMON are required to think and\l"
-	.string "battle by themselves.\p"
-	.string "Unlike in the wild, POKéMON that live\n"
-	.string "with people behave differently\l"
-	.string "depending on their nature.$"
+	.i18n 425
 
 VerdanturfTown_BattleTentLobby_Text_2C636D: @ 82C636D
-	.string "Depending on its nature, a POKéMON\n"
-	.string "may prefer to attack no matter what.\p"
-	.string "Another POKéMON may prefer to protect\n"
-	.string "itself from any harm.\p"
-	.string "Yet another may enjoy vexing or\n"
-	.string "confounding its foes.\p"
-	.string "Depending on its nature, a POKéMON\n"
-	.string "will have favorite moves that it is good\l"
-	.string "at using.\p"
-	.string "It may also dislike certain moves that\n"
-	.string "it has trouble using.$"
+	.i18n 426
 
 VerdanturfTown_BattleTentLobby_Text_2C64BA: @ 82C64BA
-	.string "There are offensive moves that inflict\n"
-	.string "direct damage on the foe.\p"
-	.string "There are defensive moves that are\n"
-	.string "used to prepare for enemy attacks or\l"
-	.string "used to heal HP and so on.\p"
-	.string "There are also other somewhat-odd\n"
-	.string "moves that may enfeeble the foes with\l"
-	.string "stat problems including poison and \l"
-	.string "paralysis.\p"
-	.string "POKéMON will consider using moves in\n"
-	.string "these three categories.$"
+	.i18n 427
 
 VerdanturfTown_BattleTentLobby_Text_2C6612: @ 82C6612
-	.string "When not under command by its TRAINER,\n"
-	.string "a POKéMON may be unable to effectively\l"
-	.string "use certain moves.\p"
-	.string "A POKéMON is not good at using any\n"
-	.string "move that it dislikes.\p"
-	.string "If a POKéMON only knows moves that\n"
-	.string "do not match its nature, it will often\l"
-	.string "be unable to live up to its potential.$"
+	.i18n 428
 
 VerdanturfTown_BattleTentLobby_Text_2C671E: @ 82C671E
-	.string "Depending on its nature, a POKéMON may\n"
-	.string "start using moves that don't match its\l"
-	.string "nature when it is in trouble.\p"
-	.string "If a POKéMON begins behaving oddly\n"
-	.string "in a pinch, watch it carefully.$"
+	.i18n 429
 
 FallarborTown_BattleTentLobby_Text_2C67CD: @ 82C67CD
 VerdanturfTown_BattleTentLobby_Text_2C67CD: @ 82C67CD
-	.string "At this BATTLE TENT, the levels of\n"
-	.string "your opponents will be adjusted to\l"
-	.string "match the levels of your POKéMON.\p"
-	.string "However, no TRAINER you face will\n"
-	.string "have any POKéMON below Level 30.$"
+	.i18n 430
 
 VerdanturfTown_BattleTentLobby_Text_2C6878: @ 82C6878
-	.string "The VERDANTURF BATTLE TENT\n"
-	.string "rules are listed.$"
+	.i18n 431
 
 LilycoveCity_Harbor_Text_2C68A5: @ 82C68A5
-	.string "What's up, youngster?\p"
-	.string "What, it's you who's supposed to have\n"
-	.string "a tattered old map?\p"
-	.string "Let's have a look.\n"
-	.string "… … … … … …\p"
-	.string "Boy, this is quite a ways away.\n"
-	.string "I'm afraid I can't help you…$"
+	.i18n 432
 
 LilycoveCity_Harbor_Text_2C6951: @ 82C6951
-	.string "BRINEY: Hold on a second!\p"
-	.string "What's the idea of turning down\n"
-	.string "someone that I owe so much to?$"
+	.i18n 433
 
 LilycoveCity_Harbor_Text_2C69AA: @ 82C69AA
-	.string "{PLAYER}{KUN}, I'm terribly sorry.\p"
-	.string "You came to me seeking my help,\n"
-	.string "and we almost turned you away.\p"
-	.string "Well, let me make things right.\p"
-	.string "We'll sail right away, of course!\p"
-	.string "Let's find this island on\n"
-	.string "this OLD SEA MAP!$"
+	.i18n 434
 
 LilycoveCity_Harbor_Text_2C6A71: @ 82C6A71
-	.string "Is it you who brought that odd\n"
-	.string "ticket?\p"
-	.string "Where you're trying to go is an island\n"
-	.string "that's far, far away.\p"
-	.string "No one knows what awaits there…\p"
-	.string "The very thought excites my blood\n"
-	.string "as a sailing man!\p"
-	.string "Get on board, youngster!$"
+	.i18n 435
 
 FarawayIsland_Entrance_Text_2C6B42: @ 82C6B42
-	.string "CAPT. BRINEY can be so maddeningly\n"
-	.string "fickle…\p"
-	.string "Do you want to return to LILYCOVE?$"
+	.i18n 436
 
 BirthIsland_Harbor_Text_2C6B90: @ 82C6B90
-	.string "What an oddly shaped island, eh?\n"
-	.string "Do you want to return to LILYCOVE?$"
+	.i18n 437
 
 LilycoveCity_Harbor_Text_2C6BD4: @ 82C6BD4
-	.string "Is it you who brought those\n"
-	.string "odd tickets?\p"
-	.string "… … …Hm.\p"
-	.string "These tickets will get you to islands\n"
-	.string "that are far, far away.\p"
-	.string "No one knows what awaits there,\n"
-	.string "or what may happen there.\p"
-	.string "The very thought excites my blood\n"
-	.string "as a sailing man!\p"
-	.string "Get on board, youngster!\n"
-	.string "Where shall we sail first?$"
+	.i18n 438
 
 NavelRock_Harbor_Text_2C6CE6: @ 82C6CE6
-	.string "Did… Did you hear that?\n"
-	.string "That low growling from deep in there.\p"
-	.string "Are you sure it's safe?\n"
-	.string "Do you think we should leave?$"
+	.i18n 439
 
 FarawayIsland_Entrance_Text_2C6D5A: @ 82C6D5A
-	.string "The writing is fading as if it was\n"
-	.string "written a long time ago…\p"
-	.string "“…ber, 6th day\n"
-	.string "If any human…sets foot here…\l"
-	.string "again…et it be a kindhearted pers…\l"
-	.string "…ith that hope, I depar…”$"
+	.i18n 440
 
 FarawayIsland_Interior_Text_2C6DFF: @ 82C6DFF
-	.string "Myuu…$"
+	.i18n 441
 
 MauvilleCity_Text_2C6E05: @ 82C6E05
-	.string "This move can be learned only\n"
-	.string "once. Is that okay?$"
+	.i18n 442
 
 SlateportCity_PokemonFanClub_Text_2C6E37: @ 82C6E37
-	.string "Heh! My POKéMON totally rules!\n"
-	.string "It's cooler than any POKéMON!\p"
-	.string "I was lipping off with a swagger in\n"
-	.string "my step like that when the CHAIRMAN\l"
-	.string "chewed me out.\p"
-	.string "That took the swagger out of my step.\p"
-	.string "If you'd like, I'll teach the move\n"
-	.string "SWAGGER to a POKéMON of yours.$"
+	.i18n 443
 
 SlateportCity_PokemonFanClub_Text_2C6F33: @ 82C6F33
-	.string "What, no? Can't you get into\n"
-	.string "the spirit of things?$"
+	.i18n 444
 
 SlateportCity_PokemonFanClub_Text_2C6F66: @ 82C6F66
-	.string "All right, which POKéMON wants to\n"
-	.string "learn how to SWAGGER?$"
+	.i18n 445
 
 SlateportCity_PokemonFanClub_Text_2C6F9E: @ 82C6F9E
-	.string "I'll just praise my POKéMON from now\n"
-	.string "on without the swagger.$"
+	.i18n 446
 
 MauvilleCity_Text_2C6FDB: @ 82C6FDB
-	.string "Did you know that you can go from\n"
-	.string "here a long way in that direction\l"
-	.string "without changing direction?\p"
-	.string "I might even be able to roll\n"
-	.string "that way.\p"
-	.string "Do you think your POKéMON will\n"
-	.string "want to roll, too?\p"
-	.string "I can teach one the move ROLLOUT\n"
-	.string "if you'd like.$"
+	.i18n 447
 
 MauvilleCity_Text_2C70C4: @ 82C70C4
-	.string "You don't need to be shy about it.\n"
-	.string "Let's roll!$"
+	.i18n 448
 
 MauvilleCity_Text_2C70F3: @ 82C70F3
-	.string "Ehehe, sure thing! It'd be great if\n"
-	.string "the POKéMON looked like me.$"
+	.i18n 449
 
 MauvilleCity_Text_2C7133: @ 82C7133
-	.string "Rolling around in the grass makes me\n"
-	.string "happy. Come on, let's roll!$"
+	.i18n 450
 
 VerdanturfTown_PokemonCenter_1F_Text_2C7174: @ 82C7174
-	.string "There's a move that gets stronger\n"
-	.string "when you keep using it in a row.\p"
-	.string "It's a BUG-type move, and it is\n"
-	.string "wickedly cool.\p"
-	.string "It's called FURY CUTTER.\n"
-	.string "Want me to teach it to a POKéMON?$"
+	.i18n 451
 
 VerdanturfTown_PokemonCenter_1F_Text_2C7221: @ 82C7221
-	.string "We're not on the same wavelength.$"
+	.i18n 452
 
 VerdanturfTown_PokemonCenter_1F_Text_2C7243: @ 82C7243
-	.string "Yay!\n"
-	.string "Show me which POKéMON I should teach.$"
+	.i18n 453
 
 VerdanturfTown_PokemonCenter_1F_Text_2C726E: @ 82C726E
-	.string "I get a thrill watching to see if\n"
-	.string "the move keeps hitting in succession!$"
+	.i18n 454
 
 LavaridgeTown_House_Text_2C72B6: @ 82C72B6
-	.string "Ah, young one!\p"
-	.string "I am also a young one, but I mimic\n"
-	.string "the styles and speech of the elderly\l"
-	.string "folks of this town.\p"
-	.string "What do you say, young one?\n"
-	.string "Would you agree to it if I were to\l"
-	.string "offer to teach the move MIMIC?$"
+	.i18n 455
 
 LavaridgeTown_House_Text_2C737F: @ 82C737F
-	.string "Oh, boo! I wanted to teach MIMIC\n"
-	.string "to your POKéMON!$"
+	.i18n 456
 
 LavaridgeTown_House_Text_2C73B1: @ 82C73B1
-	.string "Fwofwo! And so I shall!\n"
-	.string "Let me see the POKéMON\l"
-	.string "you wish me to teach.$"
+	.i18n 457
 
 LavaridgeTown_House_Text_2C73F6: @ 82C73F6
-	.string "MIMIC is a move of great depth.\p"
-	.string "Could you execute it to perfection\n"
-	.string "as well as me…?$"
+	.i18n 458
 
 FallarborTown_Mart_Text_2C7449: @ 82C7449
-	.string "I want all sorts of things!\n"
-	.string "But I used up my allowance…\p"
-	.string "Wouldn't it be nice if there were\n"
-	.string "a spell that made money appear when\l"
-	.string "you waggle a finger?\p"
-	.string "If you want, I can teach your POKéMON\n"
-	.string "the move METRONOME.\p"
-	.string "Money won't appear, but your POKéMON\n"
-	.string "will waggle a finger. Yes?$"
+	.i18n 459
 
 FallarborTown_Mart_Text_2C7556: @ 82C7556
-	.string "Okay. I'll be here if you change\n"
-	.string "your mind.$"
+	.i18n 460
 
 FallarborTown_Mart_Text_2C7582: @ 82C7582
-	.string "Okay! I'll teach it!\n"
-	.string "Which POKéMON should I teach?$"
+	.i18n 461
 
 FallarborTown_Mart_Text_2C75B5: @ 82C75B5
-	.string "When a POKéMON waggles its finger\n"
-	.string "like a METRONOME, all sorts of nice\l"
-	.string "things happen.\p"
-	.string "Wouldn't it be nice if we could\n"
-	.string "use it, too?$"
+	.i18n 462
 
 FortreeCity_House2_Text_2C7637: @ 82C7637
-	.string "Humph! My wife relies on HIDDEN\n"
-	.string "POWER to stay awake.\p"
-	.string "She should just take a nap like I do,\n"
-	.string "and SLEEP TALK.\p"
-	.string "I can teach your POKéMON how to\n"
-	.string "SLEEP TALK instead. Interested?$"
+	.i18n 463
 
 FortreeCity_House2_Text_2C76E2: @ 82C76E2
-	.string "Oh, fine, fine. You want to stay awake\n"
-	.string "with HIDDEN POWER, too…$"
+	.i18n 464
 
 FortreeCity_House2_Text_2C7721: @ 82C7721
-	.string "Ah, an appreciative child!\n"
-	.string "Which POKéMON should I teach?$"
+	.i18n 465
 
 FortreeCity_House2_Text_2C775A: @ 82C775A
-	.string "I've never once gotten my wife's\n"
-	.string "coin trick right.\p"
-	.string "I would be happy if I got it right\n"
-	.string "even as I SLEEP TALK…$"
+	.i18n 466
 
 LilycoveCity_DepartmentStoreRooftop_Text_2C77C6: @ 82C77C6
-	.string "When I see the wide world from up\n"
-	.string "here on the roof…\p"
-	.string "I think about how nice it would be\n"
-	.string "if there were more than just one me\l"
-	.string "so I could enjoy all sorts of lives.\p"
-	.string "Of course it's not possible.\n"
-	.string "Giggle…\p"
-	.string "I know! Would you be interested in\n"
-	.string "having a POKéMON learn SUBSTITUTE?$"
+	.i18n 467
 
 LilycoveCity_DepartmentStoreRooftop_Text_2C78D1: @ 82C78D1
-	.string "Oh, no?\p"
-	.string "A POKéMON can make a copy of\n"
-	.string "itself using it, you know.$"
+	.i18n 468
 
 LilycoveCity_DepartmentStoreRooftop_Text_2C7911: @ 82C7911
-	.string "Giggle…\n"
-	.string "Which POKéMON do you want me to\l"
-	.string "teach SUBSTITUTE?$"
+	.i18n 469
 
 LilycoveCity_DepartmentStoreRooftop_Text_2C794B: @ 82C794B
-	.string "We human beings should enjoy our\n"
-	.string "own lives to the utmost!\p"
-	.string "I hope you'll get that way, too!$"
+	.i18n 470
 
 MossdeepCity_Text_2C79A6: @ 82C79A6
-	.string "I can't do this anymore!\p"
-	.string "It's utterly hopeless!\p"
-	.string "I'm a FIGHTING-type TRAINER,\n"
-	.string "so I can't win at the MOSSDEEP GYM\l"
-	.string "no matter how hard I try!\p"
-	.string "Argh! Punch! Punch! Punch!\n"
-	.string "Punch! Punch! Punch!\p"
-	.string "What, don't look at me that way!\n"
-	.string "I'm only hitting the ground!\p"
-	.string "Or do you want me to teach your\n"
-	.string "POKéMON DYNAMICPUNCH?$"
+	.i18n 471
 
 MossdeepCity_Text_2C7AD4: @ 82C7AD4
-	.string "Darn! You're even making fun of me?\n"
-	.string "Punch! Punch! Punch!$"
+	.i18n 472
 
 MossdeepCity_Text_2C7B0D: @ 82C7B0D
-	.string "What? You do? You're a good person!\n"
-	.string "Which POKéMON should I teach?$"
+	.i18n 473
 
 MossdeepCity_Text_2C7B4F: @ 82C7B4F
-	.string "I want you to win at the MOSSDEEP GYM\n"
-	.string "using that DYNAMICPUNCH!$"
+	.i18n 474
 
 SootopolisCity_PokemonCenter_1F_Text_2C7B8E: @ 82C7B8E
-	.string "Sigh…\p"
-	.string "SOOTOPOLIS's GYM LEADER is really\n"
-	.string "lovably admirable.\p"
-	.string "But that also means I have many\n"
-	.string "rivals for his attention.\p"
-	.string "He's got appeal with a DOUBLE-EDGE.\n"
-	.string "I couldn't even catch his eye.\p"
-	.string "Please, let me teach your POKéMON\n"
-	.string "the move DOUBLE-EDGE!$"
+	.i18n 475
 
 SootopolisCity_PokemonCenter_1F_Text_2C7C7E: @ 82C7C7E
-	.string "Oh…\n"
-	.string "Even you rejected me…$"
+	.i18n 476
 
 SootopolisCity_PokemonCenter_1F_Text_2C7C98: @ 82C7C98
-	.string "Okay, which POKéMON should I teach\n"
-	.string "DOUBLE-EDGE?$"
+	.i18n 477
 
 SootopolisCity_PokemonCenter_1F_Text_2C7CC8: @ 82C7CC8
-	.string "I won't live for love anymore!\n"
-	.string "I'll become tough!$"
+	.i18n 478
 
 PacifidlogTown_PokemonCenter_1F_Text_2C7CFA: @ 82C7CFA
-	.string "I don't intend to be going nowhere\n"
-	.string "fast in the sticks like this forever.\p"
-	.string "You watch me, I'll get out to the city\n"
-	.string "and become a huge hit.\p"
-	.string "Seriously, I'm going to cause\n"
-	.string "a huge EXPLOSION of popularity!\p"
-	.string "If you overheard that, I'll happily\n"
-	.string "teach EXPLOSION to your POKéMON!$"
+	.i18n 479
 
 PacifidlogTown_PokemonCenter_1F_Text_2C7E04: @ 82C7E04
-	.string "Gaah! You're turning me down because\n"
-	.string "I live in the country?$"
+	.i18n 480
 
 PacifidlogTown_PokemonCenter_1F_Text_2C7E40: @ 82C7E40
-	.string "Fine! An EXPLOSION it is!\n"
-	.string "Which POKéMON wants to blow up?$"
+	.i18n 481
 
 PacifidlogTown_PokemonCenter_1F_Text_2C7E7A: @ 82C7E7A
-	.string "For a long time, I've taught POKéMON\n"
-	.string "how to use EXPLOSION, but I've yet\l"
-	.string "to ignite my own EXPLOSION…\p"
-	.string "Maybe it's because deep down,\n"
-	.string "I would rather stay here…$"
+	.i18n 482
 
 SlateportCity_PokemonFanClub_EventScript_2C7F16:: @ 82C7F16
 	lock
@@ -7003,114 +6446,95 @@ EventScript_2C83F0:: @ 82C83F0
 	end
 
 Text_ThisIsATestSignpostMsg:: @ 82C840A
-	.string "This is a test message.\n"
-	.string "This is a signpost.$"
+	.i18n 483
 
 EventScript_TestSignpostMsg:: @ 82C8436
 	msgbox Text_ThisIsATestSignpostMsg, MSGBOX_SIGN
 	end
 
 gText_082C843F:: @ 82C843F
-	.string "It's very disappointing…$"
+	.i18n 484
 
 gText_082C8458:: @ 82C8458
-	.string "Okay, I understand…$"
+	.i18n 485
 
 gText_082C846C:: @ 82C846C
-	.string "I'm terribly sorry…$"
+	.i18n 486
 
 gText_082C8480:: @ 82C8480
-	.string "Thank you…$"
+	.i18n 487
 
 gText_082C848B:: @ 82C848B
-	.string "Ahahaha! Aren't you embarrassed?\n"
-	.string "Everyone's watching!$"
+	.i18n 488
 
 gText_082C84C1:: @ 82C84C1
-	.string "Grr…\n"
-	.string "What the…$"
+	.i18n 489
 
 gText_082C84D0:: @ 82C84D0
-	.string "My DOME ACE title isn't just for show!$"
+	.i18n 490
 
 gText_082C84F7:: @ 82C84F7
-	.string "Ahahaha!\n"
-	.string "You're inspiring!$"
+	.i18n 491
 
 gText_082C8512:: @ 82C8512
-	.string "Way to work!\n"
-	.string "That was a good lesson, eh?$"
+	.i18n 492
 
 gText_082C853B:: @ 82C853B
-	.string "Good job!\n"
-	.string "You know what you're doing!$"
+	.i18n 493
 
 gText_082C8561:: @ 82C8561
-	.string "Hey, hey, hey!\n"
-	.string "You're finished already?$"
+	.i18n 494
 
 gText_082C8589:: @ 82C8589
-	.string "What happened here?$"
+	.i18n 495
 
 gText_082C859D:: @ 82C859D
-	.string "Humph…$"
+	.i18n 496
 
 gText_082C85A4:: @ 82C85A4
-	.string "Urk…$"
+	.i18n 497
 
 gText_082C85A9:: @ 82C85A9
-	.string "Hah!$"
+	.i18n 498
 
 gText_082C85AE:: @ 82C85AE
-	.string "Darn!$"
+	.i18n 499
 
 gText_082C85B4:: @ 82C85B4
-	.string "Oh, come on!\n"
-	.string "You have to try harder than that!$"
+	.i18n 500
 
 gText_082C85E3:: @ 82C85E3
-	.string "No way!\n"
-	.string "Good job!$"
+	.i18n 501
 
 gText_082C85F5:: @ 82C85F5
-	.string "Heheh!\n"
-	.string "What did you expect?$"
+	.i18n 502
 
 gText_082C8611:: @ 82C8611
-	.string "Huh?\n"
-	.string "Are you serious?!$"
+	.i18n 503
 
 gText_082C8628:: @ 82C8628
-	.string "Your POKéMON are wimpy because\n"
-	.string "you're wimpy as a TRAINER!$"
+	.i18n 504
 
 gText_082C8662:: @ 82C8662
-	.string "Ah…\n"
-	.string "Now this is something else…$"
+	.i18n 505
 
 gText_082C8682:: @ 82C8682
-	.string "Gwahahaha!\n"
-	.string "My brethren, we have nothing to fear!$"
+	.i18n 506
 
 gText_082C86B3:: @ 82C86B3
-	.string "Gwah!\n"
-	.string "Hahahaha!$"
+	.i18n 507
 
 gText_082C86C3:: @ 82C86C3
-	.string "Hey! What's wrong with you!\n"
-	.string "Let's see some effort! Get up!$"
+	.i18n 508
 
 gText_082C86FE:: @ 82C86FE
-	.string "That's it! You've done great!\n"
-	.string "You've worked hard for this!$"
+	.i18n 509
 
 gText_082C8739:: @ 82C8739
-	.string "Hey! Don't you give up now!\n"
-	.string "Get up! Don't lose faith in yourself!$"
+	.i18n 510
 
 gText_082C877B:: @ 82C877B
-	.string "That's it! You've done it!\n"
-	.string "You kept working for this!$"
+	.i18n 511
 
 	.align 2
 	.include "data/text/save.inc"
